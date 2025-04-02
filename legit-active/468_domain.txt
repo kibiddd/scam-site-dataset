@@ -1,0 +1,19 @@
+   Domain Name: LOOKBOOKS.COM
+   Registry Domain ID: 109568515_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-12-09T17:01:29Z
+   Creation Date: 2004-01-08T19:45:32Z
+   Registry Expiry Date: 2026-01-08T19:45:32Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1263.AWSDNS-29.ORG
+   Name Server: NS-1931.AWSDNS-49.CO.UK
+   Name Server: NS-450.AWSDNS-56.COM
+   Name Server: NS-803.AWSDNS-36.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:11:46Z 

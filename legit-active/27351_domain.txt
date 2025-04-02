@@ -1,0 +1,17 @@
+   Domain Name: ROBINSNESTRHYTHMANDBLUES.COM
+   Registry Domain ID: 2741630787_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namebright.com
+   Registrar URL: http://www.NameBright.com
+   Updated Date: 2024-11-16T12:16:10Z
+   Creation Date: 2022-11-29T19:26:43Z
+   Registry Expiry Date: 2025-11-29T19:26:43Z
+   Registrar: DropCatch.com 623 LLC
+   Registrar IANA ID: 2103
+   Registrar Abuse Contact Email: support@namebright.com
+   Registrar Abuse Contact Phone: 17204960020
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: ETIENNE.NS.CLOUDFLARE.COM
+   Name Server: SELAH.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T01:06:40Z 

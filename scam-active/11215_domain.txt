@@ -1,0 +1,17 @@
+   Domain Name: NYSELLS.COM
+   Registry Domain ID: 2861561021_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domain.com
+   Registrar URL: http://www.domain.com
+   Updated Date: 2025-03-10T11:16:48Z
+   Creation Date: 2024-03-07T06:06:08Z
+   Registry Expiry Date: 2026-03-07T06:06:08Z
+   Registrar: Domain.com, LLC
+   Registrar IANA ID: 886
+   Registrar Abuse Contact Email: compliance@domain-inc.net
+   Registrar Abuse Contact Phone: 602-226-2389
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.DOMAINCOM-EXPIRED.DOMAINPARKINGSERVER.NET
+   Name Server: NS2.DOMAINCOM-EXPIRED.DOMAINPARKINGSERVER.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:48:07Z 

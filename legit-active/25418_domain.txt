@@ -1,0 +1,17 @@
+   Domain Name: VANCOUVERISLANDACCOMMODATIONS.COM
+   Registry Domain ID: 25032672_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2025-03-17T09:40:23Z
+   Creation Date: 2000-04-16T13:20:59Z
+   Registry Expiry Date: 2026-04-16T13:20:59Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.EHCANADATRAVEL.COM
+   Name Server: NS2.EHCANADATRAVEL.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T00:01:20Z 

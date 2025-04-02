@@ -1,0 +1,70 @@
+Domain Name: 2tickets.ca
+Registry Domain ID: D392264-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: https://www.namecheap.com/
+Updated Date: 2024-03-25T15:36:36Z
+Creation Date: 2006-05-03T19:10:19Z
+Registry Expiry Date: 2025-05-03T04:00:00Z
+Registrar: Go Get Canada Domain Registrar Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Reseller: NAMECHEAP
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 111718792-CIRA
+Registrant Name: Eric Bussieres
+Registrant Organization: Ticketplatform.ca inc
+Registrant Street: 780 Brewster Ave,  suite 02-200
+Registrant City: Montreal
+Registrant State/Province: QC
+Registrant Postal Code: H4C2K1
+Registrant Country: CA
+Registrant Phone: +1.5149359999
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: domains@billets.ca
+Registry Admin ID: 111718869-CIRA
+Admin Name: Eric Bussieres
+Admin Organization: Ticketplatform.ca inc
+Admin Street: 780 Brewster Ave,  suite 02-200
+Admin City: Montreal
+Admin State/Province: QC
+Admin Postal Code: H4C2K1
+Admin Country: CA
+Admin Phone: +1.5149359999
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: domains@billets.ca
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email:
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: hadlee.ns.cloudflare.com
+Name Server: reese.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T16:11:04Z 

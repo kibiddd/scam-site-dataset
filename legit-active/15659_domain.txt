@@ -1,0 +1,18 @@
+   Domain Name: OAKLANDTECH.COM
+   Registry Domain ID: 98675552_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tigertech.net
+   Registrar URL: http://www.tigertech.net/
+   Updated Date: 2024-06-03T07:41:52Z
+   Creation Date: 2003-06-02T21:45:01Z
+   Registry Expiry Date: 2025-06-02T21:45:01Z
+   Registrar: Tiger Technologies LLC
+   Registrar IANA ID: 841
+   Registrar Abuse Contact Email: abuse@tigertech.net
+   Registrar Abuse Contact Phone: 510 527-3131
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.TIGERTECH.NET
+   Name Server: NS2.TIGERTECH.BIZ
+   Name Server: NS3.TIGERTECH.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:30:46Z 

@@ -1,0 +1,18 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        PIPS.RU
+nserver:       ns1.freehosting.centre.ru.
+nserver:       ns2.freehosting.centre.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+person:        Private Person
+registrar:     R01-RU
+admin-contact: https://partner.r01.ru/contact_admin.khtml
+created:       2000-11-30T21:00:00Z
+paid-till:     2025-12-01T21:00:00Z
+free-date:     2026-01-02
+source:        TCI
+
+Last updated on 2025-03-26T20:23:01Z
+

@@ -1,0 +1,17 @@
+   Domain Name: HERITAGETHAILAND.COM
+   Registry Domain ID: 51301946_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.PublicDomainRegistry.com
+   Registrar URL: http://www.publicdomainregistry.com
+   Updated Date: 2024-12-18T00:50:36Z
+   Creation Date: 2001-01-08T05:17:55Z
+   Registry Expiry Date: 2025-12-17T15:00:42Z
+   Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+   Registrar IANA ID: 303
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: TH123.HOSTATOM.COM
+   Name Server: TH124.HOSTATOM.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T15:58:56Z 

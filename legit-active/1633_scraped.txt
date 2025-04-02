@@ -1,0 +1,19 @@
+SergeBlais
+Serge Blais
+Independent Criminals
+Serge Blais was  born  around 1950  and  grew  up in  Rouyn-Noranda, in northern Quebec, where he dropped out of school  as a teenager. In the early 1980s, Blais  attracted the attention of law enforcement, who suspected  him of importing large quantities of hashish.      Over the years, Blais formed  an  organization  and  developed contacts in  Brazil, Mexico, and Venezuela. He has been described as being intelligent, discrete, and very careful. His right-hand man was said to be  Denis Lajeunesse, described in news  accounts as an ex-bank robber.      On  May 24, 2001, police  arrested  Blais  and over 20  others, breaking up what they claim were four  criminal  groups involved in importing cocaine, heroin, and hashish.
+Arrested  as  part of Blais� group was  Denis Lajeunesse, described  as Blais� right-hand man, as well  as  Michel  DeLuca, Mario Di Iorio, and  Romolo Fabiello. Blais  was  accused  of  plotting  to import a total of 2,500 kilograms of cocaine from Colombia.      Also charged in the operation were  reputed Montreal mobsters Girolamo Sciortino and Giuseppe Morello, while in Colombia, authorities  arrested  four  alleged  drug  suppliers with  links to the Los Millisos drug cartel.      The operation was  made  possible  by  the  work  of  an  undercover officer. The RCMP agent, posing  as  James Wood, a drug trafficker from Ottawa, who set up a phoney transport company in Montreal�s west end.      The  agent  was  introduced to  Michel DeLuca, the  owner of  a  Montreal restaurant, who later introduced him to Blais. It took the  police officer some time, but  after  about 50 meetings or so, he succeeded in earning Blais� trust.      The RCMP officer was even present when Blais  and  Dejeunesse  allegedly met with Colombian cocaine suppliers  and  negotiated  shipments  of  500  and  2,000 kilograms  of the drug. While  the shipments  never  actually happened, since the suppliers reportedly demanded too much money  as a down  payment, the  undercover  agent  had  supposedly  been  handed  $125,000  to  transport  the cocaine to Canada.      Blais  and  Desjeunesse pleaded guilty to conspiring to import 2,500 kilograms of cocaine, and in October 2002, they  received  sentences  of 15 and 12 years in  prison, respectively. Michel DeLuca got four years.
+')
+}
+d.write(' \[x\]close <\/span><\/div>');
+if ( width-x>=440 || width>=1425) {
+d.write('');
+var cb = Math.random();
+var iframe = "&fr=" + (window != top);
+var ref = "";
+try {
+if (window != top) {
+ref = "&rf="+escape(d.referrer);
+}
+} catch (ignore) { }
+d.write('

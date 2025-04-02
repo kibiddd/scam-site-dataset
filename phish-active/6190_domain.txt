@@ -1,0 +1,46 @@
+Search results may not be used for commercial, advertising, recompilation,
+repackaging, redistribution, reuse, obscuring or other similar activities.
+
+Estonia .ee Top Level Domain WHOIS server
+
+Domain:
+name:       dklex.ee
+status:     ok (paid and in zone)
+registered: 2012-01-03 12:39:22 +02:00
+changed:    2024-12-23 14:35:04 +02:00
+expire:     2026-01-04
+outzone:    
+delete:     
+
+Registrant:
+name:       DKLex OÜ
+org id:     12075090
+country:    EE
+email:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+phone:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+changed:    2024-12-23 14:35:04 +02:00
+
+Administrative contact:
+name:       Not Disclosed - Visit www.internet.ee for webbased WHOIS
+email:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+changed:    Not Disclosed - Visit www.internet.ee for webbased WHOIS
+
+Technical contact:
+name:       Not Disclosed - Visit www.internet.ee for webbased WHOIS
+email:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+changed:    Not Disclosed - Visit www.internet.ee for webbased WHOIS
+
+Registrar:
+name:       Zone Media OÜ
+url:        http://www.zone.ee
+phone:      +372 6886886
+changed:    2020-07-01 13:55:58 +03:00
+
+Name servers:
+nserver:   ns85.websitewelcome.com
+nserver:   ns86.websitewelcome.com
+changed:   2015-04-24 00:25:04 +03:00
+
+
+Estonia .ee Top Level Domain WHOIS server
+More information at http://internet.ee

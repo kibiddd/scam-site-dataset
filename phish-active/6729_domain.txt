@@ -1,0 +1,17 @@
+   Domain Name: DESTINATIONJUNGLE.COM
+   Registry Domain ID: 1507196058_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.liquidnetlimited.com
+   Registrar URL: http://www.liquidnetlimited.com
+   Updated Date: 2024-06-04T11:50:12Z
+   Creation Date: 2008-07-09T06:33:02Z
+   Registry Expiry Date: 2025-07-09T06:33:02Z
+   Registrar: LiquidNet Ltd.
+   Registrar IANA ID: 1472
+   Registrar Abuse Contact Email: abuse@liquidnetlimited.com
+   Registrar Abuse Contact Phone: +44-20-3695-1294
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.GATEWAY.CO.UG
+   Name Server: NS2.GATEWAY.CO.UG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:24:11Z 

@@ -1,0 +1,719 @@
+Pokemon LeafGreen Version - Legendaries FAQ - Game Boy Advance - By MegaFun - GameFAQs
+MenuHomeBoardsNewsQ&ACommunityContributeGames3DSAndroidBoard/CardiOSPCPlayStation 3PlayStation 4PlayStation 5SwitchVitaXbox 360Xbox OneXbox SeriesMore SystemsPCPS4PS5SwitchXbox OneXbox SeriesMore Systems 3DSAndroidBoard / CardDSGame Boy AdvanceGameCubeiOSNintendo 64PlayStationPlayStation 2PlayStation 3PSPSuper NintendoVitaWiiWii UXbox 360See All 143...
+Log In
+Sign Up
+GameFAQsBoardsNewsQ&ACommunityContributeGames
+Pokemon LeafGreen Version – Legendaries FAQGame Boy AdvanceLog in to add games to your listsNotify me about new: Guides Cheats Reviews Questions News Board Topics Board MessagesAdd this game to my: Favorite Games Favorite BoardsGuidesQ&ABoardMoreHomeSummaryRelease DataGame CreditsAlso PlayingCollection StatsGame TriviaGuidesQ&ACheatsSavesReviewsMediaBoxesImagesVideosBoard
+What do you need help on?
+Cancel X
+BOOKMARK
+Jump to:
+Would you recommend this Guide?
+Yes
+No
+Hide
+Send
+Skip
+Hide
+Message Sent
+Legendaries FAQ (GBA) by MegaFun
+Version: 1.0 | Updated: 03/17/2006
+#########         #
+#        #        #  #
+#########  ####   # #    #####  ###   ###   ####   ######
+#         #    #  ##    #     # #  # #  #  #    #  #    #
+#        #      # # #   ######  #   #   # #      # #    #
+#         #    #  #  #  #       #       #  #    #  #    #
+#          ####   #   #  ###### #       #   ####   #    #
+#                      ####    ####
+#       ###     ####  #       #       # ###  ###   ###  #####
+#      #   #   #   #  #####  #        ##    #   # #   # #   #
+#      #####  #    #  #      #   #### #     ##### ##### #   #
+#      #      #    #  #      #      # #     #     #     #   #
+######  ####  ######  #      ######## #      ####  #### #   #
+In depth FAQ
+Legendary PokeMons FAQ
+Copyright 2006-Luthfi Mawarid
+(MegaFun)
+Table of contents
+-----------------------------------------------------------------
+Introduction............................ (INTR)
+Art of Catching Legendaries............. (AOCL)
+LG and FR original legendaries.......... (LFOL)
+R, S, E original legendaries............ (RSEL)
+Miscellaneous and secret legendaries.... (MASL)
+Legendaries Data........................ (LGDT)
+Credits and thanks...................... (CATH)
+Introduction (INTR)
+-----------------------------------------------------------------
+Hello, my name is Luthfi Mawarid or MegaFun. If you think, I'm not an expert
+of English language, so I'm sorry if my grammar was wrong and quite
+unreadable. Well, this is my first FAQ.I also accepts feedbacks from readers
+of this FAQ. I'll try to fix this thingies on my second FAQ (If I had
+one...).Pokemon is one of my favorite Game Boy Advance games (I will call it
+GBA).It's fun and had some puzzles in it. Finally, I got an interest on those
+legendaries, so I decided to write a FAQ on this.
+Well, because some of my weaknesses, I will said something special. THIS FAQIS
+FOR PUBLIC. That means, you people can use it for your website or post it
+somewhere. You have to e-mail me first, of course. My e-mail is:
+blazepert@yahoo.com; you'll notice something strange on my e-mail address if
+you know R/S/E pokemons. Anyway, let's back to the FAQ. You're free to use and
+rearrange my FAQ UNLESS something bad happens. Try not to do anything bad
+okay? GOOD!
+Art of Catching Legendaries (AOCL)
+-----------------------------------------------------------------
+Do you think that legendary pokemons is extremely hard to find, hard to catch
+and extremely valuable? The answer is: 1.It's not hard to find, as long as you
+met with some requirements. I'll list the requirements before the legendary,
+so don't worry.2.Yes; it is very hard to catch, like some rare pokemon. But,
+there are two things you can do to make it easier to catch:
+-Types of balls affect the success rate for catching a pokemon. For example,
+it is nearly impossible to catch legendary pokemon with poke ball. But, there
+is a super higher chance with using Ultra Ball. So watch for types of balls.
+-Status conditions can also affect the catch rate. I would recommend
+inflicting
+a freeze status to the legendary. But, since it's quite rare and very hard to
+get, I would recommend using sleep for legendaries. Paralyze were not very
+effective.
+3. Yes, It's extremely valuable. If it's above lv80, I think it could beat
+almost every single pokemon in a few blows...So, did you get the thing? Keep
+that in mind.
+LG and FR original legendaries (LFOL)
+-----------------------------------------------------------------
+There are some few good legendary pokemon that you can catch. I will list them
+here.
+ZAPDOS
+*****************************************************************
+Requirements and preparations to catch:
+-Beat the gym leader Koga.
+-Get a pokemon to learn surf.
+-Get loads of Ultra Balls (25 or more).
+-Get a rock pokemon for lowering Zapdos' HP (optional).
+Place:
+Power Plant-Fly to the PC near Rock Tunnel and surf to the nearest body of
+water. You'll reach a big building. Enter there.
+Power Plant
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+From the entrance, simply go straight way to the top and turn, then go
+downwards. Turn again and go straight. Then turn, go downwards, turn again
+until you see the king of this place. Save immediately before examining him.
+ZAPDOS	LV 50
+TYPE: ELECTRIC&FLYING
+ABILITY: PRESSURE (Foe uses 2 PP even if only launching 1 attack).
+*****************************************************************
+Attacks:
+Thunder Wave (Elec)-Sends a shockwave that paralyzes you.
+Drill Peck (Flying)-Pecks on you rapidly and hurts you.
+Agility (Psychic)-With a psychic power, it sharply raises his speed.
+Detect (Fighting)-Detects the next attack and avoids it.
+Reduce his life to red and change to a pokemon and use sleep powder (make sure
+Zapdos doesn't uses Drill Peck).After that, keep throwing ultra balls at him.
+If he awakes, use sleep powder again, then throw ultra balls. He should be
+caught soon. Now after you get it, you'll get a brand new legendary, Zapdos.
+Train him enough. He'll be quite useful on the next legendary.
+ARTICUNO
+*****************************************************************
+Requirements and preparations to catch:
+-Beat the gym leader Koga.
+-Get loads of Ultra Balls (30 or more).
+-Get a pokemon that knows strength (found Gold Teeth somewhere in Safari Zone
+and give it
+to the park warden in Fuchsia City).
+-Get a pokemon that knows surf.
+-Get a rock/steel/fire/thunder pokemon to reduce Articuno's HP (optional).
+-For escaping easily bring escape rope (optional).
+Place:
+Seafoam Islands-Go to Fuchsia City and go surf to the sea. After the surf,
+you'll reach a land. Go to the cave there.
+Seafoam Islands
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Simply go down, down, down (you can push the boulder to the hole if you didn't
+bring escape rope) until you (and your boulder) falls to the water. You'll
+brought by the current to another area. Go to the land and head to a ladder in
+the middle of this room. Now go up the ledge, ignore the ladder and go down
+the ledge again. There'll be some rocks and two holes. Push the CLOSEST
+boulder to you straight two steps, then push down the boulder next to it 1
+step. Push it again to left 1 step. Push the closest boulder near the hole
+away.
+Then push the boulder before 2 steps left. Push it to the hole, and push the
+boulder next to the hole to the hole. Next, push yourself to the hole. You'll
+fall. The water current was blocked by the rocks. Simply surf north until you
+reach the throne of ice. Save!
+ARTICUNO LV 50
+TYPE: ICE&FLYING
+ABILITY: PRESSURE (Foe uses 2 PP even if only launching 1 attack).
+*****************************************************************
+Attacks:
+Mist (Ice)-Wraps allies with a mist that prevents status reduction.
+Agility (Psychic)-With a psychic power, it sharply raises his speed.
+Mind Reader (Normal)-Makes sure that the next time you attack will be 100%
+hit.
+Ice Beam (Ice)-Shoots sharp ices to hurt foe.
+The same tactic as Zapdos. I suggest you bring 30+ Ultra Balls because he's a
+bit harder to catch than Zapdos used my Zapdos'(Lv 53-55,I installed TM
+Shockwave to him)shockwave to reduce Articuno's HP red in 1 hit, but he dies
+because he get hit by the powerful Ice Beam. If he didn't die, I could use
+Thunder Wave, but he dies, so I use Sleep Powder. Keep throwing Ultra Balls.
+That time I just want to do a joke throwing 1 Great Ball, but unfortunately he
+was caught........
+There are two ways to escape from this cave:
+-Easy way, use Escape Rope. OR......
+-The hard way. First from the entrance of the cave you should keep pushing a
+boulder to holes until it reaches water and you reach land (you should keep
+pushing yourself down the hole too.)Go to the ladder in the middle on the
+room. Go to the next ladder. Go to the ledge and go to the ladder there. Then,
+go down to the lower level of the land. Turn left and go up the ledge to reach
+the ladder.
+In the next room, turn right and go to lower level to see a boulder and a
+hole. Again, push the boulder and yourself to the hole until you've reached
+water. The water current has blocked. Go up to the land and o to the ladder.
+Keep going until you can get out of the cave!
+MOLTRES
+*****************************************************************
+Requirements and preparations to catch:
+-Beat the gym leader Koga.
+-Beat the gym leader Blaine.
+-Could go to Island 1.
+-Get loads of Ultra Balls (25 or more).
+-Get a pokemon that knows surf.
+-Get a pokemon that knows strength.
+-Get a pokemon ready to learn rock smash (Chansey, Rhyhorn, Machop, etc).
+-Get a water/rock/thunder pokemon to reduce her HP quickly (optional).
+Place:
+Mt.Ember-You can do this right after you defeat Blaine and went out of his
+gym. Bill will ask if you would like to come to Island 1.Say yes. After a long
+scene, you'll end up controlling yourself. Go out of the PC and surf to the
+north. Past the grasses and you'll meet a cave door. That is Ember Spa. Enter
+there. Speak to everyone and someone will give you HM Rock Smash. Install it
+to your pokemon. If you go to the middle of the spa pond it will restore your
+pokemon's health. Go out and surf to the north. You'll reach Mt.Ember.
+Mt.Ember
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Turn left and push the boulders away. Go ^ and go to the upper level. Smash
+the
+rocks you see. Go straight ahead to the cave. Go and follow the narrow path to
+the ladder. In the next room, go straight past the stairs and turn right to
+the
+next room. Go south to reach an open room. Turn and go up to the mountain
+peak. Push the boulders away. Save before talking to her.
+MOLTRES LV 50
+TYPE: FIRE&FLYING
+ABILITY: PRESSURE (Foe uses 2 PP even if only launching 1 attack).
+*****************************************************************
+Attacks:
+Fire Spin (Fire)-Traps you with spiral of fire and hurt you for 3-5 turns.
+Endure (Normal)-Endures a very powerful attacks so that she leaves 1 HP left.
+Agility (Psychic)-With a psychic power, it sharply raises his speed.
+Flamethrower (Fire)-Breathes flame at you, has a chance of burn your pokemon.
+Zapdos' Shockwave could reduce her HP to red, especially if she uses Endure.
+If she does, you may want to use Shockwave again. After that, use either
+Thunder Wave or Sleep Powder. Start to throw Ultra Balls until you've caught
+her. Actually you can catch her before Zapdos. For that, you may bring a water
+pokemon or rock or something that is resistance to fire and flying.
+MEWTWO
+*****************************************************************
+Requirements and preparations to catch:
+-Beat the Elite Four.
+-Get National PokeDex.
+-Fix the Network Machine with Ruby and Sapphire Gem.
+-Get a pokemon that knows surf.
+-Get a pokemon that knows strength.
+-Get TONS of Ultra Balls (or perhaps Master Ball, this is hard to choose, I
+know).
+-Get a dark/bug/ghost pokemon to reduce his HP rapidly (optional)
+Place:
+Cerulean Cave-Go to Route 24 above Cerulean City through the Golden Bridge.
+Surf into the little river and you'll reach a land. Enter the cave.
+Cerulean Cave
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Go surf to the river. Follow the river way and drop to the land in south end
+of the river. Go up the stairs and ignore the first ladder. Go downstairs and
+you'll see a ladder. Go there. Here, go to south and turn right. Ignore the
+first pathway and continue your way. From here, just follow the path to the
+ladder. Go to the next ladder. Go downstairs and follow the pathway to a big
+river. Surf to the river and go to a small island with Mewtwo there.  Save
+and prepare for a harsh battle.
+MEWTWO LV 70
+TYPE: PSYCHIC
+ABILITY: PRESSURE (Foe uses 2 PP even if only launching 1 attack).
+*****************************************************************
+Attacks:
+Swift (Normal)-Shoots a star beam to you.
+Recover (Normal)-Recovers half of his HP.
+Psychic (Psychic)-Emits a strong psychic wave to hurt you.
+Safeguard (Normal)-Prevents allies from suffering a status ailment (this is
+annoying).
+Oh yeah, you're right. He DOES have Recover and Safeguard, making himself hard
+to catch. And his ability is pressure! With this my Frenzy Plant which only
+have 5 PP will run out quickly. He will heal himself with Recover and
+Safeguard will prevent him from paralyze, sleep, etc. This is hard to catch
+with Ultra Ball. I used Frenzy Plant and Sleep Powder to get him. I caught him
+with Ultra Ball. But, trust me, it was such an accident (or maybe luck!)
+RAIKOU/SUICUNE/ENTEI
+*****************************************************************
+Requirements and preparations to catch:
+-Beat the Elite Four.
+-You'll get different pokemon if you choose...
+Charmander as a starter pokemon: You get Suicune.
+Squirtle as a starter pokemon: You get Raikou.
+Bulbasaur as a starter pokemon: You get Entei.
+-Get a pokemon that has a resistance type to the pokemon (example
+Entei is Fire-type; you bring Vaporeon which is Water-type).
+-Get a Wobuffet when the legendary pokemon has a red HP and a
+status ailment.
+-Get a MASTER BALL OR TONS OF ULTRA BALLS.
+Place:
+Well, I HATE to say this but, they can move to ALL OVER KANTO REGION. You
+could get very frustrated. Meeting them in the first place depends on luck.
+The annoying thing again is when you met them in a battle, after you finished
+attacking them, they will simply ESCAPES from you and you'll need to look for
+them again. They will NEVER, EVER STOP DOING THIS.
+RAIKOU/SUICUNE/ENTEI LV 50
+TYPE: ELECTRIC/WATER/FIRE
+ABILITY: PRESSURE (Foe uses 2 PP even if only launching 1 attack).
+*****************************************************************
+Raikou attacks:
+Thundershock (Electric)- An electricity shock that has a chance to paralyze
+foe.
+Roar (Normal)-Roars to send foe away.
+Quick Attack (Normal)-An attack that strikes first.
+Spark (Electric)-An electrified tackle, has a chance to paralyze foe.
+Entei attacks:
+Ember (Fire)- Spits a fire that could burn foe.
+Fire Spin (Fire)- Traps you with spiral of fire and hurt you for 3-5 turns.
+Roar (Normal)- Roars to send foe away.
+Stomp (Normal)-Stomps enemy that may cause flinching.
+Suicune attacks:
+Bubblebeam (Water)-Burst bubbles to you.
+Gust (Flying)-Creates a whirlwind to attack you.
+Rain Dance (Water)-Makes Water-type moves stronger than usual.
+Aurora Beam (Ice)-Shoots a beam of aurora that may lower attacks.
+After the Mewtwo 'incident', I still have my only one piece of Master Ball. I
+tried to found Entei (my starter pokemon is Bulbasaur). I wander everywhere
+around Kanto and ran into him near Pallet Town (do you know that the song when
+we battled with legendary pokemon is different from the ones when we battled
+ordinary pokemon? When you run into Raikou, Entei or Suicune, you'll hear the
+legendary song). I don't want to waste time so I caught him with Master Ball.
+R, S, E original legendaries(RSEL)
+-----------------------------------------------------------------
+R, S, E original legendaries means Pokemon Ruby, Sapphire, and Emerald
+original legendaries. Huh? You didn't know those games? Well, in case that you
+didn't know, Pokemon LeafGreen, the games we're playing were based on a region
+named Kanto. Pokemon Ruby and whatever I said above were based on a region
+named Hoenn. A different region could mean lots of new cities, new facilities
+and of course, tons of BRAND NEW POKEMONS! Now, is there any legendary
+pokemons over there?
+The answer is a big YES. It has a lot more than Kanto. If you had to know, we
+can make a whole party of legendary pokemons. If you want to get them you must
+transfer them to Kanto.
+A.K.A TRADE
+Things needed:
+-2 Game Boy Advance
+-A Pokemon LeafGreen/FireRed Game Pak
+-A Pokemon Ruby/Sapphire/Emerald Game Pak
+-Game Boy Link Cable
+Plug in the Link Cable into both device. Turn on both games and go to any
+Pokemon Center, then go up to the second floor. Take the pokemon you want to
+trade and talk to the lady in the right counter. You must do this in both
+games. Follow the instructions and inside the room. Both players have to
+examine the machine in the middle of this room. Choose the pokemon you want to
+trade and exchange it with another pokemon!
+Miscellaneous and secret legendaries (MASL)
+-----------------------------------------------------------------
+Although there are original legendaries, there are some secret legendary
+pokemons that you can't obtain by only searching it. That needs certain
+things. I'll list them here. Huge thanks to www.serebii.net for this.
+HO-OH
+*****************************************************************
+Requirements and preparations to catch:
+-You need to obtain Mystery Gift option (you'll see a paper on the
+cashier of any PokeMarts. Insert words "LINK TOGETHER WITH ALL".
+The market woman will say something and if you save and turn off
+your game. It will appear with the New Game and Continue option.
+-You need to obtain Mystic Ticket (go to a Nintendo event and go
+near the machine Wonder Spot with your Wireless Adapter attached
+to your Game Boy and access Mystery Gift. After that, go to the
+second floor of PC and a guy there will give you a Mystic
+Ticket).
+-Get a MASTER BALL OR TONS OF ULTRA BALLS.
+-Beat the Elite Four.
+-Get a water/thunder/rock pokemon to reduce her HP rapidly. (optional)
+Place:
+Navel Rock-With the Mystic Ticket, go to Vermilion Port and go to Navel Rock
+from there.
+Navel Rock
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Just go to the cave and turn left to see Ho-oH. Really SAVE!
+HO-OH LV 70
+TYPE: FIRE&FLYING
+ABILITY: PRESSURE (Foe uses 2 PP even if only launching 1 attack).
+*****************************************************************
+Attacks:
+Recover (Normal)-Recovers half of her HP.
+Swift (Normal)-Shoots a star beam to you.
+Fire Blast (Fire)-Shoots a ring of fire that spreads and burns you.
+Sunny Day-Makes Fire-type moves stronger than usual.
+I didn't go to any Nintendo Event so if you know how to catch this please e-
+mail me.
+LUGIA
+****************************************************************
+Requirements and preparations to catch:
+-You need to obtain Mystery Gift option (you'll see a paper on the
+cashier of any PokeMarts. Insert words "LINK TOGETHER WITH ALL".
+The market woman will say something and if you save and turn off
+your game. It will appear with the New Game and Continue option.
+-You need to obtain Mystic Ticket (go to a Nintendo event and go
+near the machine Wonder Spot with your Wireless Adapter attached
+to your Game Boy and access Mystery Gift. After that, go to the
+second floor of PC and a guy there will give you a Mystic
+Ticket).
+-Get a MASTER BALL OR TONS OF ULTRA BALLS.
+-Beat the Elite Four.
+-Get a dark/thunder/rock/ghost pokemon to reduce his HP rapidly (optional)
+Place:
+Navel Rock-With the Mystic Ticket, go to Vermilion Port and go to Navel Rock
+from there.
+Navel Rock
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Just go to the cave and turn left to see Lugia. Really SAVE!
+LUGIA LV 70
+TYPE: PSYCHIC&FLYING
+ABILITY: PRESSURE (Foe uses 2 PP even if only launching 1 attack).
+*****************************************************************
+Attacks:
+Recover (Normal)-Recovers half of her HP.
+Swift (Normal)-Shoots a star beam to you.
+Hydro Pump (Water)-Shoots 2 hydro high-pressured water to you.
+Rain Dance(Water)-Makes Water-type moves stronger than usual.
+I didn't go to any Nintendo Event so if you know how to catch this please e-
+mail me.
+DEOXYS
+****************************************************************
+Requirements and preparations to catch:
+-You need to obtain Mystery Gift option (you'll see a paper on the
+cashier of any PokeMarts. Insert words "LINK TOGETHER WITH ALL".
+The market woman will say something and if you save and turn off
+your game. It will appear with the New Game and Continue option.
+-You need to obtain Aurora Ticket (go to a Nintendo event and go
+near the machine Wonder Spot with your Wireless Adapter attached
+to your Game Boy and access Mystery Gift. After that, go to the
+second floor of PC and a guy there will give you an Aurora
+Ticket).
+-Get a MASTER BALL OR TONS OF ULTRA BALLS.
+-Beat the Elite Four.
+-Get a dark/bug/ghost pokemon to reduce his HP rapidly (optional)
+Place:
+Birth Island- with the Aurora Ticket, go to Vermilion Port and go to Birth
+Island from there.
+Birth Island
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+This island got nothing but puzzle. You have to keep different sides of the
+triangle touched without walking into it. This has to be done quickly. If it's
+correct, there'll be an earthquake and Deoxys will show up.
+DEOXYS LV 30
+TYPE: PSYCHIC
+ABILITY: PRESSURE (Foe uses 2 PP even if only launching 1 attack).
+****************************************************************
+Attacks:
+Snatch (Dark)-Steals the effect of foe's move.
+Spikes (Ground)-Hurts the foe switching in.
+Pursuit (Dark)-If the foe is switching out, it will inflict a bad damage.
+Psychic (Psychic)-Emits a strong psychic wave to hurt you.
+He has different forms.If you caught him in:
+LeafGreen-Deoxys defense mode.
+FireRed-Deoxys attack mode.
+Emerald-Deoxys speed mode.
+I didn't go to any Nintendo Event so if you know how to catch this please e-
+mail me.
+Legendaries Data (LGDT)
+-----------------------------------------------------------------
+Now, thanks for www.pokemonpalace.net and www.serebii.net for this.
+ZAPDOS
+*****************************************************************
+National No: 145
+Hoenn No: 300
+English Name: Zapdos
+Japanese Name: Sandaa
+Ability: Pressure (Foe uses 2 PP even if only launching 1 attack)
+Gender: Genderless
+Classification: Electric Pokemon
+Type: Electric&Flying
+Height: 5'3"
+Weight: 116 lbs
+Colour: Yellow
+Dex Category: Rare
+Location: Power Plant
+Moves:
+LV 0        Peck
+LV 0        Thundershock
+LV 13       Thunder Wave
+LV 25       Agility
+LV 37       Detect
+LV 49       Drill Peck
+LV 61       Charge
+LV 73       Light Screen
+LV 85       Thunder
+ARTICUNO
+*****************************************************************
+National No: 144
+Hoenn No: 299
+English Name: Articuno
+Japanese Name: Furiizaa
+Gender: Genderless
+Classification: Freeze Pokemon
+Type: Ice&Flying
+Height: 5'7"
+Weight: 122 lbs
+Colour: Blue
+Dex Category: Rare
+Location: Seafoam Islands
+Moves:
+LV 0        Gust
+LV 0        Powder Snow
+LV 13       Mist
+LV 25       Agility
+LV 37       Mind Reader
+LV 49       Ice Beam
+LV 61       Reflect
+LV 73       Blizzard
+LV 85       Sheer Cold
+MOLTRES
+*****************************************************************
+National No: 146
+Hoenn No: 301
+English Name: Moltres
+Japanese Name: Faiyaa
+Ability: Pressure (Foe uses 2 PP even if only launching 1 attack)
+Gender: Genderless
+Classification: Flame Pokemon
+Type: Fire&Flying
+Height: 6'2"
+Weight: 132 lbs
+Colour: Yellow
+Dex Category: Rare
+Location: Mt.Ember Peak
+Moves:
+LV 0        Wing Attack
+LV 0        Ember
+LV 13       Fire Spin
+LV 25       Agility
+LV 37       Endure
+LV 49       Flamethrower
+LV 61       Safeguard
+LV 73       Heat Wave
+LV 85       Sky Attack
+MEWTWO
+*****************************************************************
+National No: 150
+Hoenn No: 305
+English Name: Mewtwo
+Japanese Name: Myuutsuu
+Ability: Pressure (Foe uses 2 PP even if only launching 1 attack)
+Gender: Genderless
+Classification: Genetic Pokemon
+Type: Psychic
+Height: 6'7"
+Weight: 269 lbs
+Colour: Purple
+Dex Category: Rare
+Location: Cerulean Cave
+Moves:
+LV 0        Confusion
+LV 0        Disable
+LV 11       Barrier
+LV 22       Mist
+LV 33       Swift
+LV 44       Recover
+LV 55       Safeguard
+LV 66       Psychic
+LV 77       Psych Up
+LV 88       Future Sight
+LV 99       Amnesia
+RAIKOU
+*****************************************************************
+National No: 243
+Hoenn No: 378
+English Name: Raikou
+Japanese Name: Raikou
+Ability: Pressure (Foe uses 2 PP even if only launching 1 attack)
+Gender: Genderless
+Classification: Thunder Pokemon
+Type: Electric
+Height: 6'3"
+Weight: 392.4 lbs
+Colour: Yellow
+Dex Category: Grassland
+Location: Randomly appears in Kanto
+Moves:
+LV 0        Bite
+LV 0        Leer
+LV 11       Thundershock
+LV 21       Roar
+LV 31       Quick Attack
+LV 41       Spark
+LV 51       Reflect
+LV 61       Crunch
+LV 71       Thunder
+LV 81       Calm Mind
+ENTEI
+*****************************************************************
+National No: 244
+Hoenn No: 379
+English Name: Entei
+Japanese Name: Entei
+Ability: Pressure (Foe uses 2 PP even if only launching 1 attack)
+Gender: Genderless
+Classification: Volcano Pokemon
+Type: Fire
+Height: 6'11"
+Weight: 436.5 lbs
+Colour: Brown
+Dex Category: Grassland
+Location: Randomly appears in Kanto
+Moves:
+LV 0        Bite
+LV 0        Leer
+LV 11       Ember
+LV 21       Roar
+LV 31       Fire Spin
+LV 41       Stomp
+LV 51       Flamethrower
+LV 61       Swagger
+LV 71       Fire Blast
+LV 81       Calm Mind
+SUICUNE
+*****************************************************************
+National No: 245
+Hoenn No: 380
+English Name: Suicune
+Japanese Name: Suikun
+Ability: Pressure (Foe uses 2 PP even if only launching 1 attack)
+Gender: Genderless
+Classification: Aurora Pokemon
+Type: Water
+Height: 6'7"
+Weight: 412.3 lbs
+Colour: Blue
+Dex Category: Grassland
+Location: Randomly appears in Kanto
+Moves:
+LV 0        Bite
+LV 0        Leer
+LV 11       Bubblebeam
+LV 21       Rain Dance
+LV 31       Gust
+LV 41       Aurora Beam
+LV 51       Mist
+LV 61       Mirror Coat
+LV 71       Hydro Pump
+LV 81       Calm Mind
+HO-OH
+*****************************************************************
+National No: 250
+Hoenn No: 385
+English Name: Ho-oh
+Japanese Name: Houou
+Ability: Pressure (Foe uses 2 PP even if only launching 1 attack)
+Gender: Genderless
+Classification: Rainbow Pokemon
+Type: Fire&Flying
+Height: 12'6"
+Weight: 438.7 lbs
+Colour: Red
+Dex Category: Rare
+Wild Hold Item: Use itemfinder on the spot where Ho-oh was standing. You'll
+get
+Sacred Ash
+Location: Navel Rock
+Moves:
+LV 0        Whirlwind
+LV 11       Safeguard
+LV 22       Gust
+LV 33       Recover
+LV 44       Fire Blast
+LV 55       Sunny Day
+LV 66       Swift
+LV 77       Sacred Fire
+LV 88       Ancientpower
+LV 99       Future Sight
+LUGIA
+*****************************************************************
+National No: 249
+Hoenn No: 349
+English Name: Lugia
+Japanese Name: Rugia
+Ability: Pressure (Foe uses 2 PP even if only launching 1 attack)
+Gender: Genderless
+Classification: Diving Pokemon
+Type: Psychic&Flying
+Height: 17'1"
+Weight: 476.2 lbs
+Colour: White
+Dex Category: Rare
+Location: Navel Rock
+Moves:
+LV 0        Whirlwind
+LV 11       Safeguard
+LV 22       Gust
+LV 33       Recover
+LV 44       Hydro Pump
+LV 55       Rain Dance
+LV 66       Swift
+LV 77       Aeroblast
+LV 88       Ancientpower
+LV 99       Future Sight
+DEOXYS
+*****************************************************************
+National No: 386
+Hoenn No: 202
+English Name: Deoxys
+Japanese Name: Deokishisu
+Ability: Pressure (Foe uses 2 PP even if only launching 1 attack)
+Gender: Genderless
+Classification: DNA Pokemon
+Type: Psychic
+Height: 5'7"
+Weight: 134 lbs
+Colour: Red
+Dex Category: Rare
+Location: Birth Island
+Moves:
+LV 0        Leer
+LV 0        Wrap
+LV 5        Night Shade
+LV 10       Teleport
+LV 15       Knock Off
+LV 20       Spikes
+LV 25       Psychic
+LV 30       Snatch
+LV 35       Iron Defense
+LV 40       Amnesia
+LV 45       Recover
+LV 50       Counter
+LV 50       Mirror Coat
+Credits and thanks(CATH)
+-----------------------------------------------------------------
+Fuuuuh.. yes! I'm done! It's hard work. Did you enjoy it?
+Credits:
+FAQ Writer: Me
+Player: My little bro.
+Reader: You
+serebii.net and pokemonpalace.net: Thanks for providing me with some info.
+You: Thanks for reading my FAQ.
+gamefaqs.com (CJayC and crews): For posting my guide.
+View in: Text Mode
+GameFAQsfacebook.com/GFAQstwitter.com/GameFAQsHelp / Contact UsChange Colors Blue (Default)
+Blue on Black
+Red
+Red on Black
+Green
+Green on Black
+Orange
+Orange on Black
+Purple
+Purple on Black
+Cloudy Blue
+Grayscale
+Sepia
+Cotton Candy
+gamespot.comgiantbomb.commetacritic.comfandom.comfanatical.comSitemapPartnershipsCareersTerms of UseDigital Services ActPrivacy PolicyCookie SettingsReport Ad© 2025 FANDOM, INC. ALL RIGHTS RESERVED.

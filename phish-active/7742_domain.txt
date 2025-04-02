@@ -1,0 +1,60 @@
+% Request from 2a09:bac5:c82c:de1::162:5c
+% This is the Ukrainian Whois query server #G.
+% The Whois is subject to Terms of use
+% See https://hostmaster.ua/services/
+%
+% IN THE PROCESS OF DELEGATION OF A DOMAIN NAME,
+% THE REGISTRANT IS AN ENTITY WHO USES AND MANAGES A CERTAIN DOMAIN NAME,
+% AND THE REGISTRAR IS A BUSINESS ENTITY THAT PROVIDES THE REGISTRANT
+% WITH THE SERVICES NECESSARY FOR THE TECHNICAL MAINTENANCE OF THE REGISTRATION AND OPERATION OF THE DOMAIN NAME.
+% FOR INFORMATION ABOUT THE REGISTRANT OF THE DOMAIN NAME, YOU SHOULD CONTACT THE REGISTRAR.
+
+domain:           ekopups.com.ua
+dom-public:       NO
+mnt-by:           ua.adamant-dc
+nserver:          ns6.adamant.net
+nserver:          nsda10.adamant.net
+status:           ok
+created:          2010-04-19 17:54:52+03
+modified:         2025-03-18 09:11:09+02
+expires:          2026-04-19 17:54:52+03
+source:           UAEPP
+
+% Registrar:
+% ==========
+registrar:        ua.adamant-dc
+organization:     ADAMANT-DC LLC
+organization-loc: ТОВ "АДАМАНТ-ДС"
+url:              https://adamant.ua
+city:             Kyiv
+country:          UA
+abuse-email:      hostmaster-telecom@adamant.ua
+abuse-phone:      +380.442329266
+abuse-postal:     Ukraine 02096 Kyiv Kharkivske shosse, 51-A
+abuse-postal-loc: Україна 02096 м. Київ вул. Харківське шосе, буд. 51-А
+source:           UAEPP
+
+% Registrant:
+% ===========
+person:           n/a
+person-loc:       Oleksandr
+organization-loc: Home
+e-mail:           oreshko_alex@ukr.net
+address:          n/a
+address-loc:      Street
+address-loc:      n/a
+address-loc:      Kyiv
+country-loc:      UA
+phone:            +380.964112573
+fax:              +380.964112573
+mnt-by:           ua.adamant-dc
+status:           ok
+status:           linked
+created:          2016-12-09 02:00:01+02
+modified:         2025-02-07 14:13:27+02
+source:           UAEPP
+
+
+
+% Query time:     5 msec
+

@@ -1,0 +1,20 @@
+   Domain Name: DOYLESTOWNALIVE.COM
+   Registry Domain ID: 110717924_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.porkbun.com
+   Registrar URL: http://porkbun.com
+   Updated Date: 2024-11-04T15:48:12Z
+   Creation Date: 2004-01-27T23:35:03Z
+   Registry Expiry Date: 2026-01-27T23:35:03Z
+   Registrar: Porkbun LLC
+   Registrar IANA ID: 1861
+   Registrar Abuse Contact Email: abuse@porkbun.com
+   Registrar Abuse Contact Phone: 5038508351
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1296.AWSDNS-34.ORG
+   Name Server: NS-1661.AWSDNS-15.CO.UK
+   Name Server: NS-326.AWSDNS-40.COM
+   Name Server: NS-594.AWSDNS-10.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:53:35Z 

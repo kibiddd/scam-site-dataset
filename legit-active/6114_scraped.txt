@@ -1,0 +1,439 @@
+Agricultural Commodities Products - CME Group
+Agricultural Commodities Products
+Markets Home
+Market Data Home
+Real-time market data
+Stream live futures and options market data directly from CME Group.
+Market Data on Google Analytics Hub
+Discover a cost-efficient way to access, query, and share CME Group market data.
+CME DATAMINE:
+THE SOURCE FOR HISTORICAL DATA
+Explore historical market data straight from the source to help refine your trading strategies.
+Services Home
+Clearing Advisories
+Access and filter an archive of recent and historical notices for every aspect of trading at CME Group, including Clearing advisories.
+Uncleared margin rules
+Explore our suite of capital-efficient solutions to URM challenges designed to help minimize your initial margin requirements.
+Insights Home
+Dive into the Subscription Center
+Sign up for the latest news, product highlights, economic insights and more subscriptions, tailored to your trading interests, delivered straight to your inbox.
+The world's most valuable exchange brand
+Learn more about Brand Finance naming CME Group the most valuable exchange brand for the 11th year in a row.
+Education Home
+Now available: Excell with Options Report
+Get actionable insights on how to trade the latest opportunities using options on futures, provided by a veteran institutional trader who successfully managed multi-billion-dollar portfolios.
+New to futures?
+Learn why traders use futures, how to trade futures and what steps you should take to get started.
+Markets
+Agricultural futures and options
+Manage risk or capitalize on the markets with access to the widest array of Agricultural futures and options on any commodities exchange.
+Explore the versatility of Agricultural products
+Hedge your price risk in the expanding global Agricultural marketplace with benchmark products – Wheat, Corn and Soybean futures and options. Find new opportunities to execute event-driven trades with precision using liquid, actively-traded Agricultural contracts.
+Explore Our Featured Products
+Wheat futures and options
+South American Soybeans
+Pork Cutout futures and options
+Live Cattle
+Biofuel and Renewable fuel
+Quick links
+Research and analysis
+Trading resources
+Agricultural options
+Excell with Ag Options
+Weekly Ag Market Report
+Agriculture News and Events
+View all
+COMING APRIL 14*
+Explore Hard Red Spring (HRS) Wheat futures and options for one-stop trading in North American wheat markets.
+*Pending regulatory review
+NOW LIVE: MICRO AG FUTURES
+Diversify your portfolio with five new Micro contracts for Soybean, Soybean Oil, Soybean Meal, Corn and Wheat.
+Explore our Agricultural products
+Learn about the products we offer across the agricultural spectrum, and explore different ways to buy and trade.
+Grain & Oilseeds
+Fine-tune price exposure on benchmark products using our flexible suite of futures and options, or create new spread trading opportunities with other Commodity products.
+View Grain and Oilseed options
+Get access to Grain and Oilseed data
+View Micro Grain and Oilseed futures
+Livestock
+Manage the risk inherent in livestock production and processing with Live Cattle, Feeder Cattle and Lean Hogs future and options.
+View options products
+Get access to Livestock data
+Dairy
+Access a full suite of Dairy and Milk products to effectively manage your risk, or engage in benchmarking to get the best contract price.
+View options products
+Get access to Dairy data
+Fertilizer
+Indexed against Profercy and ICIS, Fertilizer futures and swaps allow you to manage price risk in the growing global fertilizer markets.
+Get access to Fertilizer data
+Lumber
+Add the versatility of the truck sized lumber futures contract for price discovery and risk management.
+View options products
+Get access to Lumber data
+View CME Rulebook for information on exchange rules, delivery procedures, and clearing services
+Block trades
+See the latest Agricultural block trade information.
+View the Block Trade Reference Guide for rules, minimums, hours, and more.
+CREATE CUSTOMIZED ALERTS FOR BLOCK TRADES:
+NOW AVAILABLE
+Resources
+View contract and exchange details to help you trade Agricultural futures and options.
+Daily bulletin
+Exchange fees
+Margin/performance bonds
+Rulebook
+Price limits
+Cash-settled futures
+Trading at settlement
+Commodity Index Products
+Platform
+CME Direct
+Gain access to the CME Group futures, options and block markets on one screen, using the fast, secure and highly configurable trading front-end.
+Learn more
+Agriculture CVOL Index
+Track forward-looking risk expectations on Agricultural markets with the CME Group Volatility Index (CVOLTM), a robust measure of 30-day implied volatility derived from deeply liquid options on Agriculture futures.
+Agriculture Data
+Unlock the full potential of Agricultural markets with reliable data on CME Group’s leading Agriculture futures and options.
+Access real-time and historical data on key commodities like Wheat, Corn and Soybean futures and options to empower your trading decisions and enhance your risk management strategies.
+Gather critical insights, manage commodity exposure and enhance trading strategies with a comprehensive view of our global Agricultural markets.
+We offer varying data frequencies to suit your needs:
+Real-time
+Delayed
+End-of-Day
+Historical
+Choose how you want to access data: low-latency direct connections; on-demand via the cloud, downloadable historical data via CME DataMine; direct integration into your systems via REST and real-time streaming APIs; or using a licensed distributor.
+Agricultural tools
+Build and refine your trading strategies with free pricing and analytics tools for CME Group Agricultural products.
+View all
+Open Interest Profile Tool
+Analyze open interest and open interest change patterns for each expiration within the selected product.
+Open Interest Heatmap
+Track the concentration of put and call positions across expirations and strikes and view how each has changed over the last day, week, or month.
+Commitment of Traders
+Drawn from CFTC report data, see which trader types have positions in a market you want to trade, at what size, whether they’re long or short, and chart changes over time.
+Vol2Vol Expected Range
+A visual representation of volatility indicates the number of standard deviations a strike is from the ATM futures price, while offering the ability to chart open interest and volume.
+Research and analysis
+Get our experts' perspectives on current trends.
+View all
+Stay in the Know
+Get news and updates about CME Group Agricultural futures and options on LinkedIn.
+Follow us
+Notices
+View all
+Courses
+Take self-guided courses on Agricultural futures and options
+If you're new to futures, the courses below can help you quickly understand the Agricultural market and start trading.
+Explore more courses
+Contact an Agricultural expert
+Connect with a member of our expert Agricultural team for more information about our products.
+First Name
+Last Name
+Business Email
+Location
+Please Select...
+UNITED STATES OF AMERICA
+CANADA
+AFGHANISTAN
+ALBANIA
+ALGERIA
+AMERICAN SAMOA
+ANDORRA
+ANGOLA
+ANGUILLA
+ANTARCTICA
+ANTIGUA AND BARBUDA
+ARGENTINA
+ARMENIA
+ARUBA
+AUSTRALIA
+AUSTRIA
+AZERBAIJAN
+BAHAMAS
+BAHRAIN
+BANGLADESH
+BARBADOS
+BELARUS
+BELGIUM
+BELIZE
+BENIN
+BERMUDA
+BHUTAN
+BOLIVIA
+BOSNIA AND HERZEGOVINA
+BOTSWANA
+BOUVET ISLAND
+BRAZIL
+BRITISH INDIAN OCEAN TERRITORY
+BRITISH VIRGIN ISLANDS
+BRUNEI DARUSSALAM
+BULGARIA
+BURKINA FASO
+BURUNDI
+CAMBODIA
+CAMEROON
+CAPE VERDE
+CAYMAN ISLANDS
+CENTRAL AFRICAN REPUBLIC
+CHAD
+CHILE
+CHINA
+CHRISTMAS ISLAND
+COCOS KEELING ISLANDS
+COLOMBIA
+COMOROS
+CONGO
+CONGO THE DEMOCRATIC REPUBLIC OF
+COOK ISLANDS
+COSTA RICA
+COTE D IVOIRE
+CROATIA
+CUBA
+CYPRUS
+CZECH REPUBLIC
+DENMARK
+DJIBOUTI
+DOMINICA
+DOMINICAN REPUBLIC
+EAST TIMOR
+ECUADOR
+EGYPT
+EL SALVADOR
+EQUATORIAL GUINEA
+ERITREA
+ESTONIA
+ETHIOPIA
+FALKLAND ISLANDS
+FAROE ISLANDS
+FIJI
+FINLAND
+FRANCE
+FRANCE METROPOLITAN
+FRENCH GUIANA
+FRENCH POLYNESIA
+FRENCH SOUTHERN TERRITORIES
+GABON
+GAMBIA
+GEORGIA
+GERMANY
+GHANA
+GIBRALTAR
+GREECE
+GREENLAND
+GRENADA
+GUADELOUPE
+GUAM
+GUATEMALA
+GUERNSEY
+GUINEA
+GUINEA BISSAU
+GUYANA
+HAITI
+HEARD AND MC DONALD ISLANDS
+HOLY SEE
+HONDURAS
+HONG KONG
+HUNGARY
+ICELAND
+INDIA
+INDONESIA
+IRAN ISLAMIC REPUBLIC OF
+IRAQ
+IRELAND
+ISRAEL
+ITALY
+JAMAICA
+JAPAN
+JERSEY
+JORDAN
+KAZAKSTAN
+KENYA
+KIRIBATI
+KOREA DEMOCRATIC REPUBLIC OF
+KOREA REPUBLIC OF
+KUWAIT
+KYRGYZSTAN
+LAO PEOPLES DEMOCRATIC REPUBLIC OF
+LATVIA
+LEBANON
+LESOTHO
+LIBERIA
+LIBYAN ARAB JAMAHIRIYA
+LIECHTENSTEIN
+LITHUANIA
+LUXEMBOURG
+MACAU
+MACEDONIA THE FORMER YUGOSLAV REPUBLIC OF
+MADAGASCAR
+MALAWI
+MALAYSIA
+MALDIVES
+MALI
+MALTA
+MARSHALL ISLANDS
+MARTINIQUE
+MAURITANIA
+MAURITIUS
+MAYOTTE
+MEXICO
+MICRONESIA FEDERATED STATES OF
+MOLDOVA REPUBLIC OF
+MONACO
+MONGOLIA
+MONTSERRAT
+MOROCCO
+MOZAMBIQUE
+MYANMAR
+NAMIBIA
+NAURU
+NEPAL
+NETHERLANDS
+NETHERLANDS ANTILLES
+NEW CALEDONIA
+NEW ZEALAND
+NICARAGUA
+NIGER
+NIGERIA
+NIUE
+NORFOLK ISLAND
+NORTHERN MARIANA ISLANDS
+NORWAY
+OMAN
+PAKISTAN
+PALAU
+PALESTINIAN TERRITORY OCCUPIED
+PANAMA
+PAPUA NEW GUINEA
+PARAGUAY
+PERU
+PHILIPPINES
+PITCAIRN
+POLAND
+PORTUGAL
+PUERTO RICO
+QATAR
+REUNION
+ROMANIA
+RUSSIAN FEDERATION
+RWANDA
+SAINT HELENA
+SAINT KITTS AND NEVIS
+SAINT LUCIA
+SAINT PIERRE AND MIQUELON
+SAINT VINCENT AND THE GRENADINES
+SAMOA
+SAN MARINO
+SAO TOME AND PRINCIPE
+SAUDI ARABIA
+SENEGAL
+SEYCHELLES
+SIERRA LEONE
+SINGAPORE
+SLOVAKIA
+SLOVENIA
+SOLOMON ISLANDS
+SOMALIA
+SOUTH AFRICA
+SOUTH GEORGIA AND SOUTH SANDWICH ISLANDS
+SPAIN
+SRI LANKA
+SUDAN
+SURINAME
+SVALBARD AND JAN MAYEN
+SWAZILAND
+SWEDEN
+SWITZERLAND
+SYRIAN ARAB REPUBLIC
+TAIWAN
+TAJIKISTAN
+TANZANIA UNITED REPUBLIC OF
+THAILAND
+TOGO
+TOKELAU
+TONGA
+TRINIDAD AND TOBAGO
+TUNISIA
+TURKEY
+TURKMENISTAN
+TURKS AND CAICOS ISLANDS
+TUVALU
+UGANDA
+UKRAINE
+UNITED ARAB EMIRATES
+UNITED KINGDOM
+UNITED STATES MINOR OUTLYING ISLANDS
+UNITED STATES VIRGIN ISLANDS
+URUGUAY
+UZBEKISTAN
+VANUATU
+VENEZUELA
+VIETNAM
+WALLIS AND FUTUNA ISLANDS
+WESTERN SAHARA
+YEMEN
+YUGOSLAVIA
+ZAMBIA
+ZIMBABWE
+Job Role
+Please Select...
+Accounting/Finance
+Broker
+Clearing
+Consultant
+Executive
+Financial Advisor/Registered Investment Advisor
+Independent Trader/Investor
+Legal/Compliance
+Market Data
+Marketing
+Operations
+Portfolio Manager
+Professor/Educator
+Research Analyst/Professional
+Risk Manager/Middle Office
+Sales
+Student
+Supply Chain Management
+Technology
+Trading/Investing
+Treasurer
+Other
+Other Job Role (Please Specify)
+Company Type
+Please Select...
+Agriculture Company/Producer
+Asset Manager/Family Office/Investment Advisory
+Bank
+Broker/FCM
+Consulting/Financial Advisory Firm
+Consumer Goods and Services/Airline/Construction
+Energy Company/Producer/Utility
+Exchange
+FinTech
+Government/Regulator
+Hedge Fund/CTA
+Independent Software Vendor
+Independent Trader/Investor
+Index Service
+Industry Trade Association
+Insurance Company
+Market Data Vendor
+Media
+Metals Company/Producer/Mining
+Pension Fund/Endowment
+Proprietary Trading Firm
+Third Party/Vendor Fund Administrator
+University/Education
+Other
+Other Company Type (Please Specify)
+Company Name
+Message
+(Optional)
+I have read and understand the Privacy Policy.
+I have read and agree the Terms of Service and Cookie Policy.
+Yes. I would like to receive communications regarding CME Group products, services, & events. I understand that I can unsubscribe at any time. By registering, I agree to the processing of my personal data in accordance with the CME Group Privacy Policy. (Optional)
+question or comment
+CME Group is the world’s leading derivatives marketplace. The company is comprised of four Designated Contract Markets (DCMs).
+Further information on each exchange's rules and product listings can be found by clicking on the links to CME, CBOT, NYMEX and COMEX.
+© 2025 CME Group Inc. All rights reserved.
+Disclaimer  |  Privacy Notice  |  Cookie Notice  |  Terms of Use  |  Data Terms of Use  |  Modern Slavery Act Transparency Statement  |  Report a Security Concern

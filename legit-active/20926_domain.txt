@@ -1,0 +1,22 @@
+   Domain Name: FLORISTONE.COM
+   Registry Domain ID: 4382178_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.godaddy.com
+   Registrar URL: http://www.godaddy.com
+   Updated Date: 2024-12-28T09:54:30Z
+   Creation Date: 1998-12-27T05:00:00Z
+   Registry Expiry Date: 2026-12-27T05:00:00Z
+   Registrar: GoDaddy.com, LLC
+   Registrar IANA ID: 146
+   Registrar Abuse Contact Email: abuse@godaddy.com
+   Registrar Abuse Contact Phone: 480-624-2505
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1465.AWSDNS-55.ORG
+   Name Server: NS-1841.AWSDNS-38.CO.UK
+   Name Server: NS-665.AWSDNS-19.NET
+   Name Server: NS-83.AWSDNS-10.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:57:22Z 

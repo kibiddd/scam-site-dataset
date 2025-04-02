@@ -1,0 +1,20 @@
+   Domain Name: WUAZE.COM
+   Registry Domain ID: 2806253813_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.advancedregistrar.com
+   Registrar URL: http://www.netearthone.com
+   Updated Date: 2024-05-12T13:29:16Z
+   Creation Date: 2023-08-16T10:11:23Z
+   Registry Expiry Date: 2025-08-16T10:11:23Z
+   Registrar: NetEarth One Inc. d/b/a NetEarth
+   Registrar IANA ID: 1005
+   Registrar Abuse Contact Email: a-b-u-s-e.whois.field@netearthone.com
+   Registrar Abuse Contact Phone: +44 02030 26 99 87
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.BYET.ORG
+   Name Server: NS2.BYET.ORG
+   Name Server: NS3.BYET.ORG
+   Name Server: NS4.BYET.ORG
+   Name Server: NS5.BYET.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:16:22Z 

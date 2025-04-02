@@ -1,0 +1,17 @@
+   Domain Name: ECHOSDECOLE.COM
+   Registry Domain ID: 2590768013_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.internet.bs
+   Registrar URL: http://www.internet.bs
+   Updated Date: 2025-02-12T13:46:35Z
+   Creation Date: 2021-02-11T19:13:48Z
+   Registry Expiry Date: 2026-02-11T19:13:48Z
+   Registrar: Internet Domain Service BS Corp
+   Registrar IANA ID: 2487
+   Registrar Abuse Contact Email: abuse@internet.bs
+   Registrar Abuse Contact Phone: +1.5163015301
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.O2SWITCH.NET
+   Name Server: NS2.O2SWITCH.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:12:20Z 

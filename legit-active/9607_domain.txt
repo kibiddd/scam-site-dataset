@@ -1,0 +1,70 @@
+Domain Name: loyola.ca
+Registry Domain ID: D64799-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.rebel.ca
+Updated Date: 2025-03-19T05:03:51Z
+Creation Date: 2001-02-02T18:42:48Z
+Registry Expiry Date: 2026-02-02T05:00:00Z
+Registrar: Rebel.ca Corp.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@rebel.com
+Registrar Abuse Contact Phone: +1.6132252000
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 106369535-CIRA
+Registrant Name: Loyola High School
+Registrant Organization:
+Registrant Street: 7272 Sherbrooke St West
+Registrant City: Montreal
+Registrant State/Province: QC
+Registrant Postal Code: H4B1R2
+Registrant Country: CA
+Registrant Phone: +1.5144861101
+Registrant Phone Ext:
+Registrant Fax: +1.5144867266
+Registrant Fax Ext:
+Registrant Email: tech@loyola.ca
+Registry Admin ID: C922726-CIRA
+Admin Name: Ray Kennedy
+Admin Organization: Loyola High School
+Admin Street: 7272 Sherbrooke St West
+Admin City: Montreal
+Admin State/Province: QC
+Admin Postal Code: H4B1R2
+Admin Country: CA
+Admin Phone: +1.5144861101
+Admin Phone Ext:
+Admin Fax: +1.5144867266
+Admin Fax Ext:
+Admin Email: tech@loyola.ca
+Registry Tech ID: C922726-CIRA
+Tech Name: Ray Kennedy
+Tech Organization: Loyola High School
+Tech Street: 7272 Sherbrooke St West
+Tech City: Montreal
+Tech State/Province: QC
+Tech Postal Code: H4B1R2
+Tech Country: CA
+Tech Phone: +1.5144861101
+Tech Phone Ext:
+Tech Fax: +1.5144867266
+Tech Fax Ext:
+Tech Email: tech@loyola.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ainsley.ns.cloudflare.com
+Name Server: koa.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T16:13:11Z 

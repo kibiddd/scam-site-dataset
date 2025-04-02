@@ -1,0 +1,9 @@
+Telekom-Login
+Telekom Login. ein Login für alle Dienste.
+Noch nicht registriert? Jetzt registrieren.
+Benutzername
+Eingeloggt bleiben
+Passwort
+Passwort vergessen?
+Hilfe
+Login

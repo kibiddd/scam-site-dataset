@@ -1,0 +1,64 @@
+XNA Game Studio 4.0 Refresh | Microsoft Learn
+Skip to main content
+This browser is no longer supported.
+Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.
+Download Microsoft Edge
+More info about Internet Explorer and Microsoft Edge
+Table of contents
+Exit focus mode
+Read in English
+Add
+Table of contents
+Read in English
+Add
+Add to plan
+Share via
+Facebook
+x.com
+LinkedIn
+Email
+Print
+Table of contents
+XNA Game Studio 4.0 Refresh
+Article
+09/29/2011
+In this article
+XNA Game Studio 4.0 Refresh is a programming environment that allows you to use Visual Studio to create games for Windows Phone, Xbox 360, and Windows. XNA Game Studio includes the XNA Framework, a set of managed libraries designed for game development based on the Microsoft .NET Framework. This documentation collection contains technology overviews, tutorials, and reference material related to XNA Game Studio.
+In This Section
+Introduction to XNA Game Studio 4.0 Refresh
+Provides helpful prerequisities for installing and using XNA Game Studio 4.0 Refresh
+Getting Started with XNA Game Studio Development
+Provides introductory information about developing games with XNA Game Studio.
+Writing Game Code
+Describes how to use XNA Game Studio and the XNA Framework to develop multiplatform games for Windows, Xbox 360, and Windows Phone.
+Adding Art, Music, and Other Game Assets
+Describes game assets, such as bitmaps, models, textures, and sounds. These assets, a collection of data files used to support gameplay, are managed by the XNA Framework Content Pipeline.
+Packing and Distributing Your Game
+Describes how to share and distribute your game to XNA Game Studio users and others.
+Advanced Topics
+Describes how XNA Game Studio provides numerous feature extensions to Visual Studio and Visual C# Express to help create eye-popping games.
+XNA Framework Class Library
+The XNA Framework class library is a library of classes, interfaces, and value types that are included in XNA Game Studio.
+Content Pipeline Class Library
+The Content Pipeline class library is a library of classes, interfaces, and value types that are included in XNA Game Studio. This library provides access to XNA Framework Content Pipeline functionality and is designed to be the foundation on which Content Pipelineârelated applications, components, and controls are built.
+The App Hub Website
+More samples and tutorials, as well as developer community forums, are available at App Hub.
+Additional resources
+Your Privacy Choices
+Theme
+Light
+Dark
+High contrast
+Previous Versions
+Blog
+ContributePrivacyTerms of UseTrademarks© Microsoft 2025
+Additional resources
+In this article
+Your Privacy Choices
+Theme
+Light
+Dark
+High contrast
+Previous Versions
+Blog
+ContributePrivacyTerms of UseTrademarks© Microsoft 2025

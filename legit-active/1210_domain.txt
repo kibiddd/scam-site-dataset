@@ -1,0 +1,19 @@
+   Domain Name: PAPERBACKSWAP.COM
+   Registry Domain ID: 119272754_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domainpeople.com
+   Registrar URL: http://www.domainpeople.com
+   Updated Date: 2021-04-20T13:02:08Z
+   Creation Date: 2004-05-05T22:14:02Z
+   Registry Expiry Date: 2026-05-05T22:14:02Z
+   Registrar: DomainPeople, Inc.
+   Registrar IANA ID: 65
+   Registrar Abuse Contact Email: abuse@domainpeople.com
+   Registrar Abuse Contact Phone: +1.8664678929
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1398.AWSDNS-46.ORG
+   Name Server: NS-1744.AWSDNS-26.CO.UK
+   Name Server: NS-263.AWSDNS-32.COM
+   Name Server: NS-638.AWSDNS-15.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:00:12Z 

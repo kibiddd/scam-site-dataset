@@ -1,0 +1,29 @@
+   Domain Name: SECURESERVER.NET
+   Registry Domain ID: 1099023_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.wildwestdomains.com
+   Registrar URL: http://www.wildwestdomains.com
+   Updated Date: 2024-06-21T20:13:10Z
+   Creation Date: 1998-03-30T05:00:00Z
+   Registry Expiry Date: 2033-11-01T11:59:59Z
+   Registrar: Wild West Domains, LLC
+   Registrar IANA ID: 440
+   Registrar Abuse Contact Email: abuse@wildwestdomains.com
+   Registrar Abuse Contact Phone: 480-624-2505
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: A1-245.AKAM.NET
+   Name Server: A11-64.AKAM.NET
+   Name Server: A20-65.AKAM.NET
+   Name Server: A6-66.AKAM.NET
+   Name Server: A8-67.AKAM.NET
+   Name Server: A9-67.AKAM.NET
+   Name Server: CNS1.SECURESERVER.NET
+   Name Server: CNS2.SECURESERVER.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:01:21Z 

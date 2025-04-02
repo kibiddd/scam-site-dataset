@@ -1,0 +1,18 @@
+   Domain Name: POPCULTUREMADNESS.COM
+   Registry Domain ID: 16913794_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.cloudflare.com
+   Registrar URL: http://www.cloudflare.com
+   Updated Date: 2024-12-09T04:01:32Z
+   Creation Date: 2000-01-08T20:40:23Z
+   Registry Expiry Date: 2026-01-08T20:40:23Z
+   Registrar: Cloudflare, Inc.
+   Registrar IANA ID: 1910
+   Registrar Abuse Contact Email: registrar-abuse@cloudflare.com
+   Registrar Abuse Contact Phone: +1.6503198930
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DANA.NS.CLOUDFLARE.COM
+   Name Server: TODD.NS.CLOUDFLARE.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 2371 13 2 7A770A9847D9EA8268967071CA2A2953C94A2320F39E1DCC7D22A653BBE5D458
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T01:05:57Z 

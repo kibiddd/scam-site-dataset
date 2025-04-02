@@ -1,0 +1,74 @@
+Domain Name: torontofc.ca
+Registry Domain ID: D343061-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: https://help.opensrs.com/hc/en-us
+Updated Date: 2025-01-18T08:43:01Z
+Creation Date: 2006-01-19T21:32:26Z
+Registry Expiry Date: 2026-01-19T05:00:00Z
+Registrar: Tucows.com Co.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: compliance@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 43670416-CIRA
+Registrant Name: Maple Leaf Sports & Entertainment Partnership
+Registrant Organization:
+Registrant Street: 50 Bay St.
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5J2L2
+Registrant Country: CA
+Registrant Phone: +1.4168155400
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: digital@mlse.com
+Registry Admin ID: 18869967-CIRA
+Admin Name: Jim O'Mara
+Admin Organization: Maple Leaf Sports & Entertainmnet
+Admin Street: 307 Lakeshore Blvd. East
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5A1C1
+Admin Country: CA
+Admin Phone: +1.4168154873
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: jim.omara@mlse.com
+Registry Tech ID: 18869968-CIRA
+Tech Name: Jim O'Mara
+Tech Organization: Maple Leaf Sports & Entertainmnet
+Tech Street: 307 Lakeshore Blvd. East
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5A1C1
+Tech Country: CA
+Tech Phone: +1.4168154873
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: jim.omara@mlse.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: pdns1.ultradns.net
+Name Server: pdns2.ultradns.net
+Name Server: pdns3.ultradns.org
+Name Server: pdns4.ultradns.org
+Name Server: pdns5.ultradns.info
+Name Server: pdns6.ultradns.co.uk
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T03:15:06Z 

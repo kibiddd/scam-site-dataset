@@ -1,0 +1,17 @@
+   Domain Name: HULKSHARE.COM
+   Registry Domain ID: 1564429518_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.rrpproxy.net
+   Registrar URL: http://www.key-systems.net
+   Updated Date: 2019-01-30T13:43:07Z
+   Creation Date: 2009-08-03T17:47:25Z
+   Registry Expiry Date: 2025-08-03T17:47:25Z
+   Registrar: Key-Systems GmbH
+   Registrar IANA ID: 269
+   Registrar Abuse Contact Email: abuse@key-systems.net
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.HULKSHARE.COM
+   Name Server: NS2.HULKSHARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T22:47:11Z 

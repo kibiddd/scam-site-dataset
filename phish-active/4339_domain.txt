@@ -1,0 +1,21 @@
+%%
+%% This is the NIC Chile Whois server (whois.nic.cl).
+%%
+%% Rights restricted by copyright.
+%% See https://www.nic.cl/normativa/politica-publicacion-de-datos-cl.pdf
+%%
+
+Domain name: bitalchile.cl
+Registrant name: BITAL CHILE SPA
+Registrant organisation: 
+Registrar name: NIC Chile
+Registrar URL: https://www.nic.cl
+Creation date: 2018-12-03 23:52:45 CLST
+Expiration date: 2025-12-03 23:52:45 CLST
+Name server: ns.hostingtop.cl
+Name server: ns.vinculos.cl
+
+%%
+%% For communication with domain contacts please use website.
+%% See https://www.nic.cl/registry/Whois.do?d=bitalchile.cl
+%%

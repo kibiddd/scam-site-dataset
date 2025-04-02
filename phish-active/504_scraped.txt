@@ -1,0 +1,6 @@
+Login
+Welcome Back !
+Login Now
+Username
+Password
+Privacy Policy

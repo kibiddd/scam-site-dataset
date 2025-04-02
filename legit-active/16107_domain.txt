@@ -1,0 +1,19 @@
+   Domain Name: TRANSITFAN.COM
+   Registry Domain ID: 1319962279_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.ionos.com
+   Registrar URL: http://www.ionos.com
+   Updated Date: 2024-11-06T08:24:48Z
+   Creation Date: 2007-11-05T18:00:13Z
+   Registry Expiry Date: 2025-11-05T18:00:13Z
+   Registrar: IONOS SE
+   Registrar IANA ID: 83
+   Registrar Abuse Contact Email: abuse@ionos.com
+   Registrar Abuse Contact Phone: +1.6105601459
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1107.UI-DNS.BIZ
+   Name Server: NS1107.UI-DNS.COM
+   Name Server: NS1107.UI-DNS.DE
+   Name Server: NS1107.UI-DNS.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:32:48Z 

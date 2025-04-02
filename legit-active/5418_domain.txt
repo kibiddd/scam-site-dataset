@@ -1,0 +1,19 @@
+   Domain Name: RIGHTDIAGNOSIS.COM
+   Registry Domain ID: 209192870_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.brandsight.com
+   Registrar URL: http://gcd.com
+   Updated Date: 2024-08-14T23:04:34Z
+   Creation Date: 2005-09-14T02:28:07Z
+   Registry Expiry Date: 2025-09-14T02:28:07Z
+   Registrar: GoDaddy Corporate Domains, LLC
+   Registrar IANA ID: 3786
+   Registrar Abuse Contact Email: abuse@gcd.com
+   Registrar Abuse Contact Phone: +1.5189669187
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1170.AWSDNS-18.ORG
+   Name Server: NS-1816.AWSDNS-35.CO.UK
+   Name Server: NS-499.AWSDNS-62.COM
+   Name Server: NS-600.AWSDNS-11.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:15:05Z 

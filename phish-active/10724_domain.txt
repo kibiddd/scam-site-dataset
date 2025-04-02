@@ -1,0 +1,44 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T10:57:30-03:00 - 2a09:bac5:c82e:a0::10:50e
+
+domain:      grupoferrasa.com.br
+owner:       C.S. Alexakis Propaganda e Marketing Ltda.
+ownerid:     00.281.338/0001-69
+responsible: Alexakis Georgios
+country:     BR
+owner-c:     ALG423
+tech-c:      SNPGA5
+nserver:     ns1.locaweb.com.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+nserver:     ns2.locaweb.com.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+saci:        yes
+created:     20120827 #10379613
+changed:     20240731
+expires:     20270827
+status:      published
+
+nic-hdl-br:  ALG423
+person:      Alexakis Georgios
+e-mail:      stefanos@alexakis.com.br
+country:     BR
+created:     20020905
+changed:     20240725
+
+nic-hdl-br:  SNPGA5
+person:      Sergio Ney Padilha Garcia
+e-mail:      sneypg@grupoferrasa.com.br
+country:     BR
+created:     20141028
+changed:     20230502
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

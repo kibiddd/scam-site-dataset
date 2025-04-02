@@ -1,0 +1,24 @@
+   Domain Name: EAOVISION.COM
+   Registry Domain ID: 2477394470_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-12-24T00:23:54Z
+   Creation Date: 2020-01-07T21:11:09Z
+   Registry Expiry Date: 2026-01-07T21:11:09Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: DNS1.P03.NSONE.NET
+   Name Server: DNS2.P03.NSONE.NET
+   Name Server: DNS3.P03.NSONE.NET
+   Name Server: DNS4.P03.NSONE.NET
+   Name Server: NS01.SQUARESPACEDNS.COM
+   Name Server: NS02.SQUARESPACEDNS.COM
+   Name Server: NS03.SQUARESPACEDNS.COM
+   Name Server: NS04.SQUARESPACEDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:11:19Z 

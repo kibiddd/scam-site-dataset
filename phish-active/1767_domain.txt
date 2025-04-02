@@ -1,0 +1,65 @@
+query : airpos.co.kr
+
+
+# KOREAN(UTF8)
+
+도메인이름                  : airpos.co.kr
+등록인                      : (주)에어포스
+등록인 주소                 : 서울 서초구 양재동 332-1 2층 .
+등록인 우편번호             : 137130
+책임자                      : 김광식
+책임자 전자우편             : myrufuye@yahoo.co.kr
+책임자 전화번호             : 017-504-6370
+등록일                      : 2003. 01. 08.
+최근 정보 변경일            : 2022. 12. 27.
+사용 종료일                 : 2030. 01. 08.
+정보공개여부                : Y
+등록대행자                  : (주)후이즈(http://whois.co.kr)
+DNSSEC                      : 미서명
+
+1차 네임서버 정보
+   호스트이름               : ns1.whoisdomain.kr
+   IP 주소                  : 115.85.182.35
+
+2차 네임서버 정보
+   호스트이름               : ns2.whoisdomain.kr
+   IP 주소                  : 49.50.165.188
+   호스트이름               : ns3.whoisdomain.kr
+   IP 주소                  : 61.97.189.22
+   호스트이름               : ns4.whoisdomain.kr
+   IP 주소                  : 219.251.156.134
+
+네임서버 이름이 .kr이 아닌 경우는 IP주소가 보이지 않습니다.
+
+
+# ENGLISH
+
+Domain Name                 : airpos.co.kr
+Registrant                  : AirPos
+Registrant Address          : SEOUL, Seocho-guYangjae-dong
+Registrant Zip Code         : 137130
+Administrative Contact(AC)  : KimKwang sik
+AC E-Mail                   : myrufuye@yahoo.co.kr
+AC Phone Number             : 017-504-6370
+Registered Date             : 2003. 01. 08.
+Last Updated Date           : 2022. 12. 27.
+Expiration Date             : 2030. 01. 08.
+Publishes                   : Y
+Authorized Agency           : Whois Corp.(http://whois.co.kr)
+DNSSEC                      : unsigned
+
+Primary Name Server
+   Host Name                : ns1.whoisdomain.kr
+   IP Address               : 115.85.182.35
+
+Secondary Name Server
+   Host Name                : ns2.whoisdomain.kr
+   IP Address               : 49.50.165.188
+   Host Name                : ns3.whoisdomain.kr
+   IP Address               : 61.97.189.22
+   Host Name                : ns4.whoisdomain.kr
+   IP Address               : 219.251.156.134
+
+
+- KISA/KRNIC WHOIS Service -
+

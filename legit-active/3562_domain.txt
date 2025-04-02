@@ -1,0 +1,18 @@
+   Domain Name: FIRESTONECOMPLETEAUTOCARE.COM
+   Registry Domain ID: 128446174_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.1api.net
+   Registrar URL: http://www.1api.net
+   Updated Date: 2024-07-25T08:28:27Z
+   Creation Date: 2004-08-26T21:22:00Z
+   Registry Expiry Date: 2025-08-26T21:22:00Z
+   Registrar: 1API GmbH
+   Registrar IANA ID: 1387
+   Registrar Abuse Contact Email: abuse@1api.net
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1188.ISPAPI.NET
+   Name Server: NS2224.ISPAPI.NET
+   Name Server: NS3211.ISPAPI.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T01:57:18Z 

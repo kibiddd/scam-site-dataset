@@ -1,0 +1,20 @@
+   Domain Name: GEARBOXGIFTS.COM
+   Registry Domain ID: 1570044911_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-09-23T02:01:44Z
+   Creation Date: 2009-09-23T16:09:52Z
+   Registry Expiry Date: 2025-09-23T16:09:52Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.PARVOHOST.COM
+   Name Server: NS2.PARVOHOST.COM
+   Name Server: NS3.PARVOHOST.COM
+   Name Server: NS4.PARVOHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:34:55Z 

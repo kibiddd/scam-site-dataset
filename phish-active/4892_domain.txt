@@ -1,0 +1,20 @@
+   Domain Name: ULTERIUS.NET
+   Registry Domain ID: 92598789_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.rebel.com
+   Registrar URL: http://www.rebel.com
+   Updated Date: 2024-11-27T08:43:04Z
+   Creation Date: 2002-11-27T02:25:01Z
+   Registry Expiry Date: 2025-11-27T02:25:01Z
+   Registrar: Rebel Ltd
+   Registrar IANA ID: 600
+   Registrar Abuse Contact Email: abuse@rebel.com
+   Registrar Abuse Contact Phone: 1-866-497-3235
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1070.AWSDNS-05.ORG
+   Name Server: NS-1812.AWSDNS-34.CO.UK
+   Name Server: NS-243.AWSDNS-30.COM
+   Name Server: NS-899.AWSDNS-48.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:01:07Z 

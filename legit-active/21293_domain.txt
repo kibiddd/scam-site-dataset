@@ -1,0 +1,17 @@
+   Domain Name: UNITED-STATES-MAP.COM
+   Registry Domain ID: 153788193_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.misk.com
+   Registrar URL: http://www.misk.com
+   Updated Date: 2024-01-22T22:19:22Z
+   Creation Date: 2005-04-30T14:33:23Z
+   Registry Expiry Date: 2025-04-30T14:33:23Z
+   Registrar: Misk.com, Inc.
+   Registrar IANA ID: 401
+   Registrar Abuse Contact Email: abuse@misk.com
+   Registrar Abuse Contact Phone: +1.4252304250
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.ZED.NEWWEBSITE.COM
+   Name Server: NS2.ZED.NEWWEBSITE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:58:38Z 

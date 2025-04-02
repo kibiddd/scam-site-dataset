@@ -1,0 +1,15 @@
+Domain Name: creditoman-bc.om
+Registry Domain ID: DDF34D8574C684876E1BE9B874D4A9D18-OMREG
+Registrar WHOIS Server:
+Registrar URL: www.omandatapark.com
+Registrar: Oman Data Park LLC (ODP)
+Registrar IANA ID: 700000005
+Registrar Abuse Contact Email:
+Registrant Name: Majid  Al Kindy
+Registrant Organization: CREDIT OMAN SAOC
+Registrant Email: creditoman@omanwebservices.com
+Admin Organization: CREDIT OMAN SAOC
+Name Server: ns1.odp-cloud.com
+Name Server: ns2.odp-cloud.com
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T23:15:14Z 

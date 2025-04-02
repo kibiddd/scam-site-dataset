@@ -1,0 +1,23 @@
+   Domain Name: URBANDICTIONARY.COM
+   Registry Domain ID: 78592418_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2021-10-04T21:06:46Z
+   Creation Date: 2001-10-14T18:47:45Z
+   Registry Expiry Date: 2030-10-14T18:47:45Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1462.AWSDNS-54.ORG
+   Name Server: NS-1543.AWSDNS-00.CO.UK
+   Name Server: NS-454.AWSDNS-56.COM
+   Name Server: NS-690.AWSDNS-22.NET
+   Name Server: NS-CLOUD-D1.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-D2.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-D3.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-D4.GOOGLEDOMAINS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:14:50Z 

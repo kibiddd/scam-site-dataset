@@ -1,0 +1,97 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        cest-bon.fr
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      ANO00-FRNIC
+admin-c:                       GJ125-FRNIC
+tech-c:                        JG726-FRNIC
+registrar:                     INFORMATIQUE ON LINE
+Expiry Date:                   2025-12-01T08:18:32Z
+created:                       2009-12-01T08:18:32Z
+last-update:                   2025-01-31T23:05:36.685023Z
+source:                        FRNIC
+
+nserver:                       ns3.dns-iol.com
+nserver:                       ns4.dns-iol.com
+source:                        FRNIC
+
+registrar:                     INFORMATIQUE ON LINE
+address:                       330 Allée des Hêtres
+address:                       Bâtiment C
+address:                       69760 LIMONEST
+country:                       FR
+phone:                         +33.478335632
+fax-no:                        +33.478335415
+e-mail:                        info@i-online.fr
+website:                       http://www.i-online.fr
+anonymous:                     No
+registered:                    2003-09-29T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       JG726-FRNIC
+type:                          ORGANIZATION
+contact:                       janin guillaume
+address:                       330 All des hêtres Bât C
+address:                       69760 Limonest
+country:                       FR
+phone:                         +33.478335632
+e-mail:                        info@i-online.fr
+registrar:                     INFORMATIQUE ON LINE
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       ANO00-FRNIC
+type:                          PERSON
+contact:                       Ano Nymous
+registrar:                     INFORMATIQUE ON LINE
+anonymous:                     YES
+remarks:                       -------------- WARNING --------------
+remarks:                       While the registrar knows him/her,
+remarks:                       this person chose to restrict access
+remarks:                       to his/her personal data. So PLEASE,
+remarks:                       don't send emails to Ano Nymous. This
+remarks:                       address is bogus and there is no hope
+remarks:                       of a reply.
+remarks:                       -------------- WARNING --------------
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       GJ125-FRNIC
+type:                          PERSON
+contact:                       Guillaume Janin
+address:                       INFORMATIQUE ON LINE
+address:                       330 Allée des hêtres - Bat C
+address:                       69760 LIMONEST
+country:                       FR
+phone:                         +33.478335632
+e-mail:                        info@i-online.fr
+registrar:                     INFORMATIQUE ON LINE
+changed:                       2018-04-17T08:18:55Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-03-26T23:04:32.217603Z 

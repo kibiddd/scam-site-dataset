@@ -1,0 +1,24 @@
+Domain Name: X8-A11.ONLINE
+Registry Domain ID: D509452806-CNIC
+Registrar WHOIS Server: whois.PublicDomainRegistry.com
+Registrar URL: https://publicdomainregistry.com
+Updated Date: 2025-01-30T12:04:27.0Z
+Creation Date: 2024-12-06T16:44:30.0Z
+Registry Expiry Date: 2025-12-06T23:59:59.0Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: WHOIS IDCPrivacy Service c/o Integrated Data Communications Limited
+Registrant State/Province: MA
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: DAVID.NS.CLOUDFLARE.COM
+Name Server: ELMA.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:49:04.0Z 

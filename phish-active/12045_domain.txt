@@ -1,0 +1,23 @@
+   Domain Name: NCUK.NET
+   Registry Domain ID: 14284195_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.comlaude.com
+   Registrar URL: http://www.comlaude.com
+   Updated Date: 2025-01-15T09:54:40Z
+   Creation Date: 1999-11-30T13:06:17Z
+   Registry Expiry Date: 2034-11-30T13:06:17Z
+   Registrar: Nom-iq Ltd. dba COM LAUDE
+   Registrar IANA ID: 470
+   Registrar Abuse Contact Email: abuse@comlaude.com
+   Registrar Abuse Contact Phone: +442074218250
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS0.NCUK.NET
+   Name Server: NS1.NCUK.NET
+   Name Server: NS2.NCUK.NET
+   Name Server: NS3.NCUK.NET.UK
+   Name Server: NS4.NCUK.NET.UK
+   Name Server: NS5.NCUK.NET.UK
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:54:04Z 

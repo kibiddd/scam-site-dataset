@@ -1,0 +1,24 @@
+   Domain Name: KKSF.COM
+   Registry Domain ID: 3428448_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-04-11T10:23:34Z
+   Creation Date: 1996-05-12T04:00:00Z
+   Registry Expiry Date: 2025-05-13T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS0121.SECONDARY.CLOUDFLARE.COM
+   Name Server: NS0237.SECONDARY.CLOUDFLARE.COM
+   Name Server: PDNS196.ULTRADNS.BIZ
+   Name Server: PDNS196.ULTRADNS.COM
+   Name Server: PDNS196.ULTRADNS.INFO
+   Name Server: PDNS196.ULTRADNS.NET
+   Name Server: PDNS196.ULTRADNS.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:22:08Z 

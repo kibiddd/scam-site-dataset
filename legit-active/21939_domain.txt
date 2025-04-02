@@ -1,0 +1,75 @@
+Domain Name: tripadvisor.ca
+Registry Domain ID: D556901-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.cscglobal.com
+Updated Date: 2025-01-07T17:03:41Z
+Creation Date: 2002-06-21T19:57:26Z
+Registry Expiry Date: 2025-06-21T04:00:00Z
+Registrar: CSC Corporate Domains (Canada) Company
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: domainabuse@cscglobal.com
+Registrar Abuse Contact Phone: +1.3026365400
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 2973301-CIRA
+Registrant Name: TripAdvisor Canada Corp.
+Registrant Organization:
+Registrant Street: 377 Dalhousie Street, Unit 301
+Registrant City: Ottawa
+Registrant State/Province: ON
+Registrant Postal Code: K1N9N8
+Registrant Country: CA
+Registrant Phone: +1.6137898763
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: hostmaster@tripadvisor.com
+Registry Admin ID: 2973302-CIRA
+Admin Name: Corie Mieth
+Admin Organization:
+Admin Street: 141 Needham Street
+Admin City: Newton
+Admin State/Province: MA
+Admin Postal Code: 02464
+Admin Country: US
+Admin Phone: +1.6176706544
+Admin Phone Ext:
+Admin Fax: +1.6176706301
+Admin Fax Ext:
+Admin Email: admin@internationaladmin.com
+Registry Tech ID: 80330482-CIRA
+Tech Name: Legal Department
+Tech Organization: TripAdvisor LLC
+Tech Street: 400 First Avenue
+Tech City: Needham
+Tech State/Province: MA
+Tech Postal Code: 02494
+Tech Country: US
+Tech Phone: +1.6176706544
+Tech Phone Ext:
+Tech Fax: +1.6176706301
+Tech Fax Ext:
+Tech Email: hostmaster@tripadvisor.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns-1310.awsdns-35.org
+Name Server: ns-1917.awsdns-47.co.uk
+Name Server: ns-555.awsdns-05.net
+Name Server: ns-97.awsdns-12.com
+Name Server: ns-cloud-b1.googledomains.com
+Name Server: ns-cloud-b2.googledomains.com
+Name Server: ns-cloud-b3.googledomains.com
+Name Server: ns-cloud-b4.googledomains.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T22:41:56Z 

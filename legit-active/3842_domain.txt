@@ -1,0 +1,67 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: PRINCETON.EDU
+
+Registrant:
+	Princeton University
+	Office of Information Technology
+	701 Carnegie Center, Suite 301
+	Princeton, NJ 08540
+	USA
+
+Administrative Contact:
+	Princeton University
+	Princeton University
+	87 Prospect Ave #106
+	Office of Information Technology
+	Networking & Monitoring Services
+	Princeton, NJ 08540
+	USA
+	+1.6092582774
+	netipam@princeton.edu
+
+Technical Contact:
+	Princeton University
+	Princeton University
+	87 Prospect Ave #106
+	Office of Information Technology
+	Networking & Monitoring Services
+	Princeton, NJ 08540
+	USA
+	+1.6092582774
+	netipam@princeton.edu
+
+Name Servers:
+	A7-65.AKAM.NET
+	NS6.DNSMADEEASY.COM
+	A1-158.AKAM.NET
+	A24-66.AKAM.NET
+	A6-64.AKAM.NET
+	A3-67.AKAM.NET
+	A20-65.AKAM.NET
+	NS7.DNSMADEEASY.COM
+	NS5.DNSMADEEASY.COM
+
+Domain record activated:    03-Apr-1987
+Domain record last updated: 03-Jun-2024
+Domain expires:             31-Jul-2027

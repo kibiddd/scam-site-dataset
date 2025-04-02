@@ -1,0 +1,71 @@
+Domain Name: geordie.ca
+Registry Domain ID: D41009-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: ca.godaddy.com
+Updated Date: 2023-02-09T14:49:30Z
+Creation Date: 2000-11-10T21:03:28Z
+Registry Expiry Date: 2026-12-01T05:00:00Z
+Registrar: Go Daddy Domains Canada, Inc
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 108710322-CIRA
+Registrant Name: Kathryn Westoll
+Registrant Organization: Kathryn Westoll
+Registrant Street: 4700 rue Dagenais, Suite 3
+Registrant City: Montreal
+Registrant State/Province: QC
+Registrant Postal Code: H4C1L7
+Registrant Country: CA
+Registrant Phone: +1.5148459810
+Registrant Phone Ext:
+Registrant Fax: +1.5148453634
+Registrant Fax Ext:
+Registrant Email: kathryn@geordie.ca
+Registry Admin ID: 91267648-CIRA
+Admin Name: Kathryn Westoll
+Admin Organization:
+Admin Street: 4700 rue Dagenais, Suite 3
+Admin City: Montreal
+Admin State/Province: QC
+Admin Postal Code: H4C1L7
+Admin Country: CA
+Admin Phone: +1.5148459810
+Admin Phone Ext:
+Admin Fax: +1.5148453634
+Admin Fax Ext:
+Admin Email: kathryn@geordie.ca
+Registry Tech ID: 91267876-CIRA
+Tech Name: Kathryn Westoll
+Tech Organization:
+Tech Street: 4700 rue Dagenais, Suite 3
+Tech City: Montreal
+Tech State/Province: QC
+Tech Postal Code: H4C1L7
+Tech Country: CA
+Tech Phone: +1.5148459810
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: kathryn@geordie.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns63.domaincontrol.com
+Name Server: ns64.domaincontrol.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T18:40:01Z 

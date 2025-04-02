@@ -1,0 +1,61 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: LOUISVILLE.EDU
+
+Registrant:
+	University of Louisville
+	Information Technology - Communications Services
+	109 Miller Info Tech Center
+	Louisville, KY 40292
+	USA
+
+Administrative Contact:
+	Domain Admin
+	University of Louisville
+	109 Miller Info Tech Center
+	Information Technology Communications Services
+	Louisville, KY 40292
+	USA
+	+1.5028521776
+	domain.admin@hermes.louisville.edu
+
+Technical Contact:
+	Domain Tech
+	University of Louisville
+	109 Miller Info Tech Center
+	Information Technology Communications Services
+	Louisville, KY 40292
+	USA
+	+1.5028521776
+	domain.tech@hermes.louisville.edu
+
+Name Servers:
+	HERMES.IPV6.LOUISVILLE.EDU
+	HERMES.LOUISVILLE.EDU
+	PAN.IPV6.LOUISVILLE.EDU
+	DNS-AWS.LOUISVILLE.EDU
+	PAN.LOUISVILLE.EDU
+
+Domain record activated:    11-Sep-1989
+Domain record last updated: 22-Jan-2024
+Domain expires:             31-Jul-2026

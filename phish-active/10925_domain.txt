@@ -1,0 +1,26 @@
+Domain Name: es.tl
+Registry Domain ID: 87532-CoCCA
+Updated Date: 2025-01-26T23:46:53Z
+Creation Date: 2007-02-08T21:31:54Z
+Registry Expiry Date: 2026-02-08T21:31:54Z
+Registrar Registration Expiration Date: 2026-02-08T21:31:54Z
+Registrar: InterNetX GmbH
+Registrar Street Address: Johanna-Dachs-Str. 55
+Registrar City: Regensburg
+Registrar State: Bayern
+Registrar Postal Code: 93055
+Registrar Email: nic-cx@domains.internetx.de
+Domain Status: active https://icann.org/epp#active
+Registry Registrant ID: 752747-CoCCA
+Registry Admin ID: 752747-CoCCA
+Registry Tech ID: 752748-CoCCA
+Tech Street: Strassburger Strasse 55
+Tech City: Berlin
+Tech State/Province: de
+Tech Postal Code: 10405
+Tech Country: 
+Name Server: ns01.webme.com
+Name Server: ns02.webme.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T13:58:00.055Z 

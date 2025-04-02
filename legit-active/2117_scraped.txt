@@ -1,0 +1,31 @@
+Update Your Browser
+Browser Update Required
+Your browser is out of date. Please update to the latest version to ensure the best performance and security.
+How to Update Your Browser
+Google Chrome
+Open Chrome.
+Click on the three dots in the upper-right corner of the browser window.
+Go to "Help" and then "About Google Chrome."
+Chrome will automatically check for updates and install them.
+After the update, click "Relaunch."
+Download Chrome
+Mozilla Firefox
+Open Firefox.
+Click on the three lines in the upper-right corner of the browser window.
+Go to "Help" and then "About Firefox."
+Firefox will automatically check for updates and install them.
+After the update, click "Restart to update Firefox."
+Download Firefox
+Microsoft Edge
+Open Edge.
+Click on the three dots in the upper-right corner of the browser window.
+Go to "Help and feedback" and then "About Microsoft Edge."
+Edge will automatically check for updates and install them.
+After the update, click "Restart."
+Download Edge
+Apple Safari
+Open the App Store.
+Click on "Updates" in the left-hand sidebar.
+Look for Safari in the list of available updates.
+Click on "Update."
+Download Safari

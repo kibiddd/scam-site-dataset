@@ -1,0 +1,36 @@
+OptEM - Cable Design Software | Submicron IC Extraction Software
+Software and consulting services for cable design, modeling and analysis, and submicron IC extraction.
+Home|Site Map|Contact Us
+About OptEM
+About OptEM
+Location & Sales Contacts
+Careers
+Contact Us
+Software Products
+Software Products
+Cable System Tools
+Submicron IC Tools
+Engineering Services
+Engineering Services
+Consulting
+EM Modeling & SI Seminars
+OptEM Cable Designer Training
+OptEM Inspector Training
+News & Resources
+News & Resources
+Technical Support
+Technical Papers
+OptEM Engineering Inc. provides software and consulting services for cable design and submicron IC extraction. Our goal is to optimize (Opt-) the electromagetic (-EM) performance of electronic interconnect through innovative software products and dedicated customer service.
+Cable Design System Solutions
+Cable design, modeling and analysis software for data, communication, subsea umbilical and specialty applications
+High performance connectors
+OptEM Cable Designer software training — cable design, modeling and analysis training courses
+Cable design and modeling technical papers
+Submicron IC Extraction Solutions
+Device, interconnect and substrate extraction software for analog, digital and mixed-signal ICs
+Pre-layout parametric interconnect design
+Electronic package interconnects
+OptEM Inspector software training — IC device, interconnect and substrate RC extraction training courses
+Submicron IC extraction technical papers
+Copyright©2025 OptEM Engineering Inc. All Rights Reserved
+Home|Site Map|Terms of Use|Privacy Policy

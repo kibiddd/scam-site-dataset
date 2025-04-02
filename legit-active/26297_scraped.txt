@@ -1,0 +1,42 @@
+one.point.zero - one.point.zero
+one.point.zero
+Menu
+Blog
+Stream
+Archives
+About
+Blog
+Following Ed Pratt down the river Thames.
+Note: playing video here allows YouTube to track you across sites.
+View directly on YouTube to avoid this.
+In this age of ragebait and kinetic videos, I find watching each episode of Ed Pratt's journey from source to sea down the river Thames to be online comfort food. You can find the other episodes on his YouTube channel.
+Added on Mar 11, 2025
+Details
+I've been fixing bugs that affected, among other things, the RSS feed. Sorry if some of you are seeing duplicate content. It should be fine from now on.
+Noted on 13th February 2025
+Details
+The mini subway under the U.S. Capitol.
+Note: playing video here allows YouTube to track you across sites.
+View directly on YouTube to avoid this.
+I didn't know the U.S. Capitol had its own mini underground rail network to shuttle people between buildings. I'm always fascinated by these independent networks.
+Added on Feb 12, 2025
+Details
+You're still being tracked by apps on your phone.
+An interesting deep dive into how your geolocation data gets exfiltrated by advertising networks via apps on your phone and sold to, not only the highest bidder, but basically any data broker, government agency, or other organisation that can afford it.
+All of this, of course, despite you setting your phone to not allow these apps to track you.
+By the way, the list of apps that do this (Google Docs) contained 2 apps I had installed on my phone. I'd take a look and see what apps you should be removing from yours.
+Linked on 9th February 2025
+Details
+Small changes to the blog.
+I just switched this blog from using a dynamic Django-based solution to running as a static site using Eleventy. I mainly did this in anticipation of some further changes to come. But, basically, I needed something simpler that would encourage me to post more often.
+Continue reading…
+Posted on 5th February 2025
+Details
+The constant aggression of the current internet.
+This piece, from Ed Zitron, is one of the best things I've read in a while. It puts into words what I've been feeling about tech recently better than I ever could. He's angry, but rightly so.
+The people running the majority of internet services have used a combination of monopolies and a cartel-like commitment to growth-at-all-costs thinking to make war with the user, turning the customer into something between a lab rat and an unpaid intern, with the goal to juice as much value from the interaction as possible. To be clear, tech has always had an avaricious streak, and it would be naive to suggest otherwise, but this moment feels different. I’m stunned by the extremes tech companies are going to extract value from customers, but also by the insidious way they’ve gradually degraded their products.
+Linked on 2nd January 2025
+Details
+Next Page »
+RSS Feed (What's an RSS
+feed?)

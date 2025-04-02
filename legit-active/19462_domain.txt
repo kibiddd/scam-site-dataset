@@ -1,0 +1,23 @@
+Domain Name: bicycles.net.au
+Registry Domain ID: f7ec848213124ee8bd3bb651b0897c52-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.crazydomains.com.au/contact/
+Last Modified: 2025-01-12T08:41:57Z
+Registrar Name: Web Address Registration Pty Ltd
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Reseller Name: 
+Status: ok https://identitydigital.au/get-au/whois-status-codes#ok
+Registrant Contact ID: 9c11b8a9f3d74b6c81ad37182616036f-AU
+Registrant Contact Name: Christopher Jones
+Tech Contact ID: 228774a24a894d21a457c2874309f81e-AU
+Tech Contact Name: Christopher Jones
+Name Server: ns-1419.awsdns-49.org
+Name Server: ns-1639.awsdns-12.co.uk
+Name Server: ns-6.awsdns-00.com
+Name Server: ns-801.awsdns-36.net
+DNSSEC: unsigned
+Registrant: Signale Pty Ltd
+Registrant ID: ABN 43152601075
+Eligibility Type: Company
+>>> Last update of WHOIS database: 2025-03-27T21:50:43Z 

@@ -1,0 +1,60 @@
+%  (c) 2006-2021 CZ.NIC, z.s.p.o.
+% 
+% Intended use of supplied data and information
+% 
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+% 
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+% 
+% See also a search service at http://www.nic.cz/whois/
+% 
+% 
+% Whoisd Server Version: 3.15.0
+% Timestamp: Thu Mar 27 14:58:01 2025
+
+domain:       haka-software.cz
+registrant:   GIGASERVER-1204271333
+admin-c:      BLUEBOARD
+nsset:        AZ-WEBOVKA
+registrar:    REG-WEBGLOBE
+registered:   23.09.2008 23:00:45
+changed:      24.08.2016 00:30:01
+expire:       23.09.2025
+
+contact:      GIGASERVER-1204271333
+name:         Jaromír Háka
+address:      Školní, 639
+address:      Rokycany
+address:      33701
+address:      CZ
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      15.03.2008 10:09:12
+changed:      15.05.2018 21:32:00
+
+contact:      BLUEBOARD
+org:          Blueboard.cz s.r.o.
+name:         Tomáš Randa
+address:      Kováků 3280/5
+address:      Praha 5
+address:      150 00
+address:      CZ
+registrar:    REG-MOJEID
+created:      15.08.2011 10:14:06
+changed:      29.01.2015 17:18:05
+
+nsset:        AZ-WEBOVKA
+nserver:      az-webovka.miniserver.cz (81.0.214.203)
+nserver:      ns2.blueboard.cz (46.101.178.149)
+tech-c:       BLUEBOARD
+registrar:    REG-WEBGLOBE
+created:      19.08.2016 14:46:01
+changed:      11.12.2024 09:15:40
+
+

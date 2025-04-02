@@ -1,0 +1,17 @@
+   Domain Name: SAMMINETRADE.COM
+   Registry Domain ID: 2719417606_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tldregistrarsolutions.com
+   Registrar URL: http://www.tldregistrarsolutions.com
+   Updated Date: 2025-01-13T13:00:16Z
+   Creation Date: 2022-08-19T18:52:51Z
+   Registry Expiry Date: 2025-08-19T18:52:51Z
+   Registrar: TLD Registrar Solutions Ltd.
+   Registrar IANA ID: 1564
+   Registrar Abuse Contact Email: abuse@tldregistrarsolutions.com
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS7.TECHPLUSHOST.COM
+   Name Server: NS8.TECHPLUSHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:48:52Z 

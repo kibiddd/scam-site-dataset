@@ -1,0 +1,19 @@
+   Domain Name: SONGKICK.COM
+   Registry Domain ID: 972494977_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.brandsight.com
+   Registrar URL: http://gcd.com
+   Updated Date: 2024-09-15T04:17:54Z
+   Creation Date: 2007-05-13T16:46:36Z
+   Registry Expiry Date: 2026-05-13T16:46:36Z
+   Registrar: GoDaddy Corporate Domains, LLC
+   Registrar IANA ID: 3786
+   Registrar Abuse Contact Email: abuse@gcd.com
+   Registrar Abuse Contact Phone: +1.5189669187
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1460.AWSDNS-54.ORG
+   Name Server: NS-1553.AWSDNS-02.CO.UK
+   Name Server: NS-248.AWSDNS-31.COM
+   Name Server: NS-847.AWSDNS-41.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:07:39Z 

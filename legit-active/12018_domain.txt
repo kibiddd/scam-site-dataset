@@ -1,0 +1,19 @@
+   Domain Name: TOPIX.COM
+   Registry Domain ID: 5367295_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2021-05-12T16:12:48Z
+   Creation Date: 1995-03-02T05:00:00Z
+   Registry Expiry Date: 2026-03-03T05:00:00Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1319.AWSDNS-36.ORG
+   Name Server: NS-1973.AWSDNS-54.CO.UK
+   Name Server: NS-37.AWSDNS-04.COM
+   Name Server: NS-662.AWSDNS-18.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T15:59:56Z 

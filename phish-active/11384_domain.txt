@@ -1,0 +1,17 @@
+   Domain Name: HRCANTHO.COM
+   Registry Domain ID: 2054283015_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.matbao.net
+   Registrar URL: http://www.matbao.net
+   Updated Date: 2024-08-08T01:23:19Z
+   Creation Date: 2016-08-22T03:32:17Z
+   Registry Expiry Date: 2025-08-22T03:32:17Z
+   Registrar: MAT BAO CORPORATION
+   Registrar IANA ID: 1586
+   Registrar Abuse Contact Email: abuse@matbao.com
+   Registrar Abuse Contact Phone: +84-36229999 - 8899
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.MATBAO.VN
+   Name Server: NS2.MATBAO.VN
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:00:02Z 

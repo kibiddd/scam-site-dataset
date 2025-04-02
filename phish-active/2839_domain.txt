@@ -1,0 +1,37 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+Domain Information: [ドメイン情報]
+[Domain Name]                   KIRIIKU.JP
+
+[登録者名]                      桐山光央
+[Registrant]                    Kiriyama Mitsuo
+
+[Name Server]                   ns1.xserver.jp
+[Name Server]                   ns2.xserver.jp
+[Name Server]                   ns3.xserver.jp
+[Name Server]                   ns4.xserver.jp
+[Name Server]                   ns5.xserver.jp
+[Signing Key]                   
+
+[登録年月日]                    2019/11/06
+[有効期限]                      2025/11/30
+[状態]                          Active
+[最終更新]                      2024/12/01 01:05:04 (JST)
+
+Contact Information: [公開連絡窓口]
+[名前]                          エックスサーバー株式会社
+[Name]                          XSERVER Inc.
+[Email]                         support@xserver.ne.jp
+[Web Page]                      https://www.xserver.co.jp
+[郵便番号]                      530-0011
+[住所]                          大阪府大阪市北区
+                                大深町4-20
+                                グランフロント大阪 タワーA 32F
+[Postal Address]                GRAND FRONT OSAKA TOWER A 32F,
+                                4-20, Ofukacho,
+                                Kita-ku, Osaka-City, Osaka
+[電話番号]                      06-6292-8811
+[FAX番号]                       06-6292-8812
+

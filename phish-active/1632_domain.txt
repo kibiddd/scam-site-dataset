@@ -1,0 +1,18 @@
+Domain Name: aestheticar.com.sg
+Unicode Name: aestheticar.com.sg
+Updated Date: 2025-02-20T08:40:29Z
+Creation Date: 2015-02-04T02:23:35Z
+Registry Expiry Date: 2026-02-04T02:23:34Z
+Registrar: Exabytes Network (Singapore) Pte Ltd
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+VerifiedID Status: VerifiedID@SG-OK
+Registry Lock:
+Registrant Name: AESTHETICAR PTE LTD
+Admin Name: MPS SOLUTIONS PTE LTD
+Tech Name: MPS SOLUTIONS PTE LTD
+Tech Email: itadmin@mclinkgroup.com
+Name Server: ns184.sgcloudhosting.com
+Name Server: ns185.sgcloudhosting.com
+Name Server: ns186.sgcloudhosting.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2025-03-26T17:43:24Z 

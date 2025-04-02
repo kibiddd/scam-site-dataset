@@ -1,0 +1,39 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T08:11:17-03:00 - 2a09:bac5:c82c:166e::23c:99
+
+domain:      drsystems.com.br
+owner:       DRSYSTEMS DESENVOLVIMENTO DE SISTEMAS LTDA - ME
+ownerid:     10.468.246/0001-46
+responsible: Andrea Miranda
+country:     BR
+owner-c:     ACM640
+tech-c:      ACM640
+nserver:     ns1.locaweb.com.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+nserver:     ns2.locaweb.com.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+nserver:     ns3.locaweb.com.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+created:     20030727 #1291641
+changed:     20240627
+expires:     20270727
+status:      published
+
+nic-hdl-br:  ACM640
+person:      Andrea Crespo Miranda
+e-mail:      dede@dede.com.br
+country:     BR
+created:     20030724
+changed:     20221025
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

@@ -1,0 +1,17 @@
+   Domain Name: EXODUSWALLTE.COM
+   Registry Domain ID: 2872505589_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.eranet.com
+   Registrar URL: http://www.eranet.com
+   Updated Date: 2024-04-15T18:05:19Z
+   Creation Date: 2024-04-15T17:51:57Z
+   Registry Expiry Date: 2025-04-15T17:51:57Z
+   Registrar: Eranet International Limited
+   Registrar IANA ID: 1868
+   Registrar Abuse Contact Email: cs@eranet.com
+   Registrar Abuse Contact Phone: +85239995400
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: SNS27.HOSTGATOR.IN
+   Name Server: SNS28.HOSTGATOR.IN
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:16:38Z 

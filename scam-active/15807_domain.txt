@@ -1,0 +1,22 @@
+Domain Name: BUYUSDT.SHOP
+Registry Domain ID: DO8301863-GMO
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar URL: http://publicdomainregistry.com/
+Updated Date: 2024-07-25T04:08:22.0Z
+Creation Date: 2023-06-08T15:35:25.0Z
+Registry Expiry Date: 2025-06-08T23:59:59.0Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +91.2267209000
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email:
+Admin Email:
+Tech Email:
+Name Server: SOFIA.NS.CLOUDFLARE.COM
+Name Server: DEAN.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:49:34.0Z 

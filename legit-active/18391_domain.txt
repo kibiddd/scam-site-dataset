@@ -1,0 +1,19 @@
+   Domain Name: GRASSROOTSSOLUTIONS.COM
+   Registry Domain ID: 7184152_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2024-12-13T19:06:34Z
+   Creation Date: 1999-06-11T16:53:21Z
+   Registry Expiry Date: 2028-06-11T16:54:01Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1452.AWSDNS-53.ORG
+   Name Server: NS-1631.AWSDNS-11.CO.UK
+   Name Server: NS-360.AWSDNS-45.COM
+   Name Server: NS-882.AWSDNS-46.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:32:07Z 

@@ -1,0 +1,17 @@
+   Domain Name: PUER107.COM
+   Registry Domain ID: 2906306656_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.55hl.com
+   Registrar URL: http://www.55hl.com
+   Updated Date: 2024-09-11T08:39:44Z
+   Creation Date: 2024-08-08T03:13:21Z
+   Registry Expiry Date: 2025-08-08T03:13:21Z
+   Registrar: Jiangsu Bangning Science & technology Co. Ltd.
+   Registrar IANA ID: 1469
+   Registrar Abuse Contact Email: abuse@55hl.com
+   Registrar Abuse Contact Phone: +86.02586883421
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS3.4CUN.COM
+   Name Server: NS4.4CUN.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:50:08Z 

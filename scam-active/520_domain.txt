@@ -1,0 +1,17 @@
+   Domain Name: AIBASSETINVLIMITED.COM
+   Registry Domain ID: 2907956879_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.hostinger.com
+   Registrar URL: http://www.hostinger.com
+   Updated Date: 2024-08-30T22:30:02Z
+   Creation Date: 2024-08-14T14:18:09Z
+   Registry Expiry Date: 2025-08-14T14:18:09Z
+   Registrar: HOSTINGER operations, UAB
+   Registrar IANA ID: 1636
+   Registrar Abuse Contact Email: abuse-tracker@hostinger.com
+   Registrar Abuse Contact Phone: +37064503378
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DNS-PARKING.COM
+   Name Server: NS2.DNS-PARKING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:45:06Z 

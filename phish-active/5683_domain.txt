@@ -1,0 +1,18 @@
+   Domain Name: NXCLI.NET
+   Registry Domain ID: 2196031017_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2023-11-24T19:00:19Z
+   Creation Date: 2017-12-05T17:06:14Z
+   Registry Expiry Date: 2027-12-05T17:06:14Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: ADI.NS.CLOUDFLARE.COM
+   Name Server: VICKY.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:08:36Z 

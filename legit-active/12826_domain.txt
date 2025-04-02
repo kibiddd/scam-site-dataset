@@ -1,0 +1,17 @@
+   Domain Name: RARESPORTSFILMS.COM
+   Registry Domain ID: 9189864_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2024-12-17T02:22:29Z
+   Creation Date: 1999-08-17T16:53:27Z
+   Registry Expiry Date: 2025-08-17T16:53:12Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS3.WHEATONWEBSITESERVICES.ORG
+   Name Server: NS4.WHEATONWEBSITESERVICES.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:02:43Z 

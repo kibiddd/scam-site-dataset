@@ -1,0 +1,17 @@
+   Domain Name: WEINI000.COM
+   Registry Domain ID: 2892839849_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.julyname.com
+   Registrar URL: http://www.julyname.com
+   Updated Date: 2024-08-21T07:34:42Z
+   Creation Date: 2024-06-21T18:48:13Z
+   Registry Expiry Date: 2025-06-21T18:48:13Z
+   Registrar: July Name Limited
+   Registrar IANA ID: 3855
+   Registrar Abuse Contact Email: abuse@julyname.com
+   Registrar Abuse Contact Phone: +852.56109513
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: N1.XUNDNS.COM
+   Name Server: N2.XUNDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:50:08Z 

@@ -1,0 +1,23 @@
+   Domain Name: DOCUSIGN.COM
+   Registry Domain ID: 7237485_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-11-08T17:57:33Z
+   Creation Date: 1999-06-14T21:12:05Z
+   Registry Expiry Date: 2025-06-14T21:09:28Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: A1-246.AKAM.NET
+   Name Server: A10-65.AKAM.NET
+   Name Server: A11-66.AKAM.NET
+   Name Server: A14-67.AKAM.NET
+   Name Server: A24-64.AKAM.NET
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 6245 8 2 9C46796AC7C7B2A3E5EEFA6DA25358CD0A0E575D8F9EEEDD38D1C7241B1298A3
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:42:21Z 

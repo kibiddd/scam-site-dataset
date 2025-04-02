@@ -1,0 +1,70 @@
+Domain Name: restomontreal.ca
+Registry Domain ID: D789687-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.rebel.ca
+Updated Date: 2025-03-24T04:32:20Z
+Creation Date: 2005-01-17T23:55:35Z
+Registry Expiry Date: 2026-01-17T05:00:00Z
+Registrar: Rebel.ca Corp.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@rebel.com
+Registrar Abuse Contact Phone: +1.6132252000
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 142060-CIRA
+Registrant Name: Mitopa Inc.
+Registrant Organization: Mitopa Inc.
+Registrant Street: 532 Montreal Rd,  Suite 261
+Registrant City: Ottawa
+Registrant State/Province: ON
+Registrant Postal Code: K1K4R4
+Registrant Country: CA
+Registrant Phone: +1.8664973235
+Registrant Phone Ext:
+Registrant Fax: +1.6137061248
+Registrant Fax Ext:
+Registrant Email: SMVV60NG2HFAUXE5@privacyhero.company
+Registry Admin ID: 30257450-CIRA
+Admin Name: Connor Malcolm
+Admin Organization: Privacy Hero Inc.
+Admin Street: 532 Montreal Rd,  Suite 261
+Admin City: Ottawa
+Admin State/Province: ON
+Admin Postal Code: K1K4R4
+Admin Country: CA
+Admin Phone: +1.8664973235
+Admin Phone Ext:
+Admin Fax: +1.6137061248
+Admin Fax Ext:
+Admin Email: P1798495D843951A@privacyhero.company
+Registry Tech ID: 30257450-CIRA
+Tech Name: Connor Malcolm
+Tech Organization: Privacy Hero Inc.
+Tech Street: 532 Montreal Rd,  Suite 261
+Tech City: Ottawa
+Tech State/Province: ON
+Tech Postal Code: K1K4R4
+Tech Country: CA
+Tech Phone: +1.8664973235
+Tech Phone Ext:
+Tech Fax: +1.6137061248
+Tech Fax Ext:
+Tech Email: P1798495D843951A@privacyhero.company
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: abby.ns.cloudflare.com
+Name Server: joel.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T03:18:39Z 

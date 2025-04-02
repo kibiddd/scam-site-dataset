@@ -1,0 +1,56 @@
+Megafun.vn has two name servers, one mail server and two IP numbers...
+Login
+megafun.vn
+Robtex
+DNS
+vn
+megafun
+Loading
+ANALYSIS  QUICK INFO  REVERSE (NEW!)  RECORDS  SEO  WOT  ALEXA  THREATMINER  SHARED  GRAPH  HISTORY  WHOIS  DNSBL  GRAPH(old)
+ANALYSIS
+This section shows a quick analyis of the given host name or ip number. Megafun.vn has two name servers, one mail server and two IP numbers.
+Vasc name servers
+The name servers are dnshcm.vasc.com.vn and dnshn.vasc.com.vn.
+Megafun mail server
+The mail server is mail.megafun.vn.
+IP numbers
+The IP numbers are 113.191.41.33 and 123.29.68.73. The PTR of the IP numbers is localhost. The IP numbers are in Hanoi, Vietnam.
+Results found
+Megafun.at, megafun.az, megafun.be, megafun.biz, megafun.ca, megafun.cc, megafun.ch, megafun.cn, megafun.co, megafun.com, megafun.cz and megafun.de.
+QUICK INFO
+Quick summary of the host namemegafun.vn quick infoGeneralFQDNmegafun.vnHost NameDomain Namemegafun.vnRegistryvnTLDvnDNSIP numbers113.191.41.33123.29.68.73Name serversdnshcm.vasc.com.vndnshn.vasc.com.vnMail serversmail.megafun.vnREVERSE (NEW!)
+Reverse DNS reports of the queried and related entitiesqRECORDS
+Hierarchical analysis of the entitymegafun.vna113.191.41.33whoisIP FTTH static TP HCMroute113.191.41.0/24bgpAS45899asnameVNPTNet Vietnam Posts and TelecommunicatdescrCMI IP TransitlocationHanoi, Vietnamptrlocalhosta::1127.0.0.1123.29.68.73whoisVietnam Posts and Telecommunications(VNPT)route123.29.64.0/20bgpAS45899asnameVNPTNet Vietnam Posts and TelecommunicatdescrVNPT-NetlocationHanoi, Vietnamnsdnshcm.vasc.com.vna123.29.75.36whoisVietnam Posts and Telecommunications(VNPT)route123.29.64.0/20bgpAS45899descrVNPT-NetlocationHanoi, Vietnamptrstatic.vnpt.vndnshn.vasc.com.vna123.29.68.86whoisVietnam Posts and Telecommunications(VNPT)route123.29.64.0/20bgpAS45899descrVNPT-NetlocationHanoi, Vietnamptrdnshn.vasc.com.vnmxmail.megafun.vna123.29.67.7whoisVietnam Posts and Telecommunications(VNPT)route123.29.64.0/20bgpAS45899descrVNPT-NetlocationHanoi, Vietnamptrmail.megafun.vnupvnSEO
+WOT
+Loading...ALEXA
+Loading...THREATMINER
+Loading...SHARED
+This section shows related hostnames and ipnumbersIP numbers113.191.41.33123.29.68.732 results shown.Partially sharing IP numbersdanang.megafun.vn-1 results shown.Name serversdnshcm.vasc.com.vndnshn.vasc.com.vn2 results shown.IP numbers of the name servers123.29.68.86123.29.75.362 results shown.Mail serversmail.megafun.vn1 results shown.IP numbers of the mail servers123.29.67.71 results shown.Subdomains/HostnamesDomains or hostnames one step under this domain or hostname.cantho.megafun.vnhaiphong.megafun.vnlangson.megafun.vnm17.megafun.vnm26.megafun.vnm39.megafun.vnm5.megafun.vnninhthuan.megafun.vnsynhnmedia.megafun.vnyenbai.megafun.vn10 results shown.On other TLD:s and domainsThis sub section shows this name on other top level domains.megafun.camegafun.comegafun.dkmegafun.inmegafun.mobimegafun.nomegafun.semegafun.usmegafun.com.cnmegafun.com.vn10 results shown.Exact startThis sub section shows this names that begin the same.m.megafun.vn1 results shown.Similar startThis sub section shows this names that begin almost the same.gamefun.cofunemag.comgunfame.commeganfu.comfungame.deenfumag.infogamefun.jpgamefun.nlgamefun.rufungame.ws10 results shown.GRAPH
+Interactive visualization of the entityHISTORY
+Historical changes to the DNS dataWHOIS
+Whois lookup of the domainDNSBL
+GRAPH(old)
+Loading...
+Latest updates:
+Follow
+Robtex
+Twitter
+Facebook
+Google+
+LinkedIn
+About
+Home
+Privacy Policy
+API
+Statistics
+Sections
+DNS
+IP
+AS Numbers
+AS Macros
+Network Routes
+Premium Reports
+© 2020 Robtex
+This site is protected by reCAPTCHA and the Google
+Privacy Policy and
+Terms of Service apply.

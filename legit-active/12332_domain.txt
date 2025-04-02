@@ -1,0 +1,19 @@
+   Domain Name: DAVIDBRUBECK.COM
+   Registry Domain ID: 1131802623_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-08-03T17:39:45Z
+   Creation Date: 2007-08-05T02:54:41Z
+   Registry Expiry Date: 2027-08-05T02:54:41Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.DREAMHOST.COM
+   Name Server: NS2.DREAMHOST.COM
+   Name Server: NS3.DREAMHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:00:57Z 

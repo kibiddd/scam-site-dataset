@@ -1,0 +1,17 @@
+   Domain Name: GUANAKITA.COM
+   Registry Domain ID: 2297713623_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.launchpad.com
+   Registrar URL: http://www.launchpad.com
+   Updated Date: 2024-07-31T08:00:09Z
+   Creation Date: 2018-08-15T13:55:34Z
+   Registry Expiry Date: 2025-08-15T13:55:34Z
+   Registrar: Launchpad.com Inc.
+   Registrar IANA ID: 955
+   Registrar Abuse Contact Email: abuse@hostgator.com
+   Registrar Abuse Contact Phone: 602-226-2389
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS6457.HOSTGATOR.COM
+   Name Server: NS6458.HOSTGATOR.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:50:30Z 

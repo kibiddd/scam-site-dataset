@@ -1,0 +1,24 @@
+   Domain Name: SVB.COM
+   Registry Domain ID: 1581821_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.corporatedomains.com
+   Registrar URL: http://cscdbs.com
+   Updated Date: 2024-03-30T05:17:02Z
+   Creation Date: 1998-04-04T05:00:00Z
+   Registry Expiry Date: 2025-04-03T04:00:00Z
+   Registrar: CSC Corporate Domains, Inc.
+   Registrar IANA ID: 299
+   Registrar Abuse Contact Email: domainabuse@cscglobal.com
+   Registrar Abuse Contact Phone: 8887802723
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: DNS1.P03.NSONE.NET
+   Name Server: DNS2.P03.NSONE.NET
+   Name Server: DNS3.P03.NSONE.NET
+   Name Server: DNS4.P03.NSONE.NET
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 36241 5 2 D674F1F1BF89D102200033A0B80450FABA8410D5BE6EDD481FAC4582FCDC00C2
+   DNSSEC DS Data: 48553 13 2 9A4D79BB7D0302A22CD09281310D1FB31F7186DA1E0CD3A977EA80DB7E24EE45
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T15:58:41Z 

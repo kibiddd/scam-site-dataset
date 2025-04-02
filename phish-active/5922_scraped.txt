@@ -1,0 +1,16 @@
+Fatal error:  Uncaught Error: Class 'WP_REST_Revisions_Controller' not found in /home/complexescolaire/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php:17
+Stack trace:
+#0 /home/complexescolaire/public_html/wp-settings.php(289): require()
+#1 /home/complexescolaire/public_html/wp-config.php(96): require_once('/home/complexes...')
+#2 /home/complexescolaire/public_html/wp-load.php(50): require_once('/home/complexes...')
+#3 /home/complexescolaire/public_html/wp-blog-header.php(13): require_once('/home/complexes...')
+#4 /home/complexescolaire/public_html/index.php(17): require('/home/complexes...')
+#5 {main}
+thrown in /home/complexescolaire/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php on line 17
+Fatal error:  Uncaught Error: Call to a member function set() on null in /home/complexescolaire/public_html/wp-includes/l10n.php:856
+Stack trace:
+#0 /home/complexescolaire/public_html/wp-includes/l10n.php(959): load_textdomain('default', '/home/complexes...', 'fr_FR')
+#1 /home/complexescolaire/public_html/wp-includes/class-wp-fatal-error-handler.php(49): load_default_textdomain()
+#2 [internal function]: WP_Fatal_Error_Handler->handle()
+#3 {main}
+thrown in /home/complexescolaire/public_html/wp-includes/l10n.php on line 856

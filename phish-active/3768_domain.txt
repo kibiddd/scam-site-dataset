@@ -1,0 +1,43 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T17:24:26-03:00 - 2a09:bac5:c82c:2446::39d:73
+
+domain:      banrisul.com.br
+owner:       Banrisul - Banco do Estado do Rio Grande do Sul
+ownerid:     92.702.067/0001-96
+responsible: Unidade de Seguranca Banrisul
+country:     BR
+owner-c:     DOBAN9
+tech-c:      INBAN5
+nserver:     ns0.banrisul.com.br 201.55.240.11 2801:80:280:f940::11
+nsstat:      20250325 AA
+nslastaa:    20250325
+nserver:     ns1.banrisul.com.br 201.55.240.12 2801:80:280:f940::12
+nsstat:      20250325 AA
+nslastaa:    20250325
+created:     19950710
+changed:     20191018
+expires:     20290101
+status:      published
+
+nic-hdl-br:  DOBAN9
+person:      Dom�nios Banrisul
+e-mail:      dominios@banrisul.com.br
+country:     BR
+created:     20161125
+changed:     20220816
+
+nic-hdl-br:  INBAN5
+person:      Internet Banrisul
+e-mail:      dominios@banrisul.com.br
+country:     BR
+created:     20161201
+changed:     20180611
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

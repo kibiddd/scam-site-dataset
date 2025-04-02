@@ -1,0 +1,18 @@
+   Domain Name: FORMATC2PUNTOS.COM
+   Registry Domain ID: 482491829_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tecnocratica.net
+   Registrar URL: http://www.registrador.es
+   Updated Date: 2024-05-02T22:59:22Z
+   Creation Date: 2006-06-12T07:35:34Z
+   Registry Expiry Date: 2025-06-12T07:35:34Z
+   Registrar: Tecnocratica Centro de Datos, S.L.
+   Registrar IANA ID: 1600
+   Registrar Abuse Contact Email: abuse@tecnocratica.net
+   Registrar Abuse Contact Phone: +34.910059090
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.ANDAINA.NET
+   Name Server: NS2.ANDAINA.NET
+   Name Server: NS3.ANDAINA.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:50:16Z 

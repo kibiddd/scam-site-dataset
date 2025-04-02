@@ -1,0 +1,17 @@
+   Domain Name: 3656UU.NET
+   Registry Domain ID: 2893772111_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.wdomain.com
+   Registrar URL: http://www.wdomain.com
+   Updated Date: 2024-06-29T01:31:07Z
+   Creation Date: 2024-06-25T10:39:04Z
+   Registry Expiry Date: 2025-06-25T10:39:04Z
+   Registrar: Domain International Services Limited
+   Registrar IANA ID: 3863
+   Registrar Abuse Contact Email: abuse@wdomain.com
+   Registrar Abuse Contact Phone: +852 59855337
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: EVELYN.NS.CLOUDFLARE.COM
+   Name Server: LEIF.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:40:21Z 

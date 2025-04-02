@@ -1,0 +1,166 @@
+Virtual Heroes, A Division of ARA → High-performance simulations for high-stakes training.
+Subscribe to our Newsletter
+Search
+Search
+Industries
+Commercial
+Government/Military
+Medical/Healthcare
+Capabilities
+Capabilities Overview
+Modeling & Simulation
+Training
+Case Studies
+Project Showcase
+Portfolio
+Video Gallery
+News & Insights
+About
+About Overview
+Team
+History & Awards
+Careers
+Applied Research Associates
+Contact
+Subscribe to our Newsletter
+Industries
+Commercial
+Government/Military
+Medical/Healthcare
+Capabilities
+Capabilities Overview
+Modeling & Simulation
+Training
+Case Studies
+Project Showcase
+Portfolio
+Video Gallery
+News & Insights
+About
+About Overview
+Team
+History & Awards
+Careers
+Applied Research Associates
+Contact
+Subscribe to our Newsletter
+High-Performance Simulations For High-Stakes Training
+Readying your toughest pros for their toughest tasks.
+Use Virtual Solutions To Tackle Real-World Challenges.
+A division of Applied Research Associates (ARA), Virtual Heroes designs, develops, and deploys high-fidelity simulations that blend the best of training development, advanced modeling, and serious gaming technology to create fully immersive experiences.
+Experience reality before it's real.
+Odds are, if you’re reading this you lead teams that respond to “the extremes” — the incredibly complex, risky situations that aren’t just about success-or-failure, but potentially life-or-death. Like replacing spent fuel rods in a nuclear reactor. Keeping mission-critical systems online. Triaging and treating the wounded in a mass casualty event. In those scenarios, when everything’s on the line, training that “seems good enough” simply won’t do.
+Get Ready.
+At Virtual Heroes, we help you take preparation to an entirely new level through:
+Individual, self-paced training
+(single-player/participant)
+Instructor-led team training
+(multi-player/participant)
+24/7/365
+open virtual worlds
+anywhere, anytime, any device.
+We deploy simulations anywhere, anytime, anyplace — and on virtually any device. Pick the platforms that give your team the best combination of power and convenience, and we’ll tailor a solution to fit them:
+Standalone PC/Mac applicationsMobile devices (Android™ and iOS®)Streaming to a browser (AppStreaming/HTML5)Cloud-based deliveriesAR and VR systems (including HoloLens®, VIVE®, Rift®, Index™ and Varjo)
+Trusted to Deliver, Every Time.
+Our clients often come to Virtual Heroes with a specific need — they need a sophisticated terrain modeled, a complicated process simulated, or a multipart, multiplatform training initiative produced. Once we begin working together, they quickly realize everything they can capitalize on:
+Authenticity
+We leverage our expertise in modeling, simulation, and interactive technologies to create immersive, high-fidelity experiences that are smartly configured to meet the most demanding budgets and timelines.
+Authority
+We were built to solve the hard problems; it’s in our corporate DNA. Plus, beyond our own technical acumen and collective experience, we can call on a deep bench of talent at ARA — engineers and scientists, technologists, and programmers — who provide even more diverse domain expertise.
+Capability
+We capitalize on every resource — from Unreal® and full-stack development experience to open-source platform expertise and a vast library of modeling assets — to help our clients push beyond conventional boundaries of what, how, and where they can deliver high-performance training.
+Stability
+We’re an 18-year-old division of a 42-year-old, wholly employee-owned company whose sustained growth and success has been built on repeat business from highly exacting government, defense, commercial, industrial, and healthcare clients.
+Find safety in the right numbers.
+We don’t take the client trust we’ve earned lightly. And the stats bear it out.
+140+
+PROJECTS
+Number of advanced simulation and training projects deployed
+50+
+awards
+Number of awards won for excellence in Serious Games
+1,700
+employees
+ARA employees across North America in 30 locations
+>70%
+Advanced degrees
+ARA workforce with advanced engineer and scientist degrees
+How the Greater Good Stays that Way.
+Since no two real-life scenarios are ever precisely the same, no two training simulations should be, either. That’s why at Virtual Heroes, we engineer and deliver highly customized training programs for every client. We’re also part of a global learning community, recognizing that widely sharing know-how and resources can help accelerate learning. Through our Go Platform, an immersive, browser-based virtual world platform based on the Unreal® Engine, we’ve made free releases like these available to trainees everywhere:
+Sedation and Airway Training
+A 3D interactive program that enables healthcare workers to practice techniques for quickly sedating and intubating critically ill patients.Free Download
+Mission Biotech
+An immersive game that simulates real-world medical lab conditions, including conducting DNA extraction and polymerase chain reaction (PCR) tests, just like the same research performed to identify the COVID-19 virus.Free Download
+Zero Hour
+A program that puts trainees on the front lines of a mass casualty event triggered by an earthquake or biological, chemical or explosive attack.Free Download
+The Next Step?
+Let’s Keep Learning.
+We’re eager to find out more about the ways you prepare your team for the most serious challenges they may face. And we invite you to learn more about how Virtual Heroes can help you meet your training challenges like never before.
+See More
+Product Showcase
+Learn More
+Capabilities
+Do More
+Contact Us & Get Started
+Speaking Volumes
+About Virtual Heroes.
+"Train as you fight, fight as you train", a well-known concept yet difficult to achieve when it comes to chem/bio defense task and operation training and mission rehearsals as releases of actual agents or even the simulants can be difficult. A good XR environment with realistic plume and health effect models can help bridge the gap and enhance realization of the consequences of decisions made in hazardous environments. CB TASC is the first tool supported by the JSTO of CBDP that looks into the integration of models from hazard assessment tools such as HPAC and JEM into VR. Realistic and dynamic hazard plumes that are model driven can be rendered and reflect avatar actions that cause or stop releases. Moreover, realistic calculation of received dose that reflects clearance by wearing virtual MOPP and taking  virtual medical countermeasure is performed. But once the avatar receives the threshold dose, CB TASC is the tool that helps users realizing the health effects, including nausea. It is a game that will make you sick, in a realistic way, and much more!"
+- Dr. Chia-Wei Tsai, DTRA Program Manager
+“The Virtual Heroes developers are very knowledgeable and easy to work with. Our relationship started with a 3-day training session, and evolved to them supporting our own development team. We plan on working with Virtual Heroes again in the near future.”
+- Chad Godina, Systems Engineer, Raytheon Company
+“Virtual Heroes shows an astute eye in anatomical correctness of the subject and surrounding environments. The value proposition of their work is clearly and accurately depicted in their work. Bravo! VH’s newer adaptive learning is a serious tool and should be required by federal, state, local municipalities and healthcare institutions to be part of the curriculum. Their delivery is beyond gaming.”
+- Grace Mercy Psewe, Project Lead | Pamoja Mtaani
+“You guys literally are heroes.”
+- Anthony Pelaez, Director of Innovation, Museum of Science & Industry, Tampa, FL
+"We see VTAK as the natural evolution of situational awareness for mission planning and execution. We want to provide operators with the ability to fully immerse themselves in a target environment prior to conducting an operation at that location. VTAK is enabling this goal. During a recent training event at a MOUT site, operators unfamiliar with the location were given the opportunity to explore the site in VTAK prior to conducting training. After those individuals returned from the target, they described the location as being 'like they had been there before'. This is the level of immersion we are looking for."
+- Peter N. Scott, Development Lead, Comm Apps, USSOCOM
+Facebook
+Twitter
+Youtube
+Linkedin
+Industries
+Government/Military
+Commercial
+Medical/Healthcare
+Capabilities
+Capabilities Overview
+Modeling & Simulation
+Training
+News & Insights
+Showcase
+Project Showcase
+Portfolio Main
+Video Gallery
+About
+About Overview
+Team
+History & Awards
+Careers
+ARA.com
+Privacy Policy
+Contact
+Industries
+Government/Military
+Commercial
+Medical/Healthcare
+Capabilities
+Capabilities Overview
+Modeling & Simulation
+Training
+News & Insights
+Showcase
+Project Showcase
+Portfolio Main
+Video Gallery
+About
+About Overview
+Team
+History & Awards
+Careers
+ARA.com
+Privacy Policy
+Contact
+Copyright © 2004-2025
+Applied Research Associates, Inc. All Rights Reserved.
+Virtual Heroes® is a division of Applied Research Associates, Inc.Virtual Heroes® Logo and tagline are registered trademarks of ARA. CAGE Code: 9R446 DUNS Number: 09-796-7608
+Subscribe to our Newsletter

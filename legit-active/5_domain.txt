@@ -1,0 +1,19 @@
+   Domain Name: FREEWEBS.COM
+   Registry Domain ID: 28996232_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-05-11T10:45:41Z
+   Creation Date: 2000-06-11T11:32:58Z
+   Registry Expiry Date: 2026-06-11T11:32:58Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: ELSA.NS.CLOUDFLARE.COM
+   Name Server: HARLAN.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:17:22Z 

@@ -1,0 +1,188 @@
+﻿
+Managers and leveraging (SP Lev, part 7) | The Hardball Times
+​​Sign InSupport FanGraphsFanGraphs MembershipFanGraphs ShirtsFanGraphs MugsGift a MembershipDonate to FanGraphsFantasyFantasy ToolsFantasy Player RaterAuction CalculatorOttoneu Fantasy BaseballSignup, FAQ, Blog PostsBlogsBlog RollFanGraphsPodcasts: Effectively WildFanGraphs ProspectsRotoGraphsPodcasts: The Sleeper and The Bust | Field of Streams | Beat the ShiftCommunity ResearchArchived Blogs: The Hardball Times | NotGraphs | TechGraphs | FanGraphs+Archived THT: THT Live |  Dispatch |  Fantasy |  ShysterBallArchived Podcasts: FanGraphs Audio | Chin Music | UMP: The Untitled McDongenhagen Project | Stealing Home | Doing It For Bartolo | OttoGraphs | Projections2025 Pre-Season ProjectionsZiPS, ZiPS DCSteamerDepth ChartsATCTHE BAT, THE BAT XOOPSY2025 600 PA / 200 IP ProjectionsSteamer600, Steamer600 (Update)2025 Updated In-Season ProjectionsZiPS (RoS), ZiPS (Update), ZiPS DC (RoS)Steamer (RoS), Steamer (Update)Depth Charts (RoS)ATC DC (RoS)THE BAT (RoS), THE BAT X (RoS)3-Year ProjectionsZiPS 2026, ZiPS 2027On-Pace LeadersEvery Game Played, Games Played %Cy Young Award ProjectionsAuction CalculatorScoresTodayLive Scoreboard, Probable PitchersLive Daily LeaderboardsWin Probability & Box Scores2025, 2024, 2023, 2022, 2021, 2020, 2019AL GamesNL GamesStandings2025 Projected Standings2025 Playoff Odds, Playoff Odds Graphs2024 ZiPS Postseason Game-By-Game OddsAL EastAL CentralAL WestNL EastNL CentralNL WestLeadersMajor League LeadersBatting: 2025, 2024, 2023, 2022, 2021, CareerPitching: 2025, 2024, 2023, 2022, 2021, CareerFielding: 2025, 2024, 2023, 2022, 2021, CareerMajor League Leaders - RankBatting: Ranking Grid, Compare Players, Compare StatsPitching: Ranking Grid, Compare Players, Compare StatsSplits LeaderboardsSeason Stat GridPostseason LeadersBatting: 2024, (WS), (LCS), (LDS), (WCS), CareerPitching: 2024, (WS), (LCS), (LDS), (WCS), CareerSpring Training LeadersBatting: 2025, 2024, 2023Pitching: 2025, 2024, 2023KBO LeadersBatting, PitchingNPB LeadersBatting, PitchingMinor League LeadersAAA: International League, Pacific Coast LeagueAA: Eastern League, Southern League, Texas LeagueA+: Midwest League, South Atlantic League, Northwest LeagueA: California League, Carolina League, Florida State LeagueCPX: Arizona, FloridaR: Dominican Summer LeagueCollege LeadersBatting, PitchingWAR ToolsCombined WAR LeaderboardsWAR GraphsWPA ToolsWPA InquirerRookie LeadersBatters 2025, Pitchers 2025Splits LeadersBatters: vs L, vs R, Home, AwayPitchers: vs L, vs R, Home, AwayTeamsTeam Batting Stats2025, 2024, 2023, 2022, 2021, 2020Team Pitching Stats2025, 2024, 2023, 2022, 2021, 2020Team WAR Totals (RoS)AL EastBlue Jays  |  DCOrioles  |  DCRays  |  DCRed Sox  |  DCYankees  |  DCAL CentralGuardians  |  DCRoyals  |  DCTigers  |  DCTwins  |  DCWhite Sox  |  DCAL WestAngels  |  DCAstros  |  DCAthletics  |  DCMariners  |  DCRangers  |  DCNL EastBraves  |  DCMarlins  |  DCMets  |  DCNationals  |  DCPhillies  |  DCNL CentralBrewers  |  DCCardinals  |  DCCubs  |  DCPirates  |  DCReds  |  DCNL WestD-backs  |  DCDodgers  |  DCGiants  |  DCPadres  |  DCRockies  |  DCPositional Depth ChartsBatters: C, 1B, 2B, SS, 3B, LF, CF, RF, DHPitchers: SP, RPRosterResourceCurrent Depth ChartsAL EastBlue JaysOriolesRaysRed SoxYankeesAL CentralGuardiansRoyalsTigersTwinsWhite SoxAL WestAngelsAstrosAthleticsMarinersRangersNL EastBravesMarlinsMetsNationalsPhilliesNL CentralBrewersCardinalsCubsPiratesRedsNL WestD-backsDodgersGiantsPadresRockiesOffseason Tools2025 Free Agent Tracker2025 Offseason Tracker2025 Opening Day TrackerIn-Season Tools2025 Closer Depth Chart2025 Injury Report2025 Payroll Pages2025 Transaction Tracker2025 Schedule Grid2025 Probables Grid2024 Lineup Tracker2024 Minor League Power RankingsProspectsProspects HomeThe BoardThe Board: Scouting + Stats!How To Use The Board: A TutorialFarm System RankingsTop Prospects List20252024ALBALCHWATHBOSCLEHOUNYYDETLAATBRKCRSEATORMINTEXNLATLCHCARIMIACINCOLNYMMILLADPHIPITSDPWSNSTLSFG2025 Preseason Top 100GlossaryLibraryBatting StatswOBA, wRC+, ISO, K% & BB%, more...Pitching StatsFIP, xFIP, BABIP, K/9 & BB/9, more...Defensive StatsUZR Primer, DRS, FSR, TZ & TZL, more...MoreWAR, UBR Primer, WPA, LI, ClutchGuts!Seasonal ConstantsPark FactorsPark Factors by HandednessSign In
+Managers and leveraging (SP Lev, part 7)
+by Chris Jaffe  May 29, 2007
+Welcome back to The Hardball Times’ ongoing series examining starting pitcher leveraging.  If you know the gist of these suckers, skip this paragraph and the next.  For the uninitiated, starting pitcher leverage refers to the once common but now extinct practice of a team intentionally using one of its pitchers disproportionately against particular opposing teams.  It could be an ace starting all the time against the best opposing teams, or southpaws starting against the most left-leaning offenses.
+For this study, I figured out that leveraging existed in the earliest days of baseball up to the 1960s, and I looked at the usage patterns for virtually every pitcher worth looking at.  I ended up determining the leveraging for two-thirds of all games started from 1876-1969.  For this, I invented a stat called AOWP+.  Scroll down below to see exactly how this stat works.  Short version: It’s set up like ERA+ or OPS+, centered on 100. A higher score means the pitcher was used more against the best teams. A low score means more against the worst teams.  If he’s used evenly against all his AOWP+ will be 100.
+Having previously figured out who had the best- and worst-leveraged careers, single seasons, how it affected pitchers’ stats, answered a critic of this study, and looked at platoon leveraging, here I want to examine which managers did the most and least leveraging.  Someone had to leverage those pitchers.  They don’t decide on their own when to start.  Before the rise of the firmly entrenched pitching rotation in the 1960s, this was a key strategic decision for managers.
+The formula
+Quantifying which managers did the most leveraging is thankfully easy.  Start with AOWP+.  If a pitcher has an AOWP+ of 100, that’s zero points for the manager.  If it’s 101 or 99, give the manager one point.  Every succeeding digit AOWP+ moves by, the manager gets extra two points.  It looks like this:
+AOWP+    Points
+100            0
+101, 99        1
+102, 98        3
+103, 97        5
+104, 96        7
+105, 95        9
+110, 90       19
+Makes sense?  It’s such an easy stat I don’t even have a name for it.  Does “Leverage Points” (LP for short) work for everyone?  OK.  It’s lame, but it works.  Figure it for every pitcher with 20 starts, average it out, and ta-dah—that tells you which managers were the Leverage Kings.  Let’s call it Leverage Points Average, LPA.
+But first, a few annoying wrinkles.  If a pitcher changes teams midseason I don’t count him, even if he got 35 starts with one team and one with the other.  It can screw things up. (More importantly, I’d have to completely reconfigure my database, and there’s no way I want to do that.)  Second, managers often don’t last a full season.  For these guys, it’s all or nothing.  If a manager was around for only 80 of 162 games, I don’t give him any credit because he wasn’t he team’s primary manager that year.  If he lasts 82 games, I give him full credit.  No, it’s not perfect, especially given how I handle pitchers.  However, it works well enough.
+Leverage kings
+I found every manager who had at least three seasons as a team’s primary manager from 1876-1969 and figured their LP.  Some of these guys had almost no AOWPd pitchers. (Doc Prothro, for instance, had only three in his days as Phillies skipper.)  This approach, however, ensured I got everyone with at least 10 AOWPd pitchers.  Also, I figured LP for about 20 of the most prominent post-1969 managers.  Since I didn’t AOWP many pitchers over the last 35 years, their records are all extremely incomplete, but I made sure I got everyone with at least 10 AOWPd starting pitchers.
+Now it’s just a simple matter to figure out LPA.  For the best LPA, I’m going to break it into two groups: guys with 10-19 pitchers, and managers with 20 or more.  It ain’t fair to your really long-lasting guys to have them go up against managers who barely got their feet wet.  Out of the 72 managers in the 20+ group, here are the champs:
+Manager         No. SP    LPA
+1.  Frank Chance     37    8.22
+2.  Hughie Jennings  40    5.35
+3.  Frankie Frisch   40    4.93
+4.  Casey Stengel    58    4.90
+5.  Walter Johnson   26    4.77
+6.  Johnny Keane     21    4.76
+7.  Paul Richards    27    4.67
+8.  Harry Wright     40    4.65
+9.  Cap Anson        37    4.65
+10. Fielder Jones    29    4.62
+11. Joe Cronin       36    4.56
+12. Jimmy Dykes      60    4.55
+13. Billy Southworth 30    4.40
+14. Charlie Grimm    45    4.33
+15. Charlie Dressen  38    4.26
+How ’bout that Frank Chance?  It’s not too surprising.  He had the best leveraged single season of all-time, with Lew Richie in 1912.  Mordecai Brown had one of the best leveraged careers ever.  My favorite doesn’t even show up on the list.  In 1912, Ed Reulbach just missed qualifying for LP with 19 starts.  Only one of those 19 came against a good team.  One.  Bill James wrote an essay on him in the original “Historical Abstract” about what an underrated pitcher he was.  Well, there’s a reason he was underrated.
+Also, please note what a wide range of era appears on this list.  Harry Wright was the game’s first great manager.  Stengel, Keane and Dressen lasted until the mid-1960s.
+Here’s the B team, the 65 managers with 10-19 pitchers:
+Manager        No. SP    LPA
+1.  Red Rolfe       13    8.54
+2.  Stan Hack       11    8.18
+3.  Bob Ferguson    13    8.00
+4.  Ossie Vitt      11    7.64
+5.  Pie Traynor     15    7.20
+6.  Roger Bresnahan 11    6.91
+7.  Pants Rowland   14    6.29
+8.  Billy Meyer     10    6.20
+9.  Hank Bauer      17    5.88
+10. Eddie Sawyer    11    5.27
+11. Charlie Comiske 19    5.16
+12. Eddie Stankey   15    5.13
+13. Bill McGunnigle 10    5.10
+14. Mickey Cochrane 12    4.83
+15. Bill Donovan    11    4.64
+See why it’s not fair to put these guys with the top 20?  Guys with shorter careers would dominate.  This makes Frank Chance’s score that much more impressive.  Only one guy tops him, and not by much, either.  With Ferguson, you’ve got a guy who goes back to the 1870s.  Hank Bauer lasted long enough to manage against the Royals.
+The no-leverage zone
+That’s for men who OD’d on leveraging.  Now for the abstainers.  I need to make one qualifier on this bunch.  I’m going to look only at guys who did most of their managing before 1960.  Otherwise modern skippers would dominate the list.  To give you an idea how times have changed, I’ll give you the average LP% for the last 40 AOWPd years on the list.
+Manager       No. SP     LPA
+1.  Jimmy Collins   20    1.70
+2.  Fred Haney      21    1.76
+3.  Miller Huggins  57    2.05
+4.  Burt Shotton    23    2.17
+5.  Pat Moran       28    2.18
+6.  Tris Speaker    20    2.20
+7.  Pinky Higgins   22    2.23
+8.  George Stallin  30    2.73
+9.  Ned Hanlon      41    2.80
+10. Patsy Tebeau    22    2.82
+11. Tom Loftus      20    2.85
+12. Lee Foli        27    2.85
+13. Luke Sewell     28    2.86
+14. Connie Mack    123    2.93
+15. Jimmy McAleer   37    3.00
+1966-2005 Avg  1285   1.79
+It was a very different game back then.  Only Jimmy Collins and Fred Haney leveraged as rarely as modern managers did.  Mayo Smith, who straddled the 1960 divide, had a score of 2.23.  I’m surprised to see Ned Hanlon on the list, since his disciple, Hughie Jennings, was near the top of the other list.
+If you’re curious, Ralph Houk had the lowest score of all, with an LP% of 1.38.  As a Casey Stengel protégé, that’s rather unexpected.  Really, though, once you get around/below 1.70, distinctions don’t mean squat.  There’s a certain signal-to-noise ratio, and a manager should have some AOWP+s of 102 and 103.  By random happenstance, Houk had fewer of those guys than anyone else.  He wasn’t leveraging any less than modern managers; the numbers just look funny for him.
+Here are the managers from 1876-1960 with 10-19 pitchers:A Hardball Times Updateby RJ McDanielGoodbye for now.
+Manager          No. SP     LPA
+1.  Dave Bancroft      10    1.70
+2.  Jimmie Wilson      18    2.11
+3.  Ossie Bluege       17    2.18
+4.  Dan Howley         19    2.26
+5.  Kid Gleason        12    2.33
+6.  Ed Barrow          16    2.50
+7.  Nap Lajoie         14    2.57
+8.  Horace Philli      13    2.85
+9.  Arthur Irwin       14    2.86
+10. Bill Armour        16    2.88
+11. John Ward          15    2.93
+12. Gabby Street       17    3.12
+12. Donnie Bush        17    3.12
+14. George Gibson      13    3.15
+15. Gus Schmelz        18    3.22
+Even with the reduced standards, there’s still almost no one with scores as low as the modern average.  Neat.  I like seeing Gabby Street here when his old battery mate appeared on the Leverage Kings list.
+Adjusting for era
+There’s another way to look at this—by adjusting eras.   Just because leveraging existed for decades doesn’t mean it didn’t have its ups and downs from the 1870s to 1960s.  I can figure out the LPA for years as well (in fact, that’ll be the subject of the next article), and see which managers did the least/most leveraging compared to their specific peers.
+I have a manager’s LPA.  I can figure out the LPA for the era he managed in.  It’s simple—just figure out the LPA for each year in a manager’s career and average it out.  Then divide the former by the latter, and multiply by 100.  Let’s call this one Peer Number. (Skip to the next paragraph unless you really care about the methodology: When figuring average LPA for a manager’s career, I weight by pitchers, not seasons.  So if a manager has three AOWPd pitchers in season X, but only one in season Y, season X will have three times as much impact.  Normally, it doesn’t matter much either way, but it can make a difference if a manager had an unusually large or small number of AOWPd pitchers per team during one of the periodic boom periods or lulls in leveraging.)
+Here are the managers with at least 20 starters who, relative to their peers, did the most leveraging:
+Manager          No. SP  Peer No.
+1.  Frank Chance     37     199
+2.  Johnny Keane     21     155
+3.  Joe Torre (!)    36     153
+4.  Birdie Tebbetts  22     144
+5.  Hughie Jennings  40     133
+6.  Frankie Frisch   40   127.3
+7.  Walter Johnson   26   127.2
+8.  Cap Anson        37     126
+9.  Paul Richards    27     123
+10. Casey Stengel    58     119
+11. Fielder Jonens   29     118
+12. Frank Selee      43   117.3
+12. Jimmy Dykes      60   117.3
+14. Joe Cronin       36   116.8
+15. Fred Mitchell    20     115
+16. John McGraw     108     114
+When the No. 16 is John McGraw, you have to include him.  That list’s about what I’d expe—wait—Joe Torre?  Joe Frickin’ Torre?!?!?  The heck?  (Looks up Torre’s numbers.)  No, he really wasn’t much of a leverager.  His score is a fluke caused by a combination of factors: 1) the lowest score of the last 40 years (Andy Pettitte’s 2002) happened on his watch, 2) LP% are so low nowadays it’s easier to stand out in a crowd, 3) his score is far more incomplete than that of the other managers.  I AOWPd two-thirds of all starts from 1876-1969, but only around 10% from the 1990s.  Torre’s score is partially a sample size bugaboo.  (Prior to the Bronx, I only have brief stints by Jerry Koosman and Phil Nierko under him.)  4) An unusually large collection of 102s and 103 AOWP+s.  Thus he makes the Peer Number leaderboard while his career LPA of 2.94 would put him among the 15 lowest pre-1960 managers.
+The bottom of the list:
+Manager         No. SP  Peer No.
+1.  Fred Haney       21  49.35
+2.  Jimmy Collins    20  49.42
+3.  Harry Craft      24     55
+4.  Burt Shotton     23     56
+5.  Ralph Houk       37     63
+6.  Pinky Higgins    22     64
+7.  Miller Huggins   57     69
+8.  Walt Alston      82     71
+9.  Pat Moran        28     72
+10. Jimmy McAleer    37   72.6
+11. Patsy Donovan    23   72.8
+12. Luke Sewell      28     76
+13. Gene Mauch       35     78
+14. George Stallings 30   78.8
+15. Tris Speaker     20   78.9
+Talk about a photo finish.  Lots of 1960s managers on the list.  That makes sense—that’s when leveraging died out.  Looking up, you can see which clubs were on the cutting edge of abandoning it.  Now here’s the biggest Peer Number for those with 10-19 pitchers:
+Manager           No. SP  Peer No.
+1.  Hank Bauer         17    251
+2.  Red Rolfe          13    200
+3.  Pants Rowland      14    193
+4.  Ossie Vitt         11    177
+5.  Bill Shettsline    17    164
+6.  Pie Traynor        15    163
+7.  Dave Bristol       15  149.4
+8.  Billy Meyer        10  148.7
+9.  Bill Donovan       11    147
+10. Stan Hack          11    146
+11. Roger Bresnahan    11    145
+12. Cito Gaston        12    138
+13. Eddie Sawyer       11  136.3
+14. Bill Killefer      17  136.8
+15. Eddie Stanky       15    134
+Again, a few 1960s managers.  Only these guys didn’t last as long as the Alstons and Houks.  Apparently, one of the biggest factors determining how long a manager would last back then was how willing he was to abandon leveraging.  Guys like Alston and even Mauch did it initially, but moved away.  Hank Bauer stuck with it, and was through by 1970.  Please note only two men have more impressive scores than Frank Chance.   Remember what I just said about Torre?  Same general thing explains Gaston on this list, as well as the modern manager on the next list—here it is, lowest Peer Number for the short career men:
+Manager           No. SP   Peer No.
+1.  Frank Bancroft     10      39
+2.  Jimmie Wilson      18      49
+3.  Dave Bancroft      10      56
+4.  Nap Lajoie         14      59
+5.  Dan Howley         19    65.6
+6.  Jimmy Williams     14    65.7
+7.  Horace Phillips    13      66
+8.  Lum Harris         13      69
+9.  Del Baker          15      71
+10. Ossie Bluege       17      73
+11. Ed Barrow          16   74.18
+12. Arthur Irwin       14   74.21
+13. Bill Virdon        18      77
+14. Kid Gleason        12      78
+15. Gus Schmelz        18      79
+Mostly the same names.
+Well, the next question is what era had the highest LPA.  That’s the next article.
+References & ResourcesWhat the heck is AOWP+?: The stat I invented to judge pitcher leveraging. It’s AOWP/TOWP*100. AOWP is Average Opponent Winning Percentage. TOWP is Team’s (Average) Opponent Winning Percentage. To figure AOWP for a single season, you take the number of starts a given pitcher had against each opposing team, and multiply that by the team’s winning percentage. After doing this for all rival squads, add up the products and divide by the pitcher’s total games started. The result is his AOWP. The same logic applies to TOWP, only here you look at how many games the team played against all rivals. If a pitcher’s used evenly, his AOWP will be the same as the TOWP, and he’ll have an AOWP+ of 100. If he’s used more against better teams, he’ll have a higher AOWP+. I calculated AOWP+ for 659 pitchers who started 182,000 games, including more than two-thirds of all games from 1876-1969.
+Comments are closed.
+Updated: Tuesday, March 25, 2025 4:17 PM ETUpdated: 3/25/2025 4:17 PM ET
+@fangraphs - Contact Us - Advertise
+- Terms of Service - Privacy Policy
+All major league baseball data including pitch type, velocity, batted ball location,
+and play-by-play data provided by Sports Info Solutions.
+Major League and Minor League Baseball data provided by Major League Baseball.
+Mitchel Lichtman
+All UZR (ultimate zone rating) calculations are provided courtesy of Mitchel Lichtman.
+TangoTiger.com
+All Win Expectancy, Leverage Index, Run Expectancy, and Fans Scouting Report data licenced from TangoTiger.com
+Retrosheet.org
+Play-by-play data prior to 2002 was obtained free of charge from and is copyrighted
+by Retrosheet.

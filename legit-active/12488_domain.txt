@@ -1,0 +1,49 @@
+query : todayhumor.co.kr
+
+
+# KOREAN(UTF8)
+
+도메인이름                  : todayhumor.co.kr
+등록인                      : 이호철
+책임자                      : 이호철
+책임자 전자우편             : sky25777@gmail.com
+등록일                      : 1999. 10. 21.
+최근 정보 변경일            : 2019. 10. 15.
+사용 종료일                 : 2027. 10. 21.
+정보공개여부                : N
+등록대행자                  : 메가존(주)(http://HOSTING.KR)
+DNSSEC                      : 미서명
+등록정보 보호               : clientTransferProhibited
+
+1차 네임서버 정보
+   호스트이름               : dahlia.ns.cloudflare.com
+
+2차 네임서버 정보
+   호스트이름               : tony.ns.cloudflare.com
+
+네임서버 이름이 .kr이 아닌 경우는 IP주소가 보이지 않습니다.
+
+
+# ENGLISH
+
+Domain Name                 : todayhumor.co.kr
+Registrant                  : lee
+Administrative Contact(AC)  : lee
+AC E-Mail                   : sky25777@gmail.com
+Registered Date             : 1999. 10. 21.
+Last Updated Date           : 2019. 10. 15.
+Expiration Date             : 2027. 10. 21.
+Publishes                   : N
+Authorized Agency           : Megazone(http://HOSTING.KR)
+DNSSEC                      : unsigned
+Domain Status               : clientTransferProhibited
+
+Primary Name Server
+   Host Name                : dahlia.ns.cloudflare.com
+
+Secondary Name Server
+   Host Name                : tony.ns.cloudflare.com
+
+
+- KISA/KRNIC WHOIS Service -
+

@@ -1,0 +1,529 @@
+Baie-Comeau Drakkar 2002-03 roster and scoring statistics at hockeydb.com
+Baie-Comeau Drakkar 2002-03 roster and statistics League Search Page -> QMJHL -> 2002-03 -> Baie-Comeau Drakkar -> Roster & Statistics
+Player Register
+Photo Gallery [11 photos of 31 players]
+Game Results
+Head Coach: Richard Martel (50-14-6-2) Assistant Coach: Martin Laperriere Assistant Coach: Bobby Baril
+Regular Season
+Playoffs
+Vitals
+#
+Player Name
+Pos.
+GP
+G
+A
+Pts
+PIM
++/-
+GP
+G
+A
+Pts
+PIM
+Birthplace
+Age
+10
+Joel Perrault
+C
+70
+51
+65
+116
+93
+30
+12
+3
+7
+10
+14
+PQ: Montreal
+19
+41
+Patrick Thoresen
+L
+71
+33
+75
+108
+57
+26
+12
+2
+8
+10
+8
+Norway: Hamar
+18
+19
+Pascal Pelletier
+C
+67
+46
+55
+101
+113
+20
+12
+5
+7
+12
+14
+NFLD: Labrador City
+19
+16
+Louis-Philippe Martin
+R
+65
+23
+53
+76
+63
+25
+12
+5
+8
+13
+6
+PQ: Montreal
+17
+20
+Robin Leblanc
+R
+67
+36
+37
+73
+70
+18
+10
+2
+7
+9
+16
+19
+9
+Olivier Proulx 1
+C
+44
+27
+41
+68
+93
+33
+11
+4
+4
+8
+28
+PQ: Saint-Jerome
+20
+55
+Charles Linglet
+L
+47
+21
+27
+48
+35
+18
+12
+3
+8
+11
+18
+PQ: Montreal
+20
+18
+Maxime Fortunus
+D
+69
+12
+32
+44
+44
+62
+12
+2
+4
+6
+6
+PQ: Montreal
+19
+4
+Jean-Francois David
+D
+32
+11
+28
+39
+98
+20
+12
+2
+6
+8
+16
+PQ: Montreal
+20
+89
+Jean-Francois Jacques
+L
+67
+12
+21
+33
+123
+12
+12
+4
+2
+6
+13
+PQ: Montreal
+17
+21
+Luis Tremblay
+D
+66
+9
+24
+33
+160
+19
+12
+2
+3
+5
+41
+PQ: Val-d'Or
+19
+44
+Martin Mandeville
+R
+67
+12
+20
+32
+152
+4
+12
+1
+3
+4
+18
+PQ: Sorel
+18
+Benoit Mondou 2
+R
+25
+5
+16
+21
+12
+3
+--
+--
+--
+--
+--
+PQ: Sorel
+17
+76
+Petr Preucil 1
+L
+26
+3
+9
+12
+55
+4
+12
+7
+4
+11
+35
+Czech Rep.: Most
+19
+27
+Travis Antler
+D
+60
+3
+9
+12
+105
+10
+10
+1
+1
+2
+4
+ONT: North Bay
+19
+Kevin Deslauriers 2
+D
+36
+2
+9
+11
+65
+5
+--
+--
+--
+--
+--
+PQ: Saint-Hyacinthe
+20
+32
+Sebastien Leonard
+D
+59
+2
+8
+10
+88
+9
+9
+0
+2
+2
+4
+PQ: Saint-Eustache
+18
+22
+Thierry Douville
+D
+54
+1
+9
+10
+316
+26
+10
+1
+1
+2
+18
+PQ: Saint-Francois
+19
+13
+Alexandre Lamarche
+L
+54
+5
+1
+6
+243
+-1
+8
+0
+0
+0
+0
+PQ: Laval
+17
+39
+Marc-Andre Roy
+L
+68
+2
+3
+5
+653
+-1
+6
+0
+0
+0
+25
+PQ: Montreal
+18
+7
+Maxime Belanger
+D
+61
+1
+4
+5
+136
+-1
+5
+0
+0
+0
+7
+PQ: Drummondville
+16
+23
+Jimmy Arsenault
+F
+30
+1
+3
+4
+18
+-2
+3
+0
+0
+0
+0
+PQ: Baie-Comeau
+18
+38
+Caleb Moffat
+W
+47
+1
+1
+2
+227
+-3
+12
+0
+0
+0
+17
+ONT: Oakville
+19
+Alexandre Blais
+C
+12
+0
+2
+2
+4
+1
+--
+--
+--
+--
+--
+PQ: Saint-Anselme
+16
+37
+Olivier Michaud
+G
+71
+0
+2
+2
+4
+0
+12
+0
+1
+1
+2
+PQ: Beloeil
+18
+Martin Aubin
+L
+1
+0
+0
+0
+0
+0
+--
+--
+--
+--
+--
+PQ: Laval
+17
+Ryan Hand
+D
+3
+0
+0
+0
+7
+-1
+--
+--
+--
+--
+--
+ONT: Ottawa
+17
+Philippe Lacroix
+G
+15
+0
+0
+0
+0
+0
+--
+--
+--
+--
+--
+PQ: Coaticook
+17
+Patrick Lepage
+G
+21
+0
+0
+0
+17
+0
+--
+--
+--
+--
+--
+PQ: Riviere-du-Loup
+19
+Jean-Philippe Gauthier
+D
+24
+0
+0
+0
+0
+2
+--
+--
+--
+--
+--
+PQ: Montreal
+17
+35
+Julien Walsh
+G
+37
+0
+0
+0
+0
+0
+12
+0
+0
+0
+0
+PQ: Montmagny
+17
+Totals
+319
+554
+873
+3051
++
+GoaliesPlayer NameGPMinGAGAAWLTSvsPctENSO
+Michel Robinson331892812.57191049220.91202
+Julien Walsh10464222.856102230.90100
+Olivier Michaud311775903.0423528920.89903
+Patrick Lepage5188144.47200810.82700
+Philippe Lacroix14057.50240.79200
+Trade Key
+1: From Drummondville
+2: To Shawinigan
+Home | Advertise | Feedback | Usage | Privacy | FAQ | Links | Credits | Help!
+Copyright 1998-2023 hockeyDB.com. All rights reserved.

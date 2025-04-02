@@ -1,0 +1,17 @@
+   Domain Name: DIGITALILLUSIONSVIDEO.COM
+   Registry Domain ID: 2888636122_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.discount-domain.com
+   Registrar URL: http://gmo.jp
+   Updated Date: 2024-06-18T02:41:36Z
+   Creation Date: 2024-06-08T05:18:35Z
+   Registry Expiry Date: 2025-06-08T05:18:35Z
+   Registrar: GMO Internet Group, Inc. d/b/a Onamae.com
+   Registrar IANA ID: 49
+   Registrar Abuse Contact Email: abuse@gmo.jp
+   Registrar Abuse Contact Phone: +81.337709199
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-WH1.WEB.Z.COM
+   Name Server: NS-WH2.WEB.Z.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:25:24Z 

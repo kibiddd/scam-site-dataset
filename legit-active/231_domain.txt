@@ -1,0 +1,70 @@
+Domain Name: cfl.ca
+Registry Domain ID: D13031-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: webnames.ca
+Updated Date: 2025-01-16T16:03:53Z
+Creation Date: 2000-10-19T08:32:28Z
+Registry Expiry Date: 2029-07-29T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email: abuse@webnames.ca
+Registrar Abuse Contact Phone: +1.8662217878
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R12039-CIRA
+Registrant Name: Canadian Football League
+Registrant Organization: CFL ENTERPRISES LP
+Registrant Street: 50 Wellington Street East,  Third Floor
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5E1C8
+Registrant Country: CA
+Registrant Phone: +1.4168655002
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: tech@cfl.ca
+Registry Admin ID: C866366-CIRA
+Admin Name: Sean Bell
+Admin Organization: CFL ENTERPRISES LP
+Admin Street: 50 Wellington Street East,  Third Floor
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5E1C8
+Admin Country: CA
+Admin Phone: +1.4168655002
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: tech@cfl.ca
+Registry Tech ID: 28637118-CIRA
+Tech Name: Sean Bell
+Tech Organization: CFL ENTERPRISES LP
+Tech Street: 50 Wellington Street East,  Third Floor
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5E1C8
+Tech Country: CA
+Tech Phone: +1.4168655002
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: tech@cfl.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.webnames.ca
+Name Server: ns2.webnames.ca
+Name Server: ns3.webnames.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T22:46:30Z 

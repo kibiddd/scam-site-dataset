@@ -1,0 +1,432 @@
+Programming Language and Compiler Research Groups
+Programming Language and Compiler Research Groups
+Multi-site working groups and projects are listed at the bottom.  Also
+see this page of pointers to
+online computer science technical reports.
+AT&T Laboratories
+The Bench++ Project provides an "official" suite of C++ benchmarks.
+Brussels Free University,
+Department of Computer
+Science
+Programming Technology Lab
+research projects:
+Agora project
+Agora is a prototype-based object-oriented programming language
+featuring encapsulated inheritance on objects.
+OPUS project
+OPUS is the theoretical counterpart of Agora.  The main motivation of
+the OPUS
+research project is to design an elementary calculus to express
+object-orientedness.
+It should model the crucial features of object-oriented programming in an
+orthogonal way.
+Carnegie Mellon University
+The
+Fox Project
+Advanced languages and compilers for real-world systems programming.
+(Served by the
+The FoxNet Web Server, which is written completely
+in an extension of Standard ML.)
+Logical Frameworks at CMU
+The LF logical framework
+and its implementation in the Elf constraint logic programming language.
+The MESS Project.
+Semantics-based techniques for compiling advanced programming
+languages
+The
+Principles of Programming (POP) Group
+Applications of logic (including formal semantics and type theory);
+techniques for designing and implementing programming languages;
+formal specification and verification of hardware and software systems
+The
+Scandal project.
+NESL, a data-parallel language with nested parallelism;
+supercomputer compilation techniques, including
+data representation and layout.
+The
+Venari Project.
+Programming and specification language design, semantics, and
+implementation; concurrent and distributed systems; databases and
+persistent objects; software development libraries and
+environments.
+Chalmers University of Technology
+The
+Functional Programming Group.
+Programming logics and the Martin-Löf theory of types; functional
+programming languages, their use and implementation; process calculi
+such as CCS; developing tools and methodologies for deriving correct
+as well as efficient programs.
+Digital Equipment Corporation (DEC)
+Cambridge Research Laboratory (CRL).
+Projects at the
+Systems Research Center (SRC).
+The
+Extended Static Checking project
+Projects at the
+Western Research Laboratory (WRL).
+DFKI, the German Research Center for AI
+The Programming Systems Lab.
+European Computer-Industry Research Centre (ECRC)
+The
+Facile Group.
+Facile is a high-level, higher-order programming language for systems
+that require a combination of complex data manipulation and concurrent
+and distributed computing. It combines Standard ML, with a model
+of higher-order concurrent processes based on CCS.
+Glasgow University
+The Formal Methods and Theory Group.
+The Functional Programming Group.
+Haskell language and implementation; state, input/output, and
+concurrency; semantics based program manipulation; applications of
+category theory and type theory; parallel functional programming;
+functional languages for massive parallelism; using functional
+languages for hardware specification, synthesis and analysis; large
+applications of functional languages.
+Hamburg University
+The
+DBPL Project.
+DBPL is a type-complete modular database programming language that
+extends Modula-2 orthogonally by a data type relation, access
+abstractions, persistent modules and transactions.
+The P-Quest Project.
+P-Quest is a persistent version of the polymorphic programming language Quest.
+The
+Tycoon Project.
+Tycoon is a polymorphic persistent programming environment for
+the development of data-intensive applications in open environments.
+Imperial College
+The Logic Programming Section.
+The
+Theory and Formal Methods Section.
+Includes an extensive
+archive of research
+papers related to theoretical computer science, category theory,
+and logic.
+Indiana University
+The Programming Languages Research Group.
+Infer, a statically typed dialect of Scheme; teaching with Scheme;
+macros; memory management; scalable multiprocessor architectures for
+applicative languages.
+INRIA Rennes
+The
+MALI project.
+Logic programming language design and implementation.
+lambda Prolog.
+INRIA Rocquencourt
+The Charm Project.
+Attribute grammars (esp. the FNC-2 system), program
+analysis, compiler construction and generation.
+Projet Cristal.
+Formalisms of static typing for programming languages, and their
+use in the design and the implementation of robust and efficient tools
+for typed programming, including the Caml and
+Objective Caml
+compilers.
+IRISA/University of Rennes
+Projet LANDE
+Implementation of functional and logic programming languages,
+program analysis, program transformation, memory, management,
+formally-based software engineering tools for declarative languages,
+partial evaluation.
+Projet COMPOSE
+This group focuses on partial evaluation, a program transformation that
+specializes a program with respect to compile-time or run-time invariants.
+Kansas State University
+The
+Programming Language Semantics Group.
+Stackability of functional and imperative languages,
+computational aspects of classical linear logic, applications of type
+theory, full abstraction and the applied typed lambda calculus PCF.
+Kyushu University
+The
+Internet Prover Project
+See a type assignment figure for the lambda-term you give, or see a
+proof figure for the implicational formula you give, if the formula is
+provable in intuitionistic logic.
+Royal Institute of Technology, Sweden
+The
+Declarative programming of Parallel Systems (PDP) group.
+Implementation of declarative languages,
+mainly on parallel computers; integration of parallel programming
+primitives with declarative languages; lazy functional languages and
+data parallel programming.
+Microsoft Research
+The
+Program Analysis Group.
+The value dependence graph IR, slicing of real (large) programs,
+combined register allocation and instruction scheduling.
+Melbourne University
+The
+Mercury project.
+Mercury is a strongly typed logic programming language that
+is also strongly moded and strongly deterministic.  It contains no
+non-logical constructs (like cut) and, in particular, I/O is logical.
+MIT
+The
+Computation Structures Group.
+The
+Concurrent VLSI Architecture (CVA) group.
+Hardware mechanisms for fine-grained concurrent computing and
+software techniques to take advantage of them.
+The Programming Methodology Group.
+Programming languages, distributed systems, object-oriented
+databases and languages.
+The
+Programming Systems Research Group.
+The
+FX programming language and other topics.
+The
+Project on Mathematics and Computation (Project MAC).
+Intelligent computational tools to help scientists and engineers
+understand mathematical models of physical processes; special-purpose hardware
+for scientific computation and programming tools for the
+Scheme dialect of Lisp.
+The Scheme Underground.
+Developing useful software packages in Scheme for use by research
+projects and for distribution on the net, based on the Scheme 48
+implementation.
+NEC
+The
+Programming Languages and Systems Group.
+Advanced programming languages (Scheme), compilation techniques,
+parallel languages, cache/memory system performance, etc.
+Northeastern University
+The
+Programming Language Semantics Group.
+Compiler correctness, verified Scheme implementation, machine
+support for compiler correctness proofs, complexity of type inference
+problems, object-oriented programming.
+Ohio State University
+The
+Constraint Logic Programming Research Group.
+Oregon Graduate Institute
+The Pacific Software Research Center.
+Generator-based program development, formal methods of program.
+development, program transformation techniques, functional
+programming, reflection, and algebraic programming.
+The
+Sparse Group.
+Research in high-performance compilers: advanced analyses and
+optimizations for high-performance computing, ranging from code
+generation for superscalar RISCs to HPF support for MPP's.
+The
+Synthetix Project.
+Applying incremental specialization to create operating systems
+which are both highly modular and high-performance.
+Oregon State University
+The Leda Project.
+Leda is a multiparadigm programming language that supports
+imperative programming, object-oriented programming, logic
+programming, and functional programming.
+Oxford University
+The
+Hardware Compilation Group.
+Compilation of
+occam-like languages directly into digital hardware,
+targeted to FPGA (Field Programmable Gate Arrays).
+PRECC - Prettier Compiler Compiler tool.
+This tool was developed from work on the collaborative REDO Project on
+software maintenance.
+The
+Programming Research Group.
+The Occam programming language, software and hardware
+correctness, the functional programming language Orwell, and the 2OBJ
+logical framework for theorem proving.
+Penn State University
+The
+Programming Language Research Group.
+Inferential programming with deductive systems,
+verifying programming language implementations, and other topics.
+Rice University
+Center for Research on Parallel Computation (CPRC).
+The Programming Languages Theory Group.
+All aspects of advanced programming languages, including design,
+semantics, implementations, programming environment tools, and
+applications.
+Russian Academy of Sciences
+The mpC Project
+Parallel languages and their supportive environments, aimed at
+efficiently portable modular parallel programming, especially
+for heterogeneous compuiter systems.
+Rutgers University
+The PROLANGS Research
+Group
+(Programming Languages) studies code transformation,
+semantic analysis, parallel hybrid analysis, and other aspects for
+writing and optimizing programming languages.
+Stanford University
+The
+concurrency group.
+Research in models of concurrent behavior.  Chu spaces.
+The SUIF compiler group.
+Research on parallel
+programming languages, automatic parallelization, interprocedural
+analysis, compiling for distributed memory machines, etc.
+Sun Microsystems Laboratories
+The Self Project
+Papers on the Self language (a classless object-oriented
+language) and on compiler optimizations for OO languages;
+documentation and binaries of current Self system.
+Swedish Institute of Computer Science
+The Programming Systems
+Group.
+Constraint logic programming (CLP) and concurrent constraint
+programming (CCP) languages and systems
+(SICStus Prolog and AGENTS).  Constraint
+solvers, parallel execution, program analysis and transformation,
+compilation, memory management, applications to design and scheduling.
+Technische Universität Berlin
+The OPAL Project.
+Design and implementation of an algebraic programming language
+which amalgamates concepts from functional programming and algebraic
+specification.
+University of Berne
+The Software Composition Group
+Formal semantics of concurrent object-oriented languages; development
+of models and languages to specify software components for open systems.
+University of Birmingham
+Papers from the Functional
+Programming Group.
+University of Calgary
+Charity; a categorical programming language
+Charity interpreter code, papers and a synopsis of ongoing work can be found at the charity home page.
+University of Copenhagen
+The
+TOPPS group of DIKU.
+Semantics-based program analysis and manipulation, including
+partial evaluation.
+University of Illinois at Urbana-Champaign
+The
+Concert group.
+Concert is a compiler for a fine-grained concurrent object-oriented language.
+The
+IMPACT group.
+Optimizing superscalar and parallelizing compilers for imperative
+languages.
+University of Karlsruhe
+Martin Odersky's research group.
+Formal methods for the definition of programming languages and the
+design and manipulation of programs. Special areas of interests are
+program calculi, type systems, semantics of programming languages, and
+programming language implementation.
+The
+Modula-2* Parallel Programming Environment.
+A high-level explicitly parallel imperative programming language.
+University of Maryland
+The Omega Project.
+Frameworks, algorithms and software for analyzing and
+transforming  scientific programs.
+University of Massachusetts, Amherst
+The
+Object Systems Laboratory.
+Compiler optimizations;
+memory management;
+memory system performance;
+design and implementation of persistent programming languages;
+persistent object stores;
+information retrieval;
+transactional memory.
+University of North Carolina, Chapel Hill
+The Proteus Project.
+Specification, prototyping, analysis and generation of parallel
+software.
+University of Nottingham
+The Functional Programming Group.
+Design, implementation and application of programming languages
+in general, and functional languages in particular.
+University of Oregon
+The
+Programming Language Group.
+All aspects of programming languages design, semantics, and
+implementation.
+University of St. Andrews
+The Persistent
+Programming Group.
+Research in database programming languages.  Access to a number of
+papers on persistence and the database programming languages PS-algol and
+Napier88.
+University of Technology,
+Sydney
+The
+Shape Project in the
+Algorithms and Languages Group.
+Shapely Types are a new concept which advocates the
+separation of shape and data. This has applications in the following
+areas:
+shape polymorphism and shapely types in programming
+languages; shape analysis; shapely
+parallel programming; application to scientific computation,
+programming language design.
+University of Trier, Germany
+The
+Fork95 compiler project
+Fork95 is a parallel programming language for PRAMs that
+covers many important parallel programming paradigms.
+University of Toronto
+The Holt Group
+Object-Oriented Turing; software
+engineering research; language, environment, and tools development.
+University of Washington
+The Cecil/Vortex project.
+Cecil is a pure object-oriented language incorporating
+multi-methods and predicate classes.  Vortex is an optimizing compiler
+infrastructure for object-oriented and other high-level languages. It
+targets both pure object-oriented languages like Cecil and hybrid
+object-oriented languages like C++ and Modula-3.
+The Constraint-Based Languages and Systems project.
+Research on constraint imperative programming, constraint logic
+programming, constraint hierarchies, constraint solvers, and using
+constraints in user interface construction.
+The SPIN project.
+SPIN is an extensible operating system microkernel which supports
+the dynamic adaptation of system interfaces and implementations
+through direct application control, while still maintaining system
+integrity and inter-application isolation.
+University of Waterloo.
+The Programming Languages Group.
+Yale University
+The
+Functional Programming Group.
+Implementation of Haskell; other topics.
+The
+Linda project.
+Parallel and distributed
+computing, adaptive computation, and parallel programming languages.
+Multi-site research projects and working groups
+Software Engineering and
+Programming Languages
+(SEaPL) Working Group
+Established to foster communication between software engineering and
+programming language researchers.
+The Eli
+project (at the University of Colorado and the University of Paderborn)
+Tools for compiler construction in domain-specific programming
+environments.  Automatic generation of translators, program
+generators, analysers and interpreters.
+The
+IFIP Working Group 2.8 on Functional Programming
+Established to encourage the exchange of information between
+researchers in the design, implementation, and use of functional
+programming languages.
+The Larch Project.
+Methods, languages, and tools for the practical use of formal
+specifications.
+The lcc
+compiler project at Princeton and Bell Labs.
+lcc is a retargetable compiler for ANSI C.  It generates
+code for the SPARC, MIPS R3000 and x86.
+The  ProCoS
+Project.
+This project and associated Working Group on "Provably Correct Systems"
+is investigating program compilation in the  occam /
+transputer tradition.
+The
+TallShiP project
+at RAL (UK) and the University of Leeds (UK).
+Research into models and languages for portable parallel programming,
+shared abstract data types and optimisation through transformation.
+Back to
+the language research page
+Additions and corrections are welcome!
+Mark Leone (
+mleone@cs.cmu.edu)

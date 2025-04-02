@@ -1,0 +1,17 @@
+   Domain Name: TODD-HOLLAND.COM
+   Registry Domain ID: 257719_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2025-01-06T16:11:26Z
+   Creation Date: 1997-05-19T04:00:00Z
+   Registry Expiry Date: 2031-05-20T04:00:00Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DARWIN.NS.CLOUDFLARE.COM
+   Name Server: POLA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:17:34Z 

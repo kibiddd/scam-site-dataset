@@ -1,0 +1,6 @@
+Bussines AdsManager
+Your Account Has Violated Our Terms of Service
+We noticed unusual activity on your account  and caused your account to be disabled for violating our Terms of Service  We have already reviewed this decision and the decision cannot be changed.
+Account locked on
+To continue using, please click the Continue button below and follow the instructions
+Continue

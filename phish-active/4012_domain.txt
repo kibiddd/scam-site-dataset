@@ -1,0 +1,39 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T17:25:14-03:00 - 2a09:bac5:c82e:db9::15e:b4
+
+domain:      bertolinihomestaging.com.br
+owner:       Claudia Bertolini Granja
+ownerid:     ***.486.638-**
+country:     BR
+owner-c:     CLBGR9
+tech-c:      CLBGR9
+nserver:     ns1.nuvemhospedagem.com.br
+nsstat:      20250325 AA
+nslastaa:    20250325
+nserver:     ns2.nuvemhospedagem.com.br
+nsstat:      20250325 AA
+nslastaa:    20250325
+nserver:     ns3.nuvemhospedagem.com.br
+nsstat:      20250325 AA
+nslastaa:    20250325
+saci:        yes
+created:     20190711 #19880168
+changed:     20230314
+expires:     20270711
+status:      published
+
+nic-hdl-br:  CLBGR9
+person:      Claudia Bertolini Granja
+e-mail:      claudiabgranja@gmail.com
+country:     BR
+created:     20170320
+changed:     20221008
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

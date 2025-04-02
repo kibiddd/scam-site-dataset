@@ -1,0 +1,11 @@
+Domain Name: huwie.cn
+ROID: 20241111s10001s62455985-cn
+Domain Status: ok
+Registrant: 张云
+Registrant Contact Email: woshialang1@outlook.com
+Sponsoring Registrar: 斗麦（上海）网络科技有限公司
+Name Server: now2.dns.com
+Name Server: now1.dns.com
+Registration Time: 2024-11-11 04:50:31
+Expiration Time: 2025-11-11 04:50:31
+DNSSEC: unsigned

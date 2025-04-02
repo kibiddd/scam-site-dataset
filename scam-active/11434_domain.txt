@@ -1,0 +1,18 @@
+   Domain Name: NICKFX.COM
+   Registry Domain ID: 527017100_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-07-14T10:35:19Z
+   Creation Date: 2006-07-21T20:58:04Z
+   Registry Expiry Date: 2025-07-21T20:58:04Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.LNHI.NET
+   Name Server: NS2.LNHI.NET
+   Name Server: NS3.LNHI.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:48:07Z 

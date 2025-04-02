@@ -1,0 +1,12 @@
+Domain Name: sportal.co.nz
+Registrar URL: https://www.safenames.net
+Updated Date: 2024-07-13T23:41:50Z
+Creation Date: 2001-07-16T03:03:25Z
+Original Created: 1999-11-21T11:00:00Z
+Registrar: Safenames Limited
+Domain Status: ok https://icann.org/epp#ok
+Name Server: roxy.ns.cloudflare.com
+Name Server: sonny.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the Domain Name Commission Limited Inaccuracy Complaint Form: https://dnc.org.nz/enquiry-form/
+>>> Last update of WHOIS database: 2025-03-27T16:56:39Z 

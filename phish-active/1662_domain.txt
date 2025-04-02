@@ -1,0 +1,33 @@
+% La información a la que estás accediendo se provee exclusivamente para
+% fines relacionados con operaciones sobre nombres de dominios y DNS,
+% quedando absolutamente prohibido su uso para otros fines.
+%
+% La DIRECCIÓN NACIONAL DEL REGISTRO DE DOMINIOS DE INTERNET es depositaria
+% de la información que los usuarios declaran con la sola finalidad de
+% registrar nombres de dominio en ‘.ar’, para ser publicada en el sitio web
+% de NIC Argentina.
+%
+% La información personal que consta en la base de datos generada a partir
+% del sistema de registro de nombres de dominios se encuentra amparada por
+% la Ley N° 25326 “Protección de Datos Personales” y el Decreto
+% Reglamentario 1558/01.
+
+domain:		agenciaancla.com.ar
+registrant:	20924401746
+registrar:	nicar
+registered:	2019-09-22 21:35:31.174781
+changed:	2024-09-17 09:44:05.478440
+expire:		2025-09-22 00:00:00
+
+contact:	20924401746
+name:		GIMENO ALEJANDRO FABIAN
+registrar:	nicar
+created:	2019-09-22 21:35:30.925084
+changed:	2025-02-03 10:02:56.954735
+
+nserver:	rana.avnam.net ()
+nserver:	ns1.esseguro.net ()
+registrar:	nicar
+created:	2019-10-07 10:05:08.967090
+
+

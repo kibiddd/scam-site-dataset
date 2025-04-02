@@ -1,0 +1,92 @@
+MathPages: Calculus and Differential Equations
+Calculus and Differential Equations
+The Laplace Equation and Harmonic Functions
+Fractional Calculus
+Analytic Functions, The Magnus Effect, and Wings
+Fourier Transforms and Uncertainty
+Propagation of Pressure and Waves
+The Virial Theorem
+Causality and the Wave Equation
+Integrating the Bell Curve
+Compressor Stalls and Mobius Transformations
+Dual Failures with General Densities
+Phase, Group, and Signal Velocity
+Series Solutions of the Wave Equation
+The Limit Paradox
+Proof That PI is Irrational
+Simple Proof that e is Irrational
+The Filter Of Observation
+Eigenvalue Problems and Matrix Invariants
+Root-Matched Recurrences For DiffEQs
+Why Calculus?
+The Fundamental Anagram of Calculus
+High Order Integration Schemes
+Do We Really Need Eigen Values?
+Markov Models with Aging Components
+Leibniz's Rule
+A Removable Singularity in Lead-Lag Coefficients
+Convergence of Series (How NOT to Prove PI is Irrational)
+Sum of  n^2 / (n^3 + 1),  n=1 to inf
+Tilting Pencils
+Continuous From Discrete Transfer Functions
+Distances In Bounded Regions
+Rolling Spheres and Cones
+Analysis of Relativistic Orbits
+Frequency Response of High Order Systems
+Integrating Factors
+Series Solution of Non-Linear Equation
+Volume of n-Spheres and the Gamma Function
+Integrating Polygonal Sagnac Paths
+Choice Without Context?
+Infinite Products and a Tangent Fan
+Lead-Lag Algorithms
+Archimedes on Spheres and Cylinders
+Markov Models with Variable Transition Rates
+Age Distributions in Continuous Markov Models
+Analytic Continuation
+Transfer Functions and Causation
+Ratio Populations
+Harmonic Sums of Integers with k Binary 1's
+An Infinite Wall
+Perpendicular Regression Of A Line
+The Prismoidal Formula
+Infinite Grid of Resistors
+Potential Flow and d'Alembert's Paradox
+Curvature of Linear Interpolation
+Round-Robin Ties
+The Dirac Delta Function
+Irrationality of Quadratic Sums
+Time for a Rocking Chair
+Net Area and Green's Theorem
+How Leibniz Might Have Anticipated Euler
+Meandering Convergence of a Dirichlet Series
+Mean Distance from Vertex to Interior of Plane Figures
+Aliasing and Uncertainty
+Ptolemy's Orbit
+Frequency Response of First-Order Lag
+Mean Partial Sums of Non-Convergent Series
+Constant Headings and Rhumb Lines
+Inverse-Square Forces and Orthogonal Polynomials
+Enveloping Circular Arcs
+Laplace Transforms
+The Wave Equation and Permutation of Rays
+Huygens' Principle
+Recurrence Relations for Ordinary Differential Equations
+The Curvatures of Hypersurfaces
+Poisson Processes and Queues
+The Zeta Function
+Lagrangian and Hamiltonian Mechanics
+Frequency Response and Numerator Dynamics
+Differential Operators and the Divergence Theorem
+Precession in a Circle
+Higher-Order Wave Equations and Matter Waves
+Complete Solutions of Linear Systems
+Noether's Theorem
+Color Space, Physical Space, and Fourier Transforms
+Series Solution of Relativistic Orbits
+Geodesics by Differentiation
+Inverse Functions
+The Euler-Maclaurin Formula
+Change of Variables in Multiple Integrals
+An Infinite Series for Resistor Grids
+Math Pages Main Menu

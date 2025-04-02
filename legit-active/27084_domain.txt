@@ -1,0 +1,17 @@
+   Domain Name: BASEBALLPILGRIMAGES.COM
+   Registry Domain ID: 88878878_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domainpeople.com
+   Registrar URL: http://www.domainpeople.com
+   Updated Date: 2022-08-03T21:23:06Z
+   Creation Date: 2002-07-30T19:58:14Z
+   Registry Expiry Date: 2031-07-30T19:58:14Z
+   Registrar: DomainPeople, Inc.
+   Registrar IANA ID: 65
+   Registrar Abuse Contact Email: abuse@domainpeople.com
+   Registrar Abuse Contact Phone: +1.8664678929
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS615.HOSTGATOR.COM
+   Name Server: NS616.HOSTGATOR.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T01:05:42Z 

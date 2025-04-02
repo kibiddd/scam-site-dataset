@@ -1,0 +1,72 @@
+ODS Android Documentation
+Getting Started
+Instructions
+Guidelines
+Colors
+Typography
+Components
+App bars: bottom
+App bars: top
+Banners
+Buttons
+Cards
+Checkboxes
+Chips
+Dialogs
+Floating action buttons
+Image item
+List items
+Menus
+Navigation: bottom
+Navigation drawers
+Progress indicators
+Radio buttons
+Sheets: bottom
+Sliders
+Snackbars
+Switches
+Tabs
+Text fields
+Modules
+About
+Switches
+Switch selection control allows the user to select options.
+Switches toggle the state of a single setting on or off. They are the preferred
+way to adjust settings on mobile.
+On this page
+Specifications references
+Accessibility
+Implementation
+Jetpack Compose
+OdsSwitch API
+Specifications references
+Design System Manager - Selection controls
+Material Design - Switches
+Accessibility
+Please follow accessibility criteria for development.
+Switches support content labeling for accessibility and are readable by most
+screen readers, such as TalkBack. Text rendered in switches is automatically
+provided to accessibility services. Additional content labels are usually
+unnecessary.
+Implementation
+Jetpack Compose
+In your composable screen you can use:
+OdsSwitch(
+checked = true,
+onCheckedChange = { doSomething() },
+enabled = true
+)
+OdsSwitch API
+Parameter
+Default value
+Description
+checked: Boolean
+Controls the checked state of the switch
+onCheckedChange: ((Boolean) -> Unit)?
+Callback invoked on switch check. If null, then this is passive and relies entirely on a higher-level component to control the “checked” state.
+modifier: Modifier
+Modifier
+Modifier applied to the switch
+enabled: Boolean
+true
+Controls the enabled state of the switch. When false, the switch will not be checkable and appears disabled.

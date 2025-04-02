@@ -1,0 +1,31 @@
+# Hello 2a09:bac5:c82e:1678::23d:78. Your session has been logged.
+#
+# Copyright (c) 2002 - 2025 by Punktum dk A/S
+#
+# Version: 5.4.0
+#
+# The data in the DK Whois database is provided by Punktum dk A/S
+# for information purposes only, and to assist persons in obtaining
+# information about or related to a domain name registration record.
+# We do not guarantee its accuracy. We will reserve the right to remove
+# access for entities abusing the data, without notice.
+#
+# Any use of this material to target advertising or similar activities
+# are explicitly forbidden and will be prosecuted. Punktum dk A/S
+# requests to be notified of any such activities or suspicions thereof.
+
+Domain:               generals.dk
+DNS:                  generals.dk
+Registered:           2000-10-10
+Expires:              2025-12-31
+Registration period:  1 year
+VID:                  no
+DNSSEC:               Signed delegation
+Status:               Active
+
+Nameservers
+Hostname:             ns01.one.com
+Hostname:             ns02.one.com
+
+# Use option --show-handles to get handle information.
+# whois -h whois.punktum.dk HELP for more help.

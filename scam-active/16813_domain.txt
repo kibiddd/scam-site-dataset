@@ -1,0 +1,21 @@
+   Domain Name: VIVEFRANCE.COM
+   Registry Domain ID: 1675365011_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.registrar.amazon.com
+   Registrar URL: http://registrar.amazon.com
+   Updated Date: 2024-08-01T04:46:13Z
+   Creation Date: 2011-09-04T16:48:09Z
+   Registry Expiry Date: 2025-09-04T16:48:09Z
+   Registrar: Amazon Registrar, Inc.
+   Registrar IANA ID: 468
+   Registrar Abuse Contact Email: trustandsafety@support.aws.com
+   Registrar Abuse Contact Phone: +1.2024422253
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1010.AWSDNS-62.NET
+   Name Server: NS-109.AWSDNS-13.COM
+   Name Server: NS-1327.AWSDNS-37.ORG
+   Name Server: NS-1893.AWSDNS-44.CO.UK
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:49:23Z 

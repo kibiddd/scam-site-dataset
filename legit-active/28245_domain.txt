@@ -1,0 +1,71 @@
+Domain Name: medievalworld.us
+Registry Domain ID: DC04B8414EF9D4588A35B579D1CED14F2-NSR
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: whois.godaddy.com
+Updated Date: 2025-03-12T12:59:24Z
+Creation Date: 2018-03-06T06:37:51Z
+Registry Expiry Date: 2026-03-06T06:37:51Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Registry Registrant ID: C822A8953297A4B59A64AD3FFF151DAB1-NSR
+Registrant Name: Cesar Lindholm
+Registrant Organization:
+Registrant Street: Libecksvagen 18
+Registrant Street:
+Registrant Street:
+Registrant City: VRETSTORP
+Registrant State/Province: Hallsberg
+Registrant Postal Code: 69050
+Registrant Country: se
+Registrant Phone: +46.5824879623
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: admin@medievalworld.us
+Registrant Application Purpose: P3
+Registrant Nexus Category: C11
+Registry Admin ID: C32B36F4F60314ACBA82AA942A0E2A954-NSR
+Admin Name: Cesar Lindholm
+Admin Organization:
+Admin Street: Libecksvagen 18
+Admin Street:
+Admin Street:
+Admin City: VRETSTORP
+Admin State/Province: Hallsberg
+Admin Postal Code: 69050
+Admin Country: se
+Admin Phone: +46.5824879623
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: admin@medievalworld.us
+Admin Application Purpose: P3
+Admin Nexus Category: C11
+Registry Tech ID: C53FBCCA42EF94396B7579DBE6B998093-NSR
+Tech Name: Cesar Lindholm
+Tech Organization:
+Tech Street: Libecksvagen 18
+Tech Street:
+Tech Street:
+Tech City: VRETSTORP
+Tech State/Province: Hallsberg
+Tech Postal Code: 69050
+Tech Country: se
+Tech Phone: +46.5824879623
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: admin@medievalworld.us
+Tech Application Purpose: P3
+Tech Nexus Category: C11
+Name Server: ns2.urcherns.net
+Name Server: ns1.urcherns.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T01:10:13Z 

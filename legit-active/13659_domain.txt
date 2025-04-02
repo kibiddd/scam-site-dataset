@@ -1,0 +1,56 @@
+Domain Name: jazzdisco.org
+Registry Domain ID: 49c9a934c203460eac87c465701310df-LROR
+Registrar WHOIS Server: https://rdap.gonbei.jp/
+Registrar URL: http://www.gonbei.jp
+Updated Date: 2023-07-08T03:37:43Z
+Creation Date: 2003-07-01T05:57:22Z
+Registry Expiry Date: 2033-07-01T05:57:22Z
+Registrar: Interlink Co., Ltd.
+Registrar IANA ID: 277
+Registrar Abuse Contact Email: abuse-contact@gonbei.jp
+Registrar Abuse Contact Phone: +81.5031366980
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Jazz Discography Project
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Hokkaido
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: JP
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: gdns1.interlink.or.jp
+Name Server: gdns2.interlink.or.jp
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T16:56:24Z 

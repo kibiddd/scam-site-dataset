@@ -1,0 +1,19 @@
+   Domain Name: XVCLOGISTICS.COM
+   Registry Domain ID: 1620807881_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domain.com
+   Registrar URL: http://www.domain.com
+   Updated Date: 2024-09-27T09:24:58Z
+   Creation Date: 2010-10-17T17:21:43Z
+   Registry Expiry Date: 2025-10-17T17:21:43Z
+   Registrar: Domain.com, LLC
+   Registrar IANA ID: 886
+   Registrar Abuse Contact Email: compliance@domain-inc.net
+   Registrar Abuse Contact Phone: 602-226-2389
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.MYDOMAIN.COM
+   Name Server: NS2.MYDOMAIN.COM
+   Name Server: NS3.MYDOMAIN.COM
+   Name Server: NS4.MYDOMAIN.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:53:18Z 

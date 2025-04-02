@@ -1,0 +1,17 @@
+   Domain Name: OKCEMETERIES.NET
+   Registry Domain ID: 1434725399_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.webhero.com
+   Registrar URL: http://webhero.com
+   Updated Date: 2025-01-10T12:44:17Z
+   Creation Date: 2008-03-27T00:19:43Z
+   Registry Expiry Date: 2026-03-27T00:19:43Z
+   Registrar: Webhero, Inc.
+   Registrar IANA ID: 112
+   Registrar Abuse Contact Email: abuse@webhero.com
+   Registrar Abuse Contact Phone: 405-753-9300
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DNS-PARKING.COM
+   Name Server: NS2.DNS-PARKING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T15:00:08Z 

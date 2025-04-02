@@ -1,0 +1,50 @@
+DHL Parcel
+Javascript is either disabled or not supported by this browser. Page may not work properly.
+You are using an outdated and unsupported browser.
+Many features of the platform will not work correctly, or at all.  Please use a newer browser to allow us to provide you a fully secure and responsive experience
+Continue
+Skip to main content
+FAQ
+DHL Parcel
+Register
+Login
+In order to offer you an ideal user experience, this website is using cookies. By using this website you agree on the application of cookies.
+You are currently in a non-production environment: PROD
+Welcome to DHL Parcel
+The electronic delivery service from SPS Global.
+Username
+Password
+Login
+Two Factor Authentication is enabled on your account.  Please enter the six digit pin from your authenticator
+Pin for {0}
+Help me login
+Submit
+Back to homepage
+Giving you fast access to your DHL Parcel documents online
+Register today to DHL Parcel.
+Register Here
+If you've forgotten your password, click here to start the reset process.
+Forgot password?
+Disclaimer
+Privacy Policy
+Version 1.6.51.9696
+Follow Us :
+LinkedIn
+YouTube
+Facebook
+footer.option.instagram
+Please complete the below form to reset your password.
+If you have forgotten your username or have not set a security question on your account please contact us by phone on 0333 123 0146 or e-mail customers.sm@spsglobal.uk  to reset your password.
+Username
+Cancel
+Submit
+Thank you for completing this process
+If you have an account with OCS you will be sent an email shortly with a link and instructions on how to re-set your password. If you do not receive an email please email our helpdesk on customers.sm@spsglobal.uk  or by phone on 0333 123 0146 for assistance.
+Close
+Error
+Unfortunately something went wrong.Please try again.
+Cancel
+No
+Continue
+OK
+Yes

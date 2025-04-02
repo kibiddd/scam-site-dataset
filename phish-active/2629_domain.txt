@@ -1,0 +1,34 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+Domain Information: [ドメイン情報]
+[Domain Name]                   ASAOFFICE.JP
+
+[登録者名]                      石塚 智大
+[Registrant]                    TOMOHIRO ISHI&#8558;UKA
+
+[Name Server]                   ns1.dns.ne.jp
+[Name Server]                   ns2.dns.ne.jp
+[Signing Key]                   
+
+[登録年月日]                    2018/07/27
+[有効期限]                      2025/07/31
+[状態]                          Active
+[最終更新]                      2025/02/04 18:15:32 (JST)
+
+Contact Information: [公開連絡窓口]
+[名前]                          さくらインターネット株式会社
+[Name]                          SAKURA internet Inc.
+[Email]                         nic-staff@sakura.ad.jp
+[Web Page]                       
+[郵便番号]                      530-0011
+[住所]                          大阪府大阪市
+                                北区大深町6番38号
+                                グラングリーン大阪 北館 JAM BASE 3階
+[Postal Address]                Osaka
+                                Osaka
+                                GRAND GREEN OSAKA North, JAM BASE, 3F 6-38 Ofukacho, Kita-ku
+[電話番号]                      06-6476-8790
+[FAX番号]                       
+

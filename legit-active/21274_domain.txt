@@ -1,0 +1,26 @@
+   Domain Name: GAYHOTMOVIES.COM
+   Registry Domain ID: 100656964_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2022-11-09T17:01:52Z
+   Creation Date: 2003-07-17T13:15:41Z
+   Registry Expiry Date: 2026-07-17T13:15:41Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS20.DIGICERTDNS.COM
+   Name Server: NS21.DIGICERTDNS.COM
+   Name Server: NS22.DIGICERTDNS.COM
+   Name Server: NS23.DIGICERTDNS.NET
+   Name Server: NS24.DIGICERTDNS.NET
+   Name Server: NS25.DIGICERTDNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:58:38Z 

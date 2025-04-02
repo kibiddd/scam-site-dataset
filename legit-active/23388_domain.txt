@@ -1,0 +1,19 @@
+   Domain Name: DAVIDRUMSEY.COM
+   Registry Domain ID: 18351237_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2021-11-25T08:24:34Z
+   Creation Date: 2000-01-24T19:38:37Z
+   Registry Expiry Date: 2027-01-24T19:38:36Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-CLOUD-E1.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-E2.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-E3.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-E4.GOOGLEDOMAINS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T22:46:57Z 

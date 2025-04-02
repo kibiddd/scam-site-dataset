@@ -1,0 +1,126 @@
+Hijacking Search: Surf Canyon and ManagedQ Rethink The Search Experience | TechCrunch
+Hijacking Search: Surf Canyon and ManagedQ Rethink The Search Experience | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+LatestStartupsVentureAppleSecurityAIApps
+EventsPodcastsNewsletters
+Sign In
+SearchSubmit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Crunchboard
+Contact Us
+Sign In
+Hijacking Search: Surf Canyon and ManagedQ Rethink The Search Experience
+Erick Schonfeld
+8:31 AM PST · February 19, 2008
+Creating a new search engine seems like a futile exercise.  If Yahoo and Microsoft cannot compete with Google in search, what chance does a startup have?  So instead of creating new search engines, we are starting to see the rise of search applications that sit on top of existing search engines.
+Two recent examples are Surf Canyon, which publicly launched its browser add-on today, and ManagedQ, which launched its own site quietly a few weeks ago. I’ve been playing around with both for about a week.  They both offer improvements to the pared-down search interface that we are all used to and point to areas where search can be made better. Not bad for two startups without any venture capital (Surf Canyon has raised $250,000 in angel money, and ManagedQ is run out of the founder’s basement in Palo Alto).  Still, while both point in the right direction, neither one comes close to offering a better overall search experience than Google does on its own.
+Surf Canyon is an application that sits on top of regular search results.  The startup has its own Website where you can conduct searches, but the browser add-on makes it much more practical to use. The add-on is for either Firefox or Internet Explorer, and essentially allows you to re-order search results on Google, Yahoo, or Windows Live Search.  (Google doesn’t like it when other Websites re-order its search rankings, but Surf Canyon doesn’t rely on Google’s APIs to do what it does and thus feels that it is not bound by Google’s restrictions).
+Whenever you do a search, a little bullseye icon appears at the right of each result. If you click on the bullseye, Surf Canyon inserts three recommended search results that are similar to the one you clicked on.  They appear indented under the result you are trying to drill down into.  For instance, if you search for “techcrunch,” the three recommended results might be a link to TechCrunch UK, Crunchgear, and the TechCrunch Tech President Primaries (the recommended results change over time, even for the same search).  You can drill down two more times within the recommended results to keep on refining your search.  So if you click on the bullseye again next to one of the recommended links, you might get a link to TechCrunch on Amazon’s Kindle store from page 8 of the regular Google results, a mention in the NYTimes Bits blog from page 12, or a link to the TechCrunch Facebook group from page 5.
+The results are hit or miss.  Surf Canyon basically gets three chances per click to come up with a relevant recommendation. In general, it comes closer than if you hit the “Similar pages” link that Google provides with every search result, but it still feels pretty random.  Showing more than three recommended results would help.  But what I like best about Surf Canyon is the interface.  It doesn’t take you to another Web page.  The recommended results just appear underneath the appropriate link.  It feels more like an application than a cumbersome Website where you have to click through multiple pages to find what you want. Google could take a lesson in interface design from Surf Canyon here with all of its Ajax goodness.
+ManagedQ takes the more radical approach.  It rethought the entire user interface to make it much more visual.  Explains founder David Stat:
+Search hasn’t changed in a decade. Result quality has improved, but what you see has not changed.  The search interface has remained stagnant at the command level, So why not a search application, rather than create a search engine, we can sit on top of the results of any search engine. Currently we use Google.
+Every time you do a search on ManagedQ, a grid appears on the right of the first six results so you can visually see what is on the other side of what is normally a blue link. If you click on one of the images, it opens up a larger, browsable window still within ManagedQ.  The idea is that you can surf the Web without leaving the search application.
+Presenting search results visually is nothing new.  Sites like ViewFour have been doing it for years. But ManagedQ combines the visual search with a guided search experience.
+On the left is a list of persons, places, and things to help you refine your search.  ManagedQ uses natural language processing (NLP) to extract the main concepts from the entire search bin. And it does this very fast, in a  distributed way using peer-to-peer technology. One of the drawbacks of NLP system is that they take a lot of time to parse and chunk large data sets.  ManagedQ solves that problem.
+When you click on a name or concept on the left, it is highlighted wherever it appears in the miniature Web pages on the right.  So ManagedQ gives you a guided search experience with suggested terms that help you narrow your search.  If you search for “Barack Obama,” it will suggest related people like “John Edwards,” “Hillary Clinton,” and “John McCain,” as well as other related search terms: “Harvard University,” “Keynote address,” Voting Record,” “Early life,” and “Senate career.”
+The major drawback to ManagedQ is that if you want to see beyond the first result grid, you have to hit a “Next” button at the bottom. When you try to refine a search using one of the guided terms on the left, instead of bringing up the search results that contain that term, you are stuck with the existing grid half-filled with grayed-out boxes that say “No matches” on them. You have to click through the result set to find to find Web pages that match, in which case the terms are highlighted.  (For more on ManagedQ, watch the tutorial).
+That flaw alone makes ManagedQ not much more than an interesting experiment at this point. Searching Google is still much faster and gets you the results you want more directly.  But again, Google can learn something here.  Why not offer a decent-sized image of each Website next to search results to give searchers a visual cue as to what resides on the other side of that link?  It is that extra little piece of information that, in some cases but not all, could help people sort through search results easier.
+CrunchBase Information
+Surf Canyon
+ManagedQ
+Information provided by CrunchBase
+Topics
+ManagedQ, Surf Canyon
+Erick Schonfeld
+President & Founding Partner
+Erick has been discovering and working with startups his entire professional career as a technology journalist, startup event producer, and founder. Erick is President & Founding Partner at Traction Technology Partners. He is also a co-founder of TouchCast, the leading interactive video platform, and a partner at bMuse, a startup studio in New York City. He is the former Executive Producer of the DEMO conferences and former Editor-in-Chief of TechCrunch (where he helped conceive, lead and select startups for the Disrupt conferences, among other duties). Prior to TechCrunch, which he joined as Co-Editor in 2007, Erick was Editor-at-Large for Business 2.0 magazine, and a senior writer at Fortune magazine covering technology.
+At TechCrunch, he oversaw the editorial content of the site, helped to program the Disrupt conferences and CrunchUps, produced TCTV shows, and wrote daily for the blog. He joined TechCrunch as Co-Editor in 2007, and helped take it from a popular blog to a thriving media property. After founder Michael Arrington left in 2011, Schonfeld became Editor in Chief.
+Prior to TechCrunch, he was Editor-at-Large for Business 2.0 magazine, where he wrote feature stories and ran their main blog, The Next Net. He also launched the online video series “The Disruptors” with CNN/Money and hosted regular panels and conferences of industry luminaries. Schonfeld started his career at Fortune magazine in 1993, where he was recognized with numerous journalism awards.
+View Bio
+Most Popular
+Google unveils a next-gen family of AI reasoning models
+Maxwell Zeff
+Bill Gates-backed Commonwealth Fusion Systems hits key reactor construction milestone
+Tim De Chant
+OpenAI says its AI voice assistant is now better to chat with
+Maxwell Zeff
+A new, challenging AGI test stumps most AI models
+Maxwell Zeff
+a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have
+Dominic-Madori Davis
+Marina Temkin
+Vertical farming company Plenty files for bankruptcy after raising nearly $1B
+Mary Ann Azevedo
+The 20 hottest open source startups of 2024
+Paul Sawers
+Newsletters
+See More
+Subscribe for the industry’s biggest tech news
+TechCrunch Daily News
+Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+TechCrunch Week in Review
+Get the best of our coverage, delivered to your inbox every Saturday.
+Startups Weekly
+Startups are the core of TechCrunch, so get our best coverage delivered weekly.
+TechCrunch Mobility
+TechCrunch Mobility is your destination for transportation news and insight.
+No newsletters selected.
+Subscribe
+By submitting your email, you agree to our Terms and Privacy Notice.
+Related
+X
+LinkedIn
+Facebook
+Instagram
+youTube
+Mastodon
+Threads
+Bluesky
+TechCrunchStaffContact UsAdvertiseCrunchboard JobsSite Map
+Terms of ServicePrivacy PolicyRSS Terms of UsePrivacy Placeholder 1Privacy Placeholder 2Privacy Placeholder 3Privacy Placeholder 4Code of ConductAbout Our Ads
+GTC 2025Google Buys WizClaude Voice ModeSkype ShutdownMeta LlamaTech LayoffsChatGPT
+© 2025 Yahoo.

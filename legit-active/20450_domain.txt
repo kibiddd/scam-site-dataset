@@ -1,0 +1,17 @@
+   Domain Name: PRIMITIVEFOLKS.COM
+   Registry Domain ID: 65949903_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.register.com
+   Registrar URL: http://www.register.com
+   Updated Date: 2025-01-31T07:57:53Z
+   Creation Date: 2001-03-02T23:35:05Z
+   Registry Expiry Date: 2026-03-02T23:35:04Z
+   Registrar: Register.com, Inc.
+   Registrar IANA ID: 9
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS6103.HOSTGATOR.COM
+   Name Server: NS6104.HOSTGATOR.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:55:06Z 

@@ -1,0 +1,30 @@
+Domain name: haardhoutwinkels.nl
+Status:      active
+
+Reseller:
+   Mijndomein Hosting BV
+   Albert Einsteinweg 4
+   8218NH Lelystad
+   Netherlands
+
+Registrar:
+   Metaregistrar B.V.
+   Noothoven van Goorstraat 11 e
+   2806RA Gouda
+   Netherlands
+
+Abuse Contact:
+   +31.858885692
+   abuse@metaregistrar.com
+
+DNSSEC:      yes
+
+Domain nameservers:
+   nsn1.mijndomein.nl
+   nsn2.mijndomein.nl
+
+Creation Date: 2011-06-14
+
+Updated Date: 2023-11-09
+
+Record maintained by: SIDN BV

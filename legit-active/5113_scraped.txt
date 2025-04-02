@@ -1,0 +1,144 @@
+AirNav: 2S1 - Vashon Municipal Airport
+Airports
+Navaids
+Airspace Fixes
+Aviation Fuel
+Hotels
+AIRBOSS
+iPhone App
+My AirNav
+1402 users online
+2S1
+Vashon Municipal AirportVashon, Washington, USA
+GOING TO VASHON?
+Reserve a Hotel Room
+FAA INFORMATION EFFECTIVE 20 MARCH 2025
+Location
+FAA Identifier: 2S1
+Lat/Long: 47-27-30.9190N 122-28-37.0990W47-27.515317N 122-28.618317W47.4585886,-122.4769719(estimated)
+Elevation: 316 ft. / 96.3 m (surveyed)
+Variation: 20E (1985)
+From city: 1 mile NW of VASHON, WA
+Time zone: UTC -7 (UTC -8 during Standard Time)
+Zip code: 98070
+Airport Operations
+Airport use: Open to the public
+Activation date: 10/1949
+Control tower: no
+ARTCC: SEATTLE CENTER
+FSS: SEATTLE FLIGHT SERVICE STATION
+NOTAMs facility: SEA (NOTAM-D service available)
+Attendance: UNATNDD
+Pattern altitude: 1299 ft. MSL
+Wind indicator: lighted
+Segmented circle: no
+Lights: SS-SR
+Airport Communications
+CTAF: 122.9
+WX ASOS at SEA (7 nm E): PHONE 206-214-2592
+WX ASOS at BFI (8 nm NE): PHONE 206-658-6435
+WX ASOS at RNT (11 nm E): 126.95 (425-255-6080)
+WX AWOS-3PT at PWT (12 nm W): 121.2 (360-674-2811)
+WX ASOS at TIW (12 nm S): PHONE 253-858-6507
+WX ASOS at TCM (19 nm S): PHONE 253-982-3434
+Nearby radio navigation aids
+VOR radial/distance  VOR name  Freq  Var
+SEAr263/6.9SEATTLE VORTAC116.8019E
+PAEr176/28.8PAINE VOR/DME110.6020E
+OLMr012/34.0OLYMPIA VORTAC113.4019E
+Airport Services
+Parking: tiedowns
+Bottled oxygen: NONE
+Bulk oxygen: NONE
+Runway Information
+Runway 17/35
+Dimensions: 2001 x 60 ft. / 610 x 18 m
+Surface: turf, in good condition
+Runway edge lights: non-standardNSTD LIRL; THR LGTS NON-STD COLORS 360 DEG GREEN.
+RUNWAY 17  RUNWAY 35
+Latitude: 47-27.678517N47-27.352117N
+Longitude: 122-28.587450W122-28.649183W
+Elevation: 316.0 ft.308.0 ft.
+Traffic pattern: rightleft
+Runway heading: 167 magnetic, 187 true347 magnetic, 007 true
+Obstructions: 41 ft. trees, 78 ft. left of centerline+5 FT FENCE & DIRT RD APRX 182 FT FM THR.30 ft. trees, 90 ft. left of centerlineTREES IN PRIM SFC AT THLD; GRAVEL RD 45 FT RIGHT AT THLD.
+Helipad H1
+Dimensions: 98 x 98 ft. / 30 x 30 m
+Surface: turf
+Runway edge lights: non-standardG PERIMETER LGTS.
+Operational restrictions: FOR MEDIVAC EMERG MED SVCS ONLY.
+Traffic pattern: leftleft
+Airport Ownership and Management from official FAA records
+Ownership: Publicly-owned
+Owner: KING CO ARPT DIST NR ONEP.O. BOX 1639VASHON, WA 98070Phone (206) 463-3142
+Manager: KEVAN YALOWITZ19710 87TH AVE SWVASHON, WA 98070Phone 202-641-2050
+Additional Remarks
+- NGT OPNS ONLY FOR PILOTS FAMILIAR WITH APT CLOSE IN OBSTNS, ALL QUADRANTS.
+- HILL 5-10 FT W OF RWY EDGE THE FULL LEN.
+- GATE COMBINATION 1168.
+- FOR CD CTC SEATTLE APCH AT 206-214-4723.
+- OCNL LARGE WILD ANIMALS ON ARPT.
+- RWY 17/35 SOFT WHEN WET.
+- HANGARS 90 FT E & W OF CNTRLN.
+- NOISE ABATEMENT PROCS IN EFCT.  CTC AMGR 202-641-2050.
+- TOUCH & GO LDGS NOT RECOMMENDED.
+- TURBULENCE PSBL AT N END OF RY 17/35 WITH STRONG CROSSWINDS.
+- RCMD CLG FOR FLD CONDS 202-641-2050.
+- HEL PARKING AREA RSTRD TO MEDEVAC OPNS.
+Instrument Procedures
+There are no published instrument procedures at 2S1.
+Some nearby airports with instrument procedures:
+KSEA - Seattle-Tacoma International Airport (7 nm E)
+KBFI - Boeing Field/King County International Airport (8 nm NE)
+KRNT - Renton Municipal Airport (11 nm E)
+KPWT - Bremerton National Airport (12 nm W)
+KTIW - Tacoma Narrows Airport (12 nm S)
+S50 - Auburn Municipal Airport (13 nm SE)
+KTCM - McChord Field Airport (Joint Base Lewis-McChord) (19 nm S)
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+$4.23
+$5.31
+Road maps at:
+MapQuest
+Bing
+Google
+Aerial photo
+WARNING: Photo may not be current or correct
+Taken in June 2007
+Do you have a better or more recent aerial photo of Vashon Municipal Airport that you would like to share?  If so, please send us your photo.
+Sectional chart
+Airport distance calculator
+Flying to Vashon Municipal Airport?
+Find the distance to fly.
+From
+to 2S1
+Sunrise and sunset
+Times for 25-Mar-2025
+Local(UTC-7) Zulu(UTC)
+Morning civil twilight06:3313:33
+Sunrise07:0414:04
+Sunset19:2802:28
+Evening civil twilight19:5902:59
+Current date and time
+Zulu (UTC)  25-Mar-2025 23:56:31
+Local (UTC-7)  25-Mar-2025 16:56:31
+METAR
+KSEA 7nm E 252253Z 26005KT 10SM FEW020 FEW120 BKN250 22/11 A2998 RMK AO2 SLP157 T02170106
+KBFI 9nm NE 252253Z 32004KT 10SM CLR 22/12 A2996 RMK AO2 SLP146 T02170117
+KRNT 11nm E 252253Z 36004KT 10SM CLR 21/13 A2996 RMK AO2 SLP151 T02060128
+KPWT 11nm W 252256Z AUTO 22006KT 10SM CLR 23/13 A2998 RMK AO2 SLP154 T02280128
+KTIW 12nm S 252253Z 00000KT 10SM CLR 21/13 A2997 RMK AO2 SLP149 T02060133
+TAF
+KSEA 7nm E 252051Z 2521/2624 30008KT P6SM FEW015 FEW150 BKN250 FM260300 03005KT P6SM SCT020 SCT250 FM261100 04006KT 1SM BR BKN005 FM261800 01008KT P6SM BKN250 FM262300 28015G30KT 4SM TSRA OVC020CB
+KBFI 9nm NE 252051Z 2521/2618 34007KT P6SM FEW100 FM260300 VRB03KT P6SM SCT250 FM261100 00000KT 1SM BR BKN005 FM261700 31006KT P6SM BKN250
+KPWT 11nm W 251720Z 2518/2618 05003KT P6SM FEW100 FM252200 04005KT P6SM FEW100 FM260700 VRB03KT 1SM BR OVC002 FM261700 05004KT P6SM SCT050 BKN100
+NOTAMs
+Click for the latest NOTAMs
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Vashon Municipal Airport, you should consider listing it here.  To start the listing process, click on the button below
+Other Pages about Vashon Municipal Airport
+Copyright © AirNav, LLC. All rights reserved.
+Privacy Policy
+Contact

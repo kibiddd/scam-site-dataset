@@ -1,0 +1,27 @@
+
+ID ccTLD whois server
+Please see 'whois -h whois.id help' for usage.
+
+Domain ID: PANDI-DO9953050
+Domain Name: cuddl.id
+Created On: 2024-07-18 17:39:47
+Last Updated On: 2024-07-18 17:48:46 
+Expiration Date: 2025-07-18 23:59:59 
+Status: clientTransferProhibited
+
+====================================================
+Sponsoring Registrar Organization: PT Jagat Informasi Solusi (int)
+Sponsoring Registrar URL: belidomain.co.id
+Sponsoring Registrar Street: Indosurya Plaza 3A Floor  Jl. MH Thamrin No. 8-9  
+Sponsoring Registrar City: Jakarta
+Sponsoring Registrar State/Province: Jakarta
+Sponsoring Registrar Postal Code: 10230
+Sponsoring Registrar Country: ID
+Sponsoring Registrar Phone: 02129388505
+Sponsoring Registrar Email: info@belidomain.co.id
+Name Server: dns1.namecheaphosting.com
+Name Server: dns2.namecheaphosting.com
+DNSSEC: Unsigned
+
+Abuse Domain Report https://pandi.id/domain-abuse-form/?lang=en
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en

@@ -1,0 +1,22 @@
+Domain Name: groutpro.com.au
+Registry Domain ID: b0f3c5cdbcc247adb95e0f5de0e0d5b7-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://elb.www.netregistry.com.au/contact-us/
+Last Modified: 2024-04-30T05:34:40Z
+Registrar Name: Melbourne IT
+Registrar Abuse Contact Email: abuse@webcentral.com.au
+Registrar Abuse Contact Phone: +61.279080901
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 9fbb5f6c6d3f44ab81a2469c3b5bb0c8-AU
+Registrant Contact Name: Geoffrey Robert Biddle
+Tech Contact ID: 3a72c5d9cda3452b933cb8dde7e50e0f-AU
+Tech Contact Name: Geoffrey Robert Biddle
+Name Server: ns1.dnspackage.com
+Name Server: ns2.dnspackage.com
+DNSSEC: unsigned
+Registrant: GROUTPRO AUSTRALIA IP PTY LTD
+Registrant ID: ACN 159 304 319
+Eligibility Type: Company
+>>> Last update of WHOIS database: 2025-03-27T13:57:19Z 

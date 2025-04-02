@@ -1,0 +1,24 @@
+Domain Name: STARBOX-MAX.FUN
+Registry Domain ID: D511994532-CNIC
+Registrar WHOIS Server: whois.aliyun.com
+Registrar URL: http://www.alibabacloud.com
+Updated Date: 2024-12-21T12:20:55.0Z
+Creation Date: 2024-12-16T12:17:48.0Z
+Registry Expiry Date: 2025-12-16T23:59:59.0Z
+Registrar: Dominet (HK) Limited
+Registrar IANA ID: 3775
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: usd
+Registrant State/Province: tauuan city
+Registrant Country: AF
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: AMOS.NS.CLOUDFLARE.COM
+Name Server: MELANY.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: DomainAbuse@service.aliyun.com
+Registrar Abuse Contact Phone: +86.95187
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:49:07.0Z 

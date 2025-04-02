@@ -1,0 +1,18 @@
+   Domain Name: ARCHITECTURELIST.COM
+   Registry Domain ID: 1208514387_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-05-19T08:37:03Z
+   Creation Date: 2007-09-10T12:53:05Z
+   Registry Expiry Date: 2025-09-10T12:53:05Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS13.HAWKHOST.COM
+   Name Server: NS14.HAWKHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:16:52Z 

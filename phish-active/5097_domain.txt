@@ -1,0 +1,17 @@
+   Domain Name: CAVANI-MULTIMEDIA.COM
+   Registry Domain ID: 497340632_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-06-03T11:31:09Z
+   Creation Date: 2006-06-24T18:02:27Z
+   Registry Expiry Date: 2025-06-24T18:02:27Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.HOSTSERVICENET.COM
+   Name Server: NS2.HOSTSERVICENET.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:02:36Z 

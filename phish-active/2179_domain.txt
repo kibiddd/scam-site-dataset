@@ -1,0 +1,36 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T14:45:43-03:00 - 2a09:bac5:a726:f37::184:22b
+
+domain:      anacassaraodontologia.com.br
+owner:       BRUNO CARVALHO DOS SANTOS
+ownerid:     ***.460.458-**
+country:     BR
+owner-c:     BCDSA4
+tech-c:      BCDSA4
+nserver:     ns1.servidoramzuniversal.com.br
+nsstat:      20250323 AA
+nslastaa:    20250323
+nserver:     ns2.servidoramzuniversal.com.br
+nsstat:      20250323 AA
+nslastaa:    20250323
+saci:        yes
+created:     20160229 #15303805
+changed:     20240302
+expires:     20260301
+status:      published
+
+nic-hdl-br:  BCDSA4
+person:      Bruno Carvalho dos Santos
+e-mail:      web@amzmp.com.br
+country:     BR
+created:     20090721
+changed:     20180528
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

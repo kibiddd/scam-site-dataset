@@ -1,0 +1,45 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T11:56:12-03:00 - 2a09:bac5:c82c:dcd::160:d2
+
+domain:      johndias.com.br
+owner:       UILIAN ONORIO REIS SILVA
+ownerid:     ***.662.208-**
+country:     BR
+owner-c:     UORSI3
+tech-c:      WIREI48
+nserver:     ns422.hostgator.com.br
+nsstat:      20250325 AA
+nslastaa:    20250325
+nserver:     ns423.hostgator.com.br
+nsstat:      20250325 AA
+nslastaa:    20250325
+saci:        yes
+created:     20190610 #19759289
+changed:     20230315
+expires:     20250610
+status:      published
+provider:    NEWFOLD (43)
+
+nic-hdl-br:  UORSI3
+person:      UILIAN ONORIO REIS SILVA
+e-mail:      kwilliams.tuka@gmail.com
+country:     BR
+created:     20190610
+changed:     20230315
+
+nic-hdl-br:  WIREI48
+person:      William Reis
+e-mail:      kwilliams.tuka@gmail.com
+country:     BR
+created:     20200703
+changed:     20200703
+provider:    GODADDY (86)
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

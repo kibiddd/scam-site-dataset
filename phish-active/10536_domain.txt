@@ -1,0 +1,17 @@
+   Domain Name: GRADTEX.COM
+   Registry Domain ID: 1979180093_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.PublicDomainRegistry.com
+   Registrar URL: http://www.publicdomainregistry.com
+   Updated Date: 2024-11-14T08:36:07Z
+   Creation Date: 2015-11-13T06:26:58Z
+   Registry Expiry Date: 2025-11-13T06:26:58Z
+   Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+   Registrar IANA ID: 303
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.VIGBO.SITE
+   Name Server: NS2.VIGBO.SITE
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:56:46Z 

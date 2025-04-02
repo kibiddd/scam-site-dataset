@@ -1,0 +1,18 @@
+   Domain Name: SERVEUK7.COM
+   Registry Domain ID: 1778436182_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.porkbun.com
+   Registrar URL: http://porkbun.com
+   Updated Date: 2024-11-12T09:48:21Z
+   Creation Date: 2013-02-05T03:38:53Z
+   Registry Expiry Date: 2026-02-05T03:38:53Z
+   Registrar: Porkbun LLC
+   Registrar IANA ID: 1861
+   Registrar Abuse Contact Email: abuse@porkbun.com
+   Registrar Abuse Contact Phone: 5038508351
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: CODY.NS.CLOUDFLARE.COM
+   Name Server: ZARA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:50:46Z 

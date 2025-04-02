@@ -1,0 +1,106 @@
+Please enable JavaScript. It will make this service more responsive and useable.
+Neo Freerunner:Debug Board
+LinkedIn
+YouTube
+Recommendations
+Openmoko HF08
+BeagleBoard PocketBeagle
+Goldelico Pyra SATA Adapter
+Goldelico Pandora Console Adapter
+Goldelico Letux OS Development
+Toppoly TD028TTEC1
+Tinkerphones Community Support
+Categories
+Accessories
+Components
+Kits
+Modules
+Notebooks
+Open Hardware
+Pandora
+PDAs
+Phones
+Project Support
+Service
+Software
+Tablets
+Tools
+Used Parts
+Vouchers
+Vendors
+BeagleBoard
+Fey
+Goldelico
+Openmoko
+Socket
+SVTronics
+Tinkerphones
+Toppoly
+Udoo
+ZAGG
+Information
+Service and Repairs
+Conditions / AGB
+Project Support
+Impressum
+Contact
+Mailing Lists
+Home
+Products
+Projects
+Development
+Consulting
+About
+Shop
+You are here: Home > Neo Freerunner > Debug Board
+Accessories: OpenMoko Debug Board v3
+Our Price:
+sorry, no longer available.
+This is the Debug Board Version 3. You rarely need to have one unless you want to do kernel debugging and development on the GTA02. It is not required for a GTA04.
+Package includes: 1 Debug board, 1 Torx T6 screwdriver, 1 USB cable, mounting material
+Please refer to http://wiki.openmoko.org/wiki/Debug board for more details.
+User instructions can be found at http://wiki.openmoko.org/wiki/Connecting Neo1973 with Debug Board v2
+Partner of
+Lumissil
+Member of the
+Community
+Shopping Cart
+Qty.
+Product
+Price
+Empty
+Checkout
+If the cart does not work, please check that cookies are enabled for this site
+Germany
+Australia
+Canada
+Japan
+New Zealand
+Norway
+South Korea
+Switzerland
+UK
+USA
+Shipping Cost calculation details
+All Prices are in €
+incl. German VAT 7/19% unless indicated
+Payment Options
+Prepaid: SEPA Bank Transfer
+Major Credit Cards:
+We regret that we can't process debit cards like "VISA Electron" and "Maestro" or PayPal or BitCoin.
+Information about Order Processing
+Shipping Cost
+Destinations
+VAT and Taxfree options
+Stock Indicator ()
+Prepaid (SEPA Bank Transfer)
+CreditCard
+Tracking of Orders
+Recommend a Friend
+Contact
+Cancellation
+Returns
+Warranty
+Repairs
+Not logged in. | Impressum | [Admin] |  | [Feedback]
+© 2017-24 Golden Delicious Computers GmbH&Co. KG

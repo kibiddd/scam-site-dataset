@@ -1,0 +1,22 @@
+   Domain Name: NEXTBUS.COM
+   Registry Domain ID: 133765_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.godaddy.com
+   Registrar URL: http://www.godaddy.com
+   Updated Date: 2024-10-24T15:44:24Z
+   Creation Date: 1997-01-22T05:00:00Z
+   Registry Expiry Date: 2027-01-23T05:00:00Z
+   Registrar: GoDaddy.com, LLC
+   Registrar IANA ID: 146
+   Registrar Abuse Contact Email: abuse@godaddy.com
+   Registrar Abuse Contact Phone: 480-624-2505
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1486.AWSDNS-57.ORG
+   Name Server: NS-1844.AWSDNS-38.CO.UK
+   Name Server: NS-347.AWSDNS-43.COM
+   Name Server: NS-564.AWSDNS-06.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:34:48Z 

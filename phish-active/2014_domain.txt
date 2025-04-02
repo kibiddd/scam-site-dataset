@@ -1,0 +1,19 @@
+Domain Name:                     alphauniforms.ae
+Registrar ID:                    Etisalat
+Registrar Name:                  Etisalat
+Status:                          ok
+
+Registrant Contact ID:           CX1673589T
+Registrant Contact Name:         Muhammad Omer 
+Registrant Contact Email:        Visit whois.aeda.net.ae for Web based WhoIs
+Registrant Contact Organisation: none
+
+Tech Contact ID:                 CX1673591T
+Tech Contact Name:               Muhammad Omer 
+Tech Contact Email:              Visit whois.aeda.net.ae for Web based WhoIs
+Tech Contact Organisation:       none
+
+Name Server:                     pns41.cloudns.net
+Name Server:                     pns42.cloudns.net
+Name Server:                     pns43.cloudns.net
+Name Server:                     pns44.cloudns.net

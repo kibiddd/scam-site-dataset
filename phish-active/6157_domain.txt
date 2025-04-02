@@ -1,0 +1,17 @@
+   Domain Name: CRAZYCHIMPS.COM
+   Registry Domain ID: 1684748499_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.launchpad.com
+   Registrar URL: http://www.launchpad.com
+   Updated Date: 2024-10-30T07:46:11Z
+   Creation Date: 2011-10-30T02:25:10Z
+   Registry Expiry Date: 2025-10-30T02:25:10Z
+   Registrar: Launchpad.com Inc.
+   Registrar IANA ID: 955
+   Registrar Abuse Contact Email: abuse@hostgator.com
+   Registrar Abuse Contact Phone: 602-226-2389
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS3553.HOSTGATOR.COM
+   Name Server: NS3554.HOSTGATOR.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:14:53Z 

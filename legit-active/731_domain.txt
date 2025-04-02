@@ -1,0 +1,61 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: UDEL.EDU
+
+Registrant:
+	University of Delaware
+	Network & Systems Services
+	192 South Chapel Street
+	Newark, DE 19716
+	USA
+
+Administrative Contact:
+	Jason Cash
+	University of Delaware
+	Information Technologies
+	192 South Chapel Street
+	Newark, DE 19716
+	USA
+	+1.3028310461
+	udel-domain@udel.edu
+
+Technical Contact:
+	Mark Cabry
+	University of Delaware
+	Information Technologies
+	192 South Chapel Street
+	Newark, DE 19716
+	USA
+	+1.3028318055
+	mcabry@udel.edu
+
+Name Servers:
+	DNS1.UDEL.EDU
+	DNS2.UDEL.EDU
+	ADNS3.NNN.UPENN.EDU
+	ADNS1.NNN.UPENN.EDU
+	ADNS2.NNN.UPENN.EDU
+
+Domain record activated:    24-Jul-1985
+Domain record last updated: 04-Jun-2024
+Domain expires:             31-Jul-2027

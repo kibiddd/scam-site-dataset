@@ -1,0 +1,17 @@
+   Domain Name: BET810C.COM
+   Registry Domain ID: 2935680246_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.rrpproxy.net
+   Registrar URL: http://www.key-systems.net
+   Updated Date: 2025-02-17T01:43:48Z
+   Creation Date: 2024-11-20T09:46:03Z
+   Registry Expiry Date: 2025-11-20T09:46:03Z
+   Registrar: Key-Systems GmbH
+   Registrar IANA ID: 269
+   Registrar Abuse Contact Email: abuse@key-systems.net
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: JERRY.NS.CLOUDFLARE.COM
+   Name Server: SYDNEY.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T20:25:08Z 

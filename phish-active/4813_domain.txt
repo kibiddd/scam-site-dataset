@@ -1,0 +1,18 @@
+   Domain Name: BWPLUSBURAIDAH.COM
+   Registry Domain ID: 2069396859_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enomdomains.com
+   Updated Date: 2024-10-29T08:22:13Z
+   Creation Date: 2016-10-27T12:47:32Z
+   Registry Expiry Date: 2025-10-27T12:47:32Z
+   Registrar: eNom, LLC
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS10.DI.NET.SA
+   Name Server: NS20.DI.NET.SA
+   Name Server: NS21.DI.NET.SA
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:00:51Z 

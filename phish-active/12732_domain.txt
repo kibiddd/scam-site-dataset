@@ -1,0 +1,22 @@
+Domain Name: justsmsfaudits.com.au
+Registry Domain ID: 2ccabd01c2d0412481abe17823288b14-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.crazydomains.com.au/contact/
+Last Modified: 2024-12-25T01:20:44Z
+Registrar Name: Web Address Registration Pty Ltd
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: a2cd77bb3cf04627a9a79001740c8136-AU
+Registrant Contact Name: Chris Bastin
+Tech Contact ID: 381dd96da18248ffbb6a305527ea60f8-AU
+Tech Contact Name: Christopher Bastin
+Name Server: ns2.sqonk.com
+Name Server: ns5.sqonk.com
+DNSSEC: unsigned
+Registrant: JUST SMSF AUDITS PTY LTD
+Registrant ID: ABN 62679135294
+Eligibility Type: Company
+>>> Last update of WHOIS database: 2025-03-27T14:56:44Z 

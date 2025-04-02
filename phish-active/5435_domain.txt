@@ -1,0 +1,17 @@
+   Domain Name: CHOPSONK.COM
+   Registry Domain ID: 2758323465_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.cronon.net
+   Registrar URL: http://www.cronon.net
+   Updated Date: 2025-02-14T08:52:01Z
+   Creation Date: 2023-02-14T00:24:59Z
+   Registry Expiry Date: 2026-02-14T00:24:59Z
+   Registrar: Cronon GmbH
+   Registrar IANA ID: 141
+   Registrar Abuse Contact Email: abuse-domains@cronon.net
+   Registrar Abuse Contact Phone: +4930398020
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: DOCKS15.RZONE.DE
+   Name Server: SHADES14.RZONE.DE
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:05:37Z 

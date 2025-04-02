@@ -1,0 +1,17 @@
+   Domain Name: EXHILITE.COM
+   Registry Domain ID: 2778195051_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.dynadot.com
+   Registrar URL: http://www.dynadot.com
+   Updated Date: 2024-04-12T23:35:26Z
+   Creation Date: 2023-05-04T18:49:44Z
+   Registry Expiry Date: 2025-05-04T18:49:44Z
+   Registrar: Dynadot Inc
+   Registrar IANA ID: 472
+   Registrar Abuse Contact Email: abuse@dynadot.com
+   Registrar Abuse Contact Phone: +16502620100
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.ABOVEDOMAINS.COM
+   Name Server: NS2.ABOVEDOMAINS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:16:38Z 

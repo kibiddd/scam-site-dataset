@@ -1,0 +1,61 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://web-whois.nic.it                                           *
+*********************************************************************
+
+Domain:             fast-shipping.it
+Status:             ok
+Signed:             no
+Created:            2023-10-05 12:55:14
+Last Update:        2024-10-21 01:01:40
+Expire Date:        2025-10-05
+
+Registrant
+  Organization:     Cyber Guru srl
+  Address:          Viale della Grande Muraglia 284
+                    Roma
+                    00144
+                    RM
+                    IT
+  Created:          2023-10-05 12:55:14
+  Last Update:      2023-10-05 12:55:14
+
+Admin Contact
+  Name:             Giovanni Baroni
+  Organization:     Cyber Guru srl
+  Address:          Viale della Grande Muraglia, 284
+                    Roma
+                    00144
+                    RM
+                    IT
+  Created:          2023-10-05 12:55:14
+  Last Update:      2023-10-05 12:55:14
+
+Technical Contacts
+  Name:             Giovanni Baroni
+  Organization:     Cyber Guru srl
+  Address:          Viale della Grande Muraglia, 284
+                    Roma
+                    00144
+                    RM
+                    IT
+  Created:          2023-10-05 12:55:14
+  Last Update:      2023-10-05 12:55:14
+
+Registrar
+  Organization:     Aruba s.p.a.
+  Name:             ARUBA-REG
+  Web:              http://www.aruba.it
+  DNSSEC:           yes
+
+
+Nameservers
+  dns.technorail.com
+  dns2.technorail.com
+  dns3.arubadns.net
+  dns4.arubadns.cz
+

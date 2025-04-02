@@ -1,0 +1,24 @@
+Domain Name: EMERALDSUITES.GD
+Registry Domain ID: D95408334-CNIC
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2025-02-27T20:51:57.0Z
+Creation Date: 2019-03-04T23:22:36.0Z
+Registry Expiry Date: 2026-03-04T23:59:59.0Z
+Registrar: Names.GD
+Registrar IANA ID:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Email: https://whois.nic.gd/contact/emeraldsuites.gd/registrant
+Admin Email: https://whois.nic.gd/contact/emeraldsuites.gd/admin
+Tech Email: https://whois.nic.gd/contact/emeraldsuites.gd/tech
+Name Server: NS10.DNSMADEEASY.COM
+Name Server: NS11.DNSMADEEASY.COM
+Name Server: NS12.DNSMADEEASY.COM
+Name Server: NS13.DNSMADEEASY.COM
+Name Server: NS14.DNSMADEEASY.COM
+DNSSEC: unsigned
+Billing Email: https://whois.nic.gd/contact/emeraldsuites.gd/billing
+Registrar Abuse Contact Email: admin@names.gd
+Registrar Abuse Contact Phone: +44.14735346020
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T11:14:34.0Z 

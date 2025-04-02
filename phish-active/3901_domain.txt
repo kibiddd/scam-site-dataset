@@ -1,0 +1,18 @@
+   Domain Name: BDTECHSUPPORT.COM
+   Registry Domain ID: 2360918811_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.porkbun.com
+   Registrar URL: http://porkbun.com
+   Updated Date: 2025-02-08T19:22:51Z
+   Creation Date: 2019-02-15T04:34:51Z
+   Registry Expiry Date: 2026-02-15T04:34:51Z
+   Registrar: Porkbun LLC
+   Registrar IANA ID: 1861
+   Registrar Abuse Contact Email: abuse@porkbun.com
+   Registrar Abuse Contact Phone: 5038508351
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DNS-PARKING.COM
+   Name Server: NS2.DNS-PARKING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T20:24:38Z 

@@ -1,0 +1,59 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: CALSTATELA.EDU
+
+Registrant:
+	California State University, Los Angeles
+	5151 State University Drive
+	Lib PW 1070
+	Los Angeles, CA 90032
+	USA
+
+Administrative Contact:
+	Jason Solis
+	California State University, Los Angeles
+	5151 State University Dr.
+	Lib PW 1070
+	Los Angeles, CA 90032
+	USA
+	+1.3233432676
+	jason.solis@calstatela.edu
+
+Technical Contact:
+	Edmund Gean
+	California State University, Los Angeles
+	5151 State University Drive
+	Los Angeles, CA 90032
+	USA
+	+1.3233434395
+	nsg@calstatela.edu
+
+Name Servers:
+	NS2.CALSTATELA.EDU
+	NS2.CSU.NET
+	NS3.CSU.NET
+	NS1.CALSTATELA.EDU
+
+Domain record activated:    12-Oct-1988
+Domain record last updated: 15-Jan-2025
+Domain expires:             31-Jul-2025

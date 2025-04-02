@@ -1,0 +1,18 @@
+   Domain Name: UCOZ.NET
+   Registry Domain ID: 202030495_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.r01.ru
+   Registrar URL: http://r01.ru
+   Updated Date: 2024-07-03T21:37:20Z
+   Creation Date: 2005-08-27T17:44:09Z
+   Registry Expiry Date: 2025-08-27T17:44:09Z
+   Registrar: Registrar R01 LLC
+   Registrar IANA ID: 1426
+   Registrar Abuse Contact Email: tld-abuse@r01.ru
+   Registrar Abuse Contact Phone: +7(495) 783-3-783
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.UCOZ.NET
+   Name Server: NS2.UCOZ.NET
+   Name Server: NS3.UCOZ.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:26:56Z 

@@ -1,0 +1,24 @@
+Domain Name: IN5.SITE
+Registry Domain ID: D338701176-CNIC
+Registrar WHOIS Server: whois.PublicDomainRegistry.com
+Registrar URL: https://publicdomainregistry.com
+Updated Date: 2023-11-23T09:06:22.0Z
+Creation Date: 2022-12-16T07:05:03.0Z
+Registry Expiry Date: 2032-12-16T23:59:59.0Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: Privacy Protect, LLC (PrivacyProtect.org)
+Registrant State/Province: MA
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS5.L4DNS.COM
+Name Server: NS6.L4DNS.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T14:53:10.0Z 

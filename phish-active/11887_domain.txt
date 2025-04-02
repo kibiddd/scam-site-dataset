@@ -1,0 +1,20 @@
+   Domain Name: KESUG.COM
+   Registry Domain ID: 2807008660_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-08-13T10:49:54Z
+   Creation Date: 2023-08-19T15:17:40Z
+   Registry Expiry Date: 2026-08-19T15:17:40Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.BYET.ORG
+   Name Server: NS2.BYET.ORG
+   Name Server: NS3.BYET.ORG
+   Name Server: NS4.BYET.ORG
+   Name Server: NS5.BYET.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:53:18Z 

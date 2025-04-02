@@ -1,0 +1,17 @@
+   Domain Name: 6BET988.COM
+   Registry Domain ID: 2915850557_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.discount-domain.com
+   Registrar URL: http://gmo.jp
+   Updated Date: 2025-02-19T10:24:43Z
+   Creation Date: 2024-09-11T11:19:22Z
+   Registry Expiry Date: 2025-09-11T11:19:22Z
+   Registrar: GMO Internet Group, Inc. d/b/a Onamae.com
+   Registrar IANA ID: 49
+   Registrar Abuse Contact Email: abuse@gmo.jp
+   Registrar Abuse Contact Phone: +81.337709199
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: JAXSON.NS.CLOUDFLARE.COM
+   Name Server: LILY.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:41:22Z 

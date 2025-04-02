@@ -1,0 +1,17 @@
+   Domain Name: VEGANFUSION.COM
+   Registry Domain ID: 106452485_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-10-12T08:12:59Z
+   Creation Date: 2003-11-11T07:50:04Z
+   Registry Expiry Date: 2025-11-11T07:50:04Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.SITEGROUND.NET
+   Name Server: NS2.SITEGROUND.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:14:50Z 

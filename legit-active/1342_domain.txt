@@ -1,0 +1,21 @@
+Domain Name: femail.com.au
+Registry Domain ID: 9fa322afd6904f2490a13920579a3271-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.above.com/contact.html
+Last Modified: 2025-03-08T23:52:53Z
+Registrar Name: Above.au Pty Limited
+Registrar Abuse Contact Email: support@above.com
+Registrar Abuse Contact Phone: +61.395897946
+Reseller Name: 
+Status: ok https://identitydigital.au/get-au/whois-status-codes#ok
+Registrant Contact ID: 3d849d03744e43aba5ebecadf7b849df-AU
+Registrant Contact Name: Host Master
+Tech Contact ID: 3d849d03744e43aba5ebecadf7b849df-AU
+Tech Contact Name: Host Master
+Name Server: ns1.trellian.com
+Name Server: ns2.trellian.com
+DNSSEC: unsigned
+Registrant: TRILLION.COM PTY LTD
+Registrant ID: ABN 55098223048
+Eligibility Type: Company
+>>> Last update of WHOIS database: 2025-03-27T16:05:00Z 

@@ -1,0 +1,20 @@
+   Domain Name: FOREXCIN.COM
+   Registry Domain ID: 2739652610_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.uniregistrar.com
+   Registrar URL: http://www.uniregistry.com
+   Updated Date: 2024-11-21T11:57:44Z
+   Creation Date: 2022-11-20T10:32:14Z
+   Registry Expiry Date: 2025-11-20T10:32:14Z
+   Registrar: GoDaddy Online Services Cayman Islands Ltd.
+   Registrar IANA ID: 1659
+   Registrar Abuse Contact Email: abuse@uniregistry.com
+   Registrar Abuse Contact Phone: +1 4805058800
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS21.DOMAINCONTROL.COM
+   Name Server: NS22.DOMAINCONTROL.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:46:38Z 

@@ -1,0 +1,2405 @@
+State Law Enforcement Agency Allocations
+U.S. NOAA Weather Radio Stations and Frequencies
+(Courtesy of the National Weather Service; From the "Service Search" column by Larry
+Van Horn.)
+ALABAMA ALASKA ARIZONA
+ARKANSAS CALIFORNIA COLORADO
+CONNECTICUT DELAWARE FLORIDA
+GEORGIA GUAM
+HAWAII IDAHO ILLINOIS
+INDIANA IOWA KANSAS
+KENTUCKY LOUISIANA MAINE
+MARYLAND MASSACHUSETTS MICHIGAN
+MINNESOTA MISSISSIPPI MISSOURI
+MONTANA NEBRASKA NEVADA
+NEW HAMPSHIRE NEW JERSEY NEW MEXICO
+NEW YORK NORTH CAROLINA NORTH DAKOTA
+NORTH MARIANA ISLANDS OHIO
+OKLAHOMA OREGON PENNSYLVANIA
+PUERTO RICO RHODE ISLAND SOUTH CAROLINA
+SOUTH CAROLINA SOUTH DAKOTA
+TENNESSEE TEXAS UTAH
+VERMONT VIRGIN ISLANDS VIRGINIA
+WASHINGTON WEST VIRGINIA WISCONSIN
+WYOMING
+ALASKA
+NWR Transmitter
+Call      Freq
+Watts      NWS
+Programming Office
+Anchorage      KEC43
+162.550     125
+Anchorage
+Biorka Island
+WXJ80      162.550
+500      Juneau
+Cordova      WXJ79
+162.400     500
+Valdez
+Craig KXI80
+162.475     300
+Annette
+Fairbanks      WXJ81
+162.550     500
+Fairbanks
+Haines      WXM97
+162.400     100
+Juneau
+Homer WXJ24      162.400
+800      Anchorage
+Juneau      WXJ25
+162.550     500
+Juneau
+Ketchikan      WXJ26
+162.550     500
+Annette
+Kodi  WXJ78
+162.550     100
+Kodiak
+Nome  WXJ62
+162.550     500
+Nome
+Seward      KEC81
+162.550     330
+Anchorage
+Soldotna      WWG39
+162.475     300
+Anchorage
+Unalaska      WXK89
+162.550     300
+Anchorage
+Valdez      WXJ63
+162.550     500
+Valdez
+Whittier      KXI29
+162.400     300
+Anchorage
+Wrangell      WXJ83
+162.400     750
+Juneau
+Yakutat      WXK69
+162.400     1000
+Yakutat
+ALABAMA
+NWR Transmitter
+Call      Freq
+Watts      NWS
+Programming Office
+Anniston      KIH58
+162.475     1000
+Birmingham
+Auburn      WWF54
+162.525     1000
+Birmingham
+Birmingham      KIH54
+162.550     1000
+Birmingham
+Cullman      WWF66
+162.450     100
+Birmingham
+Demopolis      WXL72
+162.475     1000
+Birmingham
+Dozier      KIH59
+162.550     800
+Mobile
+Florence      KIH57
+162.475     1000
+Birmingham
+Ft. Payne      WWF44
+162.500     1000
+Birmingham
+Huntsville      KIH20
+162.400     1000
+Birmingham
+Jackson      WWF55
+162.500     1000
+Mobile
+Louisville      KIH56
+162.475     1000
+Birmingham
+Mobile      KEC61
+162.550     1000
+Mobile
+Montgomery      KIH55
+162.400     1000
+Birmingham
+Tuscaloosa      KIH60
+162.400     1000
+Birmingham
+Winfield      WWF53
+162.525     1000
+Birmingham
+ARKANSAS
+NWR Transmitter
+Call      Freq
+Watts      NWS
+Programming Office
+Fayetteville      WXJ52
+162.475     1000
+Tulsa
+Fort Smith      WXJ50
+162.550     1000
+Tulsa
+Gurdon      WXJ48
+162.475     1000
+Little Rock
+Jonesboro      WXJ51
+162.550     1000
+Memphis
+Little Rock      WXJ55
+162.550     1000
+Little Rock
+Mountain View
+WXL66      162.450
+1000      Little
+Rock
+Russellville      WWF96
+162.525     1000
+Little Rock
+Star City      WXJ54
+162.400     1000
+Little Rock
+Texarkana      WXJ49
+162.550     1000
+Shreveport
+Yellville      WWG54
+162.500     1000
+Little Rock
+ARIZONA
+NWR Transmitter
+Call      Freq
+Watts      NWS
+Programming Office
+Flagstaff      WXK76
+162.400     100
+Flagstaff
+Gila County North
+WWG41      162.425
+100      Phoenix
+Gila County South
+WWG42      162.500
+100      Phoenix
+Grand Canyon      WWF52
+162.475     100
+Flagstaff
+Greens Peak      KXI23
+162.525     100
+Flagstaff
+Heliograph      KXI24
+162.550     100
+Tucson
+Phoenix      KEC94
+162.550     300
+Phoenix
+Prescott      WWF98
+162.525     100
+Flagstaff
+Show Low      WXK76A
+162.400     100
+Flagstaff
+Tucson      WXL30
+162.400     100
+Tucson
+Window Rock      WWF99
+162.550     100
+Flagstaff
+Yuma  WXL87
+162.550     100
+Phoenix
+CALIFORNIA
+NWR Transmitter
+Call      Freq
+Watts      NWS
+Programming Office
+Bakersfield      WXL89
+162.550     100
+San Joaquin
+Coachella      KIG78
+162.400     100
+San Diego
+Eureka      KEC82
+162.400     330
+Eureka
+Fresno      KIH62
+162.400     330
+San Joaquin
+Grass Valley      WWF67
+162.400     100
+Sacramento
+Los Angeles      KWO37
+162.550     500
+Los Angeles
+Monterey      KEC49
+162.550     100
+San Francisco
+Monterey Marine
+WWF64      162.450
+100      San
+Francisco
+Pt. Arena/Ukiah
+KIH30      162.550
+500      Eureka
+Redding      WXL88
+162.550     100
+Sacramento
+Sacramento      KEC57
+162.550     330
+Sacramento
+San Diego      KEC62
+162.400     330
+San Diego
+San Francisco
+KHB49      162.400
+500      San
+Francisco
+San Luis Obispo
+KIH31      162.550
+330      Los
+Angeles
+Santa Ana      WWG21
+162.450     100
+San Diego
+Santa Barbara Marine
+WWF62      162.475
+100      Los
+Angeles
+Santa Barbara
+KIH34      162.400
+330      Los
+Angeles
+Strawberry Peak
+WXM66      162.500
+100      San
+Diego
+COLORADO
+NWR Transmitter
+Call      Freq
+Watts      NWS
+Programming Office
+Alamosa      WXM54
+162.475     100
+Pueblo
+Bethune      WWF77
+162.525     100
+Goodland
+Boyero      WWH32
+162.450     100
+Denver
+Colorado Springs
+WXM56      162.475
+100      Pueblo
+Denver      KEC76
+162.550     330
+Denver
+Fort Collins      WXM92
+162.450     100
+Denver
+Fowler      WWG44
+162.425     100
+Pueblo
+Glenwood Springs
+WWG43      162.500
+100      Grand
+Junction
+Grand Junction
+WXM55      162.550
+300      Grand
+Junction
+Greeley      WXM50
+162.400     100
+Denver
+La Junta      WWG23
+162.500     100
+Pueblo
+Mead/Longmont
+WXM51      162.475
+100      Denver
+Pueblo      WXM52
+162.400     100
+Pueblo
+Sterling      WXM53
+162.400     300
+Denver
+Wray  WXM87
+162.475     100
+Goodland
+CONNECTICUT
+NWR Transmitter
+Call      Freq
+Watts      NWS
+Programming Office
+Hartford      WXJ41
+162.475     300
+Boston
+Meriden      WXJ42
+162.400     500
+New York
+New London      KHB47
+162.550     500
+New York
+DELAWARE
+NWR Transmitter
+Call      Freq
+Watts      NWS
+Programming Office
+Lewes WXJ94      162.550
+500      Philadelphia
+FLORIDA
+NWR Transmitter
+Call      Freq
+Watts      NWS
+Programming Office
+Belle Glade      WXM58
+162.400     300
+Miami
+Bethlehem      WWH20
+162.450     1000
+Tallahassee
+Daytona Beach
+KIH26      162.400
+1000      Melbourne
+East Point      WWF86
+162.500     250
+Tallahassee
+Fort Myers      WXK83
+162.475     1000
+Tampa Bay
+Fort Pierce      WWF69
+162.425     100
+Melbourne
+Gainesville      WXJ60
+162.475     1000
+Jacksonville
+Inverness      WWF38
+162.400     350
+Tampa Bay
+Jacksonville      KHB39
+162.550     1000
+Jacksonville
+Key West      WXJ95
+162.400     1000
+Key West
+Live Oak      WWG30
+162.450     300
+Jacksonville
+Melbourne      WXJ70
+162.550     1000
+Melbourne
+Miami KHB34      162.550
+1000      Miami
+Naples      WWG92
+162.525     1000
+Miami
+Ocala WWF85      162.525
+250      Jacksonville
+Orlando      KIH63
+162.475     1000
+Melbourne
+Panama City      KGG67
+162.550     1000
+Tallahassee
+Pensacola      KEC86
+162.400     500
+Mobile
+Salem WWF88      162.425
+1000      Tallahassee
+Sebring      WXK83A
+162.500     110
+Tampa Bay
+Tallahassee      KIH24
+162.400     1000
+Tallahassee
+Tampa KHB32      162.550
+1000      Tampa
+Tea Table Key
+WWG60      162.450
+125      Key
+West
+Venice      WWG59
+162.400     1000
+Tampa Bay
+West Palm Beach
+KEC50      162.475
+500      Miami
+GEORGIA
+NWR Transmitter
+Call      Freq
+Watts      NWS
+Programming Office
+Americus      WXJ30
+162.425     1000
+Atlanta
+Athens      WXK56
+162.400     500
+Atlanta
+Atlanta      KEC80
+162.550     500
+Atlanta
+Augusta      WXK54
+162.550     500
+Columbia
+Baxley      WXM65
+162.525     350
+Jacksonville
+Brasstown Bald
+KXI22      162.500
+100      Atlanta
+Brunswick      WWH39
+162.425     300
+Jacksonville
+Buchanan      WWH23
+162.425     1000
+Atlanta
+Chatsworth      WXK52
+162.400     200
+Atlanta
+Cleveland      WXJ53
+162.525     300
+Atlanta
+Columbus      WXM32
+162.400     1000
+Birmingham
+Jesup WXJ28      162.450
+300      Jacksonville
+Macon WXK71      162.475
+1000      Atlanta
+Metter      WWH25
+162.425     1000
+Charleston
+Pelham      WXK53
+162.550     500
+Tallahassee
+Svavannah      KEC85
+162.400     1000
+Charleston
+Sumerville      WXJ72
+162.450     300
+Atlanta
+Thomaston      WXJ31
+162.500     1000
+Atlanta
+Toccoa      WWH24
+162.425     250
+Greenville/Spartanburg
+Valdosta      WXM79
+162.500     100
+Tallahassee
+Waycross      WXK75
+162.475     500
+Jacksonville
+Waynesboro      WXM88
+162.425     375
+Columbia
+GUAM
+NWR Transmitter
+Call      Freq
+Watts      NWS
+Programming Office
+Guam (Nimitz Hill)
+WXM85      162.400
+375      Guam
+HAWAII
+Hawaii
+(Kulani Cone)
+WWG76
+162.550            1000
+Honolulu
+Hawaii
+(South Point)
+WWG27
+162.550            150
+Honolulu
+Kaneohe
+WWH21            162.400
+1000
+Honolulu
+Kauai
+(Kokee)
+WWG74            162.400
+1000
+Honolulu
+Maui
+(Mt. Haleakala)
+WWG75
+162.400            1000
+Honolulu
+Oahu
+(Mt. Kaala)
+KBA99            162.550
+1000
+Honolulu
+Oahu
+Kai
+(Hawaii
+Kai)
+WWF39
+162.400            10
+Honolulu
+IOWA
+Burlington
+WXN83            162.525
+300
+Quad Cities
+Cedar
+Rapids
+WXL61            162.475
+1000
+Quad Cities
+Des
+Moines
+WXL57            162.550
+1000
+Des Moines
+Dubuque
+WXL64            162.400
+1000
+Quad Cities
+Fairfield
+WXN85            162.400
+300
+Quad Cities
+Fort
+Dodge
+WXK84            162.400
+300
+Des Moines
+Sioux
+City
+WXL62            162.475
+1000
+Sioux Falls (SD)
+Waterloo
+WXL94            162.550
+1000
+Des Moines
+IDAHO
+Boise
+WXK68            162.550
+100
+Boise
+Bonners
+Ferry
+WWG99            162.500
+100
+Spokane
+Grangeville
+KXI82            162.450
+25
+Missoula
+Lewiston
+WXK98            162.550
+100
+Spokane
+McCall
+WWF58            162.475
+100
+Boise
+Payette
+WXK88            162.400
+100
+Boise
+Pocatello
+WXL33            162.550
+100
+Pocatello
+Twin
+Falls
+WXL35            162.400
+100
+Boise
+ILLINOIS
+Champaign
+WXJ76            162.550
+1000
+Central
+Chicago
+KWO39            162.550
+500
+Chicago
+Jacksonville
+WXM90            162.525
+300
+Central
+Marion
+WXM49            162.425
+1000
+Paducah
+Macomb
+WXJ92            162.500
+1000
+Quad Cities
+Newton
+KXI48            162.450
+1000
+Central
+Odell
+WXK24            162.450
+1000
+Chicago
+Paris
+KXI47            162.525
+300
+Central
+Peoria
+WXJ71            162.475
+1000
+Central
+Princeton
+WXL22            162.425
+300
+Quad Cities
+Rock
+Island/Moline
+WXJ73            162.550
+1000
+Quad Cities
+Rockford
+WXJ74            162.475
+1000
+Chicago
+Springfield
+WXJ75            162.400
+1000
+Central
+INDIANA
+Bloomington
+WXM78            162.450
+1000
+Indianapolis
+Edwardsport
+WWG83            162.425
+1000
+Indianapolis
+Evansville
+KIG76            162.550
+1000
+Paducah
+Fort
+Wayne
+WXJ58            162.550
+1000
+Northern
+Georgia
+WWG72            162.500
+1000
+Indianapolis
+Indianapolis
+KEC74            162.550
+1000
+Indianapolis
+Lafayette
+(Yeoman)
+WXK74            162.475
+1000
+Indianapolis
+Marion
+WXM98            162.450
+400
+Northern
+North
+Webster
+WWG45            162.425
+300
+Northern
+Putnamville
+WXK72            162.400
+1000
+Indianapolis
+Seymour
+WWG73            162.525
+1000
+Indianapolis
+South
+Bend
+WXJ57            162.400
+1000
+Northern
+KANSAS
+Abilene
+WXL71            162.525
+1000
+Topeka
+Beaumont
+WWH22            162.500
+300
+Wichita
+Chanute
+WXK95            162.400
+1000
+Wichita
+Colby/Goodland
+WXK96            162.400
+600
+Goodland
+Concordia
+WXK94            162.550
+1000
+Topeka
+Dodge
+City
+WXK93            162.475
+1000
+Dodge City
+Ellsworth
+WXK92            162.400
+1000
+Wichita
+Lenora
+WWF87            162.425
+100
+Goodland
+Topeka
+WXK91            162.475
+1000
+Topeka
+Tribune
+WWG22            162.550
+150
+Dodge City
+Wichita
+KEC59            162.550
+1000
+Wichita
+KENTUCKY
+Ashland
+KIH39            162.550
+1000
+Charleston
+Beattyville
+WWG67            162.500
+100
+Jackson
+Bowling
+Green
+KIH45            162.400
+1000
+Louisville
+Covington
+KIH42
+162.550            1000
+Cincinnati
+Elizabethtown
+KIH43A            162.550
+100
+Louisville
+Frenchburg
+WWG63            162.475
+100
+Jackson
+Harlan
+WWG68
+162.450            100
+Jackson
+Hazard
+KIH40            162.475
+1000
+Jackson
+Hopkinsville
+KXI26            162.450
+300
+Paducah
+Jackson
+WWG26            162.425
+100
+Jackson
+Lexington
+KIH41
+162.400            1000
+Louisville
+London
+WWG65            162.475
+100
+Jackson
+Louisville
+KIH43            162.475
+1000
+Louisville
+McKee
+WWG64            162.425
+100
+Jackson
+Madisonville
+WXJ91            162.525
+1000
+Paducah
+Manchester
+WWG66            162.400
+100
+Jackson
+Mayfield
+KIH46            162.475
+1000
+Paducah
+Monticello
+WWG80            162.425
+100
+Jackson
+Morehead
+WWG71            162.425
+100
+Jackson
+Mount
+Vernon
+WWG70            162.425
+100
+Jackson
+Paintsville
+WWG28            162.525
+100
+Jackson
+Phelps
+WWG81
+162.500            100
+Jackson
+Pikeville
+WWG69
+162.400            300
+Jackson
+Pineville
+WWG62            162.525
+100
+Jackson
+Richmond
+WWF82            162.525
+100
+Louisville
+Somerset
+KIH44            162.550
+1000
+Jackson
+Stanton
+WWG61
+162.550            100
+Jackson
+West
+Liberty
+WWG79            162.450
+100
+Jackson
+Williamsburg
+WWG78            162.500
+100
+Jackson
+LOUISIANA
+Alexandria
+WXK78            162.475
+1000
+Lake Charles
+Baton
+Rouge
+KHB46            162.400
+700
+New Orleans/Baton Rouge
+Buras
+WXL41
+162.475            1000
+New Orleans/Baton Rouge
+Lafayette
+WXK80            162.550
+1000
+Lake Charles
+Lake
+Charles
+KHB42            162.400
+500
+Lake Charles
+Monroe
+WXJ96
+162.550            1000
+Shreveport
+Morgan
+City
+KIH23            162.475
+1000
+New Orleans/Baton Rouge
+New
+Orleans
+KHB43            162.550
+1000
+New Orleans/Baton Rouge
+Shreveport
+WXJ97            162.400
+1000
+Shreveport
+MASSACHUSETTS
+Boston
+KHB35            162.475
+500
+Boston
+Hyannis
+(Camp
+Edwards)
+KEC73            162.550
+1000
+Boston
+Mt.
+Greylock
+WWF48            162.525
+100
+Albany
+Worcester
+WXL93            162.550
+500
+Boston
+MARYLAND
+Baltimore
+KEC83            162.400
+1000
+Baltimore/Washington
+Hagerstown
+WXM42            162.475
+1000
+Baltimore/Washington
+Salisbury
+KEC92            162.475
+1000
+Wakefield
+MAINE
+Caribou
+WXM77            162.525
+500
+Caribou
+Dresden
+WXM60            162.475
+100
+Portland
+Ellsworth
+KEC93            162.400
+1000
+Portland
+Falmouth
+KDO95            162.550
+500
+Portland
+MICHIGAN
+Alpena
+KIG83            162.550
+500
+North Central Lower
+Detroit
+KEC63            162.550
+330
+Detroit
+Flint
+KIH29            162.475
+1000
+Detroit
+Gaylord
+WWF70            162.500
+100
+North Central Lower
+Grand
+Rapids
+KIG63            162.550
+1000
+Grand Rapids
+Hesperia
+WWF36            162.475
+150
+Grand Rapids
+Houghton
+WXK73            162.400
+1000
+Marquette
+Marquette
+KIG66            162.550
+300
+Marquette
+Onondaga
+WXK81            162.400
+500
+Grand Rapids
+Oshtemo
+WWF34            162.475
+500
+Grand Rapids
+Sault
+Ste Marie   KIG74
+162.550
+1000    North
+Central Lower
+Traverse
+City
+KIH22            162.400
+330
+North Central Lower
+MINNESOTA
+Bemidji
+WXM99            162.425
+110
+Eastern
+Bogus
+Lake
+KXI43            162.400
+300
+Duluth
+Detroit
+Lakes
+WXM64            162.400
+100
+Eastern
+Duluth
+KIG64            162.550
+1000
+Duluth
+Ely
+KXI44            162.500
+300
+Duluth
+International
+Falls
+WXK45
+162.550            1000
+Duluth
+Mankato
+WXK40            162.400
+1000
+Minneapolis
+Minneapolis/St.
+Paul
+KEC65
+162.550            1000
+Minneapolis
+Park
+Rapids
+WWG98            162.475
+300
+Eastern
+Rochester
+WXK41            162.475
+1000
+La Crosse
+Roosevelt
+WWF45            162.450
+190
+Eastern
+St.
+Cloud
+WXL65            162.400
+330
+Minneapolis
+Thief
+River Falls
+WXK43            162.550
+1000
+Eastern
+Willmar
+WXK44            162.475
+1000
+Minneapolis
+MISSOURI
+Alton
+KXI35            162.500
+300
+Springfield
+Bourbon
+WWF75            162.525
+1000
+St. Louis
+Camdenton
+WXJ90            162.550
+1000
+Springfield
+Columbia
+WXL45            162.400
+1000
+St. Louis
+Doniphan
+WWG48            162.450
+1000
+Paducah
+Fredricktown
+WWG49            162.500
+1000
+St. Louis
+Hannibal
+WXK82            162.475
+1000
+St. Louis
+Hermitage
+WXM81            162.450
+100
+Springfield
+Joplin
+WXJ61            162.425
+1000
+Springfield
+Kahoka
+WXL99            162.450
+300
+Quad Cities
+Kansas
+City
+KID77            162.550
+1000
+Kansas City/Pleasant Hill
+La
+Plata
+WXM39            162.525
+300
+Kansas City/Pleasant Hill
+Lancaster
+WXM36            162.550
+300
+Kansas City/Pleasant Hill
+Sikeston
+WXL47            162.400
+1000
+Paducah
+Springfield
+WXL46            162.400
+1000
+Springfield
+St.
+Joseph
+KEC77            162.400
+1000
+Kansas City/Pleasant Hill
+St.
+Louis
+KDO89            162.550
+1000
+St. Louis
+Summersville
+WWF76            162.475
+1000
+Springfield
+Wardell
+WWG47            162.525
+1000
+Memphis
+West
+Plains
+KXI38            162.525
+300
+Springfield
+MISSISSIPPI
+Ackerman
+KIH51            162.475
+300
+Jackson
+Booneville
+KIH53            162.400
+700
+Memphis, TN
+Bude
+KIH48            162.550
+400
+Jackson
+Columbia
+WXL21            162.400
+30
+Jackson
+Gulfport
+KIH21            162.400
+1000
+New Orleans/Baton Rouge, LA
+Hattiesburg
+KIH47            162.475
+1000
+Jackson
+Inverness
+KIH50            162.550
+500
+Jackson
+Jackson
+KIH38            162.400
+800
+Jackson
+Kosciusko
+WWG38            162.425
+300
+Jackson
+Meridian
+KIH49            162.550
+500
+Jackson
+Oxford
+KIH52            162.550
+400
+Memphis, TN
+Parchman
+WWG37            162.500
+100
+Jackson
+MONTANA
+Billings
+WXL27            162.550
+300
+Billings
+Butte
+WXL79            162.550
+100
+Missoula
+Conrad
+WWG84            162.500
+100
+Great Falls
+Glasgow
+WXL32            162.400
+300
+Glasgow
+Glendive
+WWF93            162.475
+100
+Glasgow
+Great
+Falls
+WXJ43            162.550
+300
+Great Falls
+Havre
+(Squaw Butte)
+WXL53
+162.400            300
+Great Falls
+Helena
+WXK66            162.400
+300
+Great Falls
+Kalispell
+WXL82            162.550
+100
+Missoula
+Malta
+WWG85            162.475
+100
+Glasgow
+Miles
+City
+WXL54            162.400
+300
+Billings
+Missoula
+WXL25            162.400
+100
+Missoula
+Plentywood
+WWF50            162.475
+50
+Glasgow
+Scoby
+WWF92            162.450
+25
+Glasgow
+NEBRASKA
+Bassett
+WXL73            162.475
+630
+North Platte
+Grand
+Island
+WXL74            162.400
+1000
+Hastings
+Holdrege
+WXL75            162.475
+1000
+Hastings
+Lincoln
+WXM20            162.475
+1000
+Omaha
+Merriman
+WXL76            162.400
+800
+North Platte
+Norfolk
+WXL77            162.550
+800
+Omaha
+North
+Platte
+WXL68            162.550
+1000
+North Platte
+Omaha
+KIH61            162.400
+1000
+Omaha
+Scottsbluff
+WXL67            162.475
+1000
+Cheyenne, WY
+NEW
+HAMPSHIRE
+Concord
+WXJ40            162.400
+330
+Portland
+NEW
+JERSEY
+Atlantic
+City
+KHB38            162.400
+1000
+Philadelphia, PA
+NEW
+MEXICO
+Albuquerque
+WXJ34            162.400
+100
+Albuquerque
+Carlsbad
+WWF37            162.475
+100
+Midland/Odessa, TX
+Clovis
+WXJ35            162.475
+100
+Albuquerque
+Des
+Moines
+WXL90            162.550
+100
+Albuquerque
+Farmington
+WXJ37            162.475
+100
+Albuquerque
+Hobbs
+WXJ36            162.400
+100
+Midland/Odessa, TX
+Las
+Cruces
+WXL91            162.400
+100
+El Paso, TX
+Roswell
+WWG36            162.450
+100
+Albuquerque
+Ruidoso
+WXJ38            162.550
+100
+Albuquerque
+Santa
+Fe
+WXJ33            162.550
+100
+Albuquerque
+NEVADA
+Elko
+WXL28            162.550
+100
+Elko
+Ely
+(Cave Mt.)
+WXL69            162.400
+100
+Elko
+Eureka
+WWF81            162.550
+100
+Elko
+Hawthorne
+WWF59            162.475
+100
+Reno
+Las
+Vegas
+(Boulder
+City)            WXL36
+162.550
+100
+Las Vegas
+Northwest
+Nevada
+WWG20            162.450
+100
+Reno
+Reno
+WXK58            162.550
+100
+Reno
+Winnemucca
+WXL29            162.400
+100
+Elko
+NEW
+YORK
+Albany
+WXL34            162.550
+1000
+Albany
+Binghamton
+WXL38            162.475
+1000
+Binghamton
+Buffalo
+KEB98            162.550
+330
+Buffalo
+Cooperstown
+WWH35            162.425
+100
+Binghamton
+Elmira
+WXM31            162.400
+1000
+Binghamton
+Kingston
+WXL37            162.475
+1000
+Albany
+Little
+Valley
+WWG32            162.425
+100
+Buffalo
+New
+York City
+KWO35            162.550
+500
+New York
+Riverhead
+WXM80            162.475
+1000
+New York
+Rochester
+KHA53            162.400
+500
+Buffalo
+Stamford
+WWF43            162.400
+60
+Binghamton
+Syracuse
+WXL31            162.550
+1000
+Binghamton
+Walton
+WWH34            162.425
+100
+Binghamton
+Watertown
+WXN68            162.475
+100
+Buffalo
+NORTH
+CAROLINA
+Asheville
+WXL56            162.400
+250
+Greenville/Spartanburg, SC
+Badin
+WWF60            162.425
+1000
+Raleigh/Durham
+Cape
+Hatteras
+KIG77            162.475
+1000
+Moorehead City
+Charlotte
+WXL70            162.475
+200
+Greenville/Spartanburg, SC
+Fayetteville
+WXL50            162.475
+250
+Raleigh/Durham
+Joanna
+Bald Mtn
+WWG82            162.525
+100
+Greenville/Spartanburg, SC
+Lumber
+Bridge
+WWF89            162.525
+100
+Wilmington
+Margaretsville
+WWG33            162.450
+100
+Wakefield
+New
+Bern
+KEC84            162.400
+1000
+Moorehead City
+Raleigh/Durhan
+WXL58            162.550
+1000
+Raleigh/Durham
+Rocky
+Mount
+WXL59            162.475
+1000
+Raleigh/Durham
+Wilmington
+KHB31            162.550
+1000
+Wilmington
+Winston
+Salem
+WXL42            162.400
+100
+Raleigh/Durham
+NORTH
+DAKOTA
+Bismarck
+WXL78            162.475
+1000
+Bismarck
+Devils
+Lake
+WWG25            162.425
+100
+Eastern
+Dickinson
+WXL80            162.400
+800
+Bismarck
+Fargo
+WXK42            162.475
+500
+Eastern
+Grand
+Forks
+WWF83            162.475
+50
+Eastern
+Jamestown
+WXL81            162.550
+1000
+Bismarck
+Minot
+WXL83            162.400
+1000
+Bismarck
+Petersburg
+WXM38            162.400
+1000
+Eastern
+Williston
+WXL84            162.550
+1000
+Williston
+NORTH
+MARIANA ISLANDS
+Saipan
+(Mt
+Tapochau)
+WXM86            162.550
+110
+Guam
+OHIO
+Akron
+KDO94            162.400
+500
+Cleveland
+Bridgeport
+WWF35            162.525
+1000
+Pittsburgh
+Cleveland
+KHB59            162.550
+500
+Cleveland
+Columbus
+KIG86            162.550
+1000
+Cincinnati
+Dayton
+WXJ46            162.475
+1000
+Cincinnati
+High
+Hill
+WXJ47            162.475
+1000
+Pittsburgh
+Lima
+WXJ93            162.400
+1000
+Cincinnati
+Sandusky
+KHB97            162.400
+1000
+Cleveland
+Toledo
+WXL51            162.550
+100
+Cleveland
+OKLAHOMA
+Altus
+WWG97            162.425
+95
+Oklahoma City
+Clinton
+WXK87            162.475
+500
+Oklahoma City
+Enid
+WXL48            162.475
+200
+Oklahoma City
+Grove
+WWH38            162.500
+300
+Tulsa
+Lawton
+WXK86            162.550
+1000
+Oklahoma City
+McAlester
+WXL49            162.475
+1000
+Tulsa
+Oklahoma
+City
+WXK85            162.400
+1000
+Oklahoma City
+Ponca
+City
+WWF42            162.450
+500
+Oklahoma City
+Tulsa
+KIH27            162.550
+500
+Tulsa
+Woodward
+WWG46            162.500
+100
+Oklahoma City
+OREGON
+Astoria
+KEC91            162.400
+100
+Portland
+Bend/Redmond
+WWF80            162.500
+120
+Pendleton
+Brookings
+KIH37            162.550
+500
+Eureka
+Coos
+Bay
+KIH32            162.400
+330
+Medford
+Eugene
+KEC42            162.400
+100
+Portland
+Heppner
+WWH28            162.425
+100
+Pendleton
+Klamath
+Falls
+WXL97            162.550
+100
+Medford
+Medford
+WXL85            162.400
+330
+Medford
+Mt.
+Ashland
+WWF97            162.475
+100
+Medford
+Neahkahnie
+Mtn
+WWF94            162.425
+25
+Portland
+Newport
+KIH33            162.550
+100
+Portland
+Pendleton
+WXL95            162.400
+330
+Pendleton
+Portland
+KIG98            162.550
+330
+Portland
+Roseburg
+WXL98            162.550
+100
+Medford
+Salem
+WXL96            162.475
+100
+Portland
+Tillamook
+WWF95            162.475
+25
+Portland
+Umatilla
+WWF57            162.500
+330
+Pendleton
+PENNSYLVANIA
+Allentown
+WXL39            162.400
+1000
+Philadelphia
+Clearfield
+WXL52            162.550
+500
+Central
+Erie
+KEC58            162.400
+330
+Cleveland, OH
+Harrisburg
+WXL40            162.550
+1000
+Central
+Johnstown
+WXM33            162.400
+250
+Central
+Parker
+WWG53            162.425
+1000
+Pittsburgh
+Philadelphia
+KIH28            162.475
+1000
+Philadelphia
+Pittsburgh
+KIH35            162.550
+1000
+Pittsburgh
+State
+College
+WXM59            162.475
+100
+Central
+Three
+Springs
+WWG52            162.525
+1000
+Central
+Towanda
+WXM95            162.550
+1000
+Binghamton, NY
+Warren
+WWG51            162.450
+1000
+Central
+Wellsboro
+WXM94            162.475
+1000
+Central
+Wilkes-Barre
+WXL43            162.550
+250
+Binghamton, NY
+Williamsport
+WXL55            162.400
+1000
+Central
+PUERTO
+RICO
+Maricao
+WXJ69            162.550
+1000
+San Juan
+San
+Juan
+WXJ68            162.400
+1000
+San Juan
+RHODE
+ISLAND
+Providence
+WXJ39            162.400
+500
+Boston, MA
+SOUTH
+CAROLINA
+Beaufort
+WXJ23            162.475
+350
+Charleston
+Charleston
+KHB29            162.550
+1000
+Charleston
+Columbia
+WXJ20            162.400
+1000
+Columbia
+Conway/
+Myrtle
+Beach
+KEC95            162.400
+1000
+Wilmington, NC
+Cross
+WXM93            162.475
+100
+Charleston
+Florence
+WXJ22            162.550
+1000
+Wilmington, NC
+Greenville
+WXJ21            162.550
+1000
+Greenville/Spartanburg
+Sumter
+WWG77            162.475
+10
+Columbia
+SOUTH
+DAKOTA
+Aberdeen
+WXM25            162.475
+1000
+Aberdeen
+Brookings
+KXI71            162.525
+1000
+Sioux Falls
+Hot
+Springs
+WXK64            162.425
+300
+Rapid City
+Huron
+WXM27            162.550
+500
+Sioux Falls
+Lead
+WXL23            162.525
+300
+Rapid City
+Lowry
+WXM40            162.500
+1000
+Aberdeen
+Mitchell
+WWH36            162.450
+1000
+Sioux Falls
+Philip
+KXI59            162.450
+1000
+Rapid City
+Pickstown
+KXI25            162.425
+300
+Sioux Falls
+Pierre
+WXM26            162.400
+700
+Aberdeen
+Rapid
+City
+WXM63            162.550
+1000
+Rapid City
+Sioux
+Falls
+WXM28            162.400
+1000
+Sioux Falls
+South
+Shore
+WXM41            162.425
+1000
+Aberdeen
+Yankton
+KXI21            162.500
+1000
+Sioux Falls
+TENNESSEE
+Bristol
+WXK47            162.550
+500
+Knoxville/Tri Cities
+Chattanooga
+WXK48            162.550
+1000
+Knoxville/Tri Cities
+Clarksville
+WWH37            162.500
+100
+Nashville
+Cookeville
+WXK61            162.400
+200
+Nashville
+Dyersburg
+WWH30            162.500
+1000
+Memphis
+Jackson
+WXK60            162.550
+1000
+Memphis
+Knoxville
+WXK46            162.475
+1000
+Knoxville/Tri Cities
+Lawrenceburg
+WWF84            162.425
+1000
+Nashville
+Memephis
+WXK49            162.475
+1000
+Memphis
+Nashville
+KIG79            162.550
+1000
+Nashville
+Shelbyville
+WXK63            162.475
+200
+Nashville
+Waverly
+WXK62            162.400
+1000
+Nashville
+TEXAS
+Abilene
+WXK29            162.400
+1000
+San Angelo
+Amarillo
+WXK38            162.550
+1000
+Amarillo
+Austin
+WXK27            162.400
+1000
+Austin/San Antonio
+Bay
+City
+WWG40            162.425
+1000
+Houston/Galveston
+Beaumont
+WXK28            162.475
+1000
+Lake Charles, LA
+Big
+Spring
+WXK37            162.475
+1000
+Midland/Odessa
+Brownsville
+WWG34            162.550
+1000
+Brownsville
+Bryan/
+College
+Station
+WXK30            162.550
+1000
+Houston/Galveston
+Corpus
+Christi
+KHB41            162.550
+100
+Corpus Christi
+Dallas
+KEC56            162.400
+1000
+Dallas/ Fort Worth
+Del
+Rio
+WXJ98            162.400
+1000
+Austin/San Antonio
+El
+Paso
+WXK25            162.475
+100
+El Paso
+Ft.
+Worth
+KEC55            162.550
+1000
+Dallas/ Fort Worth
+Galveston
+KHB40            162.550
+500
+Houston/Galveston
+Houston
+KGG68            162.400
+330
+Houston/Galveston
+Junction
+WWG93            162.475
+1000
+San Angelo
+Kerrville
+WWF90            162.450
+1000
+Austin/San Antonio
+La
+Grange
+WWG55            162.500
+1000
+Austin/San Antonio
+Laredo
+WXK26            162.475
+1000
+Corpus Christi
+Llano
+WWF91            162.425
+1000
+Austin/San Antonio
+Lubbock
+WXK79            162.400
+1000
+Lubbock
+Lufkin
+WXK23            162.550
+1000
+Shreveport, LA
+Odessa/Midland
+WXK32            162.400
+1000
+Midland/Odessa
+Ozona
+WXL44            162.500
+300
+San Angelo
+Paris
+WXK20            162.550
+1000
+Dallas/ Fort Worth
+Pharr
+KHB33            162.400
+1000
+Brownsville
+Port
+O'Conner
+WXL26            162.475
+100
+Corpus Christi
+Richland
+Springs
+WWG94            162.525
+1000
+San Angelo
+San
+Angelo
+WXK33            162.550
+1000
+San Angelo
+San
+Antonio
+WXK67            162.550
+1000
+Austin/San Antonio
+Sherman
+WXK22            162.475
+1000
+Dallas/ Fort Worth
+Tyler
+WXK36            162.475
+1000
+Shreveport, LA
+Victoria
+WXK34            162.400
+1000
+Corpus Christi
+Waco
+WXK35            162.475
+1000
+Dallas/ Fort Worth
+Wichita
+Falls
+WXK31            162.475
+1000
+Oklahoma City, OK
+UTAH
+Lake
+Powell
+WXM89            162.550
+100
+Salt Lake City
+Logan
+WXM22            162.400
+100
+Salt Lake City
+Milford/Cedar
+City
+WXM24            162.400
+100
+Salt Lake City
+Salt
+Lake City
+KEC78            162.550
+330
+Salt Lake City
+St.
+George
+(Utah
+Hill)
+WWF51            162.425
+100
+Salt Lake City
+Tooele
+(South
+Mtn)
+WWF46            162.450
+100
+Salt Lake City
+Tooele
+(Vernon
+Hills)
+WWF47            162.525
+100
+Salt Lake City
+Vernal
+WXM23            162.400
+100
+Grand Junction, CO
+Wendover
+KXI30            162.475
+100
+Salt Lake City
+VIRGINIA
+Heathsville
+WXM57            162.400
+1000
+Wakefield
+Lynchburg
+WXL92            162.550
+1000
+Roanoke
+Norfolk
+KHB37            162.550
+1000
+Wakefield
+Richmond
+WXK65            162.475
+1000
+Wakefield
+Roanoke
+WXL60            162.475
+1000
+Roanoke
+Washington,
+DC
+(Manassas)
+KHB36            162.550
+1000
+Baltimore/Washington
+VIRGIN
+ISLANDS
+St.
+Thomas
+WXM96            162.475
+500
+San Juan
+VERMONT
+Burlington
+KIG60            162.400
+1000
+Burlington
+Marlboro
+WXM68            162.425
+300
+Albany
+Windsor
+WXM44            162.475
+400
+Burlington
+WASHINGTON
+Mt.
+Octopus
+KXI27            162.425
+300
+Seattle/Tacoma
+Neah
+Bay
+KIH36            162.550
+330
+Seattle/Tacoma
+Okanagan
+(Tunk
+Mtn)
+WWF49            162.525
+50
+Spokane
+Olympia
+WXM62            162.475
+100
+Seattle/Tacoma
+Plymouth
+WWH27            162.425
+100
+Pendleton, OR
+Puget
+Sound
+(Pt.
+Angeles) Marine
+WWG24
+162.425            100
+Seattle/Tacoma
+Richland
+WWF56            162.450
+100
+Pendleton, OR
+Seattle
+KHB60            162.550
+330
+Seattle/Tacoma
+Spokane
+WXL86            162.400
+100
+Spokane
+Wenatchee
+WXM48            162.475
+100
+Spokane
+Yakima
+KIG75            162.550
+300
+Pendleton, OR
+WISCONSIN
+Adams
+WWF40            162.400
+300
+La Crosse
+Crandon
+WWG86            162.450
+800
+Green Bay
+Fond
+du Lac
+WWG87            162.500
+1000
+Milwaukee
+Green
+Bay
+KIG65            162.550
+1000
+Green Bay
+Janesville
+WWG89            162.425
+200
+Milwaukee
+La
+Crosse
+WXJ86            162.550
+1000
+La Crosse
+Madison
+WXJ87            162.550
+1000
+Milwaukee
+Menomonie
+WXJ88            162.400
+1000
+Minneapolis, MN
+Milwaukee
+KEC60            162.400
+1000
+Milwaukee
+Park
+Falls
+WXM91            162.500
+500
+Duluth, MN
+Prairie
+du Chien
+WWG86            162.500
+300
+La Crosse
+Richland
+Center
+WWG90            162.450
+200
+La Crosse
+Shenoygan
+WWG91            162.525
+200
+Milwaukee
+Sister
+Bay
+WXN69            162.425
+500
+Green Bay
+Wausau
+WXJ89            162.475
+1000
+Green Bay
+WEST
+VIRGINIA
+Beckley
+WXM71            162.550
+400
+Charleston
+Charleston
+WXJ84            162.400
+1000
+Charleston
+Clarksburg
+WXJ85            162.550
+1000
+Charleston
+Gilbert
+WXM75            162.475
+100
+Charleston
+Hinton
+WXM72            162.425
+1000
+Roanoke, VA
+Moorefield
+WXM73            162.400
+1000
+Baltimore/Washington
+Spencer
+WXM70            162.500
+500
+Charleston
+Sutton
+WXM74            162.450
+1000
+Charleston
+WYOMING
+Casper
+Mtn
+WXM47            162.400
+400
+Riverton
+Cheyenne
+WXM37            162.550
+1000
+Cheyenne
+Evanston
+KXI85            162.450
+300
+Salt Lake City, UT
+Lander
+WXM61            162.475
+1000
+Riverton
+Rawlins
+KXI37            162.425
+300
+Cheyenne
+Rock
+Springs
+KXI34            162.550
+300
+Riverton
+Sheridan
+WXM46            162.475
+400
+Billings, MT
+Back to Monitoring Times
+home page

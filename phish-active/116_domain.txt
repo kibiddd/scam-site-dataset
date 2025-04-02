@@ -1,0 +1,19 @@
+   Domain Name: BOTTEK.COM
+   Registry Domain ID: 75873470_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.meshdigital.com
+   Registrar URL: http://www.meshdigital.com
+   Updated Date: 2024-08-08T09:30:55Z
+   Creation Date: 2001-08-09T16:50:25Z
+   Registry Expiry Date: 2025-08-09T16:50:25Z
+   Registrar: Mesh Digital Limited
+   Registrar IANA ID: 1390
+   Registrar Abuse Contact Email: abuse@domainbox.com
+   Registrar Abuse Contact Phone: +18779770099
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS35.DOMAINCONTROL.COM
+   Name Server: NS36.DOMAINCONTROL.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:53:09Z 

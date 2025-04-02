@@ -1,0 +1,588 @@
+Gridiron Football Pool - Display Player Picks
+Email:
+Password:
+Remember Me
+Auto Sign-In
+Send Password
+Home
+Home Page
+Switch to Mobile View
+Picks & Results
+Display Player Picks
+Compare Player Picks
+Display Pick Analysis
+Display Results & Standings
+Display Survivor Results
+Display Head 2 Head
+Display League Play
+Display Second Chance Results
+Display Player Weekly Scores
+Documents
+Gridiron Mobile IntroGridiron Rules 2024-2025Gridiron Tiebreaker RulesMoney Distribution 2024-25 Main Pool Wk18Money Distribution 2024-25 Platinum Pool Wk18Scoring Cheat Sheet
+Contacts
+Contact Us
+25-Mar-2025 17:14:58
+US Mountain Standard Time
+LogLevel: DEBUG
+Season:
+2024 / 2025 $ 80
+2024 / 2025 $150
+2023 / 2024
+2022 / 2023
+2021 / 2022
+2020 / 2021
+2019 / 2020
+2018 / 2019
+2017 / 2018
+2016 / 2017
+2015 / 2016
+2014 / 2015
+2013 / 2014
+Game:
+<all games>
+Kansas City @ Philadelphia
+Week:
+Week 1
+Week 2
+Week 3
+Week 4
+Week 5
+Week 6
+Week 7
+Week 8
+Week 9
+Week 10
+Week 11
+Week 12
+Week 13
+Week 14
+Week 15
+Week 16
+Week 17
+Week 18
+Wild Card Weekend
+Divisional Playoffs
+Conference Championships
+Super Bowl
+Team:
+<all teams>
+Player:
+<select a player>
+<all players>
+"!"
+#craftymon
+#GFY
+#HereWeGo
+#TitanUp
+(_|_) Buttmonkey
+[Name Missing]
+15Kokanee
+2Hawk2Handle
+3dressedupasa9
+49ers
+A baby
+Abbygal
+Adam Jessup
+Air Allaire
+Al Dawg
+Aldawg
+All you need is Love
+always run from the 1
+Andrew Balchin
+Andy Bell
+Andy Hayton
+Angel Lostale
+Angry Frog
+Ashley Pescott
+Aussie
+Baby back Gibbs
+Baby Got Dak
+Bad Bounce
+Bald Ricky
+Bally B
+Barrstool Cowboy
+BC Lions
+Bear Goggles
+Beast mode
+Beer & Brats
+Beera Hayre
+Beez Nuts
+Bella-Coola
+Ben Wade
+Bend it Like Beckham Jr.
+Big Al
+Big Box Broncos
+BIG MAC Attack
+Big Stinger
+Big Time Stuff
+BigPaPi at the Plate
+Bijan al-Gaib
+Billy Greene
+BirdieBro
+Black Unicorns
+Blair Madu
+Blake Ross
+Bleeding Purple
+Blue42
+Bob Currie
+BooHoo
+Bordering on Uncomfortable
+Boston Green Monstah
+Brad Baranowski
+Brad Joseph
+Brad Pitts Cousin
+Brandon Mounsey
+Brendan Mykle-Winkler
+Brent Mooney
+Brett Huber
+Brett Manning
+Bronco Chick
+BroncoBrian
+Bronconation Omaha
+Cali-nan
+Calling Dr. Love
+Cam Antifeau
+Can you Diggs It
+Can’t be beaten
+Captain Curty
+Carson Shortreed
+Carter Mooney
+CAUS 7
+Cavuntus Maximus
+CDG Heart
+Chad Forman
+Chad Pelland
+Chadwickville Champs
+Charlie Brown Punters
+Chef7814
+CHINNER
+Chris Mahadeo
+CHWK JACK
+CJB
+Clayton Clarke
+Coco-loco
+Colorado Kid
+Colter
+Coolshot
+cowboys
+Cowboys Kush
+CraKar
+Crashdoll
+Crystal
+D.SMITH
+D.W.
+Dak Dak Dak Bruce
+DangeRuss
+Danta's Dixie
+DarnoldsDaddy
+Dave Wood
+Dawsonator
+DC
+DEETRAIN
+Deflated
+DimSum Dynasty
+Dirty Birds
+Dirty Dan
+DiscoStu
+DJ Reynes
+Dolphins Tua Super Bowl
+DoodleyDoos
+Dr. Evil
+DUDEMAN
+dutch
+Dwayne Guzak
+E
+East Coast Defense
+East Van football
+Easy Breesy Take A Kneesy
+Ed Rice
+El Kapitan
+Elvin Yutuc
+Eric Hambleton
+Everlast
+Every day I’m Russell’n
+Excessive Celebration
+Ezra Zapanta
+Fadez
+FalconSmith
+Famfin
+Farrukh Naqvi
+Fat Bob
+Ferniecowboy
+First Down Barker
+Fishweiser
+FleekyTyreek
+Fleetwood Mac
+FLIPFLOPPIN
+Forever Falcons
+Freedom Rockets
+Fruce Baulkner
+FUNGFUPANDA
+Gabe Di Rollo
+Game of Mahomes
+Garoo
+Gary Morrissey
+GATWAL
+GB Love
+Geoff Manning
+Geoff Noel
+Giggs Dad
+Gilli
+Gimpy_Wizard
+Gino Paolella
+Gipper
+Git-R-Done
+Giuntobros
+Glorious Brown and Orange
+Goal Line Samurai
+Good Hooker
+Green Bay Packers Shareholder
+Greg Manning
+Greg Norris
+Gregg Scully
+GuamGirl
+Gurleys Gone Wild
+Guy Campballero
+gvin
+Gwen Grayson
+Habsolutely Not
+Hailmary902
+Happy Ending 4daBrowns
+haPPyjarvs
+Hard Knox
+Hardy Boys
+Harrison Brown
+Harry Pom
+Hate the Drake
+HeadBangers
+Heavenhelpus
+Hingle McCringleberry
+Honolulu Blues
+howboutdemCowboys
+Howie
+Hunter Clarke
+Hurts So Good
+IckeyShufflin'
+Ikelee77
+Indy with or without Luck
+inthewoods
+James Donald
+Jason Cameron
+Jason Ghag
+Javid Khan
+JE | Bijan
+JE | Coin Flip
+JE | Donny M
+JE | Doug Wiens
+JE | F R I Z Z N A S T Y
+JE | FUZZY WUZZY
+JE | Johnny Jarvis
+JE | Luke Pankratz
+JE | Throwpill
+JE | Tyler
+Jeevan Hayre
+Jeff Burt
+Jeff Fraser
+Jim Carpenter
+Jim Causier
+Jim Dyste
+JJboss
+JohnRaven
+JOK Chance
+JOK Dan
+JOK DJ
+JOK Eli
+JOK FOG
+JOK Huffdaddy
+JOK Joel
+JOK Mike
+JOK Press
+JOK Wiz
+Joseph Pettifer
+JquellenJams
+Juan Lledo
+Juan Trapero
+JuJu know what I’m saying
+Karim Lalani
+Kathy Lostale
+Kavorka
+Kbombers
+Keeley Warren
+Keith Matsalla
+Kelce dancin in the end zone
+Ken Twerdy
+Kim Phillips
+Kim Tran
+Kirk Kennedy
+KISSMEASS
+Kissmefirst
+Kopper14
+Kosar Optional
+Krista McTavish
+KTao
+Kupp my balls
+Kuschman
+Kyle Proctor
+Laces Out
+LaCrosse
+Las Catrinas
+Lauren Dong
+LDUBB66
+Leann Greene
+LeatherMelon
+Legion of Boom
+Legion of Boom Goes the Dynamite
+lennyandnutmeg
+leroy kelly
+Let The Liquor Do The Picking
+Let's Write!
+Let’s go pats
+Lets Skol Crazy
+Lights, Kamara, action !
+Linden Cameron
+Lindsay Hambleton
+Lion King
+LizBot
+Lockett Down
+Lori
+Los Caballeros
+Los Dos Hombres con el Gordo
+Loud Mouth Soup
+Luc Hamel
+Lucky Leprechaun
+Lucky Loggers
+LUCKYNANA
+Lund
+Lyle Street
+Lymee1
+M.G. Rose
+MAGRATS
+Magzzzz8
+Mandelbaum
+Marine O's
+Marvin Dege
+Masset
+Matt Nielsen
+Matt Shaw
+Matthew Khaw
+Mauls & Rucks
+Maye Day
+Michael Pettifer
+Migsy
+Mike Davis
+Mike Lostale
+MileHighBlitz
+Miles Powell
+Miller(mike)
+Miss Valhalla
+Money Graham
+Montana Redneck
+Montana16
+Mooseknuckles
+MORE  BEER
+Morg Madu
+Morgan Manning
+Mr.Ruskin
+Murray McTavish
+Myron Gibbs
+Nav
+Neil Winship
+Nelson Pacheco
+NEWELL OLD BOYS
+Nflfreak
+Nick MacKinnon
+Nick Pausak
+NindianaJones
+Noah Jessup
+NoelieG
+Nopicknick
+norbert
+Norsemen
+Northbound
+NWO Wolfpack
+O-Bijan Kinobi
+Olave Garden
+ollyt20
+One Cheek Sneak
+Pack-Girl
+Packer Addict 65
+Pandyamonium
+Papa G
+PapaBro
+Paralysis by Analysis
+Patrick Dupuis
+Pats Princess
+PatsPatsPats
+Patty11
+Paul Sekhon
+Paul St. Hilaire
+Peepin Tomlins
+PenVegas
+Peter Lostale
+Phil "12 men in the huddle" Hamel
+PhillyMike
+Pizza Guy
+PleasedontgetHurtsJalen
+Plocker
+POLK HIGH
+Polly Pringle
+Port Moody Pack
+PP's West Canaan Coyotes
+PrimeTime
+Princess and the pool
+Prv69
+PurpleReign8
+QB4DP
+QCIBC
+Queen Achilles
+Rager
+RaiderNation77
+Raiders of the Lost Yard
+RaidersRule
+Railroad Renegades
+Raith Tymchak
+Rajan Hayre
+Ram Gill
+Randrews52
+Rated R Superstars
+RAVENS 52
+Ray Finkles Revenge
+Red Leader
+Red Zoner
+RedNGold
+Reid ‘em and Weep
+Reiko Munro
+RememberThisTitan
+Richie Valens
+Rick Savino
+Rico
+Ripley's Believe It Ballers
+Rob Casavant
+Roberts Bank Express
+Rocky
+Ron Manning
+Rowan Morrissey
+Rowdy Roddy Peeper
+Rubba Chubb Chubb
+Rubeans
+RUDY
+Rudy Ruettiger
+Run The Damn Ball
+Russell who?
+Ryan Fountain
+Ryan G
+Ryan Peet
+Ryle.E Coyote
+S.1.R.1.S
+Sacks Harrison
+Sacks in the City
+Saintsational
+Saintz
+Sam Beauchamp-Lajeunesse
+Sapphire the Husky
+Scooter
+Scoots
+Scorpions
+Scotcho
+Scott Morrison
+Scott Patterson
+Seahawks Forever
+Sean Mac
+Sean's gridy picksp
+Second Chance
+Segmarc66
+Semi Retired
+Shane S
+Shawn Dyste
+Shawn Stroh
+Sherlock Mahomes
+Shooter
+SHOW_ME_THE_MONEY!!
+Sidhu Squad
+Sirhan
+SKOL! He Could.Go.All.The.Way!
+SMASHMOUTH23
+So Fresh So Clean
+Sobrepeso fc
+Soho
+Somewhere Over Dwayne Bowe
+Sprox
+SPURS
+spyboys
+Stay ORANGE Pony Boy
+Stay Shady
+Steel City Mayhem
+Steel Curtain
+Stephen Smith
+Steve Werning
+Steven King
+Steveston Bills
+Sticker Shock Block
+Stroudy with a chance of deep balls
+Stymied
+SueHawks
+SunnyJim
+Supersonics
+Suzanne Werning
+Swallows
+Sweetness
+taco lover
+Tagger
+Taliban Munchma Quchi
+Team Pile
+Team Primetime
+Terry Grayson
+Terry Lostale
+The Dirty Bird
+The Executioners
+The Filthy Mcnastys
+The Great Deflator
+The Hunchback of Roberts Bank
+The Mexican
+THE PROFESSOR 44
+The Sexy Shamrock
+Thea Peet
+TheWaterGirl
+Throw up the X
+Thunderjet
+Tim Chevalier
+TINKERBELL*
+TitanUp
+Titletown
+TJ Watt Watt
+Tony Smolock
+Top Shelf
+TOROS
+Tortured Football Wife
+Tracy Tao
+trainwreck
+Traveling Girl
+Trevor Day
+Trophy Wife
+Tua Be Or Not Tua Be
+Ty Beliveau
+Tyler Geremia
+UNONUEVE
+VanCowboysFan
+VanHawk
+Vick in a box
+Victor_Liu
+Victorious Secret
+Viva Las Vegas
+WascowyWabit
+Watney
+Watson, Watsoff
+WestMarc
+What's Love Got to Do
+Will Dogg
+William Perez
+willy57
+Yardsale
+YOUNG GUNZ
+Zeinin Dawood
+Zore
+Sort By:
+PlayerTeamSpreadPoints
+Player NameGameWinning TeamSpreadPoints
+Switch to Mobile View
+Copyright © 2023 - Gridiron Football Pool

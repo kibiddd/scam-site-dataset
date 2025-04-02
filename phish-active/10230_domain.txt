@@ -1,0 +1,17 @@
+   Domain Name: GETTIPSANDTRICKS.COM
+   Registry Domain ID: 2896071309_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.metaregistrar.com
+   Registrar URL: http://www.metaregistrar.com
+   Updated Date: 2024-09-01T14:07:30Z
+   Creation Date: 2024-07-03T13:57:15Z
+   Registry Expiry Date: 2025-07-03T13:57:15Z
+   Registrar: Metaregistrar BV
+   Registrar IANA ID: 2288
+   Registrar Abuse Contact Email: abuse@metaregistrar.com
+   Registrar Abuse Contact Phone: +31.858885692
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: A.SHARE-DNS.COM
+   Name Server: B.SHARE-DNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:51:47Z 

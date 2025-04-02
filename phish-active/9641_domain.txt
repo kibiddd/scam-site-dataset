@@ -1,0 +1,17 @@
+   Domain Name: FIBERCOM-LABORATORY.COM
+   Registry Domain ID: 19777437_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.register.com
+   Registrar URL: http://www.register.com
+   Updated Date: 2025-01-14T07:44:32Z
+   Creation Date: 2000-02-13T22:08:47Z
+   Registry Expiry Date: 2026-02-13T22:08:47Z
+   Registrar: Register.com, Inc.
+   Registrar IANA ID: 9
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS41.IMAGELINKUSA.NET
+   Name Server: NS42.IMAGELINKUSA.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T12:53:15Z 

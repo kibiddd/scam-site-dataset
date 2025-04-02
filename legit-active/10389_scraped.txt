@@ -1,0 +1,81 @@
+NDAWN - North Dakota Agricultural Weather Network
+NDSU
+NDSU Agriculture
+NDSU School ofNatural Resource Sciences
+NDAWN
+Home
+Follow us on Twitter
+Contact Us
+Help
+Overview
+Data Information
+Station Site andEquipment Decription
+Barley GDD
+Canola GDD
+Corn GDD
+Heating/Cooling DD
+Soybean GDD
+Sugarbeet GDD
+Sugarbeet Cercospora
+Sugarbeet HerbicideTiming
+Sugarbeet Root Maggot
+Sunflower GDD
+Wheat GDD
+Weather Data
+Current Conditions
+Hourly
+Daily
+Weekly
+Monthly
+Yearly
+NWS Daily Normals
+NWS Monthly Normals
+Monthly Report
+Deep Soil Temperatures
+Soil Moisture
+Applications
+List of Ag Tools
+Barley GDD
+Canola GDD
+Canola Sclerotinia
+Corn GDD
+Potato Late Blight,Early Blight,and P-Days
+Soybean GDD
+Sugarbeet Cercospora
+Sugarbeet CercosporaSummaries
+Sugarbeet HerbicideTiming Using GDD
+Sugarbeet Root Maggot
+Sugarbeet GDD
+Sugarbeet GDD MultiplePlanting Dates
+Sunflower GDD
+Wheat GDD/Midge DD
+Wheat GDD MultiplePlanting Dates
+Wheat & Small GrainDisease Forecaster
+Crop Water Use
+Irrigation Scheduler
+Insect DD
+Heating/Cooling DD
+Account
+Log in to NDAWN
+View current conditions at all NDAWN stations!
+Loading
+Map key: Station Name 9S = 9 Miles South of Town
+Click on a station for more info
+Previous day
+Next day
+Select Weather Variable for 2025-03-24:
+Stations
+Wind Speed
+Solar Radiation
+Air Temp: Max/Min
+Wind Direction
+Relative Humidity
+Air Temp: Avg
+Wind Chill
+Dew Point
+Soil Temp: Avg
+Rainfall
+Potential ET
+About NDAWN• • •@NDAWNmesonet• • •Disclaimer
+NDAWN: The North Dakota Mesonet
+Copyright © 2000-2025 North Dakota State University

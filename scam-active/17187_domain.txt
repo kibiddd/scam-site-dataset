@@ -1,0 +1,17 @@
+   Domain Name: LNHAUS.COM
+   Registry Domain ID: 2877824353_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: www.gname.com/whois
+   Registrar URL: http://www.gname.com
+   Updated Date: 2024-10-31T06:57:13Z
+   Creation Date: 2024-05-02T18:33:59Z
+   Registry Expiry Date: 2025-05-02T18:33:59Z
+   Registrar: Gname 161 Inc
+   Registrar IANA ID: 4174
+   Registrar Abuse Contact Email: ZYS@GNAME.COM
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: A.SHARE-DNS.COM
+   Name Server: B.SHARE-DNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:49:52Z 

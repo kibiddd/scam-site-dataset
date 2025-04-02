@@ -1,0 +1,17 @@
+   Domain Name: ASSEMBLY-JOBS.COM
+   Registry Domain ID: 525288701_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-07-04T05:20:44Z
+   Creation Date: 2006-07-20T02:27:15Z
+   Registry Expiry Date: 2025-07-20T02:27:15Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.WEBSITEHOSTINGKINGDOM.COM
+   Name Server: NS2.WEBSITEHOSTINGKINGDOM.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:59:38Z 

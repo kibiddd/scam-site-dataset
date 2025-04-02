@@ -1,0 +1,17 @@
+   Domain Name: MATHPAGES.COM
+   Registry Domain ID: 8924279_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2022-06-14T02:02:15Z
+   Creation Date: 1999-08-08T14:17:55Z
+   Registry Expiry Date: 2025-10-07T16:56:08Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS8345.HOSTGATOR.COM
+   Name Server: NS8346.HOSTGATOR.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:31:33Z 

@@ -1,0 +1,69 @@
+Domain Name: lsminsurance.ca
+Registry Domain ID: D254488-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.cscglobal.com
+Updated Date: 2024-11-29T06:02:58Z
+Creation Date: 2004-12-13T22:38:36Z
+Registry Expiry Date: 2025-12-13T05:00:00Z
+Registrar: CSC Corporate Domains (Canada) Company
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: domainabuse@cscglobal.com
+Registrar Abuse Contact Phone: +1.3026365400
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 103600035-CIRA
+Registrant Name: HUB FINANCIAL INC.
+Registrant Organization:
+Registrant Street: 1565 CARLING AVENUE SUITE 400
+Registrant City: OTTAWA
+Registrant State/Province: ON
+Registrant Postal Code: K1Z8R1
+Registrant Country: CA
+Registrant Phone: +1.8774026601
+Registrant Phone Ext:
+Registrant Fax: +1.8774026606
+Registrant Fax Ext:
+Registrant Email: hubinetadmin@hubinternational.com
+Registry Admin ID: 103600033-CIRA
+Admin Name: Domain Administrator
+Admin Organization: Hub International Limited
+Admin Street: 300 N LaSalle St.,  17th Floor
+Admin City: Chicago
+Admin State/Province: IL
+Admin Postal Code: 60654
+Admin Country: US
+Admin Phone: +1.8774026601
+Admin Phone Ext:
+Admin Fax: +1.8774026606
+Admin Fax Ext:
+Admin Email: hubinetadmin@hubinternational.com
+Registry Tech ID: 103599987-CIRA
+Tech Name: Seth Goyes
+Tech Organization:
+Tech Street: 302-2900 John St
+Tech City: MArkham
+Tech State/Province: ON
+Tech Postal Code: L3R5G3
+Tech Country: CA
+Tech Phone: +1.6472927002
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: goyes.seth@gmail.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: dns1.cscdns.net
+Name Server: dns2.cscdns.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T00:05:25Z 

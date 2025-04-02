@@ -1,0 +1,9 @@
+Domain Name: ipadecp.com.pe
+Sponsoring Registrar: NIC.PE
+Domain Status: ok
+Registrant Name: LATINDEALER S.A.C
+Admin Name: LATINDEALER S.A.C
+Admin Email: VENTAS@NH.PE
+Name Server: ns1.nethostingperu.com
+Name Server: ns2.nethostingperu.com
+>>> Last update of WHOIS database: 2025-03-27T14:40:34.714Z 

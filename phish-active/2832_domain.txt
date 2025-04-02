@@ -1,0 +1,17 @@
+   Domain Name: AUFILDUFLOW.COM
+   Registry Domain ID: 2392168515_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.bookmyname.com
+   Registrar URL: http://www.bookmyname.com
+   Updated Date: 2024-05-09T13:40:40Z
+   Creation Date: 2019-05-18T17:34:33Z
+   Registry Expiry Date: 2025-05-18T17:34:33Z
+   Registrar: Scaleway SAS
+   Registrar IANA ID: 74
+   Registrar Abuse Contact Email: abuse@bookmyname.com
+   Registrar Abuse Contact Phone: +33.184130069
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.O2SWITCH.NET
+   Name Server: NS2.O2SWITCH.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T20:20:03Z 

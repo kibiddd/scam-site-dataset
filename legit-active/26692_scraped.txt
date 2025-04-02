@@ -1,0 +1,98 @@
+Dominant Seven Flat Nine Exercise on the Cycle of Fifths
+Home
+About
+Jazz
+Jazz Theory, Technique & Solo Transcriptions
+Videos
+The Giant Steps Scratch Pad
+Storm Chasing
+Weather Maps & Forecasting Resources
+Radar & Satellite
+Educational & Research
+Photos
+Storms & Weather
+Music & Musicians
+Wildflowers, Wildlife & Outdoors
+Michigan
+Life in General
+Writings
+Humor
+Christian Contemplative
+Contact
+Dominant Seven Flat Nine Exercise on the Cycle of Fifths
+If you want to develop comfort and ease with changing keys swiftly, then practice patterns on the circle of fifths. In particular, work on dominant seventh chords; doing so will help you to develop facility in voice leading from the seventh of one chord to the third of the next, and vice versa.
+The exercise on this page is one of countless possible dominant seventh patterns. I like it because it brackets the chord root with the flatted ninth and raised seventh, then descends from the root through the lowered seventh to the third of the ensuing chord. Bottom line: you get a nice combination of color tones and harmonic motion. Click on the image to enlarge it.
+This is a pretty straightforward exercise, and I don’t think I need to say anything more other than, memorize it, apply it to the full range of your instrument, and have fun!
+Oh, yeah…and, check out my jazz page for more exercises, solo transcriptions, and articles of interest to jazz musicians.
+If you enjoyed this post, make sure you subscribe to my RSS feed!
+February 8, 2010  by Robert Hartig Filed Under: Jazz, Jazz Improvisation and Technique, Saxophone Tagged With: brackets the chord root, changing keys swiftly, color tones and harmonic motion, cycle of fifths, dominant seven flat nine exercise, dominant seventh patterns, practice patterns on the circle of fifthsComments
+Cerian Hunter
+says
+January 11, 2011 at 5:11 pm
+Hi, i have been playing my alto sax for 5 years and i am currently in a jazz band. I have a question about the chords on top of improvising areas and i can not find a website that will answer my question without throwing in complicated other things that i don’t know. For ex. D9. that is what it says on the top. Do i play the D scale with the 9th note added on, or do i flat or sharp anything in particular? Thank you
+Cerian Hunter
+admin
+says
+January 11, 2011 at 11:58 pm
+A D9 is actually a D7 (D dominant seven) with an added ninth. So flat the seventh (C) and add the E, which is the ninth. The scale you want to use is: D, E, F#, G, A, B, C, D.
+I’m keeping this answer very simple because I think that’s what you’re looking for right now, Cerian–something you can instantly apply. But having done so, let me take you just a little deeper. The scale I’ve spelled out for you above is called a D Mixolydian mode. If you look closely, you’ll see that it’s the same thing as a G major scale, except that it starts on the note D instead of G. This works great because the D9 wants to resolve to the G major chord, so you can cover both chords with just one scale, the G major scale.
+Even better, the chord that often precedes a D9 in jazz is Am7 (A minor seven), and it, too, is the same thing as a G major scale, except that once again, it starts on a different note, A instead of G. So let’s say you come across these chords: Am7 D9 / Gmaj7. Just play a G major scale over all of them! Easy, eh?
+Of course, it gets more complex, but you appear to be at a foundational level and I don’t want to confuse you with too much information. However, I strongly encourage you to start learning music theory. Knowing theory is absolutely essential to your growth as a jazz musician, or as any kind of musician.
+‘Nuff said. Good luck and keep blowin’! And feel free to drop me any more questions you may have. I’m very happy to help.
+Andy
+says
+June 22, 2012 at 12:37 pm
+Thanks for the chart….it sounds like, well, jazz.   I am a blues player, jazz student too….kinda play all the white keys over the D-, G7, CMaj7 idea…get thst totally.
+But that flat 9 idea, is that related to the tritone, cause its the root of the tritone substitute, just wondering if that isn’t the color that says jazz to me?
+Andy
+says
+June 22, 2012 at 1:31 pm
+OK, having a further look on my keyboard. the 7th from one chord is moving down to become the 3 (thats straight ii-V7-I  theory)  of the next,  and then you are blowing around that chord’s tonic with that minor second, and then what would be the major 7th, etc. Nice, I can hear that as a reference to a lot of jazz tunes already.
+So I am guessing that I could slip in that tritone substitute for the V chord somewhere, since we are playing that minor second up from the tonic anyway……if you have the time, it would be great to expand this little drill, to put a little more tritone substitution tonality in there so we can start to hear it.  Of course thats the most important thing….yes.
+Andy
+says
+June 22, 2012 at 3:56 pm
+Sorry, for all the posts….one more, I actually have it worked out.  The 7th, Flat 5. and Flat 2 ARE the tritone for the next chord….
+‘
+The tritone substitute for the C7 chord is F#, that resolves to F.   The flat 2, flat5 and flat 7th of the C chord makes up an F# chord exactly.  So if you add the flat 5 to the line, you have done it!
+So really, this is a way to play Happy Birthday with tritone substitution…..
+admin
+says
+June 22, 2012 at 8:23 pm
+Between your first comment and this reply to your third and last one, I’d say you’ve covered a lot of ground, Andy. 🙂 That’s excellent! You’re chewing on this stuff, engaging your mind and figuring out your own applications.
+While my intention in the exercise was more mundane than exploring tritone substitution–I simply wanted to provide a nice lick that would facilitate technique development around the cycle of fifths–your observing a potential link between the V7b9 chord and tritone harmony is spot-on. However, the link depends on your using the half-whole diminished scale, which contains an augmented fourth. The V7b9 chord can also be realized with a Phrygian dominant scale, whose perfect fourth does not imply tritone substitution.
+The lick in question could indeed serve nicely as a tritone substitution–i.e. the C7b9 resolves to a chord rooted on B rather than F, B7b9 resolving to Bb, and so forth. Congratulations for thinking it through. Part of the value of any of these exercises, and a point I continually stress, is that they can and should serve as a springboard for my fellow musicians to sort out further possibilities for themselves. We learn our best when we thrash with material on our own rather than looking for it to be spoon-fed to us. I salute you, Andy, for digging in and coming up with your own insights!
+Trackbacks
+Sax Practice: A Chromatic Motif on the Cycle of Dominants | says:
+March 27, 2010 at 10:41 am
+[…] voice-leading and switching keys, cycle exercises are mandatory and the cycle of fifths is supreme. Taking dominant patterns and licks around the cycle of fifths is a longstanding habit of mine. As with a lot of musical disciplines, at first I delayed, I […]
+Get all your updates by email
+Enter your email address:Delivered by FeedBurner
+RSSYouTube
+Generally Cool Links
+Electronic Journal of Severe Storms Meteorology
+Plants Amaze Me
+The CopyFox Writing and Editorial Services
+Music
+Bret Pimentel Woodwinds
+David Freeman
+Frakathustra's Blog
+Jazz Trumpet Licks
+Jazzbeat.org
+Pro Music Tutor
+Sax Station
+Saxboy
+Saxopedia
+The Bassic Sax Blog
+Storm Chasing
+Adam Lucio
+Ben Holcomb
+Ceaseless Wind, LLC
+Convective Addiction
+Midwest Chasers
+Mike Geukes Weather
+Nick Nolte
+Northern Illinois Storm Chaser
+Stacked Plates
+Stormeyes.org
+© Copyright 2007-2013 Stormhorn.com · All Rights Reserved.

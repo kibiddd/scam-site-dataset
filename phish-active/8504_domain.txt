@@ -1,0 +1,17 @@
+   Domain Name: FBCPUBLICATIONS.COM
+   Registry Domain ID: 91219329_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.internet.bs
+   Registrar URL: http://www.internet.bs
+   Updated Date: 2024-10-21T05:18:44Z
+   Creation Date: 2002-10-15T08:55:29Z
+   Registry Expiry Date: 2026-10-15T08:55:29Z
+   Registrar: Internet Domain Service BS Corp
+   Registrar IANA ID: 2487
+   Registrar Abuse Contact Email: abuse@internet.bs
+   Registrar Abuse Contact Phone: +1.5163015301
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS8033.HOSTGATOR.COM
+   Name Server: NS8034.HOSTGATOR.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:17:52Z 

@@ -1,0 +1,55 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: ULM.EDU
+
+Registrant:
+	University of Louisiana at Monroe
+	700 University Ave
+	Monroe, LA 71209
+	USA
+
+Administrative Contact:
+	Chance Eppinette
+	Information Technology, University of Louisiana
+	700 UNIVERSITY AVE.
+	MONROE, LA 71209
+	USA
+	+1.3183425021
+	eppinette@ulm.edu
+
+Technical Contact:
+	Jimmy Waller
+	Information Technology, University of Louisiana
+	700 UNIVERSITY AVE.
+	MONROE, LA 71209
+	USA
+	+1.3183423548
+	waller@ulm.edu
+
+Name Servers:
+	DNS2.ULM.EDU
+	SPOCK.ULM.EDU
+
+Domain record activated:    27-Apr-1999
+Domain record last updated: 01-Sep-2024
+Domain expires:             31-Jul-2025

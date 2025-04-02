@@ -1,0 +1,10 @@
+Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/www/en.cbcagomaville.org/wp-content/plugins/LayerSlider/wp/widgets.php:4
+Stack trace:
+#0 /home/www/en.cbcagomaville.org/wp-content/plugins/LayerSlider/layerslider.php(55): include()
+#1 /home/www/en.cbcagomaville.org/wp-settings.php(409): include_once('/home/www/en.cb...')
+#2 /home/www/en.cbcagomaville.org/wp-config.php(92): require_once('/home/www/en.cb...')
+#3 /home/www/en.cbcagomaville.org/wp-load.php(50): require_once('/home/www/en.cb...')
+#4 /home/www/en.cbcagomaville.org/wp-blog-header.php(13): require_once('/home/www/en.cb...')
+#5 /home/www/en.cbcagomaville.org/index.php(17): require('/home/www/en.cb...')
+#6 {main}
+thrown in /home/www/en.cbcagomaville.org/wp-content/plugins/LayerSlider/wp/widgets.php on line 4

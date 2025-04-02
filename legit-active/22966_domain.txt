@@ -1,0 +1,20 @@
+   Domain Name: FIRSTSHOWING.NET
+   Registry Domain ID: 462676929_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.1api.net
+   Registrar URL: http://www.1api.net
+   Updated Date: 2025-02-13T12:00:10Z
+   Creation Date: 2006-05-27T03:25:40Z
+   Registry Expiry Date: 2028-05-27T03:25:40Z
+   Registrar: 1API GmbH
+   Registrar IANA ID: 1387
+   Registrar Abuse Contact Email: abuse@1api.net
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DNSIMPLE.COM
+   Name Server: NS2.DNSIMPLE-EDGE.NET
+   Name Server: NS3.DNSIMPLE.COM
+   Name Server: NS4.DNSIMPLE-EDGE.ORG
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 40490 8 2 E097BA5106EFBD7B5CA12479388C09C564641F18B2525E3915978605C94125A7
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T22:45:25Z 

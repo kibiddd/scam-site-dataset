@@ -1,0 +1,59 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: UMKC.EDU
+
+Registrant:
+	University of Missouri - Kansas City
+	Information Services: Networking & Telecommuncations
+	5123 Holmes, 204 Newcomb Hall
+	Kansas City, MO 64110
+	USA
+
+Administrative Contact:
+	Jim Schonemann
+	University of Missouri-Kansas City
+	Newcomb Hall, Rm 204
+	5123 Holmes Ave.
+	Kansas City, MO 64110
+	USA
+	+1.8162355386
+	schonemannj@umkc.edu
+
+Technical Contact:
+	 
+	University of Missouri-Kansas City
+	5123 Holmes Ave.
+	204 Newcomb Hall
+	Kansas City, MO 64110
+	USA
+	+1.8162352000
+	umkcnetop@umkc.edu
+
+Name Servers:
+	NS4.UMKC.EDU
+	NS3.UMKC.EDU
+	NS5.UMKC.EDU
+
+Domain record activated:    11-Sep-1989
+Domain record last updated: 31-Jan-2025
+Domain expires:             31-Jul-2027

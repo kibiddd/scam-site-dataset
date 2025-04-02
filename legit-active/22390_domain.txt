@@ -1,0 +1,22 @@
+Domain Name: kitchengardenfoundation.org.au
+Registry Domain ID: 10c0a15400924e5b99702ce297907360-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://elb.www.netregistry.com.au/contact-us/
+Last Modified: 2025-03-12T00:00:20Z
+Registrar Name: Melbourne IT
+Registrar Abuse Contact Email: abuse@webcentral.com.au
+Registrar Abuse Contact Phone: +61.279080901
+Reseller Name: 
+Status: ok https://identitydigital.au/get-au/whois-status-codes#ok
+Registrant Contact ID: 65c73c7c492944dd9c92e1782125aea6-AU
+Registrant Contact Name: Sharee Grunow
+Tech Contact ID: e1a558f42443480a89b9d828d29a1014-AU
+Tech Contact Name: Sharee Grunow
+Name Server: ns1.yourdnshost.net
+Name Server: ns2.yourdnshost.net
+Name Server: ns3.yourdnshost.net
+DNSSEC: unsigned
+Registrant: Stephanie Alexander Kitchen Garden Foundation Limited
+Registrant ID: ABN 74107809030
+Eligibility Type: Charity
+>>> Last update of WHOIS database: 2025-03-27T22:43:31Z 

@@ -1,0 +1,19 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        INSTAGRAM-X.RU
+nserver:       dnsproxy1.fm.nic.ru.
+nserver:       dnsproxy2.fm.nic.ru.
+state:         REGISTERED, DELEGATED, UNVERIFIED
+org:           Meta Platforms Inc.
+taxpayer-id:   -
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2022-03-11T17:24:17Z
+paid-till:     2025-03-11T17:24:17Z
+free-date:     2025-04-11
+source:        TCI
+
+Last updated on 2025-03-27T14:53:01Z
+

@@ -1,0 +1,19 @@
+   Domain Name: KA-BOXTW.COM
+   Registry Domain ID: 2935697282_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.name.com
+   Registrar URL: http://www.name.com
+   Updated Date: 2024-11-20T12:40:55Z
+   Creation Date: 2024-11-20T12:40:55Z
+   Registry Expiry Date: 2025-11-20T12:40:55Z
+   Registrar: Name.com, Inc.
+   Registrar IANA ID: 625
+   Registrar Abuse Contact Email: abuse@name.com
+   Registrar Abuse Contact Phone: 7202492374
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1GJZ.NAME.COM
+   Name Server: NS2FKR.NAME.COM
+   Name Server: NS3DKZ.NAME.COM
+   Name Server: NS4JNZ.NAME.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:47:07Z 

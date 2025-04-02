@@ -1,0 +1,71 @@
+Domain Name: umontreal.ca
+Registry Domain ID: D24213-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: https://portail.riq.qc.ca/
+Updated Date: 2023-04-05T13:19:29Z
+Creation Date: 2000-10-30T19:29:57Z
+Registry Expiry Date: 2027-03-21T05:00:00Z
+Registrar: Réseau Internet Québec Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: registraire@riq.net
+Registrar Abuse Contact Phone: +1.4185212884x230
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 12711979-CIRA
+Registrant Name: Université de Montréal
+Registrant Organization:
+Registrant Street: 2900,  boul Édouard-Montpetit
+Registrant City: Montréal
+Registrant State/Province: QC
+Registrant Postal Code: H3T1J4
+Registrant Country: CA
+Registrant Phone: +1.5143436111
+Registrant Phone Ext: 38230
+Registrant Fax: +1.5143432155
+Registrant Fax Ext:
+Registrant Email: inscription-dns@ti.umontreal.ca
+Registry Admin ID: 109170144-CIRA
+Admin Name: Daniel Letarte
+Admin Organization: Université de Montréal
+Admin Street: 2900 Edouard-Montpetit
+Admin City: Montreal
+Admin State/Province: QC
+Admin Postal Code: H3T1J4
+Admin Country: CA
+Admin Phone: +1.5143436111
+Admin Phone Ext: 38230
+Admin Fax:
+Admin Fax Ext:
+Admin Email: inscription-dns@ti.umontreal.ca
+Registry Tech ID: 109170144-CIRA
+Tech Name: Daniel Letarte
+Tech Organization: Université de Montréal
+Tech Street: 2900 Edouard-Montpetit
+Tech City: Montreal
+Tech State/Province: QC
+Tech Postal Code: H3T1J4
+Tech Country: CA
+Tech Phone: +1.5143436111
+Tech Phone Ext: 38230
+Tech Fax:
+Tech Fax Ext:
+Tech Email: inscription-dns@ti.umontreal.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: dnsp1.dit.umontreal.ca
+Name Server: dnsp2.dit.umontreal.ca
+Name Server: ns1.risq.qc.ca
+Name Server: ns2.risq.qc.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T01:11:02Z 

@@ -1,0 +1,17 @@
+   Domain Name: 51SOLE.COM
+   Registry Domain ID: 1162920733_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.55hl.com
+   Registrar URL: http://www.55hl.com
+   Updated Date: 2024-10-14T07:24:18Z
+   Creation Date: 2007-08-18T07:44:54Z
+   Registry Expiry Date: 2028-08-18T07:44:54Z
+   Registrar: Jiangsu Bangning Science & technology Co. Ltd.
+   Registrar IANA ID: 1469
+   Registrar Abuse Contact Email: abuse@55hl.com
+   Registrar Abuse Contact Phone: +86.02586883421
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS3.DNSV4.COM
+   Name Server: NS4.DNSV4.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:41:22Z 

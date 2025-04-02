@@ -1,0 +1,18 @@
+   Domain Name: KREDIT24.COM
+   Registry Domain ID: 6462893_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.registrygate.com
+   Registrar URL: http://www.registrygate.com
+   Updated Date: 2024-05-13T07:10:07Z
+   Creation Date: 1999-05-12T09:36:31Z
+   Registry Expiry Date: 2025-05-12T09:37:06Z
+   Registrar: RegistryGate GmbH
+   Registrar IANA ID: 1328
+   Registrar Abuse Contact Email: abuse@registrygate.com
+   Registrar Abuse Contact Phone: +49.1805734437
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DNSSOCKET.NET
+   Name Server: NS2.DNSSOCKET.NET
+   Name Server: NS3.DNSSOCKET.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:22:40Z 

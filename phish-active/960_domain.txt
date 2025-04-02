@@ -1,0 +1,18 @@
+   Domain Name: WEBSTARTERZ.COM
+   Registry Domain ID: 1948181933_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.discount-domain.com
+   Registrar URL: http://gmo.jp
+   Updated Date: 2024-07-05T15:26:25Z
+   Creation Date: 2015-07-21T08:39:59Z
+   Registry Expiry Date: 2025-07-21T08:39:59Z
+   Registrar: GMO Internet Group, Inc. d/b/a Onamae.com
+   Registrar IANA ID: 49
+   Registrar Abuse Contact Email: abuse@gmo.jp
+   Registrar Abuse Contact Phone: +81.337709199
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-A1.CLOUD.Z.COM
+   Name Server: NS-A2.CLOUD.Z.COM
+   Name Server: NS-A3.CLOUD.Z.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:40:52Z 

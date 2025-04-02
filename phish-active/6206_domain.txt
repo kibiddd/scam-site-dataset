@@ -1,0 +1,43 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T20:15:28-03:00 - 2a09:bac5:c82e:1032::19d:191
+
+domain:      cruzmaltinatransportes.com.br
+owner:       Cruzmaltina Representa��es e Transportes Ltda
+ownerid:     29.300.209/0001-52
+responsible: Douglas da Cunha Barbosa
+country:     BR
+owner-c:     DOCBA3
+tech-c:      FLS228
+nserver:     ns1.dns-parking.com
+nsstat:      20250323 AA
+nslastaa:    20250323
+nserver:     ns2.dns-parking.com
+nsstat:      20250323 AA
+nslastaa:    20250323
+created:     20090520 #5573558
+changed:     20240618
+expires:     20250520
+status:      published
+
+nic-hdl-br:  DOCBA3
+person:      Douglas da Cunha Barbosa
+e-mail:      douglasxpto@hotmail.com
+country:     BR
+created:     20090513
+changed:     20250218
+
+nic-hdl-br:  FLS228
+person:      Flavia Soul
+e-mail:      ajudakirj@gmail.com
+country:     BR
+created:     20020422
+changed:     20231101
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

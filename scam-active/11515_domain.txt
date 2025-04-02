@@ -1,0 +1,21 @@
+   Domain Name: NYTRADER.COM
+   Registry Domain ID: 101079164_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enomdomains.com
+   Updated Date: 2024-06-26T06:32:01Z
+   Creation Date: 2003-07-25T13:25:44Z
+   Registry Expiry Date: 2025-07-25T13:25:44Z
+   Registrar: eNom, LLC
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:48:07Z 

@@ -1,0 +1,17 @@
+   Domain Name: INFINITYMOUNTAINBIKING.COM
+   Registry Domain ID: 1665442049_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.rumahweb.com
+   Registrar URL: http://www.rumahweb.com
+   Updated Date: 2024-06-25T15:23:45Z
+   Creation Date: 2011-07-06T00:18:29Z
+   Registry Expiry Date: 2025-07-06T00:18:29Z
+   Registrar: CV. Rumahweb Indonesia
+   Registrar IANA ID: 1675
+   Registrar Abuse Contact Email: abuse@rumahweb.co.id
+   Registrar Abuse Contact Phone: +62.274882257
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.YOFIESETIAWAN.COM
+   Name Server: NS2.YOFIESETIAWAN.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:13:56Z 

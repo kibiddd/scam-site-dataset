@@ -1,0 +1,18 @@
+   Domain Name: HK-OANDA.COM
+   Registry Domain ID: 2557633371_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2022-02-11T19:59:48Z
+   Creation Date: 2020-09-04T07:33:42Z
+   Registry Expiry Date: 2031-09-04T07:33:42Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: INES.NS.CLOUDFLARE.COM
+   Name Server: TIM.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:48:07Z 

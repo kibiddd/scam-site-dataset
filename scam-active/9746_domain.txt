@@ -1,0 +1,17 @@
+   Domain Name: MBITY.NET
+   Registry Domain ID: 2893456672_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.globaldomaingroup.com
+   Registrar URL: http://www.globaldomaingroup.com
+   Updated Date: 2024-06-24T13:27:59Z
+   Creation Date: 2024-06-24T13:19:14Z
+   Registry Expiry Date: 2025-06-24T13:19:14Z
+   Registrar: Global Domain Group LLC
+   Registrar IANA ID: 3956
+   Registrar Abuse Contact Email: abuse@globaldomaingroup.com
+   Registrar Abuse Contact Phone: +1 (805) 394-3992
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: JAMES.NS.CLOUDFLARE.COM
+   Name Server: ROSALIE.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:47:37Z 

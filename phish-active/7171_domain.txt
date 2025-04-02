@@ -1,0 +1,2 @@
+Domain: uwcrobertboschcollege.de
+Status: connect

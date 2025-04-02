@@ -1,0 +1,18 @@
+   Domain Name: PYYKKONEN.NET
+   Registry Domain ID: 131191723_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.PublicDomainRegistry.com
+   Registrar URL: http://www.publicdomainregistry.com
+   Updated Date: 2024-08-27T06:52:36Z
+   Creation Date: 2004-09-28T07:47:59Z
+   Registry Expiry Date: 2025-09-28T07:47:59Z
+   Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+   Registrar IANA ID: 303
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: DNS1.LOUHI.NET
+   Name Server: DNS2.LOUHI.NET
+   Name Server: DNS3.LOUHI.FI
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T01:59:20Z 

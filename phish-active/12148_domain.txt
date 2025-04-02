@@ -1,0 +1,17 @@
+   Domain Name: I-TO.CC
+   Registry Domain ID: 202609906_DOMAIN_CC-VRSN
+   Registrar WHOIS Server: whois.namesilo.com
+   Registrar URL: http://www.namesilo.com
+   Updated Date: 2024-09-25T05:34:41Z
+   Creation Date: 2024-09-25T05:29:46Z
+   Registry Expiry Date: 2025-09-25T05:29:46Z
+   Registrar: NameSilo, LLC
+   Registrar IANA ID: 1479
+   Registrar Abuse Contact Email: abuse@namesilo.com
+   Registrar Abuse Contact Phone: +1.4805240066
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ROSALIE.NS.CLOUDFLARE.COM
+   Name Server: YEW.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T14:54:40Z 

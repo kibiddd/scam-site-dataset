@@ -1,0 +1,424 @@
+publications
+PUBLICATIONS
+Papers in Peer-review Journals
+1.  Zheng, Q., D. Xue, and G. Zhang. A review of remote sensing
+oceanography, in A Collection of Remote Sensing Oceanographic Papers,
+Ocean Press, Beijing, pp. 1-8, 1980.
+2.  Zheng, Q.  A preliminary study of penetration depth in sea
+water by visible remote sensing, in A Collection of Remote Sensing
+Oceanographic Papers, Ocean Press, Beijing, pp. 9-18, 1980.
+3.  Zheng, Q.  Applications of remote sensing technology to
+monitor marine oil pollution, in A Collection of Remote Sensing
+Oceanographic Papers, Ocean Press, Beijing, pp. 50-58, 1980.
+4.  Zheng, Q.  Application of meteorological satellite images to
+oceanography, in A Collection of Remote Sensing Oceanographic Papers,
+Ocean Press, Beijing, pp. 59-70, 1980.
+5.  Zheng, Q.  An introduction to oceanic microwave remote
+sensing, in A Collection of Remote Sensing Oceanographic Papers,
+Ocean Press, Beijing, pp. 71-100, 1980.
+6.  Zheng, Q.  Applications of remote sensing to the studies of
+the oceanic mesoscale eddies and case interpretations of satellite
+images. Acta Oceanologica Sinica, 2,342-357, 1980.
+7.  Zheng, Q., Y. Sun, Y. Wu, and Y. Yu. Analyses of results of
+pollution monitoring by using airborne remote sensing in the Jiaozhou
+Bay. Transactions of Oceanology and Limnology, 4, 55-63, 1981.
+8.  Zheng, Q.  The winter sea surface temperature patterns of the
+Yellow Sea and the East China sea derived from GMS-1 and NOAA-5 IR
+images. Acta Oceanologica Sinica, 3, 523-534, 1981.
+9.  Sun, Y. and Q. Zheng. Preliminary application of 3 cm
+microwave scan-imaging radiometer to remote sensing oceanography.
+Acta Oceanologica Sinica, 3, 400-409, 1981.
+10. Zheng, Q. and V. Klemas. Determination of winter temperature
+patterns, fronts, surface currents in the Yellow Sea and East China Sea
+from satellite imagery. Rem.  Sens. Environ., 12, 201-218, 1982.
+11.  Zheng, Q., V. Klemas, G. Hayne, and N. E. Huang. The effect
+of oceanic whitecaps and foams on pulselimited radar altimeters. J.
+Geophys. Res., 88, 2571-2578, 1983.
+12.
+Zheng, Q., V. Klemas, and Y.-H. L. Hsu. Laboratory measurement
+of water surface bubble life time. J. Geophys. Res., 88, 701-706,
+1983.
+13. Zheng, Q.  Applications of IR remote sensing to large scale
+oceanic dynamics. Journal of Oceanography of Huanghai and Bohai Seas,
+1, 91-99, 1983.
+14.  Zheng, Q., Y. Sun, Y. Shi, and Y. Sun. Studies on method for
+monitoring oil spell on the sea surface by airborne remote sensing.
+Acta Oceanologica Sinica, 6, 531-541, 1984.
+15.  Huang, E. and Q. Zheng. Remote sensing technology for wave
+measurement. Marine Science Bulletin, 3, 80-89, 1984.
+16.  Huang, N. E., C. L. Parsons, S. R. Long, L. F. Bliven, and Q.
+Zheng. A new type of overshoot phenomenon in wind wave development
+and its implication in remote sensing of the ocean. J. Geophys. Res.,
+89, 3679-3687, 1984.
+17.  Zheng, Q., V. Klemas, and N. E. Huang. The dynamics of the
+slope water off  New England and its influence on the Gulf Stream as
+inferred from satellite IR data. Rem.  Sens.  Environ., 15,
+135-153, 1984.
+18. Zheng, Q., N. E. Huang, and V. Klemas. Satellite observations
+and study on occurrence mechanism of the shear waves along the Gulf
+Stream north wall. Oceanologia et Limnologia Sinica, 16, 1-9,
+1985.
+19. Zheng, Q., J. Yang, and N. Li. Remote sensing monitoring of
+marine environment of the Bohai Bay, in A Paper Collection of Remote
+Sensing of Environment for Tianjin-Bohai Bay Area, Science Press,
+Beijing, pp. 163-167, 1985.
+20. Zheng, Q., Y. Sun, Y. Sun, C. Xu, Y. Shi, and H. Ma. Analyses
+of airborne remote sensing monitoring data for marine environment in the
+Bohai Bay. Journal of Oceanography of Huanghai and Bohai Seas, 3,
+63-69, 1985.
+21. Zheng, Q., Y. Sun, D. Qin, and Y. Shi. Monitoring marine oil
+pollution by airborne remote sensing. in Development and Applications
+of Remote Sensing for Planning, Management and Decision-Making, UNDP
+ESCAP, Bangkok, pp. 146-148, 1985.
+22. Zheng, Q., Y. Sun, C. Xu, X. Teng, G. Yang, and R. Zhao.
+Studies on effects of nonlinear features of capillary-gravity wave
+spectra on microwave emissivity of sea surface. Science in China
+(series A), 29, 745-754, 1986.
+23. Zheng, Q. and Y. Yuan. Intermediate scale wave motion in
+shallow water shear current. J. Geophys. Res., 91, 3959-3965,
+1986.
+24. Zheng, Q., Y. Sun, A. Pang, and D. Zhang. Laboratory
+measurements and physical mechanism studies of microwave emissivity of
+oil film on water surface. Acta Oceanologica Sinica, 10, 757-763,
+1988.
+25. Zheng, Q., L. Wu, D. Zhang, and X. Li. A study on SLAR image
+signatures of internal waves in the sea area nearby the Laoshan Bay.
+Oceanologia et Limnologia Sinica, 20, 281-287, 1989.
+26. Zheng, Q. and Y. Yuan. A study on analytical model of decay
+of mesoscale eddies on the continental shelf. Science in China
+(series B), 32, 1135-1143, 1989.
+27. Zheng, Q. and Y. Yuan. Study on dynamics of shear waves - I.
+Scale analysis and dispersion relation. Acta Oceanologica Sinica,
+8, 161-170, 1989.
+28. Yuan, Y. and Q. Zheng. Study on dynamics of shear waves - II.
+Triggering mechanism and amplitude decay. Acta Oceanologica Sinica,
+8, 171-178, 1989.
+29. Zheng. Q., Y. Yuan, and X. Zheng. Remote sensing and
+dynamical studies of typical meso-scale phenomena in the Kuroshio
+current system, in J. Su (ed.), Selected Papers of the Kuroshio
+Investigation I, Ocean Press, Beijing, pp. 313-323, 1990.
+30. Zheng, Q., and S. Xiu. Studies on satellite remote sensing
+data of the Kuroshio current system I. Dynamics of meso-scale processes
+of the Kuroshio in the East China Sea in spring, in J. Su (ed.),
+Selected Papers of the Kuroshio Investigation III, Ocean Press,
+Beijing, 1991.
+31. Zheng, Q., L. Wu, X. Zhang, Y. Sun, J. Pan, and H. Xu. A
+remote sensing study of Jiaozhou Bay I. Measurement of total area and
+coastal line. Oceanologia et Limnologia Sinica, 22, 193-198,
+1991.
+32. Zheng, Q., L. Wu, M. Dai, J. Pan, and Y. Ji. A remote sensing
+study of Jiaozhou Bay II. Calculation of dynamical parameters.
+Oceanologia et Limnologia Sinica, 23, 1-6, 1992.
+33. Yuan, Y., Q. Zheng, J. Zou, and Z. Pan. The variation and
+movement of a kind of eddies in shelf slope water. Science in China
+(B), 35, 1015-1024, 1992.
+34. Yan, X.-H., C.-R. Ho, Q. Zheng, and V. Klemas. Temperature
+and size variabilities of the Western Pacific Warm Pool. Science,
+258, 1643-1645, 1992.
+35. Zheng, Q., D. Zhang, and J. Pan. A study on remote sensing
+models of sea ice thickness by microwave radiometry. Acta
+Oceanologica Sinica, 12, 197-206, 1993.
+36. Yan, X.-H., C.-R. Ho, Q. Zheng, and V. Klemas. Using
+satellite infrared data in studies of variabilities of the Western
+Pacific Warm Pool. Science, 262, 440-441, 1993.
+37.  Zheng, Q., X.H. Yan, and V. Klemas. Derivation of Delaware
+Bay tidal parameters from space shuttle photographs. Rem.  Sens.
+Environ., 45, 51-59, 1993.
+38.  Zheng, Q., X.-H. Yan, and V. Klemas. Statistical and
+dynamical analysis of internal waves on the continental shelf of the
+Middle Atlantic Bight from space shuttle photographs. J. Geophys.
+Res., 98, 8495-8504, 1993.
+39. Zheng, Q., X.-H. Yan, C.-R. Ho, V. Klemas, R.E. Cheney, and
+C.-K. Tai. Correlation of sea level anomaly amplitude modulation with El
+Nino events in equatorial Pacific. EOS, 75, 295-299, 1994.
+40. Zheng, Q., X.-H. Yan, C.-R. Ho, and C.-K. Tai. The effects of
+shear flow on propagation of Rossby waves in the equatorial oceans.
+J. Phys. Oceanogr., 24, 1680-1686, 1994.
+41. Yan, X.-H., Q. Zheng, C.-R. Ho, C.-K. Tai, and R. E. Cheney.
+Development of the pattern recognition and the spatial integration
+filtering methods for analyzing satellite altimeter data. Rem. Sens.
+Environ., 48, 147-158, 1994.
+42. Wu, Y., Q. Zheng, Y. Ji, A. Pang, S. Lou, and W. Hou.
+Laboratory simulation of thermal structure of water surface skin layer.
+Acta Oceanologia Sinica, 16, 55-62, 1994.
+43.  Zheng, Q., V. Klemas, and X.-H. Yan. Dynamic interpretation
+of space shuttle   photographs: deepwater internal waves in the western
+equatorial Indian Ocean. J. Geophys.  Res., 100, 2579-2589,
+1995.
+44.  Zheng, Q., X.-H. Yan, C.-R. Ho, and C.-K. Tai. Observation
+of equatorially trapped waves in the Pacific using Geosat altimeter
+data. Deep-Sea Res., 42, 797-817, 1995.
+45. Zheng, Q., X.-H. Yan, N. E. Huang, V. Klemas, J. Pan, and Y.
+Yuan. Laboratory measurements of the effects of viscosity on short water
+wave spectra and implication for radar remote sensing of the ocean
+surface. Chinese Journal of Oceanology and Limnology, 13,
+193-205, 1995.
+46. Ho, C.-R., X.-H. Yan, and Q. Zheng. Satellite observation of
+upper-layer variabilities in the Western Pacific Warm Pool. Bull.
+Amer. Meteor. Soc., 76, 669-679, 1995.
+47. Chen, H.-T., X.-H. Yan, P.-T. Shaw, and Q. Zheng. A numerical
+simulation of wind stress and topographic effects on the Kuroshio
+current path near Taiwan. J. Phys. Oceangr., 26, 1769-1802,
+1996.
+48.  Zheng, Q., X.-H. Yan, N. E. Huang, V. Klemas, and J. Pan.
+The effects of water temperature on radar scattering from the ocean
+surface. Global Atmosphere and Ocean System, 5, 273-294, 1997.
+49. Zheng, Q., V. Klemas, X.-H. Yan, Z. Wang, and K. Kagleder.
+Digital orthorectification of space shuttle coastal ocean photographs.
+Int.  J. Rem.  Sens., 18, 197-211, 1997.
+50. Zheng, Q., X.-H. Yan, W. T. Liu, and W. Tang. Seasonal and
+interannual variability of atmospheric convergence zones in the tropical
+Pacific observed with ERS-1 scatterometer. Geophys. Res. Lett.,
+24, 261-263, 1997.
+51.  Zheng, Q., X.-H. Yan, V. Klemas, C.-R. Ho, N.-J. Kuo, and Z.
+Wang. Coastal lee waves on ERS-1 SAR images. J. Geophys. Res.
+103, 7979-7993, 1998.
+52.  Zheng, Q., X.-H. Yan, W. T. Liu, Vic Klemas, D. Greger, and
+Z. Wang. A solitary wave
+packet in the atmosphere observed from space. Geophys. Res. Lett.
+, 25, 3559-3562, 1998.
+53.  Zheng, Q., R. D. Susanto, X.-H. Yan, W. T. Liu, and C.-R.
+Ho. Observation of equatorial Kelvin solitary wave in the Pacific using
+TOPEX/POSEIDON altimeter data. Nonlinear Processes in Geophysics,
+5, 153-165, 1998.
+54.  Huang, N. E., Z. Shen, S. R. Long, M. C. Wu, H. H. Shih, Q.
+Zheng, N.-C. Yen, C. C. Tung, and H. H. Liu. The empirical mode
+decomposition and the Hilbert spectrum for nonlinear and non-stationary
+time series analysis. Pro. R. Soc. Lond. A, 454, 903-995, 1998.
+55.  Hou, Y., B. Yin, Q. Xie, L. Yang, and Q. Zheng. Traveling
+wave characteristic study of driven nonlinear shallow water wave.
+Oceanologia et Liminologia Sinica, 30, 397-402, 1999.
+56. Ho,
+C.-R., N.-J. Kuo, Q. Zheng, and Y. S. Soong. Dynamically active
+areas in the South China Sea detected from TOPEX/POSEIDON satellite
+altimeter data.
+Rem.
+Sens. Environ.,
+71, 320-328, 2000.
+57. Ho,
+C.-R., Q. Zheng, Y. S. Soong, N.-J. Kuo, and J.-H. Hu. Seasonal
+variability of sea surface height in the South China Sea observed with
+TOPEX/POSEIDON altimeter data. J.  Geophys. Res., 105,
+13,981-13,990, 2000.
+58. Kuo,
+N.-J., Q. Zheng, and C.-R. Ho. Satellite observation of upwelling
+along the western coast of the South China Sea. Rem. Sens. Environ.,
+74, 463-470, 2000.
+59. Li, X., Q. Zheng,
+W. G.
+Pichel, X.-H. Yan, W. T. Liu, and
+P. Clemente-Colon. Analysis of coastal lee waves along the coast
+of Texas observed on AVHRR images. J.  Geophys. Res., 106,
+7017-7025, 2001.
+60.
+Zheng, Q.,
+X.-H. Yan, W. T. Liu, V. Klemas, and D. Sun. Space shuttle
+observations of open ocean oil slicks.
+Rem. Sens. Environ.,
+76, 49-56, 2001.
+61. Zheng, Q., V. Klemas, X.-H. Yan, and J. Pan.
+Nonlinear evolution of ocean internal
+solitons as propagating along inhomogeneous thermocline.  J.
+Geophys. Res.,
+106, 14,083-14,094, 2001.
+62. Klemas, V., Q. Zheng, and X.-H. Yan. Ocean
+internal wave observations using space shuttle and satellite imagery.
+Geocarto International, 16, 51-55,  2001.
+63.
+Susanto,
+R. D., A. L. Gorden, and Q. Zheng. Upwelling along the coasts of
+Java and Sumatra and its relation to ENSO.
+Geophys. Res. Lett., 28,
+1599-1602, 2001.
+64. Pan, J., X.-H. Yan, Q. Zheng, and W. T. Liu. Vector empirical
+orthogonal function modes of the ocean surface wind variability derived
+from satellite scatterometer data. Geophys. Res. Lett.,
+28, 3951-3954, 2001.
+65.
+Pan, J., X.-H. Yan, Q. Zheng,
+and W. T. Liu.  Scatterometers Observe the variation of the
+Walker Circulation. EOS Transaction, 82, 536-537, 2001.
+66. Zheng, Q., Y. Yuan, V. Klemas, and X.-H. Yan. Theoretical
+expression
+for an ocean internal soliton SAR image and determination of the soliton
+characteristic half width. J.
+Geophys. Res.,
+106, 31,415-31,423, 2001.
+67. Zheng, Q., V. V. Klemas, and X.-H. Yan. Advance in studies of
+ocean internal waves observed from space. In Recent Research
+Developments in Geophysics, Research Signpost, 4, 143-156, 2002.
+68. Pan, J., X.-H. Yan, Q. Zheng, W. T. Liu, and V. Klemas.
+Interpretation of scatterometers ocean surface wind vector EOFs over
+the Northwestern Pacific.  Rem. Sens. Environ., 84, 53-68, 2002.
+69. Pan, J., X.-H. Yan, Q. Zheng, and W. T. Liu. Observation of
+western boundary current atmospheric convergence zones using
+scatterometer winds.
+Geophys. Res. Lett.,
+29, 13-1-13-3, 2002.
+70. Li,
+X., T. F. Donato, Q. Zheng, W. G. Pichel, and P. Clemente-Col¨®n.
+An extraordinary breach of the Gulf Stream north wall by a cold water
+intrusion. Geophys. Res. Lett., 29, 8-1-8-4, 2002.
+71. Xiu,
+S., Q. Zheng, and X. Sun, Upwelling induced by ocean mesoscale
+eddy. Res. Progr. Hydrodynamics, 17, 61-68.
+72.
+Tian, J., L. Zhou, X. Zhang, X. Liang,
+Q. Zheng, and W. Zhao. Estimates of
+internal
+tide energy fluxes along the margin of Northwestern
+Pacific using TOPEX/POSEIDON altimeter data. Geophys. Res.
+Lett., 30, 4-1-4-4, 2003.
+73. Kuo,
+N.-J., Q. Zheng, and C.-R. Ho. Response of Vietnam Coastal
+Upwelling to the 1997-1998 ENSO event observed by multi-sensor data.
+Rem. Sens. Environ., 89, 106-115, 2004.
+74. Qiao,
+F., Y. Yuan, Y. Yang, Q. Zheng, C. Xia, and J. Ma. Wave-induced
+mixing in the upper ocean: Distribution and application to a global
+ocean model. Geophys. Res. Lett., 31, L11303,
+doi:10.1029/2004GL019824, 2004.
+75. Ho, C.-R., Q. Zheng, and N.-J.
+Kuo. Multi-Year SeaWiFS observations of upwelling south of Madagascar.
+Deep-Sea Res. II,
+51, 59-67,
+2004.
+76.
+Zhang, S., Q.
+Zheng, and X. Liu. Finite element analysis of suction penetration
+seepage field of bucket foundation platform with application to offshore
+oilfield development. Ocean Engineering, 31, 1591-1599, 2004.
+77.
+Zheng, Q., S. S. P. Shen, Y. Yuan, N. E. Huang, V. Klemas, X.-H.
+Yan, F. Shi, X. Zhang, Z. Zhao, X. Li, and P. Clemente-Colŏ. Cover.
+International Journal of Remote Sensing, 25, 4431, 2004.
+78.
+Zheng, Q., S. S. P. Shen, Y. Yuan, N. E. Huang, V. Klemas, X.-H.
+Yan, F. Shi, X. Zhang, Z. Zhao, X. Li, and P. Clemente-Colŏn, Evidence
+of the coexistence of upstream and downstream solitary wavetrains in the
+real atmosphere. International Journal of Remote Sensing, 25,
+4433-4440, 2004.
+79. Ho,
+C.-R., Q. Zheng, N.-J. Kuo, C.-H. Tsai, and N. E. Huang,
+Observation of the Kuroshio Intrusion region in the South China Sea from
+AVHRR data. International Journal of Remote Sensing, 25,
+4583-4591, 2004.
+80.
+Zheng,
+Q.,
+P. Clemente-Col¨®n, X.-H. Yan, W. Timothy Liu, and N. E. Huang. Satellite
+SAR detection of Delaware Bay plumes: Jet-like feature analysis.
+J. Geophys. Res.,
+109,
+C03031,
+10.1029/2003JC002100, 2004.
+81.
+Alpers, W., G. Campbell, H. Wensink, and Q. Zheng, Underwater
+topography, in Synthetic Aperture Radar Marine User¡¯s Mannual edited
+by Jackson and Apel, NOAA NESDIS, pp. 245-262, 2004.
+82.  Pan,
+J.,  X.-H. Yan, Y.-H. Jo, Q. Zheng, and W. T. Liu, A New method
+for estimation of the sensible heat flux under unstable conditions using
+satellite vector winds. J. Phys. Ocean., 34, 968¨C977, 2004.
+83.  Zhao, Z., V. Klemas, Q. Zheng, and X.-H. Yan. Satellite
+observation of internal solitary waves converting polarity.
+Geophys. Res. Lett.,
+2004, in press.
+84.
+Zheng, Q., Comments on ¡°Can near-inertial internal waves in the East
+Sea be observed by synthetic aperture radar?¡± Geophys. Res. Lett.,
+32,  L20606 10.1029/2005GL023770, 2005. (PDF)
+85. Fang,
+G., D. Susanto, I. Soesilo, Q. Zheng, F. Qiao, and Z. Wei, A note
+on the South China Sea shallow interocean circulation. Advances in
+Atmospheric Sciences, 22, 946-954, 2005.
+86.
+Susanto,
+R. D., L. Mitnik, and Q. Zheng. Ocean internal waves observed in
+the Lombok Strait. Oceanogr., 18, 80-89, 2005.
+87.
+Zheng Q.,
+R. J. Lai, N. E Huang, J. Pan, and W. T. Liu.
+Observation of ocean current response to1998
+Hurricane Georges at Gulf of Mexico.
+Acta Oceanologica Sinica, 25, 1-14, 2006.
+88. Su,
+F.-C., C.-R. Ho, Q. Zheng, N.-J. Kuo, and C.-T. Chen, Satellite
+chlorophyll retrievals with a bipartite artificial neural network model.
+International Journal of Remote Sensing, 27, 1563-1579, 2006.
+89.
+Zheng, Q., G. Fang, and Y. T. Song. Introduction to special section:
+Dynamic Processes and Circulation in Yellow Sea, East China Sea, and
+South China Sea. J. Geophys. Res., 111, C11S01,
+doi:10.1029/2005JC003261, 2006.
+90. Li,
+C., J. Hu, S. Jan, Z. Wei, G. Fang, and Q. Zheng. Winter-spring
+fronts in Taiwan Strait, J. Geophys. Res., 111,
+C11S13, doi:10.1029/2005JC003203, 2006.
+91. Yuan,
+Y., Q. Zheng, D. Dai, X. Hu, F. Qiao, and J. Meng. The mechanism
+of internal waves in the Luzon Strait. J. Geophys. Res., 111,
+C11S17, doi:10.1029/2005JC003198, 2006.
+92.
+Zheng, Q., L. Li, X. Guo, Y. Ge, D. Zhu, and C. Li. SAR Imaging and
+hydrodynamic analysis of ocean bottom topographic waves. J. Geophys.
+Res., 111, C09028, doi:10.1029/2006JC003586, 2006. (PDF)
+93.
+Zheng, Q., R. D. Susanto, C. Ho, Y. T. Song, and Q. Xu,
+Statistical and dynamical analyses of generation mechanisms of solitary
+internal waves in the northern South China Sea. J. Geophys. Res.,
+112, C03021, doi:10.1029/2006JC003551, 2007. (PDF)
+94. Pichel, W. G., J. H.
+Churnside, T. S. Veenstra, D. G. Foley, K. S. Friedman, R. E. Brainard,
+J. B. Nicoll, Q. Zheng, and P. Clemente-Col¨®n, Marine debris
+collects within the North pacific Subtropical Convergence Zone,
+Marine Pollution Bulletin, 54, 1207-1211, 2007.
+95. Zheng, Q.,
+and R. D. Susanto, Solitary waves in fluids, Book review, Oceanography,
+20, 148-149, 2007.
+96. Zheng, Q., H. Lin, J. Meng, X. Hu, Y. T. Song, Y. Zhang, and C. Li, Sub-mesoscale ocean vortex trains in the Luzon Strait, J. Geophys.
+Res., 113, C04032, doi:10.1029/2007JC004362, 2008 (PDF).
+97. Zheng, Q., Q.
+Chen, H. Zhao, J. Shi, Y. Cao, and D. Wang, A statistic-thermodynamic
+model for the DOM degradation in the estuary, Geophys. Res. Lett.,
+35, L06604, doi:10.1029/2007GL033150, 2008. (PDF)
+98.
+Su,
+F.-C. , C.-R. Ho , Q. Zheng , N.-J. Kuo, Estimating amplitudes of
+internal waves using satellite ocean color imagery of South China Sea,
+International Journal Of Remote Sensing, 2008.
+Papers in Proceedings
+1. Zheng, Q., X.-H. Yan, W. T. Liu,
+and V. Klemas. Coastal lee waves observed from space. Second Conference on
+Coastal Atmospheric and Oceanic Prediction and Processes, 11-16 January, 1998,
+Phoenix, AZ, 84-88, 1998.
+2. Zheng, Q., X.-H. Yan, W. T. Liu,
+W. Tang, and A. H. Ali. Global tropical ocean atmospheric convergence zones
+derived from ERS-1/2 and NSCAT scatterometer winds. Ninth conference on
+Interaction of the Sea and Atmosphere, 11-16 January, 1998, Phoenix, AZ, 40-43,
+1998.
+3. Zheng, Q., X.-H. Yan, and V.
+Klemas. Coastal lee waves observed from space. PACON 99 Proceedings, June 23-25,
+1999, Moscow, Russia, 40-48, 1999.
+4.
+Zheng, Q., V. Klemas, X.-H. Yan, and R. Field. Space station and
+space shuttle studies of ocean dynamics and coastal resources. Space Technology
+and Applications international Forum-2000, 519-527, 2000.
+5.
+Zheng, Q.,
+Qin Chen, Haihong Zhao Jiuxin Shi, and Yong Cao. A statistic-thermodynamic model
+for the DOM degradation in the estuary, IMEMS 2006, October 9-11, 2006, Rio de
+Janeiro, Brazil, 2006.
+6. Zheng, Q., R. Dwi Susanto, Chung-Ru Ho, Y. Tony Song, and Qing Xu.
+Satellite SAR observation of solitary internal wave occurrence in the northern
+South China Sea, PORSEC 2006, November 2-4, 2006, Busan, Kerea, 2006.
+7.
+Zheng, Q.,  Hui Lin, Yuanzhi Zhang, Qin Chen, and Haihong Zhao. MODIS
+observation and statistic-thermodynamic modeling for
+terrestrial nutrition material distribution in the estuary. First
+Symposium on Integrating Satellite Data into Ecosystem-based Management of
+Living Marine Resources, December 5-8, 2006, Shanghai, China, 2006.
+Book Translated
+Zheng, Q.,
+K. Wu, Y. Sun, and Y. Wu, Satellite Oceanic Remote Sensing, in Chinese
+translated from English, Ocean Press, Beijing, 1991.

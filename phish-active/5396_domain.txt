@@ -1,0 +1,17 @@
+   Domain Name: CHINARICHROC.COM
+   Registry Domain ID: 1679536445_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gzidc.com
+   Registrar URL: http://www.gzidc.com
+   Updated Date: 2024-09-19T09:18:49Z
+   Creation Date: 2011-09-29T03:57:09Z
+   Registry Expiry Date: 2025-09-29T03:57:09Z
+   Registrar: Guangdong JinWanBang Technology Investment Co., Ltd.
+   Registrar IANA ID: 1525
+   Registrar Abuse Contact Email: abuse@gzidc.com
+   Registrar Abuse Contact Phone: +86.02066849000-2
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS7.NS365.NET
+   Name Server: NS8.NS365.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:05:07Z 

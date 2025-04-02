@@ -1,0 +1,24 @@
+Domain Name: qldtravel.com.au
+Registry Domain ID: 687a6a8103b54d47b2b0e793a32d11d6-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.instra.com/en/about-us/contact-us
+Last Modified: 2023-06-27T00:17:06Z
+Registrar Name: Domain Directors Pty Ltd trading as Instra
+Registrar Abuse Contact Email: abuse@key-systems.net
+Registrar Abuse Contact Phone: +49.68949396850
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 684e3f1ea5254b5dbb1d37edeaf8b4d1-AU
+Registrant Contact Name: Craig Winder
+Tech Contact ID: 21864ade82a54537bca06013995b55b7-AU
+Tech Contact Name: Craig Winder
+Name Server: lars.ns.cloudflare.com
+Name Server: lina.ns.cloudflare.com
+DNSSEC: unsigned
+Registrant: WINDER, CRAIG MICHAEL
+Registrant ID: ABN 64901070303
+Eligibility Type: Registered Business
+Eligibility Name: QLD TRAVEL
+Eligibility ID: ABN 64901070303
+>>> Last update of WHOIS database: 2025-03-27T16:04:14Z 

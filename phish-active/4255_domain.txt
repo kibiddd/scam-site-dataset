@@ -1,0 +1,71 @@
+Domain Name: sharepoint.us
+Registry Domain ID: D737251-US
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: whois.corporatedomains.com
+Updated Date: 2024-04-14T05:01:20Z
+Creation Date: 2002-04-19T21:30:51Z
+Registry Expiry Date: 2025-04-18T23:59:59Z
+Registrar: CSC Corporate Domains, Inc.
+Registrar IANA ID: 299
+Registrar Abuse Contact Email: domainabuse@cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: C17955866-US
+Registrant Name: Domain Administrator
+Registrant Organization: Microsoft Corporation
+Registrant Street: One Microsoft Way
+Registrant Street:
+Registrant Street:
+Registrant City: Redmond
+Registrant State/Province: WA
+Registrant Postal Code: 98052
+Registrant Country: US
+Registrant Phone: +1.4258828080
+Registrant Phone Ext:
+Registrant Fax: +1.4259367329
+Registrant Fax Ext:
+Registrant Email: domains@microsoft.com
+Registrant Application Purpose: P1
+Registrant Nexus Category: C21
+Registry Admin ID: C17955866-US
+Admin Name: Domain Administrator
+Admin Organization: Microsoft Corporation
+Admin Street: One Microsoft Way
+Admin Street:
+Admin Street:
+Admin City: Redmond
+Admin State/Province: WA
+Admin Postal Code: 98052
+Admin Country: US
+Admin Phone: +1.4258828080
+Admin Phone Ext:
+Admin Fax: +1.4259367329
+Admin Fax Ext:
+Admin Email: domains@microsoft.com
+Admin Application Purpose: P1
+Admin Nexus Category: C21
+Registry Tech ID: C17955868-US
+Tech Name: MSN Hostmaster
+Tech Organization: Microsoft Corporation
+Tech Street: One Microsoft Way
+Tech Street:
+Tech Street:
+Tech City: Redmond
+Tech State/Province: WA
+Tech Postal Code: 98052
+Tech Country: US
+Tech Phone: +1.4258828080
+Tech Phone Ext:
+Tech Fax: +1.4259367329
+Tech Fax Ext:
+Tech Email: msnhst@microsoft.com
+Tech Application Purpose: P1
+Tech Nexus Category: C21
+Name Server: ns4-204.azuregov-dns.us
+Name Server: ns1-204.azuregov-dns.us
+Name Server: ns3-204.azuregov-dns.us
+Name Server: ns2-204.azuregov-dns.us
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T22:55:40Z 

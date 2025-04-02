@@ -1,0 +1,24 @@
+   Domain Name: HUAWEI.COM
+   Registry Domain ID: 17215923_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://markmonitor.com
+   Updated Date: 2022-11-12T03:14:34Z
+   Creation Date: 2000-01-11T13:37:24Z
+   Registry Expiry Date: 2027-01-11T13:37:24Z
+   Registrar: MarkMonitor Information Technology (Shanghai) Co., Ltd.
+   Registrar IANA ID: 3838
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2083895740
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NSALL.HUAWEI.COM
+   Name Server: NSALL3RD.HUAWEI.CN
+   Name Server: NSALL4TH.HUAWEI.CN
+   Name Server: NSALLSEC.HUAWEI.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:56:50Z 

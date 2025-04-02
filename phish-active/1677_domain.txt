@@ -1,0 +1,18 @@
+   Domain Name: AGMETSRECORDS.COM
+   Registry Domain ID: 2116625552_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.101domain.com
+   Registrar URL: http://101domain.com
+   Updated Date: 2024-02-22T00:07:41Z
+   Creation Date: 2017-04-21T19:24:45Z
+   Registry Expiry Date: 2025-04-21T19:24:45Z
+   Registrar: 101domain GRS Limited
+   Registrar IANA ID: 1011
+   Registrar Abuse Contact Email: abuse@101domain.com
+   Registrar Abuse Contact Phone: +17604448674
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.101DOMAIN.COM
+   Name Server: NS2.101DOMAIN.COM
+   Name Server: NS5.101DOMAIN.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:43:07Z 

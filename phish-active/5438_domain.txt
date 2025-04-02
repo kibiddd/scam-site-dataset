@@ -1,0 +1,19 @@
+   Domain Name: CHRISCHAN.NET
+   Registry Domain ID: 1697231156_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enomdomains.com
+   Updated Date: 2024-11-18T17:00:13Z
+   Creation Date: 2012-01-16T10:30:09Z
+   Registry Expiry Date: 2026-01-16T10:30:09Z
+   Registrar: eNom, LLC
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS1.HOSTINGSPEED.NET
+   Name Server: DNS2.HOSTINGSPEED.NET
+   Name Server: DNS3.HOSTINGSPEED.NET
+   Name Server: DNS4.HOSTINGSPEED.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:05:52Z 

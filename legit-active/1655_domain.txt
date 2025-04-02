@@ -1,0 +1,17 @@
+   Domain Name: VIEWASKEW.COM
+   Registry Domain ID: 1031513_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2024-07-13T00:55:01Z
+   Creation Date: 1996-07-10T04:00:00Z
+   Registry Expiry Date: 2025-07-09T04:00:00Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS97.WORLDNIC.COM
+   Name Server: NS98.WORLDNIC.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:34:32Z 

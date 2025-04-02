@@ -1,0 +1,18 @@
+   Domain Name: BIGAMERICANFILMS.COM
+   Registry Domain ID: 120892535_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-05-22T09:01:18Z
+   Creation Date: 2004-05-23T21:49:03Z
+   Registry Expiry Date: 2025-05-23T21:49:03Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.S807.SURESERVER.COM
+   Name Server: NS2.S807.SURESERVER.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:07:24Z 

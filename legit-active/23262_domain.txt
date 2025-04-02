@@ -1,0 +1,22 @@
+Domain Name: fta.org.au
+Registry Domain ID: 6129791bb6544aca82fb8cf2cf2ffe27-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://synergywholesale.com/partner-lookup
+Last Modified: 2024-12-11T22:26:09Z
+Registrar Name: Synergy Wholesale Accreditations Pty Ltd
+Registrar Abuse Contact Email: registry-abuse@nexigen.digital
+Registrar Abuse Contact Phone: +61.383999483
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 5448873808304e548cd3ef95823b5c38-AU
+Registrant Contact Name: Cecile Menard
+Tech Contact ID: 5448873808304e548cd3ef95823b5c38-AU
+Tech Contact Name: Cecile Menard
+Name Server: arnold.ns.cloudflare.com
+Name Server: rafe.ns.cloudflare.com
+DNSSEC: unsigned
+Registrant: FAIRTRADE AUSTRALIA AND NEW ZEALAND LTDAUSTRALIA
+Registrant ID: ABN 98114571881
+Eligibility Type: Non-profit Organisation
+>>> Last update of WHOIS database: 2025-03-27T22:46:44Z 

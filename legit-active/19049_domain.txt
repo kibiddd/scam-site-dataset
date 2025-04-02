@@ -1,0 +1,18 @@
+   Domain Name: FAGSTEIN.COM
+   Registry Domain ID: 843720941_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.squarespace.domains
+   Registrar URL: http://domains2.squarespace.com
+   Updated Date: 2025-02-12T22:37:06Z
+   Creation Date: 2007-02-27T19:55:33Z
+   Registry Expiry Date: 2026-02-27T19:55:33Z
+   Registrar: Squarespace Domains II LLC
+   Registrar IANA ID: 895
+   Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+   Registrar Abuse Contact Phone: +1.6466935324
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.PANELBOXMANAGER.COM
+   Name Server: NS2.PANELBOXMANAGER.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:35:08Z 

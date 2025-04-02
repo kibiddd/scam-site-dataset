@@ -1,0 +1,57 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: WFU.EDU
+
+Registrant:
+	Wake Forest University
+	PO Box 7408 Reynolda Station
+	Winston-Salem, NC 27109-7408
+	USA
+
+Administrative Contact:
+	WFU DNS Admin
+	Wake Forest University
+	P. O. Box 7408
+	Winston-Salem, NC 27109
+	USA
+	+1.3367585813
+	dns-admin-contact@wfu.edu
+
+Technical Contact:
+	WFU Hostmaster
+	Wake Forest University
+	P. O. Box 7408
+	Winston-Salem, NC 27109
+	USA
+	+1.3367585813
+	hostmaster@wfu.edu
+
+Name Servers:
+	NS-171.AWSDNS-21.COM
+	NS-936.AWSDNS-53.NET
+	NS-1856.AWSDNS-40.CO.UK
+	NS-1302.AWSDNS-34.ORG
+
+Domain record activated:    03-Mar-1986
+Domain record last updated: 01-Jul-2024
+Domain expires:             31-Jul-2027

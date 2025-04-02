@@ -1,0 +1,19 @@
+   Domain Name: CFREFERENCE.NET
+   Registry Domain ID: 2874850578_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.hostinger.com
+   Registrar URL: http://www.hostinger.com
+   Updated Date: 2025-02-15T17:57:57Z
+   Creation Date: 2024-04-22T23:50:50Z
+   Registry Expiry Date: 2025-04-22T23:50:50Z
+   Registrar: HOSTINGER operations, UAB
+   Registrar IANA ID: 1636
+   Registrar Abuse Contact Email: abuse-tracker@hostinger.com
+   Registrar Abuse Contact Phone: +37064503378
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: HARRIER.EZOICNS.COM
+   Name Server: LOBSTER.EZOICNS.COM
+   Name Server: TIFFANY.EZOICNS.COM
+   Name Server: VULTURE.EZOICNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:34:18Z 

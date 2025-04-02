@@ -1,0 +1,29 @@
+DOMAIN NAME:                    hoton.pl
+registrant type:                individual
+nameservers:                    ns1.aftermarket.pl. [185.253.213.10]
+                                ns2.aftermarket.pl. [185.253.214.10]
+created:                        2025.02.20 00:00:00
+last modified:                  2025.03.06 17:17:02
+renewal date:                   2026.02.20 00:00:00
+
+option:                         no
+
+dnssec:                         Signed
+DS:                             64090 13 1 178D6F36D1589320AE0B9283D1DE99E951378BE3
+DS:                             64090 13 2 394571F9215D9499A952CBB5199E034EA0E56AA391A5ED1CC652C8387384E6C5
+DS:                             64090 13 4 F32260583FC366876F29F7DEFF8A33DF85F2166119D1E25675111585149E3ABC969CD1DDEC0E5ED83B05ED02562FB3B3
+
+REGISTRAR:
+Aftermarket.pl Limited
+Chytron, 3, Office 301, P.C.
+1075 Nicosia
+Cypr/Cyprus
+Tel: +357.22761649
+Fax: +357.22767543
+http://www.AfterMarket.pl/contact.php
+domains@dropped.pl
+
+WHOIS database responses:       https://dns.pl/en/whois
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system
+

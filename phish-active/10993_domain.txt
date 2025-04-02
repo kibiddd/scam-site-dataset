@@ -1,0 +1,20 @@
+   Domain Name: HAVLV.COM
+   Registry Domain ID: 1828966327_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.godaddy.com
+   Registrar URL: http://www.godaddy.com
+   Updated Date: 2025-03-26T05:56:47Z
+   Creation Date: 2013-09-26T15:23:22Z
+   Registry Expiry Date: 2025-09-26T15:23:22Z
+   Registrar: GoDaddy.com, LLC
+   Registrar IANA ID: 146
+   Registrar Abuse Contact Email: abuse@godaddy.com
+   Registrar Abuse Contact Phone: 480-624-2505
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.NAGALPAR7755.COM
+   Name Server: NS2.NAGALPAR7755.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:58:15Z 

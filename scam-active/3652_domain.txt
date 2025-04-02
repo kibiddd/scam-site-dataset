@@ -1,0 +1,20 @@
+   Domain Name: EASYTRADEXCHANGE.COM
+   Registry Domain ID: 2932792791_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.cosmotown.com
+   Registrar URL: http://www.cosmotown.com
+   Updated Date: 2024-11-09T11:47:52Z
+   Creation Date: 2024-11-09T11:27:03Z
+   Registry Expiry Date: 2025-11-09T11:27:03Z
+   Registrar: Cosmotown, Inc.
+   Registrar IANA ID: 1509
+   Registrar Abuse Contact Email: domain@cosmotown.com
+   Registrar Abuse Contact Phone: +1.6504739500
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.DNS-PARKING.COM
+   Name Server: NS2.DNS-PARKING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:45:50Z 

@@ -1,0 +1,17 @@
+   Domain Name: EPEIXAO.COM
+   Registry Domain ID: 2006554874_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.hostinger.com
+   Registrar URL: http://www.hostinger.com
+   Updated Date: 2025-01-11T04:15:05Z
+   Creation Date: 2016-02-25T21:07:43Z
+   Registry Expiry Date: 2027-02-25T21:07:43Z
+   Registrar: HOSTINGER operations, UAB
+   Registrar IANA ID: 1636
+   Registrar Abuse Contact Email: abuse-tracker@hostinger.com
+   Registrar Abuse Contact Phone: +37064503378
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: AMANDA.NS.CLOUDFLARE.COM
+   Name Server: ELLIOTT.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:14:50Z 

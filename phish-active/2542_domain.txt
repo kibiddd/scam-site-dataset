@@ -1,0 +1,59 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://web-whois.nic.it                                           *
+*********************************************************************
+
+Domain:             toscanasistemi.it
+Status:             ok
+Signed:             no
+Created:            2016-11-04 08:09:03
+Last Update:        2024-11-20 00:58:31
+Expire Date:        2025-11-04
+
+Registrant
+  Organization:     Italiasport.net s.r.l.
+  Address:          Via Prov. Francesca Nord 92
+                    Santa maria a monte
+                    56020
+                    PI
+                    IT
+  Created:          2009-12-14 10:05:09
+  Last Update:      2019-02-11 13:10:04
+
+Admin Contact
+  Name:             Marco Angiolini
+  Organization:     Italiasport.net s.r.l.
+  Address:          Via Prov. Francesca Nord 92
+                    Santa maria a monte
+                    56020
+                    PI
+                    IT
+  Created:          2009-12-14 10:05:09
+  Last Update:      2019-02-11 13:10:04
+
+Technical Contacts
+  Name:             Marco Angiolini
+  Organization:     Italiasport.net s.r.l. unip.
+  Address:          via prov. Francesca Nord 92
+                    Santa Maria a Monte
+                    56020
+                    PI
+                    IT
+  Created:          2009-11-19 10:39:46
+  Last Update:      2019-01-22 12:55:20
+
+Registrar
+  Organization:     Italiasport.net S.r.l. Unip.
+  Name:             SETTESETTE-REG
+  Web:              http://www.sitoper.it
+  DNSSEC:           no
+
+
+Nameservers
+  dnsserver02.h725.net
+  dnsserver01.h725.net
+

@@ -1,0 +1,17 @@
+   Domain Name: GETBIG.COM
+   Registry Domain ID: 5235364_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2024-08-27T07:25:03Z
+   Creation Date: 1995-10-27T04:00:00Z
+   Registry Expiry Date: 2025-10-26T04:00:00Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS3.NADIVA.NET
+   Name Server: NS4.NADIVA.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:42:07Z 

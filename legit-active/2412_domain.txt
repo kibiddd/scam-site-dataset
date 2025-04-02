@@ -1,0 +1,17 @@
+   Domain Name: CRITICALBENCH.COM
+   Registry Domain ID: 68653361_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.register.com
+   Registrar URL: http://www.register.com
+   Updated Date: 2025-03-01T07:44:23Z
+   Creation Date: 2001-03-31T23:04:14Z
+   Registry Expiry Date: 2026-03-31T22:04:14Z
+   Registrar: Register.com, Inc.
+   Registrar IANA ID: 9
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.CRITICALBENCH.COM
+   Name Server: NS2.CRITICALBENCH.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T23:56:29Z 

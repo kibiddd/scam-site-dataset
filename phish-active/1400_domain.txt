@@ -1,0 +1,17 @@
+   Domain Name: ABHARCEMENT.COM
+   Registry Domain ID: 2134546162_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.onlinenic.com
+   Registrar URL: http://www.onlinenic.com
+   Updated Date: 2025-03-23T06:13:46Z
+   Creation Date: 2017-06-17T08:04:47Z
+   Registry Expiry Date: 2025-06-17T08:04:47Z
+   Registrar: OnlineNIC, Inc.
+   Registrar IANA ID: 82
+   Registrar Abuse Contact Email: abuse@onlinenic.com
+   Registrar Abuse Contact Phone: +1 833-678-1173
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS7.PORTALNIC.NET
+   Name Server: NS8.PORTALNIC.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:42:07Z 

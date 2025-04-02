@@ -1,0 +1,21 @@
+Domain Name: iol.ie
+Registry Domain ID: 824164-IEDR
+Registrar WHOIS Server: whois.weare.ie
+Registrar URL: http://business.btireland.ie/prod_serve_internet_bp.html
+Updated Date: 2025-01-28T13:34:34Z
+Creation Date: 1999-12-14T00:00:00Z
+Registry Expiry Date: 2025-12-14T13:32:46Z
+Registrar: BT Ireland
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@btireland.ie
+Registrar Abuse Contact Phone: +353.1800924929
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 473812-IEDR
+Registrant Name: BT Communications Ireland Limited
+Registry Admin ID: 1318-IEDR
+Registry Tech ID: 1318-IEDR
+Registry Billing ID: REDACTED FOR PRIVACY
+Name Server: auth01.ns.esat.net
+Name Server: sec01.ns.esat.net
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2025-03-27T14:54:18Z 

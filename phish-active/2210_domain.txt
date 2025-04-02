@@ -1,0 +1,23 @@
+%%
+%% This is the NIC Chile Whois server (whois.nic.cl).
+%%
+%% Rights restricted by copyright.
+%% See https://www.nic.cl/normativa/politica-publicacion-de-datos-cl.pdf
+%%
+
+Domain name: anguitagestioninmobiliaria.cl
+Registrant name: anguita gestion inmobiliaria
+Registrant organisation: 
+Registrar name: NIC Chile
+Registrar URL: https://www.nic.cl
+Creation date: 2023-07-24 12:20:55 CLST
+Expiration date: 2025-07-24 12:20:55 CLST
+Name server: ns1.toppropiedades.cl
+Name server: ns2.toppropiedades.cl
+Name server: ns3.toppropiedades.cl
+Name server: ns4.toppropiedades.cl
+
+%%
+%% For communication with domain contacts please use website.
+%% See https://www.nic.cl/registry/Whois.do?d=anguitagestioninmobiliaria.cl
+%%

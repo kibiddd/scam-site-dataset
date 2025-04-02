@@ -1,0 +1,69 @@
+Domain Name: virgocx.ca
+Registry Domain ID: 71767355-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: https://www.namecheap.com/
+Updated Date: 2024-05-06T23:28:23Z
+Creation Date: 2018-12-03T02:51:43Z
+Registry Expiry Date: 2029-12-03T02:51:43Z
+Registrar: Go Get Canada Domain Registrar Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 112663375-CIRA
+Registrant Name: Adam Cai
+Registrant Organization: VirgoCX Global Holdings Inc.
+Registrant Street: 4950 YONGE STREET,  SUITE 900
+Registrant City: NORTH YORK
+Registrant State/Province: ON
+Registrant Postal Code: M2N6K1
+Registrant Country: CA
+Registrant Phone: +1.4164555923
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: ois@virgocx.ca
+Registry Admin ID: 112663376-CIRA
+Admin Name: Adam Cai
+Admin Organization: VirgoCX Global Holdings Inc.
+Admin Street: 4950 YONGE STREET,  SUITE 900
+Admin City: NORTH YORK
+Admin State/Province: ON
+Admin Postal Code: M2N6K1
+Admin Country: CA
+Admin Phone: +1.4164555923
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: ois@virgocx.ca
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email:
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: nolan.ns.cloudflare.com
+Name Server: sky.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:49:40Z 

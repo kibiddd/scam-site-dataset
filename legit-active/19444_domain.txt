@@ -1,0 +1,26 @@
+   Domain Name: PAYPAL.COM
+   Registry Domain ID: 8017040_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-10-08T21:00:07Z
+   Creation Date: 1999-07-15T05:32:11Z
+   Registry Expiry Date: 2025-07-15T05:32:11Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.P57.DYNECT.NET
+   Name Server: NS2.P57.DYNECT.NET
+   Name Server: PDNS100.ULTRADNS.COM
+   Name Server: PDNS100.ULTRADNS.NET
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 34800 13 2 D9E64BA8C8718FD93B596F9D109D9DAC47C3F557312201DFCCE5DD4128C08F50
+   DNSSEC DS Data: 7037 13 2 9778F2FF96889EBED549795DEAA40A6113F1899AF7CA8DD7947FDDFECA9A190B
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:50:21Z 

@@ -1,0 +1,17 @@
+   Domain Name: K36588.CC
+   Registry Domain ID: 203385163_DOMAIN_CC-VRSN
+   Registrar WHOIS Server: whois.gname.com
+   Registrar URL: http://www.gname.com
+   Updated Date: 2025-02-19T15:37:54Z
+   Creation Date: 2024-11-24T07:23:49Z
+   Registry Expiry Date: 2025-11-24T07:23:49Z
+   Registrar: Gname.com Pte. Ltd.
+   Registrar IANA ID: 1923
+   Registrar Abuse Contact Email: complaint@gname.com
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NORA.NS.CLOUDFLARE.COM
+   Name Server: STANLEY.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T14:56:26Z 

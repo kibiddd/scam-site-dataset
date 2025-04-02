@@ -1,0 +1,17 @@
+   Domain Name: SOUTHTRAVELS.COM
+   Registry Domain ID: 79547179_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2024-06-07T16:13:10Z
+   Creation Date: 2001-11-09T19:36:36Z
+   Registry Expiry Date: 2033-11-09T19:36:36Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DNS-PARKING.COM
+   Name Server: NS2.DNS-PARKING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:35:24Z 

@@ -1,0 +1,23 @@
+Domain Name: houseofscotland.com.au
+Registry Domain ID: 3d8a3a5e00954359b161ee4c98d124c4-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.crazydomains.com.au/contact/
+Last Modified: 2022-08-03T04:36:56Z
+Registrar Name: Web Address Registration Pty Ltd
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 6b732cf3dde7459e90e7a3f8b4d975e0-AU
+Registrant Contact Name: William Gibson
+Tech Contact ID: 6b732cf3dde7459e90e7a3f8b4d975e0-AU
+Tech Contact Name: William Gibson
+Name Server: ns1.vodien.com
+Name Server: ns2.vodien.com
+Name Server: ns3.vodien.com
+DNSSEC: unsigned
+Registrant: HOUSE OF SCOTLAND PTY. LTD.
+Registrant ID: ACN 005510878
+Eligibility Type: Company
+>>> Last update of WHOIS database: 2025-03-27T14:00:07Z 

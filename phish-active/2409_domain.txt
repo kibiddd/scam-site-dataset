@@ -1,0 +1,17 @@
+   Domain Name: RICHARDHYETTLAWYERNOTARY.COM
+   Registry Domain ID: 1635780960_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domain.com
+   Registrar URL: http://www.domain.com
+   Updated Date: 2025-01-04T08:22:10Z
+   Creation Date: 2011-01-19T06:19:08Z
+   Registry Expiry Date: 2026-01-19T06:19:08Z
+   Registrar: Domain.com, LLC
+   Registrar IANA ID: 886
+   Registrar Abuse Contact Email: compliance@domain-inc.net
+   Registrar Abuse Contact Phone: 602-226-2389
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Name Server: NS1.DOMAINCOM-EXPIRED.DOMAINPARKINGSERVER.NET
+   Name Server: NS2.DOMAINCOM-EXPIRED.DOMAINPARKINGSERVER.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:46:22Z 

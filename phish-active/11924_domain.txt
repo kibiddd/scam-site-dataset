@@ -1,0 +1,26 @@
+Domain Name: free.nf
+Registry Domain ID: 1985281-CoCCA
+Registrar URL: http://www.key-systems.net
+Updated Date: 2024-10-28T08:52:12Z
+Creation Date: 2023-06-14T22:12:47Z
+Registry Expiry Date: 2025-06-14T22:12:47Z
+Registrar Registration Expiration Date: 2025-06-14T22:12:47Z
+Registrar: Key-Systems GmbH
+Registrar IANA ID: 269
+Registrar Street Address: Kaiserstraße 172-174
+66386 St. Ingbert
+Registrar Email: registry@key-systems.net
+Domain Status: active https://icann.org/epp#active
+Registry Registrant ID: 2038700-CoCCA
+Registry Admin ID: 2038701-CoCCA
+Registry Tech ID: 2038702-CoCCA
+Tech Street: Kwikstaartlaan 42 Unit G1517
+Tech City: Zeist
+Tech State/Province: 
+Tech Postal Code: 3704 GS
+Tech Country: 
+Name Server: ns1.infinityfree.com
+Name Server: ns2.infinityfree.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T14:53:46.565Z 

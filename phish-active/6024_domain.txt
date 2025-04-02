@@ -1,0 +1,43 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T20:11:43-03:00 - 2a09:bac5:c82c:1791::259:e7
+
+domain:      consultoriaclassea.com.br
+owner:       Susana Silva de Oliveira
+ownerid:     ***.449.488-**
+country:     BR
+owner-c:     SUSOL45
+tech-c:      WICFI18
+nserver:     ns5.wipsites.com.br
+nsstat:      20250322 AA
+nslastaa:    20250322
+nserver:     ns6.wipsites.com.br
+nsstat:      20250322 AA
+nslastaa:    20250322
+saci:        yes
+created:     20180328 #18195236
+changed:     20240412
+expires:     20250328
+status:      published
+
+nic-hdl-br:  SUSOL45
+person:      Susana Silva de Oliveira
+e-mail:      agenciamixideias@gmail.com
+country:     BR
+created:     20180328
+changed:     20200417
+
+nic-hdl-br:  WICFI18
+person:      wilson chavioli filho
+e-mail:      financeiro@wipsites.com.br
+country:     BR
+created:     20120622
+changed:     20240112
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

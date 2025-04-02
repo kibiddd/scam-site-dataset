@@ -1,0 +1,17 @@
+   Domain Name: MYBUTCHERSHOPPE.COM
+   Registry Domain ID: 12330717_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2024-11-06T05:01:49Z
+   Creation Date: 1999-11-05T19:33:54Z
+   Registry Expiry Date: 2034-11-05T18:33:54Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS27.WORLDNIC.COM
+   Name Server: NS28.WORLDNIC.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T22:43:41Z 

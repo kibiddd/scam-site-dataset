@@ -1,0 +1,29 @@
+DOMAIN NAME:                    ediscover.pl
+registrant type:                individual
+nameservers:                    ns1.aftermarket.pl. [185.253.213.10]
+                                ns2.aftermarket.pl. [185.253.214.10]
+created:                        2024.10.14 23:00:15
+last modified:                  2024.10.14 23:03:02
+renewal date:                   2025.10.14 23:00:15
+
+option:                         no
+
+dnssec:                         Signed
+DS:                             9191 13 4 16B8EA47E935C3DABB0DEFE66BD5BDAF79191D93F73EF4E01B4684CA4BB701480542B9E431C8A04589B173DB911E832E
+DS:                             9191 13 1 66A871FA20BA8FC61031B0A0BAE81E4A0A1F6931
+DS:                             9191 13 2 FA2C79059C48E454026807729FA22D92B4C2B1EC882448BD266AB200BC36A0B9
+
+REGISTRAR:
+Aftermarket.pl Limited
+Chytron, 3, Office 301, P.C.
+1075 Nicosia
+Cypr/Cyprus
+Tel: +357.22761649
+Fax: +357.22767543
+http://www.AfterMarket.pl/contact.php
+domains@dropped.pl
+
+WHOIS database responses:       https://dns.pl/en/whois
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system
+

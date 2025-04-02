@@ -1,0 +1,17 @@
+   Domain Name: TX5588.NET
+   Registry Domain ID: 1933520038_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.internet.bs
+   Registrar URL: http://www.internet.bs
+   Updated Date: 2024-12-17T10:40:33Z
+   Creation Date: 2015-05-29T07:24:59Z
+   Registry Expiry Date: 2025-05-29T07:24:59Z
+   Registrar: Internet Domain Service BS Corp
+   Registrar IANA ID: 2487
+   Registrar Abuse Contact Email: abuse@internet.bs
+   Registrar Abuse Contact Phone: +1.5163015301
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: LUNLUN.NS.GIANTPANDA.COM
+   Name Server: YANGYANG.NS.GIANTPANDA.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:49:23Z 

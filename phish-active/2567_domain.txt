@@ -1,0 +1,39 @@
+
+    Domain name:
+        arken.co.uk
+
+    Data validation:
+        Nominet was able to match the registrant's name and address against a 3rd party data source on 02-Jul-2023
+
+    Registrar:
+        Fasthosts Internet Ltd [Tag = LIVEDOMAINS]
+        URL: https://www.fasthosts.co.uk
+
+    Relevant dates:
+        Registered on: 12-Jul-2000
+        Expiry date:  12-Jul-2025
+        Last updated:  12-Jun-2024
+
+    Registration status:
+        Registered until expiry date.
+
+    Name servers:
+        ns1.livedns.co.uk         217.160.81.244  2001:8d8:fe:53:fa::1
+        ns2.livedns.co.uk         217.160.82.244  2001:8d8:fe:53:fa::2
+        ns3.livedns.co.uk         185.132.35.244  2607:f1c0:fe:53:185:132:35:244
+
+    WHOIS lookup made at 20:18:27 26-Mar-2025
+
+-- 
+This WHOIS information is provided for free by Nominet UK the central registry
+for .uk domain names. This information and the .uk WHOIS are:
+
+    Copyright Nominet UK 1996 - 2025.
+
+You may not access the .uk WHOIS or use any data from it except as permitted
+by the terms of use available in full at https://www.nominet.uk/whoisterms,
+which includes restrictions on: (A) use of the data for advertising, or its
+repackaging, recompilation, redistribution or reuse (B) obscuring, removing
+or hiding any or all of this notice and (C) exceeding query rate or volume
+limits. The data is provided on an 'as-is' basis and may lag behind the
+register. Access may be withdrawn or restricted at any time. 

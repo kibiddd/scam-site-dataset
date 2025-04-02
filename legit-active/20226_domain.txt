@@ -1,0 +1,70 @@
+Domain Name: metro.ca
+Registry Domain ID: D89552-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: https://www.domaineplus.com
+Updated Date: 2021-04-30T14:26:25Z
+Creation Date: 2000-10-24T20:07:01Z
+Registry Expiry Date: 2026-05-15T04:00:00Z
+Registrar: DomainePlus.com (3612040 CANADA inc.)
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: support@domaineplus.com
+Registrar Abuse Contact Phone: +1.5149902047
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: R58905-CIRA
+Registrant Name: Metro Inc.
+Registrant Organization:
+Registrant Street: 7151,  Jean-Talon
+Registrant City: Anjou
+Registrant State/Province: QC
+Registrant Postal Code: H1M3N8
+Registrant Country: CA
+Registrant Phone: +1.5143565820
+Registrant Phone Ext:
+Registrant Fax: +1.5143565828
+Registrant Fax Ext:
+Registrant Email: dnsadmin@metro.ca
+Registry Admin ID: 16252295-CIRA
+Admin Name: Isabelle Papillon
+Admin Organization:
+Admin Street: 7151, Jean-Talon
+Admin City: Anjou
+Admin State/Province: QC
+Admin Postal Code: H1M3N8
+Admin Country: CA
+Admin Phone: +1.5143565820
+Admin Phone Ext:
+Admin Fax: +1.5143565828
+Admin Fax Ext:
+Admin Email: dnsadmin@metro.ca
+Registry Tech ID: 16252463-CIRA
+Tech Name: Claude Cadieux
+Tech Organization:
+Tech Street: 1600, St-Martin
+Tech City: Laval
+Tech State/Province: QC
+Tech Postal Code: H7G4S7
+Tech Country: CA
+Tech Phone: +1.4506623321
+Tech Phone Ext:
+Tech Fax: +1.4506623381
+Tech Fax Ext:
+Tech Email: dnstech@metro.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: lady.ns.cloudflare.com
+Name Server: lou.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T21:54:31Z 

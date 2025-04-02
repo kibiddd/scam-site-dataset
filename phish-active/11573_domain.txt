@@ -1,0 +1,17 @@
+   Domain Name: ICPSINDIA.COM
+   Registry Domain ID: 949672180_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: Whois.bigrock.com
+   Registrar URL: http://www.bigrock.com
+   Updated Date: 2024-04-29T06:02:25Z
+   Creation Date: 2007-04-29T21:17:53Z
+   Registry Expiry Date: 2025-04-29T21:17:53Z
+   Registrar: BigRock Solutions Ltd
+   Registrar IANA ID: 1495
+   Registrar Abuse Contact Email: abuse@bigrock.com
+   Registrar Abuse Contact Phone: +1.832-295-1535
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.BH-23.WEBHOSTBOX.NET
+   Name Server: NS2.BH-23.WEBHOSTBOX.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:52:04Z 

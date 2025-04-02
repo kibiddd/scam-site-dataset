@@ -1,0 +1,19 @@
+
+ID ccTLD whois server
+Please see 'whois -h whois.id help' for usage.
+
+Domain ID: PANDI-DO48696
+Domain Name: ac.id
+Created On: 2011-11-25 13:23:39
+Last Updated On: 2014-04-24 07:29:36 
+
+Status: clientTransferProhibited
+Status: serverTransferProhibited
+Status: clientUpdateProhibited
+Status: clientDeleteProhibited
+Status: RESERVED
+
+DNSSEC: Unsigned
+
+Abuse Domain Report https://pandi.id/domain-abuse-form/?lang=en
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en

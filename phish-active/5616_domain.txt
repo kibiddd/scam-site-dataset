@@ -1,0 +1,18 @@
+   Domain Name: MAGIQUIZ.COM
+   Registry Domain ID: 1939064038_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.squarespace.domains
+   Registrar URL: http://domains2.squarespace.com
+   Updated Date: 2024-06-15T09:14:25Z
+   Creation Date: 2015-06-15T20:10:25Z
+   Registry Expiry Date: 2025-06-15T20:10:25Z
+   Registrar: Squarespace Domains II LLC
+   Registrar IANA ID: 895
+   Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+   Registrar Abuse Contact Phone: +1.6466935324
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: TODD.NS.CLOUDFLARE.COM
+   Name Server: VERA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:07:51Z 

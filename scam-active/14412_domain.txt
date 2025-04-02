@@ -1,0 +1,17 @@
+   Domain Name: SBI999.COM
+   Registry Domain ID: 2959976380_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2025-02-20T07:34:32Z
+   Creation Date: 2025-02-17T06:58:22Z
+   Registry Expiry Date: 2026-02-17T06:58:22Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ARVIND.NS.CLOUDFLARE.COM
+   Name Server: NATALY.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:48:52Z 

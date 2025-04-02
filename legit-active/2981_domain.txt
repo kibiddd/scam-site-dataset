@@ -1,0 +1,17 @@
+   Domain Name: RIXRECORDS.COM
+   Registry Domain ID: 30128626_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.123-reg.co.uk
+   Registrar URL: http://www.meshdigital.com
+   Updated Date: 2024-04-04T14:55:24Z
+   Creation Date: 2000-06-28T14:02:45Z
+   Registry Expiry Date: 2029-06-28T14:02:45Z
+   Registrar: 123-Reg Limited
+   Registrar IANA ID: 1515
+   Registrar Abuse Contact Email: abuse@123-reg.co.uk
+   Registrar Abuse Contact Phone: +44.3454502310
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS31.DOMAINCONTROL.COM
+   Name Server: NS32.DOMAINCONTROL.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T01:55:16Z 

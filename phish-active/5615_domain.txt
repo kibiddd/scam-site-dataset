@@ -1,0 +1,17 @@
+   Domain Name: EXTREMETECH.COM
+   Registry Domain ID: 26561067_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.corporatedomains.com
+   Registrar URL: http://cscdbs.com
+   Updated Date: 2022-08-17T11:46:53Z
+   Creation Date: 2000-05-08T06:03:18Z
+   Registry Expiry Date: 2028-07-26T21:21:42Z
+   Registrar: CSC Corporate Domains, Inc.
+   Registrar IANA ID: 299
+   Registrar Abuse Contact Email: domainabuse@cscglobal.com
+   Registrar Abuse Contact Phone: 8887802723
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ARIA.NS.CLOUDFLARE.COM
+   Name Server: OWEN.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:07:51Z 

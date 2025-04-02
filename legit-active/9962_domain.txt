@@ -1,0 +1,58 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: SLC.EDU
+
+Registrant:
+	Sarah Lawrence College
+	1 Mead Way
+	Westlands/Information Technology
+	Bronxville, NY 10708
+	USA
+
+Administrative Contact:
+	Sean Jameson
+	Sarah Lawrence College
+	1 Mead Way
+	Westlands/Information Technology
+	Bronxville, NY 10708
+	USA
+	+1.9143952494
+	sjameson@sarahlawrence.edu
+
+Technical Contact:
+	Khanh Tran
+	Sarah Lawrence College
+	1 Mead Way
+	Westlands/Information Technology
+	Bronxville, NY 10708
+	USA
+	+1.9143952639
+	khanh@slc.edu
+
+Name Servers:
+	NS3.SLC.EDU
+	NS2.SLC.EDU
+
+Domain record activated:    15-Feb-1994
+Domain record last updated: 02-Sep-2022
+Domain expires:             31-Jul-2025

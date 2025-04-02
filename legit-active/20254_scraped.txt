@@ -1,0 +1,252 @@
+Mathematics -- J.S. Milne
+Mathematics Site - J.S. Milne (since 1996)
+NZ wilderness
+Addenda/Errata
+Articles
+1960s
+70s
+80s
+90s
+00s
+10s
+20s
+With abstracts
+1960s
+70s
+80s
+90s
+00s
+10s
+20s
+Books
+Algebraic Groups •
+Arithmetic Duality Theorems •
+Automorphic Forms,... •
+Elliptic Curves •
+Etale Cohomology •
+Hodge Cycles, Motives,...
+Course Notes
+Group Theory
+•  Fields and Galois Theory
+•  Algebraic Geometry
+•  Algebraic Number Theory
+•  Modular Functions and Modular Forms
+•  Elliptic Curves
+•  Abelian Varieties
+•  Lectures on Etale Cohomology
+•  Class Field Theory
+•  Complex Multiplication
+Algebraic Groups; Lie Algebras; Lie Groups; Reductive Groups
+Expository Notes
+Commutative Algebra •
+History •
+Motives •
+Shimura Varieties •
+Tannakian Categories
+Documents
+Documents by other mathematicians.
+Odds and Ends
+Apocrypha.
+Curriculum Vitae
+Personal stuff: photo, etc.
+zbM/MR/Google pages
+FAQ
+Tips for authors.
+Mathlish
+Site stats
+Home
+The danger to society is not merely that it should believe wrong things, though that is great enough; but that it should become credulous, and lose the habit of testing things and inquiring into them; for then it must sink back into savagery.
+William Kingdon Clifford (of Clifford algebras).
+What's New in Articles
+May 9, 2023. Classification of Mumford-Tate groups... v2
+Dec.23, 2022. Algebraic groups as automorphism...v3
+Dec.23, 2021. Tate and standard conjectures...
+Nov.12, 2020. Grothendieck's standard conjecture...
+What's New in Books
+Feb 2025. Tannakian Categories Penultimate version.
+Jan 2023. Elliptic Curves (2nd) available in paperback
+WSP
+October 2022. Fields and Galois Theory
+available.
+April 2022. Algebraic Groups,
+corrected reprint + paperback.
+August 2020. Elliptic Curves, Second Edition. WSP
+September 2017. Algebraic Groups. CUP.
+April 2017. Etale Cohomology, paperback
+PUP.
+What's New in Course Notes
+Nov. 11, 2024. Revised Algebraic Geometry AG
+June 23, 2021. Made source files available for GT and FT
+March 10, 2018. New version of Reductive Groups RG
+August 24, 2014. New version of Algebraic Geometry AG
+What's New in Expository Notes
+September 16, 2017. New version of Introduction to Shimura varieties
+September 5, 2016. Review of the Collected Works of John Tate
+July 2, 2015.  The Riemann hypothesis over finite fields:
+from Weil to the present day.
+What's New in Documents
+April 2024. Some old notes of Mike Artin.
+October 2021. Translations of four classic articles of Deligne.
+January 2021. Translation of Langlands's essay Funktorialität...
+I knew then, sometimes, the fullness of contemplation, when all heard
+sounds contribute to a single vast harmony. But more often, what had been brought
+into the light immediately became the motivation and means for a new plunge into the
+mists, in pursuit of a new incarnation of That which remained forever mysterious,
+unknown --- calling me constantly.
+Grothendieck (on his research in mathematics).
+The ability to feel the beauty of mathematics is probably the most
+important ability to be a good mathematician.  Sense of beauty is of
+course defined very differently between mathematicians.
+It is important that each mathematician have their own way to feel
+the beauty of mathematics. Otherwise we cannot be original.
+Kenji Fukaya.
+The channels of our perception have been smoothed
+out to the point where we are no longer aware. ...
+there are some artists who do make us feel
+the true measure of things. It is a burden which they carry
+throughout their lives, and we must be thankful to them.
+Manin, as quoted in Tarkovsky's diaries, 1970.
+Across the page the symbols moved in grave morrice,
+in the mummery of their letters, wearing quaint
+caps of squares and cubes.
+James Joyce's Ulysses
+... she took up her interrupted mathematical investigations, actually more as a way of passing the time than with an expectation of success. But to her not inconsiderable surprise, in the few hours of a single morning she brought to completion, except for some insignificant details, the work she had left  lying untouched for several months. This unexpected solution came about with the help of one of those ideas that lie outside the norm and of which one might say, not that they show up when one no longer expects them but rather that their startling effulgence reminds one of the sudden radiance of the beloved who has been there all along among the others before the perplexed suitor ceases to understand how she could have thought any others his equal. Such inspirations involve more than the intellect ---  there is always some prerequisite of passion at work.
+Robert Musil, The Man without Qualities
+I had been to school most all the time ... and could say the multiplication table up to six times seven is thirty-five,
+and I don't reckon I could ever get any further than that if I was to live forever.
+I don't take no stock in mathematics, anyway.
+Huckleberry Finn.
+Near the end of the lecture, the speaker said that he would conclude the proof with some hand-waving. Cartan obviously did not approve. He turned to me and said: "Now I understand why Indian Gods have so many hands; they want to give proofs in n-dimensions."
+Narasimhan (NAMS 2010, Sept, p.955).
+I need more hands. Michael Freedman lecturing on the proof of the
+four-dimensional Poincaré conjecture (2020).
+A mathematician is so rare an animal
+that he deserves to be preserved,
+be it only on the score of curiosity.
+Simone Weil (as quoted on p.396 of the Pétrement biography).
+Mathematical laws may be discovered by man, but they are not created by man, nor even by God. That two
+plus two equals four is not a decree of God that He is free to change into two plus two equals three, or five. I perceive the
+mathematical laws as being part of the very nature of God--a tiny part, certainly, the most superficial in some
+sense, and the only part accessible to reason alone.
+Grothendieck, La Clef des Songes (via Juan Antonio Navarro Gonzalez)
+But then I felt possessed by an aura of inspiration that allowed me
+to improvise credible answers and miraculous lucky guesses. Except in mathematics, which not even God could make me understand.
+Gabriel García Márquez, Living to Tell the Tale, p204.
+My excuse for not having written the book is that there have been a
+great many other people, better equipped in many ways than I, who have
+not written it either.
+T.S. Eliot
+Unfortunately [mathematics is] only beautiful to the initiated, to
+the people who do it. It can't really be understood or appreciated much on a
+popular level the way music can. You don't have to be a composer to
+enjoy music, but in mathematics you do.
+John Tate.
+[I] entertained the greatest disdain for a would-be
+science, which could never even step within the threshold
+of real knowledge. In this mood of mind I betook myself
+to mathematics ....
+Victor Frankenstein.
+Physics is very interesting. There are many, many interesting theorems. Unfortunately,
+there are no definitions.
+David Kazhdan.
+John Baez suggests that this explains the synergy between category theory and physics:
+category theory has many many interesting definitions, but no theorems.
+An absence of proof is a challenge; an absence of definition is deadly.
+Deligne on his attempt to understand how physicists could make
+correct predictions in classical algebraic geometry.
+Early on I noticed that mathematicians live in a world inaccessible to common mortals
+... They are a special breed possessed by an intense cerebral life;
+simultaneously living on two distinct levels of consciousness,
+they are at once present and able to carry on normally
+and yet are immersed in the abstractions that form the core of their lives.
+Françoise Ulam (Stanislaw Ulam's wife).
+I came into the room, which was half dark, and presently spotted Lord Kelvin in the
+audience and realised that I was in for trouble at the last part of my speech dealing with
+the age of the earth, where my views conflicted with his. To my relief, Kelvin fell fast
+asleep, but as I came to the important point, I saw the old bird sit up, open an eye and
+cock a baleful glance at me! Then a sudden inspiration came, and I said Lord Kelvin had
+limited the age of the earth, provided no new source (of energy) was discovered. That
+prophetic utterance refers to what we are now considering tonight, radium! Behold! the old
+boy beamed upon me.
+Ernest Rutherford
+Every mathematician worthy of the name has experienced, if only rarely,
+the state of lucid exaltation in which one thought
+succeeds another as if miraculously, and
+in which the unconscious (however one interprets that word) seems
+to play a role.
+André Weil
+... it is impossible to explain honestly the beauties of the laws of
+nature in a way that people can feel, without their having some deep
+understanding of mathematics. I am sorry, but this seems to be the
+case.
+Richard Feynman
+er...
+I still say to myself when I am depressed, and find myself forced to
+listen to pompous and tiresome people, "Well, I have done one thing
+you could never have have done, and that is to have collaborated with
+both Littlewood and Ramanujan on something like equal terms."
+Hardy, Apology, Sect. 29.
+The problem with the global village is all the
+global-village idiots.
+Attributed to Sidney Coleman in arXiv:1108.2700.
+Arithmetic has a well-known liberal bias. [or
+worse]
+Paul Krugman, blog April 8 2011.
+Now, people ask me all the time how we got four surplus budgets in a
+row. What new ideas did we bring to Washington? I always give a
+one-word answer: Arithmetic. (Sustained cheers, applause.)
+Bill Clinton (Sept. 6, 2012,
+Democratic Convention).
+Do not work within two hours of a substantial meal; blood cannot be in
+two places at once.
+J.E. Littlewood, in Littlewood's miscellany, p199.
+Certainly the best times were when I was alone with mathematics, free of ambition and pretense, and indifferent to the world.
+Langlands, in Mathematicians: An Outer View of the Inner World, p142.
+Mathematics has been for me, not only a profession, but also my
+preferred hobby. ... Again and again I have been guided by a sense of
+the architecture of this edifice, to which we continue to add new
+wings and new floors while renovating the parts already constructed,
+into feeling that certain problems had priority as opening new
+perspectives or establishing a new foundation for future
+constructions. This is the professional point of view, but happily
+these problems were those that attracted me the most. In other
+instances I was not guided by such motives, being attracted only by
+curiosity, by the need to know the answer to an enigma, without
+reference to its importance in a general context. Borel, Œuvres
+IV, p376.
+Even God wouldn't get a grant today because somebody on the committee
+would say, oh those were very interesting experiments (creating the universe),
+but they've never been repeated. And then someone else would say, yes and he
+did it a long time ago; what's he done recently?  And a third would say,
+to top it all, he published it all in an un-refereed journal (The Bible).
+Sydney Brenner.
+It is while doing mathematical research that one truly comes to see the beauty of mathematics. It faces you in those moments when the underlying simplicity of a question appears and its meaningless complications can be forgotten. In those moments a piece of a colossal logical structure is illuminated, and some of the meaning hidden in the nature of things is finally revealed.
+Ruelle, The Mathematician's Brain, p130.
+A lifetime of mathematical activity is a reward in itself.
+John Tate, on receiving the
+Steele Prize for Lifetime Achievement.
+The laws of mathematics are very commendable, but the only law that applies in Australia is the law of Australia.
+Malcolm Turnbull, Prime Minister of Australia
+NZ wilderness.
+Email
+ORCID:
+0000-0002-6659-4492
+MR Id: 125025
+$=\neq =$
+29.09.19 Changed to https since I keep getting messages telling me to
+change to https.
+When citing works of mine, please cite the published versions.
+I am more likely to respond to email that comes with a real name
+and a real email address. Email with advertising, e.g., "Sent from my blah-blah"
+is automatically deleted.
+This site is free of advertisements, adblock-blockers, pop-ups,
+special offers, surveys, tracking cookies, web bugs,  videos,
+and everything that blinks. It is certified
+mobile-unfriendly.
+For the text of a work, when available, click on the year (or the blue link).
+Only significant revisions are listed on this page.
+Dates are dd.mm.yy or mmmm dd, yyyy.
+If this site has been useful in something you write, please acknowledge it, and include a reference to the top level of the site: www.jmilne.org/math/
+Please don't post items from this site on your own website---rather, include a
+link to the top level of this site. That way, only the most current version will
+be available (and you won't violate any copyrights).

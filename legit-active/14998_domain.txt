@@ -1,0 +1,21 @@
+   Domain Name: WWL.COM
+   Registry Domain ID: 933522_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2023-04-25T22:01:51Z
+   Creation Date: 1997-06-27T04:00:00Z
+   Registry Expiry Date: 2025-06-26T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1074.AWSDNS-06.ORG
+   Name Server: NS-1796.AWSDNS-32.CO.UK
+   Name Server: NS-394.AWSDNS-49.COM
+   Name Server: NS-881.AWSDNS-46.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T17:01:08Z 

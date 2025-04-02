@@ -1,0 +1,10 @@
+% Whois server 4.0 serving the hu ccTLD
+
+
+domain:         equflow.hu
+record created: 2009-04-15
+Tovabbi adatokert ld.:
+https://www.domain.hu/domain-kereses/
+For further data see:
+https://www.domain.hu/domain-search/
+

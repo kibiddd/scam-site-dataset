@@ -1,0 +1,17 @@
+   Domain Name: SGRHO-ALS.COM
+   Registry Domain ID: 174972872_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.yoursrs.com
+   Registrar URL: http://www.realtimeregister.com
+   Updated Date: 2024-07-24T15:59:18Z
+   Creation Date: 2005-06-24T23:42:34Z
+   Registry Expiry Date: 2026-06-24T23:42:34Z
+   Registrar: Realtime Register B.V.
+   Registrar IANA ID: 839
+   Registrar Abuse Contact Email: rtr-security-threats@realtimeregister.com
+   Registrar Abuse Contact Phone: +31.384530759
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.REGISTER.IT
+   Name Server: NS2.REGISTER.IT
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:24:24Z 

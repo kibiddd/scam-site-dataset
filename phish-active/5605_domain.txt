@@ -1,0 +1,93 @@
+% Request from 2a09:bac5:c82e:1791::259:8d
+% This is the Ukrainian Whois query server #A.
+% The Whois is subject to Terms of use
+% See https://hostmaster.ua/services/
+%
+% IN THE PROCESS OF DELEGATION OF A DOMAIN NAME,
+% THE REGISTRANT IS AN ENTITY WHO USES AND MANAGES A CERTAIN DOMAIN NAME,
+% AND THE REGISTRAR IS A BUSINESS ENTITY THAT PROVIDES THE REGISTRANT
+% WITH THE SERVICES NECESSARY FOR THE TECHNICAL MAINTENANCE OF THE REGISTRATION AND OPERATION OF THE DOMAIN NAME.
+% FOR INFORMATION ABOUT THE REGISTRANT OF THE DOMAIN NAME, YOU SHOULD CONTACT THE REGISTRAR.
+
+domain:           cleanline.com.ua
+dom-public:       NO
+mnt-by:           ua.regery
+nserver:          ns15.truehostdns.com
+nserver:          ns16.truehostdns.com
+status:           clientTransferProhibited
+created:          2019-02-05 14:56:59+02
+modified:         2025-02-03 11:57:19+02
+expires:          2026-02-05 14:56:59+02
+source:           UAEPP
+
+% Registrar:
+% ==========
+registrar:        ua.regery
+organization:     REGERY UKRAINE LLC
+organization-loc: ТОВ "РЕДЖЕРІ УКРАЇНА"
+url:              https://regery.ua
+city:             Kharkiv
+country:          UA
+abuse-email:      abuse@regery.com
+abuse-phone:      +380.985954590
+abuse-postal:     Ukraine, 03151, Kyiv, Ushynskogo str.,  40
+abuse-postal-loc: Україна 03151 м. Київ, вул. Ушинського,, 40
+source:           UAEPP
+
+% Registrant:
+% ===========
+person:           n/a
+person-loc:       денис киричко
+e-mail:           denyskyrychko@gmail.com
+address:          n/a
+address-loc:      Залізнична 23/67
+address-loc:      Львов
+postal-code-loc:  79000
+country-loc:      UA
+phone:            +380.671692681
+mnt-by:           ua.regery
+status:           ok
+status:           linked
+created:          2018-07-23 16:36:03+03
+source:           UAEPP
+
+
+% Administrative Contacts:
+% =======================
+person:           n/a
+person-loc:       денис киричко
+e-mail:           denyskyrychko@gmail.com
+address:          n/a
+address-loc:      Залізнична 23/67
+address-loc:      Львов
+postal-code-loc:  79000
+country-loc:      UA
+phone:            +380.671692681
+mnt-by:           ua.regery
+status:           ok
+status:           linked
+created:          2018-07-23 16:36:03+03
+source:           UAEPP
+
+
+% Technical Contacts:
+% ===================
+person:           n/a
+person-loc:       денис киричко
+e-mail:           denyskyrychko@gmail.com
+address:          n/a
+address-loc:      Залізнична 23/67
+address-loc:      Львов
+postal-code-loc:  79000
+country-loc:      UA
+phone:            +380.671692681
+mnt-by:           ua.regery
+status:           ok
+status:           linked
+created:          2018-07-23 16:36:03+03
+source:           UAEPP
+
+
+
+% Query time:     3 msec
+

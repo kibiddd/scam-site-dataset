@@ -1,0 +1,26 @@
+Domain Name: USPSINNOVATION.TECH
+Registry Domain ID: D262242217-CNIC
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: https://namecheap.com
+Updated Date: 2024-11-19T00:23:09.0Z
+Creation Date: 2021-12-03T13:44:10.0Z
+Registry Expiry Date: 2025-12-03T23:59:59.0Z
+Registrar: Namecheap
+Registrar IANA ID: 1068
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant State/Province: Capital Region
+Registrant Country: IS
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS1-06.AZURE-DNS.COM
+Name Server: NS2-06.AZURE-DNS.NET
+Name Server: NS3-06.AZURE-DNS.ORG
+Name Server: NS4-06.AZURE-DNS.INFO
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T00:24:31.0Z 

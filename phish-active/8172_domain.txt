@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        esya.fr
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      E103220-FRNIC
+admin-c:                       ANO00-FRNIC
+tech-c:                        FR28824-FRNIC
+registrar:                     AMEN / Agence des Médias Numériques
+Expiry Date:                   2025-06-17T12:44:54Z
+created:                       2009-10-14T16:52:56Z
+last-update:                   2024-07-31T22:01:11.103093Z
+source:                        FRNIC
+
+nserver:                       ns1.amenworld.com
+nserver:                       ns2.amenworld.com
+source:                        FRNIC
+
+registrar:                     AMEN / Agence des Médias Numériques
+address:                       12-14, Rond-Point des Champs Elysées
+address:                       75008 PARIS
+country:                       FR
+phone:                         +08.11887766
+fax-no:                        +33.170702110
+e-mail:                        afnic@amen.fr
+website:                       https://www.amen.fr/nom-de-domaine/
+anonymous:                     No
+registered:                    1999-01-11T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       ANO00-FRNIC
+type:                          PERSON
+contact:                       Ano Nymous
+registrar:                     AMEN / Agence des Médias Numériques
+anonymous:                     YES
+remarks:                       -------------- WARNING --------------
+remarks:                       While the registrar knows him/her,
+remarks:                       this person chose to restrict access
+remarks:                       to his/her personal data. So PLEASE,
+remarks:                       don't send emails to Ano Nymous. This
+remarks:                       address is bogus and there is no hope
+remarks:                       of a reply.
+remarks:                       -------------- WARNING --------------
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       FR28824-FRNIC
+type:                          PERSON
+contact:                       FERID RIAHI
+address:                       FERID RIAHI
+address:                       ASSURANCES COURTAGE NICOLAS 5 RUE LEGRAVEREND
+address:                       75012 PARIS
+country:                       FR
+phone:                         +336.50052303
+e-mail:                        ferid.riahi@gmail.com
+registrar:                     AMEN / Agence des Médias Numériques
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       E103220-FRNIC
+type:                          ORGANIZATION
+contact:                       ESYA
+address:                       62, avenue Rene Gasnier
+address:                       49100 Angers
+country:                       FR
+phone:                         +33.664704972
+e-mail:                        contact@esya.fr
+registrar:                     AMEN / Agence des Médias Numériques
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-03-27T11:16:16.518763Z 

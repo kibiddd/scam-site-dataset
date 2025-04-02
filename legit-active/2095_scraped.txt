@@ -1,0 +1,228 @@
+William E. Evans, PharmD - St. Jude Children’s Research Hospital
+Skip to main content
+St. Jude Children's Research Hospital - Homepage
+Search
+Contact Us
+Español
+Patient Referrals
+Donate Now
+Menu
+Close
+Patient Referrals
+Donate Now
+About Us
+Care & Treatment
+Research
+Training
+Get Involved
+Ways to Give
+Contact Us
+Español
+William E. Evans, PharmD
+Emeritus, St. Jude Faculty
+Departments
+Department of Pharmacy and Pharmaceutical Sciences
+Education
+PharmD – University of Tennessee, Memphis
+Honors & Awards
+2021 Tennessee Healthcare Hall of Fame
+2017 Paul F. Parker Medal, American College of Clinical Pharmacy
+2016 Elected, German National Academy of Sciences (Leopoldina)
+2014 Claus Nobel World Betterment Award, NSHSS
+2014 Doctor of Humanities (honoris causa), Rhodes College
+2013 Oscar B Hunter Memorial Award, ASCPT
+2012 Remington Medal, American Pharmaceutical Association
+2009 ASCO Pediatric Oncology Award (shared with MV Relling)
+2009 AACR Team Science Award (shared with St. Jude faculty)
+2006 Rawls Palmer Progress in Medicine Award, ASCPT
+2005 NIH MERIT Award from NCI (2005-2015)
+2002 Elected, Institute of Medicine of the National Academy of Sciences (now National Academy of Medicine)
+1995 NIH MERIT Award from NCI (1995-2005)
+1994 Volwiler Research Achievement Award, American Assoc. of Colleges of Pharmacy
+1991 Leon Goldberg Award, Am. Society for Clinical Pharmacology & Therapeutics (ASCPT)
+1989 Therapeutic Frontiers Lecture Award, American College of Clinical Pharmacy
+1987 NIH MERIT Award from NCI (1987-1995)
+Research Interests
+Research in the Evans lab is focused on the pharmacogenomics of anticancer agents, with an emphasis on childhood acute lymphoblastic leukemia (ALL) (reviewed in Evans and Relling, Nature 2004; Pui and Evans, NEJM 2006; Relling and Evans, Nature 2015). Several approaches are currently being used to identify genes and genome variations that are important determinants of the disposition and effects of antileukemic agents, including the use of genome wide approaches such as gene expression profiling (mRNA, microRNA) of leukemia cells, genome-wide SNP analyses (germline and somatic) and whole exome/genome sequencing of patient cohorts that have been uniformly treated and evaluated on prospective clinical trials at St. Jude Children's Research Hospital (reviewed in Evans and Relling, Nature 2004), or by our collaborators in the COG and in Europe (eg, Princess Maxima Center, Utrecht). Ongoing studies are investigating genes that the lab has linked with resistance to antileukemic agents (Holleman et al, NEJM 2004; Lugthart et al, Cancer Cell 2005), and genes linked to the disposition (Kager et al, JCI 2005; Zaza, Blood 2005) or pharmacologic targets (Diouf et al, JAMA 2015; Paugh et al, Nat Genet 2015) of antileukemic agents as well as the influence of somatic and karyotypic abnormalities on genotype-phenotype concordance (Cheng, Nature Genetics 2005; Diouf et al, Nature Med 2011). Work in the lab is funded by a long-standing R01 from NCI (CA36401, W. Evans, PI), a project in the Center for Precision Medicine P50 Grant from NIGMS as part of the NIH-funded Pharmacogenetics Research Network (GM115279, M. Relling PI), by a Cancer Center Support grant from NCI (CA21765 S. Baker, PI), and by ALSAC, the fundraising organization for St. Jude Children's Research Hospital. The lab comprises a number of post-doctoral fellows, staff scientists, research technologists, bioinformaticists, computational scientists and students, working with collaborators at St. Jude (including Mary Relling, Ching-Hon Pui, Charles Mullighan, Hiroto Inaba, Kirsten Ness and Jun Yang as major collaborators, plus additional physicians, clinical pharmacists, research nurses and other staff at St. Jude), and with collaborators at other institutions in the US (e.g., University of Chicago, MD Anderson, ECOG, Alliance, COG) and Europe (e.g., Princess Maxima Center).
+The lab's overall goals are to elucidate genomic determinants of toxicity and efficacy of anticancer agents and translate this knowledge into new diagnostics and treatment strategies to optimize the therapy of ALL (Relling and Evans, Nature 2015; Dunnenberger et al, Ann Rev Pharmacol Tox 2015).
+The Evans lab officially closed in 2021, and he is no longer taking students or post-doctoral trainees. The lab and its collaborators continue the analyses and reporting of data that were generated over the last several years, toward advancing its goals of improving the safety and efficacy of medications used to treat children with cancer.
+Contact Information
+William E. Evans, PharmD
+Pharmacy and Pharmaceutical Sciences
+MS 313, Room I5108
+St. Jude Children's Research Hospital
+262 Danny Thomas Place
+Memphis, TN 38105-3678
+Email:
+william.evans@stjude.org
+Phone:
+(901) 595-6850
+St. Jude Faculty List
+News Releases
+Pharmacotyping of childhood leukemia provides a blueprint for ‘true precision medicine’
+01/05/2023
+‘Highly cited’
+St. Jude scientists demonstrate influence in research
+11/15/2022
+St. Jude researchers are again among the world’s most highly cited scientists
+11/16/2021
+Molecular mechanisms reveal how to make the most of methotrexate
+11/09/2020
+All recent releases
+Selected Publications
+For a complete listing, see Evans Lab publications via the National Library of Medicine's PubMed.
+Lee SHR, Yang W, Gocho Y, John A, Rowland L, Smart B, Williams H, Maxwell D, Hunt J, Yang W, Crews KR, Roberts KG, Jeha S, Cheng C, Karol SE, Relling MV, Rosner GL, Inaba H, Mullighan CG, Pui CH, Evans WE, Yang JJ. Pharmacotypes across the genomic landscape of pediatric acute lymphoblastic leukemia and impact on treatment response. Nat Med Jan;29(1):170-179, 2023. PMID: 36604538
+Brady SW, Roberts KG, Gu Z, Shi L, Pounds S, Pei D, Cheng C, Dai Y, Devidas M, Qu C, Hill AN, Payne-Turner D, Ma X, Iacobucci I, Baviskar P, Wei L, Arunachalam S, Hagiwara K, Liu Y, Flasch DA, Liu Y, Parker M, Chen X, Elsayed AH, Pathak O, Li Y, Fan Y, Michael JR, Rusch M, Wilkinson MR, Foy S, Hedges DJ, Newman S, Zhou X, Wang J, Reilly C, Sioson E, Rice SV, Pastor Loyola V, Wu G, Rampersaud E, Reshmi SC, Gastier-Foster J, Guidry Auvil JM, Gesuwan P, Smith MA, Winick N, Carroll AJ, Heerema NA, Harvey RC, Willman CL, Larsen E, Raetz EA, Borowitz MJ, Wood BL, Carroll WL, Zweidler-McKay PA, Rabin KR, Mattano LA, Maloney KW, Winter SS, Burke MJ, Salzer W, Dunsmore KP, Angiolillo AL, Crews KR, Downing JR, Jeha S, Pui CH, Evans WE, Yang JJ, Relling MV, Gerhard DS, Loh ML, Hunger SP, Zhang J, Mullighan CG. The genomic landscape of pediatric acute lymphoblastic leukemia. Nat Genet Sep;54(9):1376-1389, 2022. PMID: 36050548
+Bergeron BP, Diedrich JD, Zhang Y, Barnett KR, Dong Q, Ferguson DC, Autry RJ, Yang W, Hansen BS, Smith C, Crews KR, Fan Y, Pui CH, Pruett-Miller SM, Relling MV, Yang JJ, Li C, Evans WE, Savic D. Epigenomic profiling of glucocorticoid responses identifies cis-regulatory disruptions impacting steroid resistance in childhood acute lymphoblastic leukemia. Leukemia Oct;36(10):2374-2383, 2022. PMID: 36028659
+Pristup J, Schaeffeler E, Arjune S, Hofmann U, Angel Santamaria-Araujo J, Leuthold P, Friedrich N, Nauck M, Mayr S, Haag M, Muerdter T, Marner FJ, Relling MV, Evans WE, Schwarz G, Schwab M. Molybdenum Cofactor Catabolism Unravels the Physiological Role of the Drug Metabolizing Enzyme Thiopurine S-Methyltransferase. Clin Pharmacol Ther Oct;112(4):808-816, 2022. PMID: 35538648
+Yang H, Zhang H, Luan Y, Liu T, Yang W, Roberts KG, Qian MX, Zhang B, Yang W, Perez-Andreu V, Xu J, Iyyanki S, Kuang D, Stasiak LA, Reshmi SC, Gastier-Foster J, Smith C, Pui CH, Evans WE, Hunger SP, Platanias LC, Relling MV, Mullighan CG, Loh ML, Yue F, Yang JJ. Noncoding genetic variation in GATA3 increases acute lymphoblastic leukemia risk through local and global changes in chromatin conformation. Nat Genet Feb;54(2):170-179, 2022. PMID: 35115686
+Lee SHR, Antillon-Klussmann F, Pei D, Yang W, Roberts KG, Li Z, Devidas M, Yang W, Najera C, Lin HP, Tan AM, Ariffin H, Cheng C, Evans WE, Hunger SP, Jeha S, Mullighan CG, Loh ML, Yeoh AEJ, Pui CH, Yang JJ. Association of Genetic Ancestry With the Molecular Subtypes and Prognosis of Childhood Acute Lymphoblastic Leukemia. JAMA Oncol Mar 1;8(3):354-363, 2022. PMID: 35084434
+Karol SE, Pei D, Smith CA, Liu Y, Yang W, Kornegay NM, Panetta JC, Crews KR, Cheng C, Finch ER, Inaba H, Metzger ML, Rubnitz JE, Ribeiro RC, Gruber TA, Yang JJ, Evans WE, Jeha S, Pui C-H, Relling MV. Comprehensive analysis of dose intensity of acute lymphoblastic leukemia chemotherapy. Haematologica Feb 1;107(2):371-380, 2022. PMID: 34196166
+Chelsea G Goodenough CG, Diouf B, Yang W, Sapkota Y, Finch ER, Lu L, Partin RE, Wogksch MD, Hudson MM, Robison LL, Wang Z, Jeha S, Evans WE, Ness KN. Association between CEP72 genotype and persistent neuropathy in survivors of childhood acute lymphoblastic leukemia. Leukemia Jan 4, 2022. PMID: 34980876
+Moriyama T, Yang W, Smith C, Pui C-H, Evans WE, Relling MV, Bhatia S, Yang JJ. Comprehensive characterization of pharmacogenetic variants in TPMT and NUDT15 in children with acute lymphoblastic leukemia. Pharmacogenet Genomics Feb 1;32(2):60-66, 2022. PMID: 34412101
+Jeha S, Choi J, Roberts KG, Pei D, Coustan-Smith E, Inaba H, Rubnitz JE, Ribeiro RC, Gruber TA, Raimondi SC, Karol SE, Qu C, Brady SW, Gu Z, Yang JJ, Cheng C, Downing JR, Evans WE, Relling MV, Campana D, Mullighan CG, Pui C-H. Clinical significance of novel subtypes of acute lymphoblastic leukemia in the context of minimal residual disease-directed therapy. Blood Cancer Discov Jul;2(4):326-337, 2021. PMID: 34250504
+Li Y, Yang W, Devidas M, Winter SS, Kesserwan C, Yang W, Dunsmore KP, Smith C, Qian M, Zhao X, Zhang R, Gastier-Foster JM, Raetz EA, Carroll WL, Li C, Liu PP, Rabin KR, Sanda T, Mullighan CG, Nichols KE, Evans WE, Pui C-H, Hunger SP, Teachey DT, Relling MV, Loh ML, Yang JJ. Germline RUNX1 variation and predisposition to childhood acute lymphoblastic leukemia. J Clin Invest Jun 24;131(17):e147898, 2021. PMID: 34166225
+Autry RJ, Paugh SW, Carter R, Shi L, Liu J, Ferguson DC, Lau CE, Bonten EJ, Yang W, McCorkle JR, Beard JA, Panetta JC, Diedrich JD, Crews KR, Pei D, Coke CJ, Natarajan S, Khatamian A, Karol SE, Lopez-Lopez E, Diouf B, Smith C, Gocho Y, Hagiwara K, Roberts KG, Pounds S, Kornblau SM, Stock W, Paietta EM, Litzow MR, Inaba H, Mullighan CG, Jeha S, Pui CH, Cheng C, Savic D, Yu J, Gawad C, Relling MV, Yang JJ, Evans WE. Integrative genomic analyses reveal mechanisms of glucocorticoid resistance in acute lymphoblastic leukemia. Nat Cancer (1):329-344, 2020. doi: 10.1038/s43018-020-0037-3
+Jeha S, Pei D, Choi J, Cheng C, Sandlund JT, Coustan-Smith E, Campana D, Inaba H, Rubnitz JE, Ribeiro RC, Gruber TA, Raimondi SC, Khan RB, Yang JJ, Mullighan CG, Downing JR, Evans WE, Relling MV, Pui CH. Improved CNS Control of Childhood Acute Lymphoblastic Leukemia Without Cranial Irradiation: St Jude Total Therapy Study 16. J Clin Oncol Dec 10;37(35):3377-3391, 2019. doi: 10.1200/JCO.19.01692. Epub Oct 28, 2019. PMID: 31657981
+Xu H, Zhao X, Bhojwani D, E S, Goodings C, Zhang H, Seibel NL, Yang W, Li C, Carroll WL, Evans WE, Yang JJ. ARID5B Influences Antimetabolite Drug Sensitivity and Prognosis of Acute Lymphoblastic Leukemia. Clin Cancer Res Jan 1;26(1):256-264, 2020. doi: 10.1158/1078-0432.CCR-19-0190. Epub Oct 1, 2019. PMID: 31573954
+Evans WE, Pui CH, Yang JJ. The Promise and the Reality of Genomics to Guide Precision Medicine in Pediatric Oncology: The Decade Ahead. Clin Pharmacol Ther Jan;107(1):176-180, 2020. doi: 10.1002/cpt.1660. Epub Nov 14, 2019. Review. PMID: 31563145
+Liu Y, Smith CA, Panetta JC, Yang W, Thompson LE, Counts JP, Molinelli AR, Pei D, Kornegay NM, Crews KR, Swanson H, Cheng C, Karol SE, Evans WE, Inaba H, Pui CH, Jeha S, Relling MV. Antibodies Predict Pegaspargase Allergic Reactions and Failure of Rechallenge. J Clin Oncol Aug 10;37(23):2051-2061, 2019. doi: 10.1200/JCO.18.02439. Epub 2019 Jun 12, 2019. PMID: 31059548
+Qian M, Zhao X, Devidas M, Yang W, Gocho Y, Smith C, Gastier-Foster JM, Li Y, Xu H, Zhang S, Jeha S, Zhai X, Sanda T, Winter SS, Dunsmore KP, Raetz EA, Carroll WL, Winick NJ, Rabin KR, Zweidler-Mckay PA, Wood B, Pui CH, Evans WE, Hunger SP, Mullighan CG, Relling MV, Loh ML, Yang JJ. Genome-Wide Association Study of Susceptibility Loci for T-Cell Acute Lymphoblastic Leukemia in Children. J Natl Cancer Inst Dec 1;111(12):1350-1357, 2019. doi: 10.1093/jnci/djz043. PMID: 317678391.
+Vijayakrishnan J, Qian M, Studd JB, Yang W, Kinnersley B, Law PJ, Broderick P, Raetz EA, Allan J, Pui CH, Vora A, Evans WE, Moorman A, Yeoh A, Yang W, Li C, Bartram CR, Mullighan CG, Zimmerman M, Hunger SP, Schrappe M, Relling MV, Stanulla M, Loh ML, Houlston RS, Yang JJ. Identification of four novel associations for B-cell acute lymphoblastic leukaemia risk. Nat Commun Nov 25;10(1):5348, 2019. doi: 10.1038/s41467-019-13069-6. PMID: 31767839
+Jeha S, Pei D, Choi J, Cheng C, Sandlund JT, Coustan-Smith E, Campana D, Inaba H, Rubnitz JE, Ribeiro RC, Gruber TA, Raimondi SC, Khan RB, Yang JJ, Mullighan CG, Downing JR, Evans WE, Relling MV, Pui CH. Improved CNS Control of Childhood Acute Lymphoblastic Leukemia Without Cranial Irradiation: St Jude Total Therapy Study 16. J Clin Oncol Dec 10;37(35):3377-3391, 2019. doi: 10.1200/JCO.19.01692. Epub Oct 28, 2019. PMID: 31657981
+Xu H, Zhao X, Bhojwani D, E S, Goodings C, Zhang H, Seibel NL, Yang W, Li C, Carroll WL, Evans WE, Yang JJ. ARID5B Influences Antimetabolite Drug Sensitivity and Prognosis of Acute Lymphoblastic Leukemia. Clin Cancer Res Jan 1;26(1):256-264, 2020. doi: 10.1158/1078-0432.CCR-19-0190. Epub Oct 1, 2019. PMID: 31573954
+Evans WE, Pui CH, Yang JJ. The Promise and the Reality of Genomics to Guide Precision Medicine in Pediatric Oncology: The Decade Ahead. Clin Pharmacol Ther Jan;107(1):176-180, 2020. doi: 10.1002/cpt.1660. Epub Nov 14, 2019. Review. PMID: 31563145
+Gu Z, Churchman ML, Roberts KG, Moore I, Zhou X, Nakitandwe J, Hagiwara K, Pelletier S, Gingras S, Berns H, Payne-Turner D, Hill A, Iacobucci I, Shi L, Pounds S, Cheng C, Pei D, Qu C, Newman S, Devidas M, Dai Y, Reshmi SC, Gastier-Foster J, Raetz EA, Borowitz MJ, Wood BL, Carroll WL, Zweidler-McKay PA, Rabin KR, Mattano LA, Maloney KW, Rambaldi A, Spinelli O, Radich JP, Minden MD, Rowe JM, Luger S, Litzow MR, Tallman MS, Racevskis J, Zhang Y, Bhatia R, Kohlschmidt J, Mrózek K, Bloomfield CD, Stock W, Kornblau S, Kantarjian HM, Konopleva M, Evans WE, Jeha S, Pui CH, Yang J, Paietta E, Downing JR, Relling MV, Zhang J, Loh ML, Hunger SP, Mullighan CG. PAX5-driven subtypes of B-progenitor acute lymphoblastic leukemia. Nat Genet Feb;51(2):296-307, 2019. doi: 10.1038/s41588-018-0315-5. Epub Jan 14, 2019. PMID: 30643249
+Relling MV, Schwab M, Whirl-Carrillo M, Suarez-Kurtz G, Pui CH, Stein CM, Moyer AM, Evans WE, Klein TE, Antillon-Klussmann FG, Caudle KE, Kato M, Yeoh AEJ, Schmiegelow K, Yang JJ. Clinical Pharmacogenetics Implementation Consortium Guideline for Thiopurine Dosing Based on TPMT and NUDT15 Genotypes: 2018 Update. Clin Pharmacol Ther May;105(5):1095-1105, 2019. doi: 10.1002/cpt.1304. Epub Jan 20, 2019. PMID: 30447069
+Qian M, Cao X, Devidas M, Yang W, Cheng C, Dai Y, Carroll A, Heerema NA, Zhang H, Moriyama T, Gastier-Foster JM, Xu H, Raetz E, Larsen E, Winick N, Bowman WP, Martin PL, Mardis ER, Fulton R, Zambetti G, Borowitz M, Wood B, Nichols KE, Carroll WL, Pui CH, Mullighan CG, Evans WE, Hunger SP, Relling MV, Loh ML, Yang JJ. TP53 Germline Variations Influence the Predisposition and Prognosis of B-Cell Acute Lymphoblastic Leukemia in Children. J Clin Oncol Jan 4, 2018:JCO2017755215. doi: 10.1200/JCO.2017.75.5215. [Epub ahead of print] PMID: 29300620
+Diouf B, Lin W, Goktug A, Grace CRR, Waddell MB, Bao J, Shao Y, Heath RJ, Zheng JJ, Shelat AA, Relling MV, Chen T, Evans WE. Alteration of RNA Splicing by Small-Molecule Inhibitors of the Interaction between NHP2L1 and U4. SLAS Discov Oct 1:2472555217735035, 2017. doi: 10.1177/2472555217735035. [Epub ahead of print] PMID: 28985478
+Moriyama T, Yang YL, Nishii R, Ariffin H, Liu C, Lin TN, Yang W, Lin DT, Yu CH, Kham S, Pui CH, Evans WE, Jeha S, Relling MV, Yeoh AE, Yang JJ. Novel variants in NUDT15 and thiopurine intolerance in children with acute lymphoblastic leukemia from diverse ancestry. Blood Sep 7;130(10):1209-1212, 2017. doi: 10.1182/blood-2017-05-782383. Epub 2017 Jun 28. PMID: 28659275
+Ramsey LB, Pounds S, Cheng C, Cao X, Yang W, Smith C, Karol SE, Liu C, Panetta JC, Inaba H, Rubnitz JE, Metzger ML, Ribeiro RC, Sandlund JT, Jeha S, Pui CH, Evans WE, Relling MV. Genetics of pleiotropic effects of dexamethasone. Pharmacogenet Genomics Aug;27(8):294-302, 2017. doi: 10.1097/FPC.0000000000000293. PMID: 28628558
+Karol SE, Larsen E, Cheng C, Cao X, Yang W, Ramsey LB, Fernandez CA, McCorkle JR, Paugh SW, Autry RJ, Lopez-Lopez E, Diouf B, Jeha S, Pui CH, Raetz EA, Winick NJ, Carroll WL, Hunger SP, Loh ML, Devidas M, Evans WE, Yang JJ, Relling MV. Genetics of ancestry-specific risk for relapse in acute lymphoblastic leukemia. Leukemia Jun;31(6):1325-1332, 2017. doi: 10.1038/leu.2017.24. Epub Jan 18, 2017. PMID: 28096535
+Liu Y, Fernandez CA, Smith C, Yang W, Cheng C, Panetta JC, Kornegay N, Liu C, Ramsey LB, Karol SE, Janke LJ, Larsen EC, Winick N, Carroll WL, Loh ML, Raetz EA, Hunger SP, Devidas M, Yang JJ, Mullighan CG, Zhang J, Evans WE, Jeha S, Pui CH, Relling MV. Genome-Wide Study Links PNPLA3 Variant With Elevated Hepatic Transaminase After Acute Lymphoblastic Leukemia Therapy. Clin Pharmacol Ther Jan 16, 2017. doi: 10.1002/cpt.629. [Epub ahead of print] PMID: 28090653
+Show More
+Zhang J, McCastlain K, Yoshihara H, Xu B, Chang Y, Churchman ML, Wu G, Li Y, Wei L, Iacobucci I, Liu Y, Qu C, Wen J, Edmonson M, Payne-Turner D, Kaufmann KB, Takayanagi SI, Wienholds E, Waanders E, Ntziachristos P, Bakogianni S, Wang J, Aifantis I, Roberts KG, Ma J, Song G, Easton J, Mulder HL, Chen X, Newman S, Ma X, Rusch M, Gupta P, Boggs K, Vadodaria B, Dalton J, Liu Y, Valentine ML, Ding L, Lu C, Fulton RS, Fulton L, Tabib Y, Ochoa K, Devidas M, Pei D, Cheng C, Yang J, Evans WE, Relling MV, Pui CH, Jeha S, Harvey RC, Chen IL, Willman CL, Marcucci G, Bloomfield CD, Kohlschmidt J, Mrózek K, Paietta E, Tallman MS, Stock W, Foster MC, Racevskis J, Rowe JM, Luger S, Kornblau SM, Shurtleff SA, Raimondi SC, Mardis ER, Wilson RK, Dick JE, Hunger SP, Loh ML, Downing JR, Mullighan CG; St. Jude Children's Research Hospital–Washington University Pediatric Cancer Genome Project. Deregulation of DUX4 and ERG in acute lymphoblastic leukemia. Nat Genet Dec;48(12):1481-1489, 2016. doi: 10.1038/ng.3691. Epub Oct 24, 2016.
+Stock W, Diouf B, Crews KR, Pei D, Cheng C, Laumann K, Mandrekar SJ, Luger S, Advani A, Stone RM, Larson RA, Evans WE. An Inherited Genetic Variant in CEP72 Promoter Predisposes to Vincristine-Induced Peripheral Neuropathy in Adults With Acute Lymphoblastic Leukemia. Clin Pharmacol Ther Sep 12, 2016. doi: 10.1002/cpt.506. [Epub ahead of print] PMID:27618250
+Liu C, Yang W, Pei D, Cheng C, Smith C, Landier W, Hageman L, Chen Y, Yang JJ, Crews KR, Kornegay N, Karol SE, Wong FL, Jeha S, Sandlund JT, Ribeiro RC, Rubnitz JE, Metzger ML, Pui CH, Evans WE, Bhatia S, Relling MV. Genomewide Approach Validates Thiopurine Methyltransferase Activity Is a Monogenic Pharmacogenomic Trait. Clin Pharmacol Ther Aug 26, 2016. doi: 10.1002/cpt.463. [Epub ahead of print] PMID:27564568
+Diouf B, Devaraju P, Janke LJ, Fan Y, Frase S, Eddins D, Peters JL, Kim J, Pei D, Cheng C, Zakharenko SS, Evans WE. Msh2 deficiency leads to dysmyelination of the corpus callosum, impaired locomotion, and altered sensory function in mice. Sci Rep Aug 1;6:30757, 2016. doi: 10.1038/srep30757. PMID:27476972
+Yang W, Wu G, Broeckel U, Smith CA, Turner V, Haidar CE, Wang S, Carter R, Karol SE, Neale G, Crews KR, Yang JJ, Mullighan CG, Downing JR, Evans WE, Relling MV. Comparison of genome sequencing and clinical genotyping for pharmacogenes. Clin Pharmacol Ther Oct;100(4):380-8, 2016. doi: 10.1002/cpt.411. PMID:27311679
+Liu C, Yang W, Devidas M, Cheng C, Pei D, Smith C, Carroll WL, Raetz EA, Bowman WP, Larsen EC, Maloney KW, Martin PL, Mattano LA Jr, Winick NJ, Mardis ER, Fulton RS, Bhojwani D, Howard SC, Jeha S, Pui CH, Hunger SP, Evans WE, Loh ML, Relling MV. Clinical and Genetic Risk Factors for Acute Pancreatitis in Patients With Acute Lymphoblastic Leukemia. J Clin Oncol Jun 20;34(18):2133-40, 2016. doi: 10.1200/JCO.2015.64.5812. PMID:27114598
+Moriyama T, Nishii R, Perez-Andreu V, Yang W, Klussmann FA, Zhao X, Lin TN, Hoshitsuki K, Nersting J, Kihira K, Hofmann U, Komada Y, Kato M, McCorkle R, Li L, Koh K, Najera CR, Kham SK, Isobe T, Chen Z, Chiew EK, Bhojwani D, Jeffries C, Lu Y, Schwab M, Inaba H, Pui CH, Relling MV, Manabe A, Hori H, Schmiegelow K, Yeoh AE, Evans WE, Yang JJ. NUDT15 polymorphisms alter thiopurine metabolism and hematopoietic toxicity. Nat Genet Apr;48(4):367-73, 2016. doi: 10.1038/ng.3508. PMID:26878724
+Paugh SW, Coss DR, Bao J, Laudermilk LT, Grace CR, Ferreira AM, Waddell MB, Ridout G, Naeve D, Leuze M, LoCascio PF, Panetta JC, Wilkinson MR, Pui CH, Naeve CW, Uberbacher EC, Bonten EJ, Evans WE. MicroRNAs Form Triplexes with Double Stranded DNA at Sequence-Specific Binding Sites; a Eukaryotic Mechanism via which microRNAs Could Directly Alter Gene Expression. PLoS Comput Biol Feb 4;12(2):e1004744, 2016. doi: 10.1371/journal.pcbi.1004744. PMID:26844769
+Relling MV, Evans WE. Pharmacogenomics in the clinic. Nature 526:343-350, 2015.
+Paugh SW, Bonten, EJ, Savic D, Ramsey LB, Thierfelder WE, Gurung P, Malireddi RK, Actis M, Mayasundari A, Min J, Coss DR, Laudermilk LT, Panetta JC, McCorkle JR, FanY, Crews KR, Stocco G, Wilkinson MR, Ferreira AM, Cheng C, Yang W, Karol SE, Fernandez CA, Diouf B, Smith C, Hicks JK, Zanut A, Giordanengo A, Crona D, Bianchi JJ, Holmfeldt L, Mullighan CG, den Boer ML, Pieters R, Jeha S, Dunwell TL, Latif F,  Bhojwani D, Carroll WL, Pui CH, Myers RM, Guy RK, Kanneganti TD, Relling MV, Evans WE. NALP3 inflammasome up-regulation and CASP1 cleavage of the glucocorticoid receptor causes glucocorticoid resistance in leukemia cells. Nat Genet 47(6):607-14, 2015.
+Diouf B, Crews KR, Lew G, Pei D, Cheng C, Bao J, Zheng JJ, Yang W, Fan Y, Wheeler HE, Wing C, Delaney SM, Komatsu M, Paugh SW, McCorkle JR, Lu X, Winick NJ, Carroll WL, Loh ML, Hunger SP, Devidas M, Pui CH, Dolan ME, Relling MV, Evans WE. Association of an inherited genetic variant with vincristine-related peripheral neuropathy in children with acute lymphoblastic leukemia. JAMA 313(8):815-23, 2015.
+Yang JJ, Landier W, Yang W, Liu C, Hageman L, Cheng C, Pei D, Chen Y, Crews KR, Kornegay N, Wong FL, Evans WE, Pui CH, Bhatia S, Relling MV. Inherited NUDT15 Variant Is a Genetic Determinant of Mercaptopurine Intolerance in Children With Acute Lymphoblastic Leukemia. J Clin Oncol 33(11):1235-42, 2015.
+Perez-Andreu V, Roberts KG, Xu H, Smith C, Zhang H, Yang W, Harvey RC, Payne-Turner D, Devidas M, Cheng IM, Carroll WL, Heerema NA, Carroll AJ, Raetz EA, Gastier-Foster JM, Marcucci G, Bloomfield CD, Mrózek K, Kohlschmidt J, Stock W, Kornblau SM, Konopleva M, Paietta E, Rowe JM, Luger SM, Tallman MS, Dean M, Burchard EG, Torgerson DG, Yue F, Wang Y, Pui CH, Jeha S, Relling MV, Evans WE, Gerhard DS, Loh ML, Willman CL, Hunger SP, Mullighan CG, Yang JJ. A genome-wide association study of susceptibility to acute lymphoblastic leukemia in adolescents and young adults. Blood 125(4):680-6, 2015.
+Dunnenberger HM, Crews KR, Hoffman JM, Caudle KE, Broeckel U, Howard SC, Hunkler RJ, Klein TE, Evans WE, Relling MV. Preemptive Clinical Pharmacogenetics Implementation: Current Programs in Five United States Medical Centers. Annu Rev Pharmacol Toxicol 55:89-106, 2014.
+Ramsey LB, Janke LJ, Edick MJ, Cheng C, Williams RT, Sherr CJ, Evans WE, Relling MV. Host thiopurine methyltransferase status affects mercaptopurine antileukemic effectiveness in a murine model. Pharmacogenet Genomics 24(5):263-71, 2014.
+Perez-Andreu V, Roberts KG, Harvey RC, Yang W, Cheng C, Pei D, Xu H, Gastier-Foster J, E S, Lim JY, Chen IM, Fan Y, Devidas M, Borowitz MJ, Smith C, Neale G, Burchard EG, Torgerson DG, Klussmann FA, Villagran CR, Winick NJ, Camitta BM, Raetz E, Wood B, Yue F, Carroll WL, Larsen E, Bowman WP, Loh ML, Dean M, Bhojwani D, Pui CH, Evans WE, Relling MV, Hunger SP, Willman CL, Mullighan CG, Yang JJ. Inherited GATA3 variants are associated with Ph-like childhood acute lymphoblastic leukemia and risk of relapse. Nat Genet 45(12):1948-8, 2013.
+Pui CH, Evans WE. A 50-year journey to cure childhood acute lymphoblastic leukemia. Semin Hematol 50(3):185-96, 2013.
+Xu H, Yang W, Perez-Andreu V, Devidas M, Fan Y, Cheng C, Pei D, Scheet P, Burchard EG, Eng C, Huntsman S, Torgerson DG, Dean M, Winick NJ, Martin PL, Camitta BM, Bowman WP, Willman CL, Carroll WL, Mullighan CG, Bhojwani D, Hunger SP, Pui CH, Evans WE, Relling MV, Loh ML, Yang JJ. Novel susceptibility variants at 10p12.31-12.2 for childhood acute lymphoblastic leukemia in ethnically diverse populations. J Natl Cancer Inst May 15;105(10):733-42, 2013. doi: 10.1093/jnci/djt042. PMID: 23512250.
+Evans WE, Crews KR, Pui CH. A Health-Care System Perspective on Implementing Genomic Medicine: Pediatric Acute Lymphoblastic Leukemia as a Paradigm. Clin Pharmacol Ther 94(2):224-9, 2013. doi: 10.1038/clpt.2013.9. PMID: 23462885.
+Meyer JA, Wang J, Hogan LE, Yang JJ, Dandekar S, Patel JP, Tang Z, Zumbo P, Li S, Zavadil J, Levine RL, Cardozo T, Hunger SP, Raetz EA, Evans WE, Morrison DJ, Mason CE, Carroll WL. Relapse-specific mutations in NT5C2 in childhood acute lymphoblastic leukemia. Nat Genet 45(3):290-4, 2013. doi: 10.1038/ng.2558. Epub 2013 Feb 3. PMID: 23462885.
+Ramsey LB, Panetta JC, Smith C, Yang W, Fan Y, Winick NJ, Martin PL, Cheng C, Devidas M, Pui CH, Evans WE, Hunger SP, Loh M, Relling MV. Genome-wide study of methotrexate clearance replicates SLCO1B1. Blood 121(6):898-904. doi: 10.1182/blood-2012-08-452839. PMID: 23233662.
+Hunger SP, Baruchel A, Biondi A, Evans WE, Jeha S, Loh M, Moericke A, Pieters R, Relling MV, Schmiegelow K, Schrappe M, Silverman LB, Stanulla M, Valsecchi MG, Vora A, Pui CH. The thirteenth international childhood acute lymphoblastic leukemia workshop report: La Jolla, CA, USA, December 7-9, 2011. Pediatr Blood Cancer 60(2):344-8, 2013. doi: 10.1002/pbc.24354. PMID: 23024117.
+Yang JJ, Cheng C, Devidas M, Cao X, Campana D, Yang W, Fan Y, Neale G, Cox N, Scheet P, Borowitz MJ, Winick NJ, Martin PL, Bowman WP, Camitta B, Reaman GH, Carroll WL, Willman CL, Hunger SP, Evans WE, Pui CH, Loh M, Relling MV. Genome-wide association study identifies germline polymorphisms associated with relapse of childhood acute lymphoblastic leukemia. Blood 120(20):4197-204, 2012. doi: 10.1182/blood-2012-07-440107. PMID: 23007406.
+Hicks JK, Crews KR, Hoffman JM, Kornegay NM, Wilkinson MR, Lorier R, Stoddard A, Yang W, Smith C, Fernandez CA, Cross SJ, Haidar C, Baker DK, Howard SC, Evans WE, Broeckel U, Relling MV. A clinician-driven automated system for integration of pharmacogenetic interpretations into an electronic medical record. Clin Pharmacol Ther 92(5):563-6, 2012. doi: 10.1038/clpt.2012.140. PMID: 22990750.
+Crews KR, Hicks JK, Pui CH, Relling MV, Evans WE. Pharmacogenomics and individualized medicine: translating science into practice. Clin Pharmacol Ther 92(4):467-75, 2012. doi: 10.1038/clpt.2012.120. PMID: 22948889.
+Downing JR, Wilson RK, Zhang J, Mardis ER, Pui CH, Ding L, Ley TJ, Evans WE. The pediatric cancer genome project. Nat Genet 44(6):619-622, 2012. doi: 10.1038/ng.2287. PMID: 22641210.
+Xu H, Cheng C, Devidas M, Pei D, Fan Y, Yang W, Neale G, Scheet P, Burchard EG, Torgerson DG, Eng C, Dean M, Antillon F, Winick NJ, Martin PL, Willman CL, Camitta BM, Reaman GH, Carroll WL, Loh M, Evans WE, Pui CH, Hunger SP, Relling MV, Yang JJ. ARID5B Genetic Polymorphisms Contribute to Racial Disparities in the Incidence and Treatment Outcome of Childhood Acute Lymphoblastic Leukemia. J Clin Oncol 30(7):751-7, 2012. PMID: 22291082.
+Kawedia JD, Liu C, Pei D, Cheng C, Fernandez CA, Howard SC, Campana D, Panetta JC, Bowman WP, Evans WE, Pui CH, Relling MV. Dexamethasone exposure and asparaginase antibodies affect relapse risk in acute lymphoblastic leukemia. Blood 119(7):1658-64, 2012. PMID: 22117041.
+Zhang J, Ding L, Holmfeldt L, Wu G, Heatley SL, Payne-Turner D, Easton J, Chen X, Wang J, Rusch M, Lu C, Chen SC, Wei L, Collins-Underwood JR, Ma J, Roberts KG, Pounds SB, Ulyanov A, Becksfort J, Gupta P, Huether R, Kriwacki RW, Parker M, McGoldrick DJ, Zhao D, Alford D, Espy S, Bobba KC, Song G, Pei D, Cheng C, Roberts S, Barbato MI, Campana D, Coustan-Smith E, Shurtleff SA, Raimondi SC, Kleppe M, Cools J, Shimano KA, Hermiston ML, Doulatov S, Eppert K, Laurenti E, Notta F, Dick JE, Basso G, Hunger SP, Loh ML, Devidas M, Wood B, Winter S, Dunsmore KP, Fulton RS, Fulton LL, Hong X, Harris CC, Dooling DJ, Ochoa K, Johnson KJ, Obenauer JC, Evans WE, Pui CH, Naeve CW, Ley TJ, Mardis ER, Wilson RK, Downing JR, Mullighan CG. The genetic basis of early T-cell precursor acute lymphoblastic leukaemia. Nature 481(7380):157-63, 2012. doi: 10.1038/nature10725. PMID: 22237106. PMCID: PMC3267575.
+Ramsey LB, Bruun GH, Yang W, Treviño LR, Vattathil S, Scheet P, Cheng C, Rosner GL, Giacomini KM, Fan Y, Sparreboom A, Mikkelsen TS, Corydon TJ, Pui CH, Evans WE, Relling MV. Rare versus common variants in pharmacogenetics: SLCO1B1 variation and methotrexate disposition. Genome Res 22(1):1-8, 2012. PMID: 22147369. PMCID: PMC3246196.
+Diouf B, Cheng Q, Krynetskaia NF, Yang W, Cheok M, Pei D, Fan Y, Cheng C, Krynetskiy EY, Geng H, Chen S, Thierfelder WE, Mullighan CG, Downing JR, Hsieh P, Pui CH, Relling MV, Evans WE. Somatic deletions of genes regulating MSH2 protein stability cause DNA mismatch repair deficiency and drug resistance in human leukemia cells. Nat Med 17:1298-303, 2011.
+Paugh SW, Stocco G, McCorkle JR, Diouf B, Crews KR, Evans WE. Cancer pharmacogenomics. Clin Pharmacol Ther 90:461-6, 2011.
+Mikkelsen TS, Sparreboom A, Cheng C, Zhou Y, Boyett JM, Raimondi SC, Panetta JC, Bowman WP, Sandlund JT, Pui CH, Relling MV, Evans WE. Shortening infusion time for high-dose methotrexate alters antileukemic effects: a randomized prospective clinical trial. J Clin Oncol 29(13):1771-8, 2011.
+Yang JJ, Cheng C, Devidas M, Cao X, Fan Y, Campana D, Yang W, Neale G, Cox NJ, Scheet P, Borowitz MJ, Winick NJ, Martin PL, Willman CL, Bowman WP, Camitta BM, Carroll A, Reaman GH, Carroll WL, Loh M, Hunger SP, Pui CH, Evans WE, Relling MV. Ancestry and pharmacogenomics of relapse in acute lymphoblastic leukemia. Nature Genetics 43(3):237-41, 2011.
+Pui CH, Pei D, Campana D, Bowman WP, Sandlund JT, Kaste SC, Ribeiro RC, Rubnitz JE, Coustan-Smith E, Jeha S, Cheng C, Metzger ML, Bhojwani D, Inaba H, Raimondi SC, Onciu M, Howard SC, Leung W, Downing JR, Evans WE, Relling MV. Improved prognosis for older adolescents with acute lymphoblastic leukemia. J Clin Oncol 29(4):386-91, 2011.
+Kawedia JD, Kaste SC, Pei D, Panetta JC, Cai X, Cheng C, Neale G, Howard SC, Evans WE, Pui CH, Relling MV. Pharmacokinetic, pharmacodynamic and pharmacogenetic determinants of osteonecrosis in children with acute lymphoblastic leukemia. Blood 117(8):2340-7, 2011.
+Chen SH, Yang W, Fan Y, Stocco G, Crews KR, Yang JJ, Paugh SW, Pui CH, Evans WE, Relling MV. A genome-wide approach identifies that the aspartate metabolism pathway contributes to asparaginase sensitivity. Leukemia 25(1):66-74, 2011.
+Panetta JC, Sparreboom A, Pui CH, Relling MV, Evans WE. Modeling mechanisms of in vivo variability in methotrexate accumulation and folate pathway inhibition in acute lymphoblastic leukemia cells.PLoS Comput Biol 6(12):e1001019, 2010.
+Chen SH, Pei D, Yang W, Cheng C, Jeha S, Cox NJ, Evans WE, Pui CH, Relling MV. Genetic variations in GRIA1 on chromosome 5q33 related to asparaginase hypersensitivity. Clin Pharmacol Ther 88(2):191-6, 2010.
+Relling MV, Altman RB, Goetz MP, Evans WE. Clinical implementation of pharmacogenomics: overcoming genetic exceptionalism. Lancet Oncol 11(6):507-9, 2010.
+Yang W, Treviño LR, Yang JJ, Scheet P, Pui CH, Evans WE, Relling MV. ARID5B SNP rs10821936 is associated with risk of childhood acute lymphoblastic leukemia in blacks and contributes to racial differences in leukemia incidence. Leukemia 24(4):894-6, 2010.
+Treviño LR, Shimasaki N, Yang W, Panetta JC, Cheng C, Pei D, Chan D, Sparreboom A, Giacomini KM, Pui CH, Evans WE, Relling MV. Germline genetic variation in an organic anion transporter polypeptide associated with methotrexate pharmacokinetics and clinical effects. J Clin Oncol 10;27(35):5972-8, 2009.
+Treviño LR, Yang W, French D, Hunger SP, Carroll WL, Devidas M, Willman C, Neale G, Downing J, Raimondi SC, Pui CH, Evans WE, Relling MV. Germline genomic variants associated with childhood acute lymphoblastic leukemia. Nat Genet 41(9):1001-5, 2009.
+Pui CH, Campana D, Pei D, Bowman WP, Sandlund JT, Kaste SC, Ribeiro RC, Rubnitz JE, Raimondi SC, Onciu M, Coustan-Smith E, Kun LE, Jeha S, Cheng C, Howard SC, Simmons V, Bayles A, Metzger ML, Boyett JM, Leung W, Handgretinger R, Downing JR, Evans WE, Relling MV. Treating childhood acute lymphoblastic leukemia without cranial irradiation. N Engl J Med 360(26):2730-41, 2009.
+Yang JJ, Cheng C, Yang W, Pei D, Cao X, Fan Y, Pounds SB, Neale G, Treviño LR, French D, Campana D, Downing JR, Evans WE, Pui CH, Devidas M, Bowman WP, Camitta BM, Willman CL, Davies SM, Borowitz MJ, Carroll WL, Hunger SP, Relling MV. Genome-wide interrogation of germline genetic variation associated with treatment response in childhood acute lymphoblastic leukemia. JAMA 301:393-403, 2009.
+Den Boer ML, van Slegtenhorst M, De Menezes RX, Cheok MH, Buijs-Gladdines JG, Peters ST, Van Zutven LJ, Beverloo HB, Van der Spek PJ, Escherich G, Horstmann MA, Janka-Schaub GE, Kamps WA, Evans WE, Pieters R. A subtype of childhood acute lymphoblastic leukaemia with poor treatment outcome: a genome-wide classification study. Lancet Oncol 10:125-34, 2009.
+Stocco G, Cheok MH, Crews KR, Dervieux T, French D, Pei D, Yang W, Cheng C, Pui CH, Relling MV, Evans WE. Genetic polymorphism of inosine triphosphate pyrophosphatase is a determinant of mercaptopurine metabolism and toxicity during treatment for acute lymphoblastic leukemia. Clin Pharmacol Ther 85:164-72, 2009.
+Last update: March 2023
+Related Links
+St. Jude Faculty List
+Careers
+Research at St. Jude
+Clinical Trials
+Care and Treatment
+Diseases Treated at St. Jude
+Ways to give
+Related LinksClose
+Share through
+Share through Facebook
+Share through Twitter
+Share through LinkedIn
+Share through E-Mail
+Share
+Close
+Finding cures.
+Saving children.
+®
+Sign Up For Email Updates
+First name
+Last name
+Email
+I would like to receive emails from St. Jude.
+Please select in order to sign up for email updates.
+Close the current dialog
+Submit
+By giving us your email address, you are signing up to receive emails from St. Jude.
+By giving us your email address and/or mobile phone number, you are signing up to receive emails and periodic text messages from St. Jude.
+You will be able to opt-out of these messages at any time.
+Thank You
+Thank you for signing up to receive updates from St. Jude. You may manage your subscriptions at the St. Jude E-mail Management Center.
+Connect With Us
+Like
+Follow
+Follow
+Subscribe
+Contact Us
+262 Danny Thomas Place
+Memphis, TN 38105
+Visit St. Jude
+Donor Services:
+(800) 822-6344
+Hospital:
+(866) 278-5833
+Learn More About Us
+Careers
+Media Resources
+© Copyright 2025. St. Jude Children's Research Hospital, a not-for-profit, section 501(c)(3).
+U.S. Privacy Notice
+Disclaimer / Registrations / Copyright Statement
+Linking Policy
+Notice of Privacy Practices (HIPAA)
+Ad Choices
+Notice of Non-Discrimination
+Pricing Transparency
+Site Map
+Your Opt-Out Rights
+Washington Health Privacy Notice
+If you speak another language, assistance services, free of charge, are available to you. Call 1-866-278-5833 (TTY: 1-901-595-1040)
+Español
+中文
+Tiếng Việt
+한국어
+Tagalog
+русский
+العربية
+Français
+Deutsch
+日本語
+فارسی
+हिन्दी
+ગુજરાતી
+አማርኛ
+ພາສາລາວ
+Close
+Close

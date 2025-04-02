@@ -1,0 +1,17 @@
+   Domain Name: COMPRARCARTADECONDUCAO-ONLINE.COM
+   Registry Domain ID: 2914623844_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois-service.virtualcloud.co
+   Registrar URL: http://sav.com
+   Updated Date: 2024-09-09T12:35:46Z
+   Creation Date: 2024-09-06T18:54:57Z
+   Registry Expiry Date: 2025-09-06T18:54:57Z
+   Registrar: Sav.com, LLC - 18
+   Registrar IANA ID: 3908
+   Registrar Abuse Contact Email: abuse-contact@sav.com
+   Registrar Abuse Contact Phone: (888) 580-8790
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: A.SHARE-DNS.COM
+   Name Server: B.SHARE-DNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:10:53Z 

@@ -1,0 +1,21 @@
+   Domain Name: TOMSGUIDE.COM
+   Registry Domain ID: 32328390_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.lexsynergy.com
+   Registrar URL: http://www.lexsynergy.com
+   Updated Date: 2024-07-04T22:42:18Z
+   Creation Date: 2000-08-03T19:21:50Z
+   Registry Expiry Date: 2025-08-03T19:21:50Z
+   Registrar: Lexsynergy Limited
+   Registrar IANA ID: 1466
+   Registrar Abuse Contact Email: abuse@lexsynergy.com
+   Registrar Abuse Contact Phone: +442031370459
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1504.AWSDNS-60.ORG
+   Name Server: NS-1785.AWSDNS-31.CO.UK
+   Name Server: NS-50.AWSDNS-06.COM
+   Name Server: NS-849.AWSDNS-42.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T00:02:20Z 

@@ -1,0 +1,18 @@
+   Domain Name: OTTAWAFOODIES.COM
+   Registry Domain ID: 431951748_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-04-02T07:59:16Z
+   Creation Date: 2006-05-02T03:55:07Z
+   Registry Expiry Date: 2025-05-02T03:55:07Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DREAMHOST.COM
+   Name Server: NS2.DREAMHOST.COM
+   Name Server: NS3.DREAMHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T17:01:38Z 

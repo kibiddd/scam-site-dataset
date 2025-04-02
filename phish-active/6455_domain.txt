@@ -1,0 +1,17 @@
+   Domain Name: DALLASOPTICAL.COM
+   Registry Domain ID: 99244835_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domaindiscover.com
+   Registrar URL: http://tierra.net
+   Updated Date: 2016-05-11T22:30:12Z
+   Creation Date: 2003-06-16T18:06:39Z
+   Registry Expiry Date: 2025-06-16T18:06:39Z
+   Registrar: DomainSpot LLC
+   Registrar IANA ID: 86
+   Registrar Abuse Contact Email: icann-abuse-reports@tierra.net
+   Registrar Abuse Contact Phone: 6193932105
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1545.HOSTGATOR.COM
+   Name Server: NS1546.HOSTGATOR.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:23:11Z 

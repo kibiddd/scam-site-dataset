@@ -1,0 +1,11 @@
+Domain Name: ex.cn
+ROID: 20030321s10001s00191744-cn
+Domain Status: clientTransferProhibited
+Registrant: 戴跃
+Registrant Contact Email: shops@tom.com
+Sponsoring Registrar: 厦门易名科技股份有限公司
+Name Server: ns1.dn.com
+Name Server: ns2.dn.com
+Registration Time: 2003-03-21 12:20:32
+Expiration Time: 2026-03-21 12:20:32
+DNSSEC: unsigned

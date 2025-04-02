@@ -1,0 +1,22 @@
+   Domain Name: JOYSTIQ.COM
+   Registry Domain ID: 119744707_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-04-08T09:11:54Z
+   Creation Date: 2004-05-10T21:56:32Z
+   Registry Expiry Date: 2025-05-10T21:56:32Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.YAHOO.COM
+   Name Server: NS2.YAHOO.COM
+   Name Server: NS3.YAHOO.COM
+   Name Server: NS4.YAHOO.COM
+   Name Server: NS5.YAHOO.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:03:58Z 

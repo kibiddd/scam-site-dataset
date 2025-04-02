@@ -1,0 +1,12 @@
+Domain Name: qrl.nz
+Registrar URL: www.instra.com
+Updated Date: 2022-10-31T19:19:25Z
+Creation Date: 2018-06-24T03:18:47Z
+Original Created: 2015-02-11T23:01:03Z
+Registrar: Instra Corporation Pty Ltd.
+Domain Status: ok https://icann.org/epp#ok
+Name Server: gwen.ns.cloudflare.com
+Name Server: neil.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the Domain Name Commission Limited Inaccuracy Complaint Form: https://dnc.org.nz/enquiry-form/
+>>> Last update of WHOIS database: 2025-03-27T14:52:40Z 

@@ -1,0 +1,17 @@
+   Domain Name: RAKUTSENAFFILIKE.COM
+   Registry Domain ID: 2914096380_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.55hl.com
+   Registrar URL: http://www.55hl.com
+   Updated Date: 2024-10-04T13:15:10Z
+   Creation Date: 2024-09-05T08:08:13Z
+   Registry Expiry Date: 2025-09-05T08:08:13Z
+   Registrar: Jiangsu Bangning Science & technology Co. Ltd.
+   Registrar IANA ID: 1469
+   Registrar Abuse Contact Email: abuse@55hl.com
+   Registrar Abuse Contact Phone: +86.02586883421
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.DNS-PARKING.COM
+   Name Server: NS2.DNS-PARKING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:48:38Z 

@@ -1,0 +1,30 @@
+Domain name: hartvantroost.nl
+Status:      active
+
+Reseller:
+   TransIP
+   Vondellaan 47
+   2332AA Leiden
+   Netherlands
+
+Registrar:
+   team.blue nl B.V.
+   Vondellaan 47
+   2332AA Leiden
+   Netherlands
+
+Abuse Contact:
+   abuse@nl.team.blue
+
+DNSSEC:      no
+
+Domain nameservers:
+   nsauth1.ixlhosting.nl
+   nsauth3.ixl.nu
+   nsauth2.ixlhosting.nl
+
+Creation Date: 2020-06-27
+
+Updated Date: 2021-03-29
+
+Record maintained by: SIDN BV

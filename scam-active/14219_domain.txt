@@ -1,0 +1,24 @@
+Domain Name: GGA2.SITE
+Registry Domain ID: D510909528-CNIC
+Registrar WHOIS Server: whois.paycenter.com.cn
+Registrar URL: http://www.xinnet.com
+Updated Date: 2024-12-17T06:17:06.0Z
+Creation Date: 2024-12-12T06:14:58.0Z
+Registry Expiry Date: 2025-12-12T23:59:59.0Z
+Registrar: Xin Net Technology Corp.
+Registrar IANA ID: 120
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: bayunqi
+Registrant State/Province: hebeisheng
+Registrant Country: CN
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS2.ZNDNS.COM
+Name Server: NS1.ZNDNS.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: supervision@xinnet.com
+Registrar Abuse Contact Phone: +86.4008182233
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:49:04.0Z 

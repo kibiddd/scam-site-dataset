@@ -1,0 +1,17 @@
+   Domain Name: SURNAMEDB.COM
+   Registry Domain ID: 475156967_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-05-31T15:30:08Z
+   Creation Date: 2006-06-06T18:54:17Z
+   Registry Expiry Date: 2025-06-06T18:54:17Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: CULLEN.NS.CLOUDFLARE.COM
+   Name Server: LANA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:12:34Z 

@@ -1,0 +1,17 @@
+   Domain Name: NUDEVISTA.COM
+   Registry Domain ID: 47587073_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.pananames.com
+   Registrar URL: http://www.pananames.com
+   Updated Date: 2024-11-12T07:04:39Z
+   Creation Date: 2000-12-12T18:20:42Z
+   Registry Expiry Date: 2025-12-12T18:20:42Z
+   Registrar: URL Solutions, Inc.
+   Registrar IANA ID: 1449
+   Registrar Abuse Contact Email: abuse@pananames.com
+   Registrar Abuse Contact Phone: +1.9727369998
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS.ANYCASTNS1.ORG
+   Name Server: NS.ANYCASTNS2.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T00:05:36Z 

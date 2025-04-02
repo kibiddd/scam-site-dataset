@@ -1,0 +1,17 @@
+   Domain Name: BENBENSON.COM
+   Registry Domain ID: 1522447592_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-07-16T05:31:36Z
+   Creation Date: 2008-10-02T18:22:18Z
+   Registry Expiry Date: 2027-08-17T11:59:59Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS1.REGISTRAR-SERVERS.COM
+   Name Server: DNS2.REGISTRAR-SERVERS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T01:58:03Z 

@@ -1,0 +1,21 @@
+   Domain Name: 25U.COM
+   Registry Domain ID: 98898044_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.PublicDomainRegistry.com
+   Registrar URL: http://www.publicdomainregistry.com
+   Updated Date: 2025-01-14T20:02:13Z
+   Creation Date: 2003-06-08T14:56:03Z
+   Registry Expiry Date: 2025-06-08T14:56:03Z
+   Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+   Registrar IANA ID: 303
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.CHANGEIP.COM
+   Name Server: NS2.CHANGEIP.COM
+   Name Server: NS3.CHANGEIP.COM
+   Name Server: NS4.CHANGEIP.COM
+   Name Server: NS5.CHANGEIP.COM
+   Name Server: NS6.CHANGEIP.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:56:05Z 

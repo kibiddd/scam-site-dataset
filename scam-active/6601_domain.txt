@@ -1,0 +1,17 @@
+   Domain Name: INFOFXEXPO.COM
+   Registry Domain ID: 2721630257_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.matbao.net
+   Registrar URL: http://www.matbao.net
+   Updated Date: 2024-08-20T09:01:30Z
+   Creation Date: 2022-08-29T10:37:52Z
+   Registry Expiry Date: 2025-08-29T10:37:52Z
+   Registrar: MAT BAO CORPORATION
+   Registrar IANA ID: 1586
+   Registrar Abuse Contact Email: abuse@matbao.com
+   Registrar Abuse Contact Phone: +84-36229999 - 8899
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.MATBAO.COM
+   Name Server: NS2.MATBAO.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:46:52Z 

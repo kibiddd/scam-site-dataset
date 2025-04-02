@@ -1,0 +1,107 @@
+% Request from 2a09:bac5:c82c:de1::162:d2
+% This is the Ukrainian Whois query server #A.
+% The Whois is subject to Terms of use
+% See https://hostmaster.ua/services/
+%
+% IN THE PROCESS OF DELEGATION OF A DOMAIN NAME,
+% THE REGISTRANT IS AN ENTITY WHO USES AND MANAGES A CERTAIN DOMAIN NAME,
+% AND THE REGISTRAR IS A BUSINESS ENTITY THAT PROVIDES THE REGISTRANT
+% WITH THE SERVICES NECESSARY FOR THE TECHNICAL MAINTENANCE OF THE REGISTRATION AND OPERATION OF THE DOMAIN NAME.
+% FOR INFORMATION ABOUT THE REGISTRANT OF THE DOMAIN NAME, YOU SHOULD CONTACT THE REGISTRAR.
+
+domain:           privat24.ua
+dom-public:       NO
+license:          49942
+mnt-by:           ua.imena
+nserver:          ns-1264.awsdns-30.org
+nserver:          ns-1539.awsdns-00.co.uk
+nserver:          ns-279.awsdns-34.com
+nserver:          ns-551.awsdns-04.net
+status:           ok
+created:          2005-07-08 11:26:47+03
+modified:         2025-02-28 14:51:21+02
+expires:          2026-07-08 11:26:47+03
+source:           UAEPP
+
+% Registrar:
+%
+% The following disclaimer was provided by the domain name registrar
+% ==========
+% Надана інформація є неповною і може містити помилки, пов'язані з особливостями механізмів кешування інформації, несинхронного оновлення реєстрів тощо, тому не є достовірною та надається виключно для ознайомлення.
+% У зв'язку із зазначеним вище, дана інформація не може бути використана з метою вирішення спорів, конфліктів, визначення майнових та немайнових прав тощо.
+% Єдиним джерелом первинних даних про доменне ім'я є реєстратор (registrar) доменного імені, який може надати необхідну інформацію на запит у встановленому законом порядку.
+% 
+% The provided information is incomplete and may contain errors related to the specificity 
+% of information caching mechanisms, asynchronous updating of registries, etc., 
+% therefore it is not reliable and is provided for informational purposes only. 
+% In connection with the above, this information can not be used to resolve disputes, 
+% conflicts, determine property and non-property rights, etc.
+% The only source of primary data about the domain name is the registrar of the domain name, 
+% which can provide the required information upon request, in accordance with the procedure established by law.
+% ==========
+registrar:        ua.imena
+organization:     Internet Invest LLC
+organization-loc: ТОВ "Інтернет Інвест"
+url:              http://www.imena.ua
+city:             Kyiv
+country:          UA
+abuse-email:      abuse@imena.ua
+abuse-phone:      +380.442010102
+abuse-postal:     50-B Simi Prakhovykh St., Kyiv, 01033, Ukraine
+abuse-postal-loc: вул. Сім'ї Прахових, 50-Б, м. Київ, 01033, Україна
+source:           UAEPP
+
+% Registrant:
+% ===========
+person:           not published
+person-loc:       not published
+organization-loc: not published
+e-mail:           not published
+address:          n/a
+address-loc:      not published
+phone:            not published
+fax:              not published
+mnt-by:           ua.imena
+status:           ok
+status:           linked
+created:          2014-04-02 21:47:18+03
+source:           UAEPP
+
+
+% Administrative Contacts:
+% =======================
+person:           not published
+person-loc:       not published
+organization-loc: not published
+e-mail:           not published
+address:          n/a
+address-loc:      not published
+phone:            not published
+fax:              not published
+mnt-by:           ua.imena
+status:           ok
+status:           linked
+created:          2014-04-02 21:47:19+03
+source:           UAEPP
+
+
+% Technical Contacts:
+% ===================
+person:           not published
+person-loc:       not published
+organization-loc: not published
+e-mail:           not published
+address:          n/a
+address-loc:      not published
+phone:            not published
+fax:              not published
+mnt-by:           ua.imena
+status:           ok
+status:           linked
+created:          2014-04-02 21:47:20+03
+source:           UAEPP
+
+
+
+% Query time:     3 msec
+

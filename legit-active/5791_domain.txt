@@ -1,0 +1,22 @@
+   Domain Name: OPENTABLE.COM
+   Registry Domain ID: 3095122_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2022-06-25T22:51:05Z
+   Creation Date: 1999-01-17T05:00:00Z
+   Registry Expiry Date: 2029-01-17T05:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: A1-93.AKAM.NET
+   Name Server: A11-66.AKAM.NET
+   Name Server: A12-67.AKAM.NET
+   Name Server: A13-64.AKAM.NET
+   Name Server: A28-65.AKAM.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:16:36Z 

@@ -1,0 +1,22 @@
+Domain Name: livinglegends.org.au
+Registry Domain ID: 52674c1bf3824731ae5b9ea469f25fad-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.crazydomains.com.au/contact/
+Last Modified: 2024-06-11T12:48:57Z
+Registrar Name: Web Address Registration Pty Ltd
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 8aa9d2601b584f8da4b5991e27e4f955-AU
+Registrant Contact Name: Andrew Clarke
+Tech Contact ID: a4f990caa25444b9846e54dac1384679-AU
+Tech Contact Name: Andrew Clarke
+Name Server: ns1.vodien.com
+Name Server: ns2.vodien.com
+Name Server: ns3.vodien.com
+DNSSEC: unsigned
+Registrant: THE INTERNATIONAL HOME OF REST FOR CHAMPION HORSES INCORPORATED
+Eligibility Type: Other
+>>> Last update of WHOIS database: 2025-03-28T01:06:10Z 

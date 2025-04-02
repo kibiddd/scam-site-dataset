@@ -1,0 +1,39 @@
+[Domain]
+Domain: inbox.lv
+Status: active
+
+[Holder]
+Type: Legal person
+Country: LV
+Name: INBOKSS, SIA
+Address: Matrozu iela 15, Riga, LV-1048, Latvija
+RegNr: 40003560720
+Visit: https://www.nic.lv/whois/contact/inbox.lv to contact.
+
+[Tech]
+Type: Natural person
+Visit: https://www.nic.lv/whois/contact/inbox.lv to contact.
+
+[Nservers]
+Nserver: ns1.inbox.lv
+Nserver: ns2.inbox.lv
+Nserver: ns3.inbokss.com
+
+[Whois]
+Updated: 2025-03-27T12:12:30.424800+00:00
+
+[Disclaimer]
+% The WHOIS service is provided solely for informational purposes.
+%
+% It is permitted to use the WHOIS service only for technical or administrative
+% needs associated with the operation of the Internet or in order to contact
+% the domain name holder over legal problems.
+%
+% Requestor will not use information obtained using WHOIS:
+% * To allow, enable or in any other way to support sending of unsolicited mails (spam)
+% * for any kind of advertising
+% * to disrupt Internet stability and security
+%
+% It is not permitted to obtain (including copying) or re-use in any form or
+% by any means all or quantitatively or qualitatively significant part
+% of the WHOIS without NIC's express permission.

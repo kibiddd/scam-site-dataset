@@ -1,0 +1,70 @@
+Domain Name: electionmapper.ca
+Registry Domain ID: 57357-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.namesilo.com
+Updated Date: 2021-08-15T23:41:44Z
+Creation Date: 2010-10-16T18:30:44Z
+Registry Expiry Date: 2026-10-16T18:30:44Z
+Registrar: NameSilo Technologies Corp.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: cira-abuse@namesilo.com
+Registrar Abuse Contact Phone: +1.6024928198
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 74936632-CIRA
+Registrant Name: Michael Rybacha
+Registrant Organization:
+Registrant Street: 1997 Parkway Blvd
+Registrant City: Coquitlam
+Registrant State/Province: BC
+Registrant Postal Code: V3E3J8
+Registrant Country: CA
+Registrant Phone: +1.6046449643
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: mrybacha@yahoo.ca
+Registry Admin ID: 74936632-CIRA
+Admin Name: Michael Rybacha
+Admin Organization:
+Admin Street: 1997 Parkway Blvd
+Admin City: Coquitlam
+Admin State/Province: BC
+Admin Postal Code: V3E3J8
+Admin Country: CA
+Admin Phone: +1.6046449643
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: mrybacha@yahoo.ca
+Registry Tech ID: 74936632-CIRA
+Tech Name: Michael Rybacha
+Tech Organization:
+Tech Street: 1997 Parkway Blvd
+Tech City: Coquitlam
+Tech State/Province: BC
+Tech Postal Code: V3E3J8
+Tech Country: CA
+Tech Phone: +1.6046449643
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: mrybacha@yahoo.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.davesnetwork.ca
+Name Server: ns2.davesnetwork.ca
+Name Server: ns3.davesnetwork.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T00:04:48Z 

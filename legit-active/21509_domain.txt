@@ -1,0 +1,24 @@
+   Domain Name: ICIMS.COM
+   Registry Domain ID: 11293135_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-11-08T00:25:22Z
+   Creation Date: 1999-10-13T23:18:29Z
+   Registry Expiry Date: 2026-04-15T23:41:20Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS-1251.AWSDNS-28.ORG
+   Name Server: NS-1898.AWSDNS-45.CO.UK
+   Name Server: NS-270.AWSDNS-33.COM
+   Name Server: NS-930.AWSDNS-52.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T22:04:24Z 

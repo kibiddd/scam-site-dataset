@@ -1,0 +1,18 @@
+   Domain Name: ETHEROFFICIAL.COM
+   Registry Domain ID: 2584935014_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.papaki.gr
+   Registrar URL: http://www.papaki.com
+   Updated Date: 2025-01-13T23:35:15Z
+   Creation Date: 2021-01-15T16:44:41Z
+   Registry Expiry Date: 2026-01-15T16:44:41Z
+   Registrar: Enartia Single Member S.A.
+   Registrar IANA ID: 1727
+   Registrar Abuse Contact Email: abuse@papaki.gr
+   Registrar Abuse Contact Phone: +30 211-800-2275
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS29.CRETAFORCE.GR
+   Name Server: NS30.CRETAFORCE.GR
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:16:06Z 

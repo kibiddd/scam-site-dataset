@@ -1,0 +1,633 @@
+Features - IT and Computing - ComputerWeekly.com
+Search the TechTarget Network
+Join CW+
+Login
+Register
+Cookies
+News
+In Depth
+Blogs
+Opinion
+Videos
+Photo Stories
+Premium Content
+Webinars
+Download 2024 IT salary survey
+RSS
+IT Management
+IT leadership & CW500
+IT architecture
+IT efficiency
+Governance
+Innovation
+Legislation & regulation
+Operations & support
+Project management
+Strategy
+Supplier management
+Business issues
+Sponsored Communities
+Industry Sectors
+Healthcare IT
+Charity IT
+Business services IT
+Financial services IT
+Government & public sector IT
+Leisure & hospitality IT
+Manufacturing IT
+Media & entertainment IT
+Retail IT
+SME IT
+Telecoms & internet
+Transport & travel IT
+Utilities IT
+IT suppliers
+Technology Topics
+Datacentre
+View All
+Clustering for high availability and HPC
+Containers
+Converged infrastructure
+Datacentre backup power and power distribution
+Datacentre capacity planning
+Datacentre cooling infrastructure
+Disaster recovery/security
+Green IT
+Performance, monitoring and optimisation
+Systems management
+DevOps
+IaaS
+Server and Operating Systems
+PaaS
+Virtualisation
+SaaS
+Desktop virtualisation platforms
+Enterprise software
+View All
+AI and automation
+Blockchain
+Business applications
+Business intelligence
+Cloud applications
+Collaboration
+CRM
+Database
+ERP
+Financial applications
+HR software
+Middleware
+Microservices
+Windows
+Mobile
+Open source
+Operating systems
+SOA
+Software development
+Software licensing
+Virtualisation
+Web software
+IT in Europe and Middle East
+View All
+IT in France
+IT in the Nordics
+IT in Benelux
+IT in Germany
+IT in Italy
+IT in Poland
+IT in Russia
+IT in Spain
+IT in the Middle East
+IT in Turkey
+Information Management
+View All
+Big data
+Business intelligence and analytics
+BPM
+Content management
+Database management
+Quality/governance
+Data warehousing
+MDM/Integration
+IT in Asia-Pacific
+View All
+IT in ASEAN
+IT in Australia & New Zealand
+IT in India
+Internet
+View All
+Cloud
+E-commerce
+Internet infrastructure
+Social media
+Web development
+IT skills
+View All
+Diversity in IT
+Training
+Jobs
+Management skills
+Technical skills
+Hardware
+View All
+Chips & processors
+Printers
+Storage
+Data centre
+Mobile
+Networking
+PC
+Servers
+IT security
+View All
+Antivirus
+Secure Coding and Application Programming
+Continuity
+Cloud security
+Data Breach Incident Management and Recovery
+Endpoint and NAC Protection
+Cybercrime
+IAM
+Risk management
+Network Security Management
+Data protection
+Compliance Regulation and Standard Requirements
+Security policy and user awareness
+Web Application Security
+IT services
+View All
+Cloud
+Consultancy
+Outsourcing
+Hosting
+Offshore
+Startups
+Mobile
+View All
+Laptop
+Mobile software
+Mobile networking
+Smartphone
+Tablet
+Networking
+View All
+Datacentre networking
+Internet of Things
+Mobile
+Network hardware
+Network monitoring and analysis
+Network routing and switching
+Network security strategy
+Network software
+Software-defined networking
+Telecoms networks and broadband communications
+Unified communications
+VoIP
+WAN performance and optimisation
+Wireless
+Storage
+View All
+AI and storage
+Cloud storage
+Containers and storage
+Data management
+Backup
+Compliance and storage
+Disaster recovery
+Flash and SSDs
+Hyper-convergence
+Object storage
+Disk systems
+Software-defined storage
+Storage switches
+Storage management
+Storage performance
+Tape storage
+Virtualisation and storage
+Please select a category
+Datacentre
+Enterprise software
+IT in Europe and Middle East
+Information Management
+IT in Asia-Pacific
+Internet
+IT skills
+Hardware
+IT security
+IT services
+Mobile
+Networking
+Storage
+Follow:
+ComputerWeekly.com.br
+ComputerWeekly.de
+ComputerWeekly.es
+LeMagIT.fr
+MicroScope.co.uk
+In Depth
+Latest Blog Posts
+SLM Series: Pryon - Mastering RAG implementation
+– CW Developer Network
+SLM series - Qodea: A jumpstart for multi-model AI strategies
+– CW Developer Network
+View All Blogs
+Download Computer Weekly
+In The Current Issue:
+Can a future digital NHS survive another change?
+Digital twins drive efficiency across machines and infrastructure
+Download Current Issue
+In Depth
+CIO interview: Sean Green, Birkbeck, University of London
+Birkbeck University interim CIO got a taste for the ‘exciting’ and ‘challenging’ role of a tech leader in higher education while in his previous role at the University of East Anglia
+Continue Reading
+Ethical qualms prompt challenging social media migrations
+Changing content moderation and artificial intelligence training practices means social media has undergone a fundamental shift in the past six months, presenting organisations and people migrating away from these platforms for ethical reasons with ...
+Continue Reading
+Cloud, colocation or on-premise? Consider all options
+When it comes to datacentres, every option should be considered
+Continue Reading
+Going beyond flexibility: How 5G Standalone is changing the future of business
+Recent deployments have shown what 5G Standalone networks can achieve, namely game-changing capabilities such as enhanced connectivity services, FWA, Massive IoT and private wireless networks
+Continue Reading
+Cinema is given a new lease of life by Danes and data
+Those who think that cinema is dying out are failing to see the full picture and move with the times, according to Danish entertainment company Nordisk Film
+Continue Reading
+VMware vSAN: What are the VM storage alternatives?
+Licensing changes mean VMware vSAN customers are considering whether to move to an alternative to vSAN for VMware storage or away from VMware altogether. We look at the options
+Continue Reading
+HPE storage battles hard and smart in challenging market
+Storage profile: We look at HPE, which has slipped in the storage supplier rankings, but brings a full range of AI-era storage over a mature cloud and consumption model offer
+Continue Reading
+Space and power constrain datacentre planning
+The government needs to tackle the resource issues that act as roadblocks to building out UK datacentre capacity
+Continue Reading
+Innovation strategy continues to deliver for Co-op
+Co-op Food innovation strategy ramps up as it launches rapid delivery grocery app to support independent retailers to serve online customers faster
+Continue Reading
+The way ahead: Getting IT sustainability initiatives back on track to net zero
+The past 12 months have seen a host of enterprises quietly scale back on their net-zero commitments, but are they overlooking the business benefits of embracing greener operations?
+Continue Reading
+Behind the scenes at Amazon UK’s robotic-powered warehouse
+Robots, automation, artificial intelligence and people power – Computer Weekly tours the tech-heavy Amazon warehouse in Swindon
+Continue Reading
+Norway says ‘no way’ to global financial crime
+Oslo’s startup ecosystem is fighting back against cyber criminals with tech to wipe out attacks rather than just detect them
+Continue Reading
+Dell still tops the pile as it deepens enterprise storage offer
+The US giant is top dog in revenue and market share as its storage array range – still largely EMC-derived – deepens its cloud, containers and as-a-service options
+Continue Reading
+VMware vSAN Max: What you need to know
+We look at VMware vSAN Max storage: its best use cases, how to deploy it and on what hardware, the alternatives, and considerations in light of VMware’s Broadcom takeover
+Continue Reading
+An action plan for net zero compatible with budget constraints
+Economic pressures mean we should think innovatively about emissions reduction, industry players tell Computer Weekly
+Continue Reading
+Kubernetes: Navigating the pitfalls and pathways to success
+Nutanix’s APAC chief technology officer outlines the lessons learned by enterprises adopting Kubernetes, from avoiding cloud lock-in to mastering lifecycle management, and bridging the gap between legacy and cloud-native skillsets
+Continue Reading
+The many ways AI can empower XR
+There is an almost ‘irresistible’ marriage between artificial intelligence and extended reality, yet while their combination will create benefits, there will also be some downsides
+Continue Reading
+Quantum computing in cyber security: A double-edged sword
+Scepticism still abounds, but quantum computing stocks have boomed this year. In the world of cyber, however, quantum brings both unprecedented capabilities and significant threats, demanding careful attention
+Continue Reading
+Digital twins extend to biological systems
+The use of digital twins in industrial, manufacturing and architectural firms is well known - now we can also include medical science, pharmaceutical research and agricultural management use cases
+Continue Reading
+The irresistible marriage of AI and XR
+Not long ago, the metaverse was on the lips of everyone in technological media. However, coverage has moved to the new technology darling of AI – but crucially, both technologies are synergistic
+Continue Reading
+AI models explained: The benefits of open source AI models
+In this guide, we explore how to get started with open source AI models and go over how they support your enterprise IT strategy
+Continue Reading
+RAG AI: ‘Do it yourself,’ says NYC data scientist
+New York City council data scientist says organisations should get their hands dirty with open source AI as his teams build AI apps to check for duplicates in legislative documents
+Continue Reading
+A path to better data engineering
+Data engineering requires expertise in programming and data management, and now IT leaders need to include large language models in their data strategy
+Continue Reading
+How Kingsland Drinks is raising a glass to industrial gains from Wi-Fi
+Discover how one of the UK’s premier independent suppliers of bulk wine and spirits goes about its business – from its origins in 1895 to its running of modern wireless networks
+Continue Reading
+The story behind Alps, Europe’s second largest computer
+The director of CSCS and professor of computational physics at ETH, Thomas Schulthess, explains the development of one of the world’s fastest supercomputers, Alps, in Switzerland
+Continue Reading
+UAE eyes quantum computing for financial services
+Middle East financial firms are investing heavily in quantum computing, with one of the world’s top quantum research centres in Abu Dhabi
+Continue Reading
+Skills required for data engineering success
+We look at what IT leaders can do to help untangle the numerous structured and unstructured data sources that exist in a modern enterprise
+Continue Reading
+Self-healing networks: The next evolution in network management
+The age of AI is highlighting the security risks and pitfalls of traditional network management techniques. Self-healing networks may offer a solution that not only bolsters security, but makes IT and network teams more efficient
+Continue Reading
+NRF review: no escaping AI for retail in 2025
+What themes will be seen in the retail tech space over the next year, according to the 2025 National Retail Federation’s Big Show?
+Continue Reading
+DACH’s venture capital prominence: an outlier, or the start of a golden age?
+The DACH region is attracting venture capital investment with startups in Austria and Switzerland benefiting, but will it be sustained?
+Continue Reading
+Quantum datacentre deployments: How they are supporting evolving compute projects
+Quantum datacentre deployments are emerging worldwide, so what are they and where are the benefits?
+Continue Reading
+All change: Weighing up the options for enterprises as open source licences evolve
+Software suppliers have been rowing back on open-source licensing. Will enterprises with datacentres have to change their software approach?
+Continue Reading
+Addressing the legacy: Modernising creaky cloud infrastructures for data benefits
+With so many enterprises reliant on outdated IT assets that lack resilience, where should organisations start with infrastructure modernisation projects?
+Continue Reading
+Forrester: Why digitisation needs strong data engineering skills
+How do enterprises become adaptive? If you can’t measure it responsively, you can’t manage it as an adaptive enterprise
+Continue Reading
+Where IT comes from: Behind the scenes at Pure Storage’s European R&D centre
+We look inside Pure Storage’s Prague research and development centre, where multi-year projects parallel real lifecycles of deployed hardware and the complexities that arise over time
+Continue Reading
+Where IT comes from: Pure Storage’s lean Czech assembly
+We look behind the scenes at Pure Storage’s Czechia assembly plant, where change is baked into processes to ensure products are built right and always improving
+Continue Reading
+EU law could usher in transformative change to digital ecosystems
+The EU’s Digital Fairness Act aims to end exploitative practices online and enhance consumer protection, but civil society groups say it must address the power and information asymmetries between users and tech firms
+Continue Reading
+The CMA anti-trust investigation into AWS and Microsoft explained: Everything you need to know
+After regulator Ofcom raised red flags about the anti-competitive behaviour of Amazon Web Services and Microsoft, the UK cloud market was referred to the Competition and Markets Authority – here’s why
+Continue Reading
+LGE gains mileage in smart automotive
+In part two of our look at how LGE plans to take its accumulated wealth of knowledge in its traditional business lines to the business sector, we explore the firm’s moves in the automotive sector
+Continue Reading
+VMware backup: Key decision points if you migrate away from VMware
+VMware’s pricing changes have spurred some organisations to move to new virtualisation environments, but they’ll need backing up. We look at the key points to consider
+Continue Reading
+Public cloud: Data sovereignty and data security in the UK
+We assess the impact of new regulations and government policy on the ability to use public cloud services
+Continue Reading
+Post Office Horizon scandal explained: Everything you need to know
+Computer Weekly has investigated the Post Office Horizon scandal since 2008 and is, in fact, part of the story. This guide contains essential information about the scandal
+Continue Reading
+Why run AI on-premise?
+Much of artificial intelligence’s rapid growth has come from cloud-based tools. But there are very good reasons to host AI workloads on-premise
+Continue Reading
+Clubcard at 30 – the evolution of retail loyalty
+When Tesco Clubcard was developed 30 years ago, using the technology of the time to analyse data was a long shot, but it grew into a scheme that birthed retail loyalty as we know it today
+Continue Reading
+EdgeNebula: The UK startup turning disused office spaces into micro-datacentres
+With the government committed to growing the number of UK datacentres, despite long-standing concerns about suitable sites and power availability, EdgeNebula thinks it might have the answer
+Continue Reading
+A guide to DORA compliance
+We look at the new EU regulation for cyber resiliency, the role of IT asset management in auditing and third-party risks
+Continue Reading
+Backup technology explained: The fundamentals of enterprise backup
+We look at backup and its role in enterprise data protection, including what to backup and how often, RPO and RTO, full and incremental, and if backups can be replaced by snapshots
+Continue Reading
+Third-party storage: Key storage supplier offers in big three clouds
+We look at storage supplier offerings available in the big three public clouds, their pros and cons, and key use cases
+Continue Reading
+Preparing for AI regulation: The EU AI Act
+The EU AI Act builds on existing cyber security, privacy and data governance regulations such as GDPR
+Continue Reading
+Will Europe be the first region to enact regulation for green software?
+There is currently no regulation in the world specific to the environmental impact of software, but Europe is expected to be the first region to enact regulation that enforces green software practices
+Continue Reading
+Nordic innovators drive the evolution of engagement
+Nothing is off limits for digitisation in the Nordic region, with startups applying their skills to even the most unexpected lifestyle and business challenges
+Continue Reading
+Digital twins drive efficiency across machines and infrastructure
+Digital twins of machines, facilities and infrastructures will create a portfolio of virtual representations that, in time, will connect to allow city planners and engineers to plan and monitor urban environments from the smallest features to its ...
+Continue Reading
+Digital twins map the world and guide strategic decisions
+Digital twins are seeing use in an increasing number of potential applications such as decision-making purposes with a focus on scenarios and potential dynamics to capture uncertainties and make them manageable
+Continue Reading
+Collaborative transport optimisation helps towards decarbonisation goals
+Real-life pilot projects show the potential, but industry mindset change is required to help retail and wholesale fleets drive major decarbonisation gains in the year ahead
+Continue Reading
+What is Dunelm doing for women in tech?
+A dedicated Women in Tech Week event, coffee roulette, and boosting knowledge, confidence and connections – the women in tech work at Dunelm is building momentum
+Continue Reading
+Navigating the practicalities of AI regulation and legislation
+What CIOs need to know about the global patchwork of existing and upcoming laws governing AI – and what CIOs need to be doing about them
+Continue Reading
+Zoom pursues the path to happiness through AI
+Pandemic-era breakout video comms and collaboration company makes pivot towards being an AI-first work platform
+Continue Reading
+Citius, altius, fortius, wireless: How Orange claimed Olympic gold
+How Olympic-sized networking nightmares were avoided in Paris despite unprecedented traffic peaks and usage patterns
+Continue Reading
+Big data and Google BigQuery improve cancer drug development by detecting bacteria
+Biotech firm BioCorteX uses what may be the world’s largest biological knowledge graph to understand how bacteria impact the effectiveness of cancer drugs
+Continue Reading
+Top 10 AI and storage stories of 2024
+In this 2024 review, we look at the impact of AI on data storage, what’s needed to support AI during training and inference, and storage suppliers’ responses to the rise of AI
+Continue Reading
+Google Cloud Platform: Key storage options in the Google Cloud
+We survey the key cloud storage offers available from GCP, which include Cloud Storage, Persistent Disk and Filestore, with a range of service levels and app-specific options
+Continue Reading
+Is diversity suffering because of budget management?
+Many are considering quitting their jobs over the next year because of rising workloads and falling team sizes. Are firms misallocating budgets and causing retention issues?
+Continue Reading
+From front to back: tech vice-president Dan Lake on Notonthehighstreet.com’s tech strategy
+Notonthehighstreet.com vice-president of technology, Dan Lake, says that the online marketplace has underinvested in back-end systems – but it’s time for change
+Continue Reading
+Oracle Java licensing explained: Addressing complexity, cost and audits
+Now that Oracle Java SE is sold as a subscription, organisations using the Oracle JDK have a minefield of licences to navigate
+Continue Reading
+AIOps and storage management: What it is and who provides it
+We look at AI-powered tools to manage storage and data protection that can help to detect infrastructure issues and help to optimise performance and even cloud costs
+Continue Reading
+Computer Weekly Buyer's Guide features list 2025
+Here is our 2025 schedule of up-and-coming in-depth articles that will cover carefully selected topics to help IT leaders select the right technology for their organisation
+Continue Reading
+Automated patch management: A proactive way to stay ahead of threats
+Timely patch management should be crucial in any organisation, but too often it goes by the wayside. Automating the process may offer a path forward for hard-pressed cyber defenders
+Continue Reading
+Cloud data lakes: Where do they fit and what are their benefits?
+We look at cloud data lakes, what they are, where they fit in the data management lifecycle, their benefits and the key providers in the hyperscaler clouds
+Continue Reading
+Could generative AI help to fill the skills gap in engineering?
+The role of artificial intelligence and machine learning in society continue to be hotly debated as the tools promise to revolutionise our lives, but how will they affect the engineering sector?
+Continue Reading
+Case study: Manchester Airports Group using AWS to revamp its data strategy
+Manchester Airports Group is using AWS technology to improve passenger experience through a revamp of its data strategy, as set out by the organisation's chief digital officer, Ryan Cant
+Continue Reading
+LGE looks to mean business with tech pivot
+Refusing to rest on its laurels as a giant in consumer electronics, LGE unveils plan to take accumulated wealth of knowledge to the business sector. We look at how and why this pivot is taking place and where it will drive the company
+Continue Reading
+IAM within the framework of defence in depth
+If it is deployed correctly, identity and access management is among the plethora of techniques that can help to secure enterprise IT
+Continue Reading
+Post Office Horizon IT scandal inquiry: Three years of shocking revelations
+Nearly three years of shocking revelations from the Post Office Horizon scandal inquiry
+Continue Reading
+Storage technology explained: Ransomware and storage and backup
+We look at ransomware attacks, and the importance of good backup practice as well as immutable snapshots, air-gapping, network segmentation, AI anomaly detection and supplier warranties
+Continue Reading
+Storage technology explained: Flash vs HDD
+In this guide, we examine the differences between flash storage and HDD, the rise of NVMe and much denser formats such as QLC, and whether or not flash will vanquish HDD in the all-flash datacentre
+Continue Reading
+The Loan Charge scandal explained: Everything you need to know
+Tens of thousands of IT contractors have been saddled with life-changing tax bills as a result of a controversial, retroactive government policy – and the fall-out from its introduction has been likened to the Post Office IT scandal
+Continue Reading
+Storage technology explained: What is S3 and what is it good for?
+We look at S3, AWS’s object storage protocol that originated in its cloud services and has now spread as near enough a standard and to third-party on-premise deployments
+Continue Reading
+Schools go smartphone-free to address online harms
+Schools are implementing smartphone-free policies in an attempt to curb students’ exposure to online harms, but teachers and parents are worried the Online Safety Act will only partially address concerns
+Continue Reading
+AWS storage: Key storage options in the Amazon cloud
+We survey the key cloud storage options available from AWS, which include S3 object storage and its options, block storage in EBS and a range of file storage choices
+Continue Reading
+IAM: Enterprises face a long, hard road to improve
+Poor identity and access management puts enterprise data at risk, but the path to stronger IAM remains complex
+Continue Reading
+Beyond VPNs: The future of secure remote connectivity
+As more companies adopt cloud services and remote work, the limitations of VPNs are becoming obvious. We explore what’s next for secure remote connectivity
+Continue Reading
+What are the security risks of bring your own AI?
+The rise of generative AI has led to a plethora of publicly accessible artificial intelligence tools, but what are the risks when external AI tools are used with corporate data?
+Continue Reading
+Storage explained: Consumption models of storage procurement
+We look at consumption models of storage purchasing and how cloud operating models have made them mainstream and supplanted the traditional three-year lift-and-shift datacentre refresh
+Continue Reading
+Virtual collaboration within and across industries – promises and challenges
+New technologies enable intuitive and realistic visual and auditory landscapes that put users within applications. We look at which industries will likely illustrate the impact of virtual collaboration in commercial environments
+Continue Reading
+Data classification: What, why and who provides it
+You need to know where your data is, what it is, its governance requirements and relationship to the rest of your data. We look at data classification and how AI can help
+Continue Reading
+Rewiring Whitehall: The next steps in digital government
+There’s a new government in place with fresh impetus to accelerate the digital transformation of public services – but what’s going to be different, better and more successful this time around?
+Continue Reading
+Kenyan workers win High Court appeal to take Meta to trial
+Despite the company arguing that Kenyan courts have no jurisdiction over an American company, the Nairobi High Court has ruled that Meta must face more than 180 content moderators and data labellers in court over allegedly poor working conditions, ...
+Continue Reading
+Detect ransomware in storage to act before it spreads
+Anomaly detection and immutable copies can be frontline tools against ransomware – we look at the role storage can play against the latest techniques employed by ransomware gangs
+Continue Reading
+Forrester: Tips for choosing a UCaaS provider
+Forrester analysts assess the various options and licensing arrangements available for unified comms-as-a-service offerings
+Continue Reading
+What are tensor processing units and what is their role in AI?
+We look at Google’s TPUs – tensor processing units – and ask what makes them different to CPUs, GPUs and DPUs, as well as how you can take advantage of them in AI processing
+Continue Reading
+Reinventing security operations for the modern threat landscape
+The growing pace of digital transformation has opened new avenues for attackers, making traditional security measures obsolete. Organisations must modernise their security operations to fortify their defences and navigate the evolving threat ...
+Continue Reading
+The future of collaboration in virtuality
+The internet has introduced a host of applications to enable increasingly sophisticated collaboration across distances. Email catapulted economies into near real-time cooperation of teams, but new technologies promise to unleash immersive ...
+Continue Reading
+Global file systems: A single view of on-premise and cloud data
+Global file systems aggregate data into a single hybrid cloud from multiple locations using object storage with access that satisfies traditional application needs, like file locking
+Continue Reading
+Azure storage: Key options in Microsoft cloud storage
+We survey the key cloud storage options available from Microsoft Azure, which include Files, Blob, Elastic SAN, Managed Disk and NetApp files, for a range of use cases
+Continue Reading
+What the datacentre industry would like to see from the government's planning reforms
+How can datacentre policy and planning reform better reflect the criticality of both energy and data?
+Continue Reading
+Datacentre power purchase agreements: Are they the right way to lower emissions?
+Could datacentre energy procurement do even more to green the grid, accelerating the rise in renewables?
+Continue Reading
+How datacentres can turn the tide on carbon emissions
+Operators have revealed troubling increases in their carbon emissions of late, but could these have been prevented?
+Continue Reading
+Why responsible AI is a business imperative
+Tools are emerging for real-world AI systems that focus more on responsible adoption, deployment and governance, rather than academic and philosophical questions about speculative risks
+Continue Reading
+Shrinking the carbon footprint of datacentres
+The digital economy is increasing demand for datacentres, and in turn pushing up the use of power and cooling. Granular metrics are key to achieving digitisation with a low environmental impact
+Continue Reading
+How to keep datacentres cool
+We look at how datacentre cooling is developing, and how the right choice can increase capacity and cut costs
+Continue Reading
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Latest TechTarget resources
+CIO
+Security
+Networking
+Data Center
+Data Management
+Search CIO
+How can quantum computers be used in healthcare?
+Commercial products are few, and wide availability is probably a few years away, but lab research and prototypes show progress in...
+When will quantum computing be available? It depends
+Quantum computing availability timelines depend on who is measuring and how they interpret 'availability.' Varied definitions ...
+FTC commissioners fired as federal agencies face reckoning
+The FTC, IRS and other federal agencies providing business oversight face policy shifts and restructuring measures under ...
+Search Security
+3 types of deepfake detection technology and how they work
+Think you're talking to your boss on Zoom? You might want to think again. Deepfake technology has already cost enterprises ...
+Cloudflare unveils tools for safeguarding AI deployment
+The cybersecurity vendor's new suite helps businesses, developers and content creators deploy AI technology at scale safely and ...
+How to calculate the cost of a data breach
+An effective risk management policy can help companies determine the best ways to offset the costs associated with a data breach ...
+Search Networking
+How to ensure network performance and reliability
+Network reliability is critical to network performance. Network administrators should follow reliability best practices to ...
+Wi-Fi 6 vs. Wi-Fi 6E vs. Wi-Fi 7: What are the differences?
+Wi-Fi standards continue to evolve. The three most recent standards -- Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 -- build on each other's ...
+How to avoid duplicate IP addresses in a network
+Duplicate IP addresses can cause serious network issues. Learn how to avoid duplicate IP addresses with effective IP tracking, ...
+Search Data Center
+6 sustainable resources to power data centers
+Data centers are using clean energy to sustainably run parts of the facility. Six sustainable energy options to consider are ...
+8 IaC configuration file editors for admins to consider
+Configuration files are essential for app and OS functionality but managing them at scale can be challenging. Here are eight ...
+Tidal energy for data centers: A sustainable power option
+Tidal energy offers a sustainable and dependable power source for data centers. It reduces carbon emissions and operational costs...
+Search Data Management
+Coalesce acquires data catalog upstart to aid transformation
+After raising $50 million in venture capital funding in 2024, the startup acquired CastorDoc to add AI-powered data catalog ...
+Confluent launches Tableflow to ease use of streaming data
+The vendor's new feature enables users to convert event data to tables that developers and engineers can search and discover to ...
+AWS unifies analytics and AI development in SageMaker
+In a move that brings previously disparate analytics and AI development tasks together in one environment with data management, ...
+About Us
+Editorial Ethics Policy
+Meet The Editors
+Contact Us
+Our Use of Cookies
+Advertisers
+Business Partners
+Media Kit
+Corporate Site
+Contributors
+Reprints
+Answers
+E-Products
+Events
+In Depth
+Guides
+Opinions
+Quizzes
+Photo Stories
+Tips
+Tutorials
+Videos
+Computer Weekly Topics
+All Rights Reserved,
+Copyright 2000 - 2025, TechTarget
+Privacy Policy
+Cookie Preferences
+Cookie Preferences
+Do Not Sell or Share My Personal Information
+Close

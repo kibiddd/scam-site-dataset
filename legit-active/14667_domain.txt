@@ -1,0 +1,18 @@
+   Domain Name: LEWISATHOME.COM
+   Registry Domain ID: 1551333606_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domain.com
+   Registrar URL: http://www.domain.com
+   Updated Date: 2025-03-16T08:34:42Z
+   Creation Date: 2009-04-05T20:47:20Z
+   Registry Expiry Date: 2026-04-05T20:47:20Z
+   Registrar: Domain.com, LLC
+   Registrar IANA ID: 886
+   Registrar Abuse Contact Email: compliance@domain-inc.net
+   Registrar Abuse Contact Phone: 602-226-2389
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: FRED.NS.CLOUDFLARE.COM
+   Name Server: ROSE.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:59:52Z 

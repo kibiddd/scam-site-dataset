@@ -1,0 +1,17 @@
+   Domain Name: HRIS-LINTASMEDIATAMA.COM
+   Registry Domain ID: 2205546155_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.hostinger.com
+   Registrar URL: http://www.hostinger.com
+   Updated Date: 2025-01-02T09:42:06Z
+   Creation Date: 2017-12-28T11:34:38Z
+   Registry Expiry Date: 2025-12-28T11:34:38Z
+   Registrar: HOSTINGER operations, UAB
+   Registrar IANA ID: 1636
+   Registrar Abuse Contact Email: abuse-tracker@hostinger.com
+   Registrar Abuse Contact Phone: +37064503378
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DNS-PARKING.COM
+   Name Server: NS2.DNS-PARKING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:00:02Z 

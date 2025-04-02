@@ -1,0 +1,71 @@
+Domain Name: n49.ca
+Registry Domain ID: D42161-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: webnames.ca
+Updated Date: 2025-01-24T16:02:12Z
+Creation Date: 2000-11-10T15:57:49Z
+Registry Expiry Date: 2025-12-01T05:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email: abuse@webnames.ca
+Registrar Abuse Contact Phone: +1.8662217878
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R262469-CIRA
+Registrant Name: N49 Interactive Inc.
+Registrant Organization:
+Registrant Street: 505 Eglinton Ave. W.,  Suite 402
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5N1B1
+Registrant Country: CA
+Registrant Phone: +1.4163852433
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: domains@n49.com
+Registry Admin ID: C1312345-CIRA
+Admin Name: Rick Silver
+Admin Organization: N49 Interactive Inc.
+Admin Street: 505 Eglinton Ave. W.,  Suite 402
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5N1B1
+Admin Country: CA
+Admin Phone: +1.4163852433
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: domains@n49.com
+Registry Tech ID: C2081941-CIRA
+Tech Name: Rick Silver
+Tech Organization: N49 Interactive Inc.
+Tech Street: 505 Eglinton Ave. W.,  Suite 402
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5N1B1
+Tech Country: CA
+Tech Phone: +1.4163852433
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: domains@n49.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns-1189.awsdns-20.org
+Name Server: ns-1976.awsdns-55.co.uk
+Name Server: ns-365.awsdns-45.com
+Name Server: ns-591.awsdns-09.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T15:00:33Z 

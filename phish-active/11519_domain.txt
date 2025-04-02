@@ -1,0 +1,11 @@
+Domain Name: i7f.cn
+ROID: 20200807s10001s30540050-cn
+Domain Status: ok
+Registrant: 金加晋
+Registrant Contact Email: 875358601@qq.com
+Sponsoring Registrar: 阿里巴巴云计算（北京）有限公司
+Name Server: dns21.hichina.com
+Name Server: dns22.hichina.com
+Registration Time: 2020-08-07 04:02:56
+Expiration Time: 2025-08-07 04:02:56
+DNSSEC: unsigned

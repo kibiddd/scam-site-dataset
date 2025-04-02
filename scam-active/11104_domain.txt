@@ -1,0 +1,17 @@
+   Domain Name: NOVARESERVS.COM
+   Registry Domain ID: 2952142700_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gname.com
+   Registrar URL: http://www.gname.com
+   Updated Date: 2025-01-20T07:36:56Z
+   Creation Date: 2025-01-20T07:30:03Z
+   Registry Expiry Date: 2026-01-20T07:30:03Z
+   Registrar: Gname.com Pte. Ltd.
+   Registrar IANA ID: 1923
+   Registrar Abuse Contact Email: complaint@gname.com
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: LINDA.NS.CLOUDFLARE.COM
+   Name Server: TONY.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:47:52Z 

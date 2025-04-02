@@ -1,0 +1,19 @@
+   Domain Name: ANTIESSAYS.COM
+   Registry Domain ID: 77067378_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domainsite.com
+   Registrar URL: http://www.name.com
+   Updated Date: 2024-08-08T15:15:46Z
+   Creation Date: 2001-09-09T00:36:50Z
+   Registry Expiry Date: 2025-09-09T00:36:50Z
+   Registrar: DomainSite, Inc.
+   Registrar IANA ID: 466
+   Registrar Abuse Contact Email: abuse@name.com
+   Registrar Abuse Contact Phone: +1.7203101849
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1325.AWSDNS-37.ORG
+   Name Server: NS-1939.AWSDNS-50.CO.UK
+   Name Server: NS-598.AWSDNS-10.NET
+   Name Server: NS-93.AWSDNS-11.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:37:21Z 

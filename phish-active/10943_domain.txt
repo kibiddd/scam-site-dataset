@@ -1,0 +1,58 @@
+Domain Name: hampers.ng
+Registry Domain ID: 1173620-NIRA
+Registrar URL: https://www.upperlink.ng
+Updated Date: 2024-10-09T12:27:30Z
+Creation Date: 2018-09-17T15:51:24Z
+Registry Expiry Date: 2025-09-17T15:51:24Z
+Registrar Registration Expiration Date: 2025-09-17T15:51:24Z
+Domain Status: active https://icann.org/epp#active
+Registrar: Upperlink Limited
+Registrar IANA ID: 1749
+Registrar Address: ASSBIFI House (2nd Floor), ASSBIFI Road, Alausa CBD, Ikeja, Lagos.
+Registrar Country: NG
+Registrar Abuse Contact Email: info@upperlink.ng
+Registrar Abuse Contact Phone: 
+Registry Registrant ID: 1217685-NIRA
+Registrant Name: Oluwaseun Daniels
+Registrant Organization: Example Inc.
+Registrant Street: 291, Ikorodu Road, Maryland, Lagos
+Registrant City: Lagos
+Registrant State/Province: Lagos
+Registrant Postal Code: 110001
+Registrant Country: NG
+Registrant Phone: +0 8121449136
+Registrant Email: sfedaniels@gmail.com
+Registry Admin ID: 1217684-NIRA
+Admin Name: Oluwaseun Daniels
+Admin Organization: 
+Admin Street: 291, Ikorodu Road, Maryland, Lagos
+Admin City: Lagos
+Admin State/Province: Lagos
+Admin Postal Code: 110001
+Admin Country: NG
+Admin Phone: +0 8121449136
+Admin Email: sfedaniels@gmail.com
+Registry Tech ID: 1217684-NIRA
+Tech Name: Oluwaseun Daniels
+Tech Organization: 
+Tech Street: 291, Ikorodu Road, Maryland, Lagos
+Tech City: Lagos
+Tech State/Province: Lagos
+Tech Postal Code: 110001
+Tech Country: NG
+Tech Phone: +0 8121449136
+Tech Email: sfedaniels@gmail.com
+Registry Billing ID: 1217684-NIRA
+Billing Name: Oluwaseun Daniels
+Billing Organization: 
+Billing Street: 291, Ikorodu Road, Maryland, Lagos
+Billing City: Lagos
+Billing State/Province: Lagos
+Billing Postal Code: 110001
+Billing Country: NG
+Billing Phone: +0 8121449136
+Billing Email: sfedaniels@gmail.com
+Name Server: ns1.upperserver29.com
+Name Server: ns2.upperserver29.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2025-03-27T13:58:02.642Z 

@@ -1,0 +1,17 @@
+   Domain Name: YOUR-FAMILY-HISTORY.COM
+   Registry Domain ID: 807202059_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.123-reg.co.uk
+   Registrar URL: http://www.meshdigital.com
+   Updated Date: 2024-04-18T08:25:52Z
+   Creation Date: 2007-02-10T22:54:15Z
+   Registry Expiry Date: 2028-02-10T22:54:15Z
+   Registrar: 123-Reg Limited
+   Registrar IANA ID: 1515
+   Registrar Abuse Contact Email: abuse@123-reg.co.uk
+   Registrar Abuse Contact Phone: +44.3454502310
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: CARTER.NS.CLOUDFLARE.COM
+   Name Server: MEGAN.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:33:48Z 

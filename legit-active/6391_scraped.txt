@@ -1,0 +1,16 @@
+Big Joe Mufferaw
+');
+}
+var S;
+S=topJS();
+SLoad(S);
+//-->
+Sample Big Joe Mufferaw Worksheet
+Reading Comprehension Worksheets
+edHelper.com Subscribers:
+Build a printable worksheet with the complete story and puzzles
+Build a proofreading activity
+Big Joe Mufferaw
+By Sandra Wilson
+1     Big Joe Mufferaw is a giant of a man. He is a folk hero of Ontario, a giant lumberjack whose feats have led to many tall tales. 2     Joseph Montferrand was a French-Canadian lumberjack that lived in the Ottawa valley in the early 1800s. Joseph was a strong defender of French-Canadian rights which earned him local hero status. Many years later, Joseph's actions were exaggerated into the tall tales of Big Joe Mufferaw, a book written by author Bernie Bedore. Later his legend became a song by Stompin' Tom Connors. 3     Legend has Big Joe paddling to Ottawa from his home in Mattawa in just one day. He is also said to have created the Rideau Canal by a path he wore walking back and forth to his girlfriend's house. He also built Mount St. Pat, and put out a fire from half an hour away with five spitballs.Paragraphs 4 to 5:For the complete story with questions: click here for printable
+Copyright © 2007 edHelper

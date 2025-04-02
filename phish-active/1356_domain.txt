@@ -1,0 +1,34 @@
+Domain Name: short.gy
+Registry Domain ID: 1867713-CoCCA
+Registrar WHOIS Server: https://whois.gandi.net
+Registrar URL: https://www.gandi.net
+Updated Date: 2024-11-18T15:09:24Z
+Creation Date: 2021-01-21T10:52:32Z
+Registry Expiry Date: 2026-01-21T10:52:33Z
+Registrar Registration Expiration Date: 2026-01-21T10:52:33Z
+Registrar: Gandi SAS
+Registrar IANA ID: 81
+Registrar Street Address: 63-65 boulevard Massena
+Paris  75013
+Registrar Email: reg.cocca-admin@gandi.net
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 1867712-CoCCA
+Registry Admin ID: 1867712-CoCCA
+Admin Street: 1000 N West st
+Admin City: Wilmington
+Admin State/Province: DE
+Admin Postal Code: 19801
+Admin Country: 
+Registry Tech ID: 1867712-CoCCA
+Tech Street: 1000 N West st
+Tech City: Wilmington
+Tech State/Province: DE
+Tech Postal Code: 19801
+Tech Country: 
+Name Server: ns-792.awsdns-35.net
+Name Server: ns-1930.awsdns-49.co.uk
+Name Server: ns-243.awsdns-30.com
+Name Server: ns-1448.awsdns-53.org
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T17:42:10.597Z 

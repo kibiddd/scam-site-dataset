@@ -1,0 +1,18 @@
+   Domain Name: VCTECHNIC.COM
+   Registry Domain ID: 1919932894_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.pavietnam.vn
+   Registrar URL: http://www.pavietnam.vn
+   Updated Date: 2021-03-16T04:20:07Z
+   Creation Date: 2015-04-15T09:05:10Z
+   Registry Expiry Date: 2026-04-15T09:05:10Z
+   Registrar: P.A. Viet Nam Company Limited
+   Registrar IANA ID: 1649
+   Registrar Abuse Contact Email: abuse@pavietnam.vn
+   Registrar Abuse Contact Phone: +84.2873019954
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.PAVIETNAM.VN
+   Name Server: NS2.PAVIETNAM.VN
+   Name Server: NSBAK.PAVIETNAM.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:18:22Z 

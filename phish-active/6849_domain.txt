@@ -1,0 +1,17 @@
+   Domain Name: DHL-PAKETSHOP.COM
+   Registry Domain ID: 2952771110_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.donweb.com
+   Registrar URL: http://www.donweb.com
+   Updated Date: 2025-02-11T11:05:05Z
+   Creation Date: 2025-01-22T16:05:23Z
+   Registry Expiry Date: 2026-01-22T16:05:23Z
+   Registrar: Dattatec Corp
+   Registrar IANA ID: 1388
+   Registrar Abuse Contact Email: abuse@donweb.com
+   Registrar Abuse Contact Phone: +54.01152388127
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1-DOMINIO-SUSPENDIDO.TRAXHOST.COM
+   Name Server: NS2-DOMINIO-SUSPENDIDO.TRAXHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:24:40Z 

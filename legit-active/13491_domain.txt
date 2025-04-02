@@ -1,0 +1,18 @@
+   Domain Name: MIDTEXMAPPING.COM
+   Registry Domain ID: 31496804_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.squarespace.domains
+   Registrar URL: http://domains2.squarespace.com
+   Updated Date: 2025-01-19T02:30:02Z
+   Creation Date: 2000-07-17T21:41:22Z
+   Registry Expiry Date: 2025-07-17T21:41:22Z
+   Registrar: Squarespace Domains II LLC
+   Registrar IANA ID: 895
+   Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+   Registrar Abuse Contact Phone: +1.6466935324
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.MY-TSS.COM
+   Name Server: NS2.MY-TSS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:04:58Z 

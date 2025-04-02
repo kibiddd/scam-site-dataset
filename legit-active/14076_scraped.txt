@@ -1,0 +1,130 @@
+SIGHTINGS    SIGHTINGS     Phages: Bacteria-Killing
+Viruses May Fight For
+Humankind Again
+By Brendan I. Koerner www.bbc.co.uk/horizon/virustran.shtml 10-25-98        Before penicillin became the medical
+world's darling, crusading doctors crisscrossed the globe armed with bacteriophagesbacteria-killing
+viruses that, when administered to diseased patients via injection or potion,
+could be powerful healers. First discovered at France's Pasteur Institute
+in 1917, phages were considered medicine's most promising panacea for an
+array of nasty diseases until antibiotics debuted in the 1940s. Drugs such
+as penicillin seemed infallible, while phages, their biologies poorly understood,
+were hit or miss. The once celebrated viruses slipped into oblivion.
+Now, a half century after being cast
+aside, phages are getting a second look, as a weapon against "superbugs"
+that have developed resistance to antibiotics. Bacteria such as staphylococcus,
+enterococcus, and streptococcus, once considered licked, are re-emerging
+as prolific killers; many of the nearly 90,000 Americans who died of hospital-acquired
+infections last year were affected by antibiotic-resistant strains.
+In April 1996, Nobel laureate Joshua
+Lederberg, an authority on infectious diseases, helped revive interest
+in phages with an upbeat commentary in the Proceedings of the National
+Academy of Sciences, which declared that in light of the shortcomings of
+antibiotics, there "should be a renascence of study of bacteriophages."
+This past July, the biennial Evergreen International Phage Meeting at Evergreen
+State College in Olympia, Wash., for the first time attracted several large
+biotechnology companies, including industry giant 3M. "In the scientific
+community, when people hear 'phage therapy,' they think, 'Oh, that doesn't
+work,' " says Elizabeth Kutter, the Evergreen State biophysicist who
+organized the meeting. "It's an ingrained prejudice. But there's a
+large body of evidence that suggests that this is really a viable approach."
+Phages, which are about 1/40th the size
+of most bacteria, are perhaps the simplest, most abundant organisms on
+Earth, thriving wherever bacteria growin raw sewage, in our bodies, in
+the oceans, and nearly everywhere else. Their extraterrestrial appearancesgene-filled
+heads, narrow tails, and spiderlike legsserve them well in their role as
+nature's rudest houseguests. Using their legs to grip the surface of a
+bacterium, phages bore in with their tails and inject genetic material
+into the cell. These genes force the host to produce copies of the phage;
+eventually, so many "daughters" are producedmore than 100 in
+30 minutesthat they burst the cell wall, destroying the bacterium. The
+newborn phages then travel forth to adjacent bacteria, repeating their
+invasion until there are no hosts left to slaughter.
+Bubonic plague. It is a process that
+Canadian microbiologist Félix d'Hérelle hoped could be harnessed
+to combat the world's most vicious ailments. While researching dysentery
+in Paris in 1917, d'Hérelle stumbled upon phages, which he observed
+decimating a colony of bacteria. As a health officer with the League of
+Nations a decade later, he traveled through India and the Middle East using
+the viruses to treat everything from simple infections to bubonic plague.
+Pharmaceutical titan Eli Lilly listed phage liquids in its product catalog
+in the 1930s, and Sinclair Lewis's Pulitzer Prize-winning 1925 novel Arrowsmith
+featured a d'Hérelle-like doctor who used phages.
+But failures were far too common. D'Hérelle
+and his peers lacked the technology, such as high-speed centrifuges, to
+rid their preparations of biological debris, which can render solutions
+toxic. More important, they didn't understand phages' extreme pickiness.
+"An advantage of antibiotics is that they're broad spectrum, against
+many different species and genera of bacteria," says Richard Carlton,
+president of Exponential Biotherapies, a New York-based biotech firm that
+is trying to develop phage-therapy products. But each phage has a taste
+for a very specific targetsomething that pre-World War II researchers didn't
+know.
+Although Western medicine largely abandoned
+phage therapy, work continued in the former Soviet Union. In 1934, d'Hérelle
+had traveled to Tbilisi, capital of present-day Georgia, to help found
+the Eliava Institute of Bacteriophage, Microbiology, and Virology. Researchers
+there slowly figured out which phages kill which bacteria, and new technology
+allowed them to purify their concoctions. The institute claims impressive
+success ratesaccording to one 1985 study, for example, the institute's
+phages are 80 percent effective against enterococcus, which can spur fatal
+heart-valve infections.
+Few of the studies done in Tbilisi have
+been scrutinized by Westerners, and the former Soviet Union's less rigorous
+approach to clinical trials troubles U.S. researchers. But many feel that
+there must be some merit to the Georgians' work. "One can't propagate
+a myth forever without having some results," says Ian Molineux, a
+phage biology researcher at the University of TexasAustin.
+Entrepreneurs. The encouraging tales
+from Georgia have motivated some stateside researchers to once again try
+to develop therapeutic applications of phages. Next year, for example,
+Exponential Biotherapies hopes to begin clinical trials on a phage product
+that attacks a strain of enterococcus resistant to vancomycin, the current
+antibiotic of last resort. Phage Therapeutics, a Bothell, Wash., start-up
+developing a treatment against Staphylococcus aureus, also aims to launch
+clinical trials in 1999. Evergreen State's Kutter estimates that phages
+might be used in American hospitals "when nothing else works"
+within three to five years.
+Though modern know-how may help scientists
+avoid d'Hérelle's mistakes, most of them are not ready to declare
+phages the ultimate remedy. "There has been too much hyperbole and
+far too few well-controlled experiments," says Molineux. Jim Bull,
+an evolutionary geneticist at the University of TexasAustin, has worked
+with Bruce Levin, a biology professor at Emory University, to treat mice
+infected with fatal doses of E. coli. In one experiment, infected mice
+treated with phages had a 92 percent survival rate, compared with 33 percent
+for those receiving the antibiotic streptomycin. Still, Bull doesn't mind
+calling himself skeptical. "It sounds simple to let a phage attack
+something," he says, "but the complexities of infection inside
+our bodies may get in the way of making that as easy as we'd like to think."
+For instance, bacteria can "hide out" inside cells where phages
+can't reach.
+As in d'Hérelle's time, phage
+finickiness is also problematic. Even though researchers may now know which
+phages attack which bacteria, life-threatening illnesses usually allow
+precious little time to culture and identify the strain causing the infection.
+"If we're expecting a series of infections due to a single bacterial
+strainif there's one strain sweeping through a hospitalwe may be able to
+treat that without diagnosing the bug," says Bull. Otherwise, tests
+to determine which phage is needed might take too long.
+Another big question regarding the treatment
+is whether phage-resistant bacteria will develop. Phage advocates concede
+that resistance is a concern, and many supporters preach moderation, pointing
+out that overuse was antibiotics' downfall. "This could be an extremely
+valuable tool," says Carlton, "and it should be used only as
+a tool of last resort."
+Carl Merril, chief of the Laboratory
+of Biochemical Genetics at the National Institute of Mental Health and
+a collaborator with Exponential Biotherapies, believes that resistance
+is inevitable. But he adds that given medicine's current crisis, future
+roadblocks do not justify a slowdown in research. "Bacteria will mutate
+and become resistant to anything you do," he says. "In the meantime,
+we'll save a hell of a lot of lives."
+Superbugs, superenemies
+Phages might soon be used against antibiotic-resistant
+strains of these deadly bacteria.
+Enterococcus. Vancomycin-resistant strains
+can infect the bloodstream, skin, wounds, and heart valves.
+Staphylococcus. The nation's No. 1 cause
+of hospital-acquired infections.
+Pseudomonas. Highly adaptable, it attacks
+the respiratory tracts of cystic fibrosis, burn, and cancer patients.           SIGHTINGS HOMEPAGE

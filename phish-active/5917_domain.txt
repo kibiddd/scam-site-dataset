@@ -1,0 +1,37 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T20:10:38-03:00 - 2a09:bac5:c82e:166e::23c:aa
+
+domain:      companhiaitaunense.com.br
+owner:       COMPANHIA ITAUNENSE ENERGIA E PARTICIPACOES EM REC
+ownerid:     21.254.073/0001-80
+responsible: COMPANHIA ITAUNENSE ENERGIA E PARTICIPAC
+country:     BR
+owner-c:     UAMAG
+tech-c:      UAMAG
+nserver:     ns1.esolutewebhost.com.br
+nsstat:      20250322 AA
+nslastaa:    20250322
+nserver:     ns2.esolutewebhost.com.br
+nsstat:      20250322 AA
+nslastaa:    20250322
+saci:        yes
+created:     20180820 #18712135
+changed:     20230628
+expires:     20250820
+status:      published
+
+nic-hdl-br:  UAMAG
+person:      Uanderson Magalh�es
+e-mail:      uanderson.magalhaes@esolutebrasil.com.br
+country:     BR
+created:     20080502
+changed:     20240129
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

@@ -1,0 +1,17 @@
+   Domain Name: QPOINTSURVEY.COM
+   Registry Domain ID: 1858464121_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.joker.com
+   Registrar URL: http://www.joker.com
+   Updated Date: 2021-05-17T07:36:02Z
+   Creation Date: 2014-05-13T09:42:05Z
+   Registry Expiry Date: 2025-05-13T09:42:05Z
+   Registrar: CSL Computer Service Langenbach GmbH d/b/a joker.com
+   Registrar IANA ID: 113
+   Registrar Abuse Contact Email: abuse@joker.com
+   Registrar Abuse Contact Phone: +49.21186767447
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: CHERYL.NS.CLOUDFLARE.COM
+   Name Server: ELLIOT.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:46:37Z 

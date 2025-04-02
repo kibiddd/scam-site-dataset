@@ -1,0 +1,19 @@
+   Domain Name: 321GOLD.COM
+   Registry Domain ID: 30634287_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namejuice.com
+   Registrar URL: http://www.namejuice.com
+   Updated Date: 2023-07-25T19:36:21Z
+   Creation Date: 2000-06-30T16:38:22Z
+   Registry Expiry Date: 2030-06-30T16:38:22Z
+   Registrar: BRANDON GRAY INTERNET SERVICES INC. (dba "NameJuice.com")
+   Registrar IANA ID: 636
+   Registrar Abuse Contact Email: abuse@namejuice.com
+   Registrar Abuse Contact Phone: +1.9054152681
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1246.AWSDNS-27.ORG
+   Name Server: NS-125.AWSDNS-15.COM
+   Name Server: NS-1841.AWSDNS-38.CO.UK
+   Name Server: NS-515.AWSDNS-00.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T15:58:28Z 

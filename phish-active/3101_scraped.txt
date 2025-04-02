@@ -1,0 +1,5 @@
+ï»¿
+Confirm your account to start download!
+Invalid password! Please enter correct details.
+The account does not exist. Enter a different account!
+Download

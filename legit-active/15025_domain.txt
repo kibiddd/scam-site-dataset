@@ -1,0 +1,63 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: CASE.EDU
+
+Registrant:
+	Case Western Reserve University
+	10900 Euclid Avenue
+	Crawford Hall, Room 426 Attn: Jeff Gumpf
+	Cleveland, OH 44106
+	USA
+
+Administrative Contact:
+	Jeffrey Gumpf
+	Case Western Reserve University
+	Information Technology Services
+	Crawford Hall, Room 426 Attn: Jeff Gumpf
+	Cleveland, OH 44106
+	USA
+	+1.2163685893
+	jeffrey.gumpf@case.edu
+
+Technical Contact:
+	Debra Andrews
+	Case Western Reserve University
+	Information Technology Services
+	Crawford Hall, Room 416 Attn: Debra Andrews
+	Cleveland, OH 44106
+	USA
+	+1.2163681253
+	dnd@case.edu
+
+Name Servers:
+	NS2.CWRU.EDU
+	NS6.OAR.NET
+	NS5.OAR.NET
+	NS7.OAR.NET
+	NS4.OAR.NET
+	NS.CWRU.EDU
+	NS3.CWRU.EDU
+
+Domain record activated:    25-Jun-1998
+Domain record last updated: 09-Jul-2024
+Domain expires:             31-Jul-2025

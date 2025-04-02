@@ -1,0 +1,17 @@
+   Domain Name: CRAIGMARLATT.COM
+   Registry Domain ID: 65464854_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.whc.ca
+   Registrar URL: http://whc.ca
+   Updated Date: 2025-02-24T11:21:28Z
+   Creation Date: 2001-03-01T16:26:06Z
+   Registry Expiry Date: 2026-03-01T16:26:06Z
+   Registrar: WHC Online Solutions Inc.
+   Registrar IANA ID: 938
+   Registrar Abuse Contact Email: regcompliance@whc.ca
+   Registrar Abuse Contact Phone: +1.5145042113
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.WHC.CA
+   Name Server: NS2.WHC.CA
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T15:00:08Z 

@@ -1,0 +1,17 @@
+   Domain Name: ATSDATABASE.COM
+   Registry Domain ID: 139123570_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2022-12-08T19:00:16Z
+   Creation Date: 2005-01-08T02:23:54Z
+   Registry Expiry Date: 2026-01-08T02:23:54Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS1.STABLETRANSIT.COM
+   Name Server: DNS2.STABLETRANSIT.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:23:39Z 

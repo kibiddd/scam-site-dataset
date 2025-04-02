@@ -1,0 +1,17 @@
+   Domain Name: P30DOWNLOAD.COM
+   Registry Domain ID: 137739640_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.1api.net
+   Registrar URL: http://www.1api.net
+   Updated Date: 2025-03-28T03:15:05Z
+   Creation Date: 2004-12-19T14:04:34Z
+   Registry Expiry Date: 2027-12-19T14:04:34Z
+   Registrar: 1API GmbH
+   Registrar IANA ID: 1387
+   Registrar Abuse Contact Email: abuse@1api.net
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.HOSTIRAN.NET
+   Name Server: NS2.HOSTIRAN.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:13:39Z 

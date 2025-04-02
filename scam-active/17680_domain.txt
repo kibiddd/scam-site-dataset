@@ -1,0 +1,17 @@
+   Domain Name: WEALTH-ERA.COM
+   Registry Domain ID: 1555370598_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.jumi.com
+   Registrar URL: http://www.juming.com
+   Updated Date: 2024-06-08T16:16:11Z
+   Creation Date: 2009-05-12T01:01:46Z
+   Registry Expiry Date: 2025-05-12T01:01:46Z
+   Registrar: Hefei Juming Network Technology Co., Ltd
+   Registrar IANA ID: 3758
+   Registrar Abuse Contact Email: ymn@juming.com
+   Registrar Abuse Contact Phone: 4009972996
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: JM1.DNS.COM
+   Name Server: JM2.DNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:50:08Z 

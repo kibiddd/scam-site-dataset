@@ -1,0 +1,43 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T10:50:59-03:00 - 2a09:bac5:c82e:1678::23d:8d
+
+domain:      jairximenes.com.br
+owner:       Advocacia Jair Ximenes S/C
+ownerid:     03.872.092/0001-98
+responsible: Joaquim Jair Ximenes Aguiar Junior
+country:     BR
+owner-c:     JJJ112
+tech-c:      MABAS91
+nserver:     ns1.interativaplus.com.br
+nsstat:      20250327 AA
+nslastaa:    20250327
+nserver:     ns2.interativaplus.com.br
+nsstat:      20250327 AA
+nslastaa:    20250327
+created:     20020125 #724326
+changed:     20210109
+expires:     20260125
+status:      published
+
+nic-hdl-br:  JJJ112
+person:      Joaquim Jair Ximenes Aguiar Junior
+e-mail:      jximenes28@hotmail.com
+country:     BR
+created:     20050304
+changed:     20180130
+
+nic-hdl-br:  MABAS91
+person:      Marcelo Bastos
+e-mail:      marcelosilvabastos@gmail.com
+country:     BR
+created:     20120329
+changed:     20180326
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

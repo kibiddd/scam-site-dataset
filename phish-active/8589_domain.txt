@@ -1,0 +1,18 @@
+   Domain Name: DIGITAL-SENDING.COM
+   Registry Domain ID: 2781958112_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-05-17T09:45:51Z
+   Creation Date: 2023-05-18T15:16:30Z
+   Registry Expiry Date: 2025-05-18T15:16:30Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.HOVER.COM
+   Name Server: NS2.HOVER.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:18:22Z 

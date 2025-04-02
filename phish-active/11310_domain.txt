@@ -1,0 +1,17 @@
+   Domain Name: HOMEREMEDY4U.COM
+   Registry Domain ID: 2856903247_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.yoursrs.com
+   Registrar URL: http://www.realtimeregister.com
+   Updated Date: 2025-02-09T08:59:47Z
+   Creation Date: 2024-02-20T17:46:20Z
+   Registry Expiry Date: 2026-02-20T17:46:20Z
+   Registrar: Realtime Register B.V.
+   Registrar IANA ID: 839
+   Registrar Abuse Contact Email: rtr-security-threats@realtimeregister.com
+   Registrar Abuse Contact Phone: +31.384530759
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DNS-PARKING.COM
+   Name Server: NS2.DNS-PARKING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:59:47Z 

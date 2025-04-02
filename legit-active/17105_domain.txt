@@ -1,0 +1,28 @@
+Domain Name: skytrans.com.au
+Registry Domain ID: d696a78463454b478a2d2f063be3295a-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://synergywholesale.com/partner-lookup
+Last Modified: 2025-01-29T03:44:47Z
+Registrar Name: Synergy Wholesale Accreditations Pty Ltd
+Registrar Abuse Contact Email: registry-abuse@nexigen.digital
+Registrar Abuse Contact Phone: +61.383999483
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: f14d8b0c81564e558c1452a19f93b9be-AU
+Registrant Contact Name: Jaydip Sengupta
+Tech Contact ID: 2754cefffe834ea383263b840a0326f9-AU
+Tech Contact Name: Steven Stanley
+Name Server: ns4.smg21.com.au
+Name Server IP: 117.120.13.159
+Name Server: ns3.smg21.com.au
+Name Server IP: 180.92.196.23
+Name Server: ns2.smg21.com.au
+Name Server IP: 180.92.196.24
+Name Server: ns1.smg21.com.au
+Name Server IP: 180.92.196.18
+DNSSEC: unsigned
+Registrant: SKYTRANS PTY LTD
+Registrant ID: ABN 84100751139
+Eligibility Type: Company
+>>> Last update of WHOIS database: 2025-03-27T18:37:19Z 

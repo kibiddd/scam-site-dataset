@@ -1,0 +1,24 @@
+Domain Name: FREELANCEDEVELOPER.SITE
+Registry Domain ID: D104411881-CNIC
+Registrar WHOIS Server: whois.PublicDomainRegistry.com
+Registrar URL: https://publicdomainregistry.com
+Updated Date: 2024-05-29T12:06:49.0Z
+Creation Date: 2019-05-23T07:30:05.0Z
+Registry Expiry Date: 2025-05-23T23:59:59.0Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: WHOIS IDCPrivacy Service c/o Integrated Data Communications Limited
+Registrant State/Province: MA
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS2.DIGITALOCEAN.COM
+Name Server: NS1.DIGITALOCEAN.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T14:52:22.0Z 

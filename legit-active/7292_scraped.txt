@@ -1,0 +1,234 @@
+Stealer of Souls - DDO wiki
+Year of the Dragon: Through 26th March, claim Dragon Disciple for free! Speak to Xatheral in the Hall of Heroes.
+In addition, if you missed the initial giveaway for a free Hoard of Discovery, you can claim it from Trilliya in the Hall of Heroes on Cormyr only through 26th March. edit
+Game mechanics • Newbie guide • In development • DDO Store • Social Media
+Challenges • Classes • Collectables • Crafting • Enhancements • Epic Destinies • Favor • Feats
+Glossary • Items • Maps • Monsters • Places • Quests • Races • Reincarnation • Skills • Spells
+Please create an account or log in to remove ads, build a reputation, and unlock more editing privileges and then visit DDO wiki's IRC Chat/Discord if you need any help!
+Stealer of Souls
+From DDO wiki
+Jump to navigation
+Jump to search
+Stealer of Souls is the 4th quest in The Essence of a Dragon story arcStory arcs  are chains of quests that make up a story line.Completing everything in a story arc often yields a nice reward..
+The first three quests can be completed in any order to unlock Stealer of Souls.
+Flagging occurs by collecting dedicated items rather than completing these quests.
+Enter the Kobold • Monastery of the Scorpion • Prey on the Hunter • Stealer of Souls
+The Truthful One transformed Sor'jek into a lich and tasked him to assemble an undead draconic army.
+Requires access to adventure packDefinition: Adventure PackA list of all adventure packs : The Reaver's Reach
+Stealer of Souls
+Heroic level:
+17
+Epic level:
+None
+Duration:
+Very Long
+Heroic XP:
+♣5,340Solo/Casual ♦9,252Normal ♥9,604Hard ♠9,956Elite
+Epic XP:
+N/A
+Takes place in:
+Sorjek's Lair
+Bestowed by:
+Thear
+NPC contact:
+Thear
+Quest acquired in:
+Reaver's Refuge
+Patron:
+Agents of Argonnessen
+Base favor:
+8
+Purchase:
+The Reaver's Reach, individual purchase, or VIP
+Extreme Challenge:
+Yes
+Loading screen
+Overview
+The dragon Ternathear opened a portal for you to Sor'jek's hidden lair. In return, he bid you to prevent as many dragon souls as you can from being turned into liches. In particular, the draconic Prophecy indicates that all of Argonessen may fall if Sventusk, the warrior dragon, becomes a lich.
+For information about how to get to the reaver refuge to start this story arc, see: Refuge in the Storm (Story arc).
+Flagging
+Talk to Aurben, near the Farshifter to Gianthold in the Marketplace, and get the quest Refuge in the Storm. You have to be at least level 13 to do this.
+Then go to Captain Agamon on top of the Airship Tower in the Marketplace); he gets you to Siber Atoll. Jump down from the airship, swim down into the water and enter the crevice to enter the Reaver's Refuge town area.
+Find the Stormreaver in his Refuge and click on him to complete the Refuge in the Storm quest. He tells you that Sor'jek (formerly known as Tempest's Spine's boss and the Stormreaver's lieutenant) became a lich and must be defeated. Optionally, the Stormreaver can give you a fly buff to reach Ternathear's Inner Lair which is just above the Stormreaver himself.
+Thear (in Ternathear's Inner Lair) gives you a quest, The Essence of a Dragon, and asks you to collect gems found in the Exploration Zones. The gems drop out of rare encounter treasure chests in these zones. Once you get gems and turn them in, you don't need to repeat this process until you start a new life. You only need any three of these six gems – note that all three gems must be turned in at once, and they're Exclusive, so you'll need three distinct ones. (Additional gems may be sold.)
+Aussiredar's Gem - Aussircaex's Valley
+Iskaryte's Gem - Mount Reysalon
+Omaekrix's Gem - Soami Gardens
+Sventusk's Gem - Ruins of Gianthold
+Thadargix's Gem - Sands of Menechtarun
+Vuthesjing's Gem - Orchard of the Macabre
+Obtain Dragonshard Essences from Enter the Kobold, Prey on the Hunter and Monastery of the Scorpion. Turn them in to Toriavic, an NPC next to Thear. A complete set of Essences is required each time you want to run the quest (reflagging).
+Eberron Dragonshard Essence - Prey on the Hunter or 50 Draconic Runes traded to Vorace,
+Khyber Dragonshard Essence - Enter the Kobold or 25 Draconic Runes traded to Vorace,
+Siberys Dragonshard Essence - Monastery of the Scorpion or 25 Draconic Runes traded to Vorace
+After completing this quest once, you may purchase any Dragonshard Essence from Vorace the Dragontouched Vendor in the crafting section in exchange for Draconic Runes
+Both gems and Dragonshard Essences persist through reincarnation, so you may spread collecting over more than one life.
+Spoiler Warning: Spoiler material below this point!
+Objectives
+Stop the Ritual
+Discover the source of Sor'jek's power
+Defeat the elemental masters (Kill 4)
+(Failure) Finish before timeout (60 minutes, only timer shown)
+(Optional) Defeat Sor'jek — Bonus (50%): Heroic( ♣2,670 ♦4,626 ♥4,802 ♠4,978 )
+What to Expect
+Traps disabled by levers, not rogue skill
+Points of no return
+Timed quest (60 minutes)
+Spawning/respawning monsters
+Mandatory STR check of  ♣16Solo/Casual (root barrier)
+Known Traps
+Barrier around Sor'jek (1000+ damage, main room)
+Falling spikes (untyped damage, earth section)
+Cold+Air jets (cold damage, ice section)
+Blowing off airstream (no damage, air section)
+Tips and Misc
+In this very challenging quest you must conquer four very different sections and defeat four elemental masters. It is a timed quest, you must complete it within 60 minutes in order to stop Sor'jek's ritual.
+Walkthrough
+Activate a rune in the central room to get teleported to an area of an elemental master (only one is active at a time).
+In the earth area, defeat 3 elders in the side chambers before proceeding north and facing Bhumi.
+In the cold area, optionally pull the levers in the bottom to disable icy air jets, or run up a ramp through the jets to face Jala.
+Deactivating an air jet activates all others again.
+In the fire area, activate three runes to open way to Agni.
+In the air area, deactivate a few runes as you run up some ramps, until you face Pavan.
+After defeating each elemental master, there is a chest, a set of shrines, and a rune. Activate the rune to return to the central room.
+As soon as you defeat the fourth elemental master, the quest completes.
+Fight against Sor'jek
+This fight is most of the time one against a single purple named monster. Sor'jek occasionally summons aid in form of a mephit – defeat it as fast as possible.
+Spirit of Lamannia creates Sor'jek's Regeneration: Sor'jek is drawing power from one of his familiars, allowing him to heal.
+Spirit of Fernia creates Sor'jek's Ritual of Protection:  Sor'jek is channeling a protective shield through his elemental spirit.
+Spirit of Risia creates Sor'jek's Freezing Shield: Sor'jek is channeling freezing cold though his Risia spirit into a damaging shield.
+Spirit of Syrania creates Sor'jek's Speed of Wind: Channeling the spirit of the wind, Sor'jek moves more quickly.
+Note: Since the quest is completed, you cannot re-enter the quest to continue if you lose the optional fight with undead Sor'jek.
+Bonus XP
+Aggression bonus: 33 or more monsters killed +10% Bonus.( ♣534 ♦925 ♥960 ♠996 )
+Onslaught bonus: 67 or more monsters killed +15% Bonus.( ♣801 ♦1,388 ♥1,441 ♠1,493 )
+Conquest bonus:  100 or more monsters killed +25% Bonus.( ♣1,335 ♦2,313 ♥2,401 ♠2,489 )
+Notes:  Getting onslaught requires nearly every kill in the quest, conquest requires killing a huge amount of respawns.
+External Links
+Spyderwolf's Youtube Video Quest Walkthrough
+Loot
+Chests: ♦  5Normal ♥  / 6Hard ♠  / 7Elite
+4 for killing the 4 Elemental Masters
+♦  1Normal ♥  / 2Hard ♠  / 3Elite optional for killing Sor'jek (Lich)
+One end chest contains a random Sovereign Rune which is likely but not guaranteed to drop on casual.
+NPC end rewards
+50 Draconic Runes. For every 3 completions, there is the additional choice of 1 random Rune (Eldritch, Tempest or Sovereign).
+Monsters
+Name ( picture )
+CR
+Type
+Race
+Agni ( view • edit )
+♦21Normal ♥25Hard ♠30Elite
+Giant
+Giant
+Bhumi ( view • edit )
+♦20Normal ♥24Hard ♠29Elite
+Giant
+Giant
+Cloud Giant Evoker ( view • edit )
+♦19Normal ♥23Hard ♠28Elite
+Giant
+Giant
+Cloud Giant Knight ( view • edit )
+♦19Normal ♥23Hard ♠28Elite
+Giant
+Giant
+Efreeti Guardian ( view • edit )
+♦19Normal ♥23Hard ♠28Elite
+Evil Outsider
+Efreet
+Elder Earth Elemental ( view • edit )
+♦17Normal ♥20Hard ♠25Elite
+Elemental
+Earth Elemental
+Frost Giant Cleric ( view • edit )
+♦19Normal ♥23Hard ♠28Elite
+Giant
+Giant
+Frost Giant Hunter ( view • edit )
+♦19Normal ♥23Hard ♠28Elite
+Giant
+Giant
+Frost Giant Mage ( view • edit )
+♦19Normal ♥23Hard ♠28Elite
+Giant
+Giant
+Frost Giant Raider ( view • edit )
+♦19Normal ♥23Hard ♠28Elite
+Giant
+Giant
+Ice Flenser ( view • edit )
+♦17Normal ♥20Hard ♠25Elite
+Evil Outsider
+Demon
+Jala ( view • edit )
+♦20Normal ♥24Hard ♠29Elite
+Giant
+Giant
+Pavan ( view • edit )
+♦22Normal ♥26Hard ♠31Elite
+Giant
+Giant
+Raging Fire Elemental ( view • edit )
+♦18Normal ♥21Hard ♠25Elite
+Elemental
+Fire Elemental
+Sor'jek Incanni (Lich) ( view • edit )
+♦28Normal ♥32Hard ♠38Elite
+Undead
+Lich
+Spirit of Fernia ( view • edit )
+♦20Normal ♥23Hard ♠28Elite
+Fire Outsider
+Mephit
+Spirit of Lamannia ( view • edit )
+♦20Normal ♥23Hard ♠28Elite
+Earth Outsider
+Mephit
+Spirit of Risia ( view • edit )
+♦20Normal ♥23Hard ♠28Elite
+Air Outsider
+Mephit
+Spirit of Syrania ( view • edit )
+♦20Normal ♥23Hard ♠28Elite
+Air Outsider
+Mephit
+Stone Giant Elder ( view • edit )
+♦19Normal ♥23Hard ♠28Elite
+Giant
+Giant
+Stone Giant Fighter ( view • edit )
+♦19Normal ♥23Hard ♠28Elite
+Giant
+Giant
+Stone Giant Shaman ( view • edit )
+♦19Normal ♥23Hard ♠28Elite
+Giant
+Giant
+Syrania Air Elemental ( view • edit )
+♦16Normal ♥19Hard ♠23Elite
+Elemental
+Air Elemental
+Retrieved from "https://ddowiki.com/index.php?title=Stealer_of_Souls&oldid=610560"
+Categories: The Essence of a Dragon chain questsVery long questsSorjek's Lair questsReaver's Refuge questsAgents of Argonnessen patron questsPay to Play questsExtreme Challenge questsLinks to YouTubeQuests by nameQuests with mapsCompendium:Level 17 questsLevel 17 questsQuests with 8 base favor rewardThe Reaver's Reach questsQuests with collectables/noneHidden categories: Pages using DynamicPageList3 parser functionQuest pages with specified NPC reward
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+PageDiscussion
+English
+Views
+ReadEditPage history
+More
+Search
+Site navigation
+Site MapFAQWiki helpRandom pageRecent changes
+Forums
+Techsupport (Game)Reference desk (Game)Help desk (Wiki)Village pump (General)Social mediaAdministrators' Noticeboard
+Page Toolbox
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage contributorsPage information
+This page was last modified 01:22, November 27, 2024 (Update 70.1.1) by Thomas Barker. Based on work by others.
+Attribution-ShareAlike 2.5
+Privacy policy
+Disclaimers

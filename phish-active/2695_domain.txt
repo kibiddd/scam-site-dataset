@@ -1,0 +1,42 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T17:19:54-03:00 - 2a09:bac5:c82c:1678::23d:b2
+
+domain:      sobraldesign.com.br
+owner:       Daniel de Campos Sobral
+ownerid:     ***.997.767-**
+country:     BR
+owner-c:     DACSO206
+tech-c:      MPI
+nserver:     ns786.hostgator.com.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+nserver:     ns787.hostgator.com.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+created:     20090727 #5825916
+changed:     20210629
+expires:     20260727
+status:      published
+
+nic-hdl-br:  DACSO206
+person:      Daniel de Campos Sobral
+e-mail:      danielsobral@sobraldesign.com.br
+country:     BR
+created:     20161110
+changed:     20240405
+
+nic-hdl-br:  MPI
+person:      MLS Wireless SA
+e-mail:      dominio@mls.com.br
+country:     BR
+created:     19980128
+changed:     20230929
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

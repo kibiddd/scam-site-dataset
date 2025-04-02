@@ -1,0 +1,2 @@
+Domain: hambach-night-run.de
+Status: connect

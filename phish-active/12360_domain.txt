@@ -1,0 +1,47 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://web-whois.nic.it                                           *
+*********************************************************************
+
+Domain:             jesi4.it
+Status:             ok
+Signed:             no
+Created:            2020-12-02 23:18:50
+Last Update:        2024-12-18 00:48:05
+Expire Date:        2025-12-02
+
+Registrant
+  Organization:     Privilegio di Giampieri Antonella
+  Address:          Via Arnaldo Bellagamba 8 A/B
+                    Jesi
+                    60035
+                    AN
+                    IT
+  Created:          2023-11-28 20:49:40
+  Last Update:      2023-11-28 20:49:40
+
+Admin Contact
+  Name:             hidden
+  Organization:     hidden
+
+Technical Contacts
+  Name:             hidden
+  Organization:     hidden
+
+Registrar
+  Organization:     VHosting Solution S.r.l.
+  Name:             VHOSTINGSRL-REG
+  Web:              https://www.vhosting.com
+  DNSSEC:           no
+
+
+Nameservers
+  sdns1.vhosting-it.com
+  sdns3.vhosting-it.com
+  sdns2.vhosting-it.com
+  cpanel8.vhosting-it.com
+

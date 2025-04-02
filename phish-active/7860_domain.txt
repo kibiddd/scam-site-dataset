@@ -1,0 +1,17 @@
+   Domain Name: EINFORMA.COM
+   Registry Domain ID: 27402128_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.nicline.com
+   Registrar URL: http://www.arsys.es
+   Updated Date: 2024-05-19T07:42:55Z
+   Creation Date: 2000-05-18T21:33:42Z
+   Registry Expiry Date: 2025-05-18T21:33:42Z
+   Registrar: Arsys Internet, S.L. dba NICLINE.COM
+   Registrar IANA ID: 379
+   Registrar Abuse Contact Email: abuse@nicline.com
+   Registrar Abuse Contact Phone: +34.941620100
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS4.GRUPOCESCE.ES
+   Name Server: NS5.GRUPOCESCE.ES
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:14:20Z 

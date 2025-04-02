@@ -1,0 +1,18 @@
+   Domain Name: YASNI.COM
+   Registry Domain ID: 1007886623_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.your-server.de
+   Registrar URL: http://www.hetzner.com
+   Updated Date: 2024-06-28T08:22:12Z
+   Creation Date: 2007-06-02T15:40:17Z
+   Registry Expiry Date: 2025-06-02T15:40:17Z
+   Registrar: Hetzner Online GmbH
+   Registrar IANA ID: 828
+   Registrar Abuse Contact Email: abuse@hetzner.com
+   Registrar Abuse Contact Phone: +49 9831 5050
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS.SECOND-NS.COM
+   Name Server: NS1.YOUR-SERVER.DE
+   Name Server: NS3.SECOND-NS.DE
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:10:40Z 

@@ -1,0 +1,19 @@
+   Domain Name: ATTESTATIONCOUPON.COM
+   Registry Domain ID: 2781278800_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.hostinger.com
+   Registrar URL: http://www.hostinger.com
+   Updated Date: 2024-07-10T23:26:44Z
+   Creation Date: 2023-05-15T21:57:28Z
+   Registry Expiry Date: 2025-05-15T21:57:28Z
+   Registrar: HOSTINGER operations, UAB
+   Registrar IANA ID: 1636
+   Registrar Abuse Contact Email: abuse-tracker@hostinger.com
+   Registrar Abuse Contact Phone: +37064503378
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS41.CLOUDNS.NET
+   Name Server: NS42.CLOUDNS.NET
+   Name Server: NS43.CLOUDNS.NET
+   Name Server: NS44.CLOUDNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T20:19:49Z 

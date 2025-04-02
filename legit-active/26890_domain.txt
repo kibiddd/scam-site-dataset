@@ -1,0 +1,17 @@
+   Domain Name: CI123.COM
+   Registry Domain ID: 129858696_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: grs-whois.hichina.com
+   Registrar URL: http://www.net.cn
+   Updated Date: 2023-04-24T02:12:45Z
+   Creation Date: 2004-09-13T01:33:16Z
+   Registry Expiry Date: 2026-09-13T01:33:16Z
+   Registrar: Alibaba Cloud Computing (Beijing) Co., Ltd.
+   Registrar IANA ID: 420
+   Registrar Abuse Contact Email: DomainAbuse@service.aliyun.com
+   Registrar Abuse Contact Phone: +86.95187
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: CIRCINUS.DNSPOD.NET
+   Name Server: SEAL.DNSPOD.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T01:04:58Z 

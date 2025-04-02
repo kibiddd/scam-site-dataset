@@ -1,0 +1,18 @@
+   Domain Name: MISSOURISPORTSMAG.COM
+   Registry Domain ID: 2036734385_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.encirca.com
+   Registrar URL: http://www.encirca.com
+   Updated Date: 2024-05-24T18:47:36Z
+   Creation Date: 2016-06-21T18:26:31Z
+   Registry Expiry Date: 2025-06-21T18:26:31Z
+   Registrar: EnCirca, Inc.
+   Registrar IANA ID: 455
+   Registrar Abuse Contact Email: abuse-2014-2@encirca.com
+   Registrar Abuse Contact Phone: +1.781.942.9975
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NSA.MYOWNSERVER.NET
+   Name Server: NSB.MYOWNSERVER.NET
+   Name Server: NSC.MYOWNSERVER.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:13:33Z 

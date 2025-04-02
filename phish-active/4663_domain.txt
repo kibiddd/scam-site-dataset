@@ -1,0 +1,18 @@
+   Domain Name: INDITIONCRA.COM
+   Registry Domain ID: 1936840129_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enomdomains.com
+   Updated Date: 2024-05-10T06:36:02Z
+   Creation Date: 2015-06-08T19:35:04Z
+   Registry Expiry Date: 2025-06-08T19:35:04Z
+   Registrar: eNom, LLC
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: DNS1.TAGREM.COM
+   Name Server: DNS2.TAGREM.COM
+   Name Server: DNS3.TAGREM.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T22:59:52Z 

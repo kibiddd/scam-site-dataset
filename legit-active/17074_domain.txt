@@ -1,0 +1,17 @@
+   Domain Name: ROCKVILLEMAMA.COM
+   Registry Domain ID: 79390186_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-10-08T04:44:26Z
+   Creation Date: 2001-11-06T18:16:46Z
+   Registry Expiry Date: 2025-11-06T18:16:46Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.TURBIFY.COM
+   Name Server: NS2.TURBIFY.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:36:50Z 

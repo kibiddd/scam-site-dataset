@@ -1,0 +1,20 @@
+   Domain Name: KICKOFFLABS.COM
+   Registry Domain ID: 1636056804_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2020-12-16T16:16:54Z
+   Creation Date: 2011-01-20T19:24:52Z
+   Registry Expiry Date: 2026-01-20T19:24:52Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS0.DNSMADEEASY.COM
+   Name Server: NS1.DNSMADEEASY.COM
+   Name Server: NS2.DNSMADEEASY.COM
+   Name Server: NS3.DNSMADEEASY.COM
+   Name Server: NS4.DNSMADEEASY.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:14:06Z 

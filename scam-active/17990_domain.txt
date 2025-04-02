@@ -1,0 +1,17 @@
+   Domain Name: WOWCUPSS.COM
+   Registry Domain ID: 2871943679_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.dnspod.cn
+   Registrar URL: http://www.dnspod.cn
+   Updated Date: 2024-04-13T16:15:20Z
+   Creation Date: 2024-04-13T16:12:56Z
+   Registry Expiry Date: 2025-04-13T16:12:56Z
+   Registrar: DNSPod, Inc.
+   Registrar IANA ID: 1697
+   Registrar Abuse Contact Email: abuse@dnspod.com
+   Registrar Abuse Contact Phone: +86.4009100100
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: HEDGEHOG.DNSPOD.NET
+   Name Server: SCARF.DNSPOD.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:50:08Z 

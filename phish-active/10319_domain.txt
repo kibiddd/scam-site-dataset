@@ -1,0 +1,23 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        GKH-PSP.RU
+nserver:       ns1.beget.com.
+nserver:       ns1.beget.pro.
+nserver:       ns1.beget.ru.
+nserver:       ns2.beget.com.
+nserver:       ns2.beget.pro.
+nserver:       ns2.beget.ru.
+state:         REGISTERED, DELEGATED, UNVERIFIED
+org:           UK Vozrogdenie
+taxpayer-id:   4705050897
+registrar:     BEGET-RU
+admin-contact: whois.beget.com
+created:       2013-04-27T19:16:04Z
+paid-till:     2026-04-27T20:16:04Z
+free-date:     2026-05-28
+source:        TCI
+
+Last updated on 2025-03-27T13:48:01Z
+

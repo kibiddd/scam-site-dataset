@@ -1,0 +1,18 @@
+   Domain Name: CONSTRUCTIONBIDSOURCE.COM
+   Registry Domain ID: 135038748_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.cloudflare.com
+   Registrar URL: http://www.cloudflare.com
+   Updated Date: 2025-02-22T15:07:09Z
+   Creation Date: 2004-11-14T18:24:56Z
+   Registry Expiry Date: 2026-11-14T18:24:56Z
+   Registrar: Cloudflare, Inc.
+   Registrar IANA ID: 1910
+   Registrar Abuse Contact Email: registrar-abuse@cloudflare.com
+   Registrar Abuse Contact Phone: +1.6503198930
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ANNABEL.NS.CLOUDFLARE.COM
+   Name Server: KEVIN.NS.CLOUDFLARE.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 2371 13 2 770D73F6D485F17E9CCEA4BF5313EE3BB0D2A3C2155B1D540B3390FE85D11425
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:11:40Z 

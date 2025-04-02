@@ -1,0 +1,17 @@
+Domain Name: averin.pro
+Registry Domain ID: 7a15c3f5c9fe4a748b2903f3ea8b67d8-DONUTS
+Registrar WHOIS Server: whois.reg.com
+Registrar URL: 
+Updated Date: 2025-03-21T08:05:03Z
+Creation Date: 2008-11-02T00:00:00Z
+Registry Expiry Date: 2025-11-02T00:00:00Z
+Registrar: Registrar of Domain Names REG.RU LLC
+Registrar IANA ID: 1606
+Registrar Abuse Contact Email: abuse@reg.ru
+Registrar Abuse Contact Phone: +7.4955801111
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: ns5.hosting.reg.ru
+Name Server: ns6.hosting.reg.ru
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T14:53:44Z 

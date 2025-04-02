@@ -1,0 +1,30 @@
+Domain Name: elioraenergy.co.ke
+Registry Domain ID: 1704394-KENIC
+Registrar URL: http://www.webhostkenya.co.ke
+Updated Date: 2024-10-19T09:01:50Z
+Creation Date: 2024-09-19T08:02:42Z
+Registry Expiry Date: 2025-09-19T08:02:43Z
+Registrar Registration Expiration Date: 2025-09-19T08:02:43Z
+Domain Status: active https://icann.org/epp#active
+Registrar: Webhost Kenya Ltd
+Registrar IANA ID: P051167613T
+Registrar Address: Gemina Court, Marcus Garvey Road,Nairobi
+P.O. Box 1175 - 00606
+Nairobi
+Registrar Country: KE
+Registrar Abuse Contact Email: registry@webhostkenya.co.ke
+Registrar Abuse Contact Phone: 
+Registry Registrant ID: 1704392-KENIC
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: 
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: REDACTED FOR PRIVACY
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: KE
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Email: REDACTED FOR PRIVACY
+Name Server: ns1.webhostkenya.co.ke
+Name Server: ns2.webhostkenya.co.ke
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2025-03-27T11:13:53.188Z 

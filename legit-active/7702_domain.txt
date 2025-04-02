@@ -1,0 +1,19 @@
+   Domain Name: TINYMIXTAPES.COM
+   Registry Domain ID: 79046968_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.squarespace.domains
+   Registrar URL: http://squarespace.domains
+   Updated Date: 2024-10-12T08:17:57Z
+   Creation Date: 2001-10-27T04:11:13Z
+   Registry Expiry Date: 2025-10-27T04:11:13Z
+   Registrar: Squarespace Domains LLC
+   Registrar IANA ID: 3827
+   Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+   Registrar Abuse Contact Phone: 1-646-693-5324
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS.LIQUIDWEB.COM
+   Name Server: NS1.LIQUIDWEB.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:06:07Z 

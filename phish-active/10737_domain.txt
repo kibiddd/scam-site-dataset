@@ -1,0 +1,47 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T10:57:31-03:00 - 2a09:bac5:c82e:de1::162:21d
+
+domain:      gruposolutech.com.br
+owner:       Cred Check Solucoes Ltda
+ownerid:     08.663.497/0001-30
+responsible: Maicon Bergue Macedo de Souza
+country:     BR
+owner-c:     MBMSO29
+tech-c:      BRMFR27
+nserver:     ns1.cfr.net.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+nserver:     ns2.cfr.net.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+nserver:     ns3.cfr.net.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+saci:        yes
+created:     20220817 #24911262
+changed:     20221101
+expires:     20270817
+status:      published
+
+nic-hdl-br:  MBMSO29
+person:      Maicon Bergue Macedo de Souza
+e-mail:      gerencia@credcheck.com.br
+country:     BR
+created:     20220817
+changed:     20240514
+
+nic-hdl-br:  BRMFR27
+person:      Bruno Moreno Franco
+e-mail:      bruno.f@worldinfo.com.br
+country:     BR
+created:     20180502
+changed:     20180502
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

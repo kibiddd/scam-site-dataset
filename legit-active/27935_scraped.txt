@@ -1,0 +1,46 @@
+HOME | DOWNLOAD | VISUALS | PLUGINS
+Nexus Radio - Free Internet Radio
+Introduction
+Nexus Radio is a free all-in-one application for all of your music needs. Listen to and record over 30,000+ internet radio stations free of charge! You can play songs directly within Nexus Radio, or transfer songs to your iPod/iPhone or any other multimedia device effortlessly. In addition to a library of rich music content, Nexus Radio is also loaded with additional free easy to use music tools. Create custom ringtones using the built in music trimmer, or use the Nexus Radio ID3 tag editor to easily tag your music files. Users can also create a custom profile and take advantage of the other many free services we offer.
+Features
+» 100% FREE - No monthly fees.
+» No spyware, malware, or adware.
+» 30,000+ radio stations.
+» 38 music genres.
+» Full featured media player.
+» Straightforward audio editor.
+» One click recording.
+» Easy to use TiVo style recording.
+» Recording filters.
+» 10-band equalizer.
+» HD audio.
+» File support: AAC, MP4, MP3, MP2, MP1, OGG, WAV & WMA.
+» Dynamic stream recorder with auto file naming features.
+» Automatic ID3 v1/v2 tag support.
+» ID3 v1/v2 tag editor.
+» 32 Bit Digital effects.
+» 5.1 Surround sound.
+» Downloadable visualizations.
+» Plugin support.
+What's New In v5.7
+» Removed User Accounts - Nexus Radio no longer requires an account to use our service. Just download and start listening!
+» Updated Music Search Algorithm
+» Increased station library - Now over 30,000 stations!
+» Various bug fixes
+Nexus Radio System Requirements
+» Intel® Pentium® or Xeon® processor /AMD® processor
+» Microsoft® Windows® 10/8/7/Vista/XP/2000/2003
+» Microsoft® Internet Explorer®
+» 128MB of RAM (256MB recommended)
+» 12MB of available hard-disk space
+» Color monitor with 32-bit color video card
+» Sound Card
+» Internet connection required
+Nexus Radio has been designed to be fully compatible with Windows® 10/8/7/Vista/XP/2000/2003 machines.
+This product is not compatible with any other Windows® operating systems.
+Nexus Radio does not contain spyware, malware, or adware.
+Disclaimer
+The Nexus Radio station directory consists of thousands of third party radio stations located worldwide. Nexus Radio is not a broadcaster and we are not responsible for the stations listed on our directory, or the content that broadcasters stream.
+When you make a search using the Nexus Radio player, our software searches publicly available content from the internet in real-time. We do not host digital music or index websites that provide digital music. We do not have any affiliation with the websites that provide the downloadable content, and we have no way to determine the copyrights of the music content.
+Nexus Radio has no way to distinguish asserted copyright rights unless they are attached to the content files. There is no presumption of ownership or presumed rights to content. Nexus Radio cannot distinguish between authorized and unauthorized media. Nexus Radio on-demand search does not "look" at files that match the user's description of what he/she seeks, but instead searches textual tags that accompany the media.
+Copyright ©  Nexus Radio - All rights reserved. Terms of Use - Privacy Policy - Contact Us

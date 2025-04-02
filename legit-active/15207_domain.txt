@@ -1,0 +1,17 @@
+   Domain Name: MP3SHAKE.COM
+   Registry Domain ID: 2051235404_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.above.com
+   Registrar URL: http://www.above.com
+   Updated Date: 2024-07-02T01:26:44Z
+   Creation Date: 2016-08-10T18:35:02Z
+   Registry Expiry Date: 2025-08-10T18:35:02Z
+   Registrar: Above.com Pty Ltd.
+   Registrar IANA ID: 940
+   Registrar Abuse Contact Email: abuse@above.com
+   Registrar Abuse Contact Phone: +61 3 9589 7946
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS3.ABOVEDOMAINS.COM
+   Name Server: NS4.ABOVEDOMAINS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T17:01:54Z 

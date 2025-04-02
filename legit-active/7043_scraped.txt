@@ -1,0 +1,57 @@
+﻿﻿
+﻿﻿﻿
+Runway excursion Accident Learjet 35A N911AE, Friday 28 January 2005
+Home
+Database
+Investigation
+Statistics
+Contact us
+About
+Home » ASN Aviation Safety WikiBase
+Tweet
+Date:Friday 28 January 2005
+Time:22:17
+Type:    Learjet 35A
+Owner/operator:Million Air
+Registration: N911AE
+MSN: 35A-109
+Year of manufacture:1977
+Total airframe hrs:11138 hours
+Engine model:Garrett TFE731-2-2B
+Fatalities:Fatalities: 0 / Occupants: 2
+Other fatalities:0
+Aircraft damage: Substantial, written off
+Category:Accident
+Location:Kansas City-Charles B. Wheeler Downtown Airport, MO (MKC) -
+United States of America
+Phase: Landing
+Nature:Ferry/positioning
+Departure airport:Salt Lake City International Airport, UT (SLC/KSLC)
+Destination airport:Kansas City International Airport, MO (MCI/KMCI)
+Investigating agency: NTSB
+Confidence Rating: Accident investigation report completed and information captured
+Narrative:The Learjet 35A was operated as a positioning flight to Kansas City International Airport (MCI). Night instrument meteorological conditions prevailed at the time of the accident. The flight was en route to MCI to pick up passengers and continue on as an on-demand charter but diverted to the Kansas City-Charles B. Wheeler Downtown Airport (MKC) following the closure of MCI. MCI was closed due to a McDonnell Douglas MD83 sliding off a taxiway during an after landing taxi on contaminated runway/taxiway conditions. MKC held a limited airport certificate that did not have a snow removal plan and was served by runway 19 (7,002 feet by 150 feet, grooved asphalt). Following a precision approach and landing on runway 19 at MKC, the Learjet 35A slid off the departure end of the runway and impacted airport property and terrain. The Learjet 35A was operated with inoperative thrust reversers as per the airplane's minimum equipment list at the time of the accident. About 1:05 hours before the accident, runway 19 Tapley values were recorded as 21-22-22 with 1/2 inch of wet snow. About 17 minutes before the accident, MKC began snow removal operations. About 7 minutes before the accident, the MKC air traffic control tower (TWR) instructed the snow removal vehicles to clear the runway for inbound traffic. TWR was advised by airport personnel that runway 19 was plowed and surface conditions were 1/4 inch of snow of snow; friction values were not taken or reported. While inbound, the Learjet 35A requested any braking action reports from TWR. The first airplane to land was a Cessna 210 Centurion, and the pilot reported braking action to the TWR as "moderate", which was then transmitted by TWR as "fair" from a Centurion in response to the Learjet 35A's query. The Cessna 210 Centurion pilot did not use brakes during landing and did not indicate this to TWR during his braking action report.  PROBABLE CAUSE: "The contaminated runway conditions during landing. Contributing factors were the operation of the airplane without thrust reversers, flight to the planned alternate airport not performed by the flightcrew, and the insufficient runway information. Additional factors were the airport property and terrain that the airplane impacted."
+Accident investigation:
+Investigating agency: NTSB
+Report number: CHI05FA059
+Status: Investigation completed
+Duration: 2 years
+Download report:   Final report
+Sources:
+NTSB    Location  Revision history:Date/timeContributorUpdates
+The Aviation Safety Network is an exclusive service provided by:
+Quick Links:
+ASN Home
+Send Correction / Feedback
+FSF Home
+Disclaimer
+Copyright
+Contact Us
+Privacy Policy
+Press / Media
+CONNECT WITH US:
+©2025 Flight Safety Foundation
+1920 Ballenger Av, 4th Fl.
+Alexandria, Virginia 22314
+www.FlightSafety.org
+﻿

@@ -1,0 +1,17 @@
+   Domain Name: BTSE20.CC
+   Registry Domain ID: 202795025_DOMAIN_CC-VRSN
+   Registrar WHOIS Server: whois.gname.com
+   Registrar URL: http://www.gname.com
+   Updated Date: 2024-10-09T07:15:09Z
+   Creation Date: 2024-10-08T16:53:42Z
+   Registry Expiry Date: 2025-10-08T16:53:42Z
+   Registrar: Gname.com Pte. Ltd.
+   Registrar IANA ID: 1923
+   Registrar Abuse Contact Email: complaint@gname.com
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DARA.NS.CLOUDFLARE.COM
+   Name Server: GORDON.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:45:04Z 

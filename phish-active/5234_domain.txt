@@ -1,0 +1,43 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T20:04:00-03:00 - 2a09:bac5:c82e:1791::259:59
+
+domain:      ceprovi.com.br
+owner:       Associa��o Comunit�ria Vinhedense de Edu e Cultura
+ownerid:     03.437.224/0001-53
+responsible: Vera L�cia Bombonatti Segatto
+country:     BR
+owner-c:     VLBSE4
+tech-c:      VLBSE4
+nserver:     ns1.nucleoead.net
+nsstat:      20250322 AA
+nslastaa:    20250322
+nserver:     ns2.nucleoead.net
+nsstat:      20250322 AA
+nslastaa:    20250322
+nserver:     ns3.nucleoead.net
+nsstat:      20250322 AA
+nslastaa:    20250322
+nserver:     ns4.nucleoead.net
+nsstat:      20250322 AA
+nslastaa:    20250322
+saci:        yes
+created:     20110620 #8470307
+changed:     20230628
+expires:     20250620
+status:      published
+
+nic-hdl-br:  VLBSE4
+person:      Vera Lucia Bombonatti Segatto
+e-mail:      atendimento@ceprovi.com.br
+country:     BR
+created:     20210615
+changed:     20241009
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

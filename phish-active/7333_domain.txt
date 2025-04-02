@@ -1,0 +1,20 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        DYNAMO-CHEL.RU
+nserver:       ns-1345.awsdns-40.org.
+nserver:       ns-1688.awsdns-19.co.uk.
+nserver:       ns-426.awsdns-53.com.
+nserver:       ns-980.awsdns-58.net.
+state:         REGISTERED, DELEGATED, UNVERIFIED
+person:        Private Person
+registrar:     REGTIME-RU
+admin-contact: https://whois.webnames.ru
+created:       2021-07-29T12:45:05Z
+paid-till:     2025-07-29T12:45:05Z
+free-date:     2025-08-29
+source:        TCI
+
+Last updated on 2025-03-27T11:08:01Z
+

@@ -1,0 +1,17 @@
+   Domain Name: STELRAY.COM
+   Registry Domain ID: 5080561_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2024-07-27T04:32:53Z
+   Creation Date: 1998-08-21T04:00:00Z
+   Registry Expiry Date: 2029-08-20T04:00:00Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS.DATAHAL.COM
+   Name Server: NS3.DATAHAL.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:53:04Z 

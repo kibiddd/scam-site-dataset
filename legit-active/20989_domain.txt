@@ -1,0 +1,72 @@
+Domain Name: halton.ca
+Registry Domain ID: D120929-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.internic.ca
+Updated Date: 2024-07-08T04:09:23Z
+Creation Date: 2002-06-03T18:21:01Z
+Registry Expiry Date: 2025-05-24T04:00:00Z
+Registrar: Internic.ca Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@rebel.com
+Registrar Abuse Contact Phone: +1.6132252000
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: R91510-CIRA
+Registrant Name: Regional Municipality of Halton
+Registrant Organization:
+Registrant Street: 1151 Bronte Road
+Registrant City: Suite  Tech Serv Oakville
+Registrant State/Province: ON
+Registrant Postal Code: L6M3L1
+Registrant Country: CA
+Registrant Phone: +1.9058256000
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: jim.wallace@halton.ca
+Registry Admin ID: C1018453-CIRA
+Admin Name: Jim Wallace
+Admin Organization: Regional Municipality of Halton
+Admin Street: 1151 Bronte Road 
+Admin City: Suite  Tech Serv Oakville
+Admin State/Province: ON
+Admin Postal Code: L6M3L1
+Admin Country: CA
+Admin Phone: +1.9058256000
+Admin Phone Ext:
+Admin Fax: +1.9058256057
+Admin Fax Ext:
+Admin Email: jim.wallace@halton.ca
+Registry Tech ID: 15137472-CIRA
+Tech Name: Kevin Watson
+Tech Organization: Regional Municipality of Halton
+Tech Street: 1151 Bronte Road
+Tech City: Suite  Tech Serv Oakville
+Tech State/Province: ON
+Tech Postal Code: L6M3L1
+Tech Country: CA
+Tech Phone: +1.2892594128
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: kevin.watson@halton.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1-hosting.hcetelecom.com
+Name Server: ns1.halton.ca
+Name Server: ns2-hosting.hcetelecom.com
+Name Server: ns3.halton.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T21:57:47Z 

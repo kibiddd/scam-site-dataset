@@ -1,0 +1,19 @@
+   Domain Name: SHOWBIZRADIO.NET
+   Registry Domain ID: 140635421_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.name.com
+   Registrar URL: http://www.name.com
+   Updated Date: 2025-01-12T17:09:11Z
+   Creation Date: 2005-01-26T19:36:55Z
+   Registry Expiry Date: 2026-01-26T19:36:55Z
+   Registrar: Name.com, Inc.
+   Registrar IANA ID: 625
+   Registrar Abuse Contact Email: abuse@name.com
+   Registrar Abuse Contact Phone: 7202492374
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1JSV.NAME.COM
+   Name Server: NS2JQZ.NAME.COM
+   Name Server: NS3GMT.NAME.COM
+   Name Server: NS4LRT.NAME.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:56:37Z 

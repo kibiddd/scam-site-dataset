@@ -1,0 +1,17 @@
+   Domain Name: 1792HOST.COM
+   Registry Domain ID: 1609695293_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enomdomains.com
+   Updated Date: 2024-07-21T08:27:39Z
+   Creation Date: 2010-08-04T21:46:08Z
+   Registry Expiry Date: 2025-08-04T21:46:08Z
+   Registrar: eNom, LLC
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.1792HOST.COM
+   Name Server: NS2.1792HOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T20:24:24Z 

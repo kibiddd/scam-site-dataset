@@ -1,0 +1,56 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: TAMUCC.EDU
+
+Registrant:
+	Texas A&M University - Corpus Christi
+	6300 Ocean Drive
+	Corpus Christi, TX 78412
+	USA
+
+Administrative Contact:
+	Brad Bowman
+	Texas A&M University - Corpus Christi,
+	6300 Ocean Drive
+	Corpus Christi, TX 78412
+	USA
+	+1.3618252692
+	brad.bowman@tamucc.edu
+
+Technical Contact:
+	Network Services
+	Texas A&M University - Corpus Christi
+	6300 Ocean Drive
+	Corpus Christi, TX 78412
+	USA
+	+1.3618252692
+	nettech@tamucc.edu
+
+Name Servers:
+	NS-INFOBLOX-AZURE-EXTDNS.TAMUCC.EDU
+	NS-INFOBLOX-EXT-DR-SA.TAMUCC.EDU
+	NS-INFOBLOX-EXT.TAMUCC.EDU
+
+Domain record activated:    13-Jul-1993
+Domain record last updated: 27-Jun-2024
+Domain expires:             31-Jul-2027

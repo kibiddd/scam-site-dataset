@@ -1,0 +1,19 @@
+   Domain Name: RHYTHMANDBLUESCOMPANY.COM
+   Registry Domain ID: 15712965_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.directnic.com
+   Registrar URL: http://www.directnic.com
+   Updated Date: 2024-08-30T12:22:01Z
+   Creation Date: 1999-12-20T20:23:10Z
+   Registry Expiry Date: 2025-12-20T20:23:10Z
+   Registrar: DNC Holdings, Inc.
+   Registrar IANA ID: 291
+   Registrar Abuse Contact Email: abuse@directnic.com
+   Registrar Abuse Contact Phone: +1.5043550081
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.DNCHOSTING.COM
+   Name Server: NS2.DNCHOSTING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:10:40Z 

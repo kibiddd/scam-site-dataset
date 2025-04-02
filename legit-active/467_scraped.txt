@@ -1,0 +1,777 @@
+The Syndicate - Prologue
+Prologue
+by Jules Jones and Alex Woolgrave
+| main |
+fiction |
+news |
+ramblings |
+links |
+site updates |
+The Syndicate |
+Volume 1 |
+Volume 2 |
+Volume 3 |
+Four Leaf Clover |
+paperback |
+characters |
+stories
+It took Allard precisely ten seconds to diagnose why “the
+screen thingy went all black.”
+“That’s the fifth power-cable out of its socket
+I’ve seen today,” he snarled gently. Time to go through
+the job ads. It could be very therapeutic to reassure himself that
+there was a vast market out there for sysadmins who had got tired
+of the current bunch of morons they were working with. He tried not
+to remember that the vast market was largely composed of
+other bunches of morons who had recently pushed their
+previous sysadmins beyond the point of tolerance. If nothing else,
+if he found a job on another planet, at least it would be a change
+of scenery.
+He glared out of the window. He could think of so many better
+colours for a sky to be than orange. On the other hand, at least he
+had a window. His last workplace had been a hundred feet
+underground to get away from the weather.
+Just as he was putting his feet up and reaching for his second
+cup of coffee, he heard a beep. The prats hadn’t even given
+him time to open the bloody job ads.
+He reached for the com unit, wishing he had the nerve to bury it
+under his paperwork, so it would never be seen or heard from
+again.
+“Yes?” he snapped, in a tone that meant
+“no!”
+“My screen’s gone all dark!”
+He gritted his teeth. “Have you checked all the
+cables?” Standard procedure, when he wanted to say
+“fuck off!”
+“Yes!” the voice on the other end squeaked. Allard
+recognised it now. He had given it a lecture last week after the
+third time in one day it had done something stupid.
+“Prescott, isn’t it?”
+“Er, yes.”
+“Don’t run away. I will not be pleased if I get
+there and you are not around to explain exactly what you have done
+to your machine.”
+He expected to have ten minutes of Prescott denying he had done
+anything followed by a red-faced admission that he had installed
+the latest ‘game’ going the rounds. He did hope so. It would
+put him ahead, in the company’s IT Sweepstake, with the most
+common “stupidities” this month. Collecting
+“stupidities” was excusable. You had to derive warped
+amusement from them somehow.
+He was wrong. “Prescott, why do you have a portable heater
+in your office?”
+“They’re doing building work and they switched the
+heating off.”
+Reasonable. “Why have you got it right next to your
+computer?”
+“I wanted to keep my legs warm, and the computer’s
+main box is under the desk. It gets in the way if I put it on
+top.”
+Allard refrained from using any four-letter words, because last
+time somebody had actually taken it as an invitation. Instead, he
+explained that Prescott’s computer would be taken away for
+repairs, and Prescott would not be getting it back for at least a
+week. He did not mention that Prescott could have his machine back
+within the hour if he were not so annoying that it was a public
+service not to give him a computer.
+“But what shall I do about my files?”
+“Restore them from the frequent three-generation backups
+we have been explaining for the last two years you should
+make.”
+“No. No. My personal files on that
+computer.”
+Allard rubbed his hands together. Personal embarrassing files?
+He might get some entertainment out of today, after all.
+He took out the drive unit in seconds (with Prescott looking at
+him as if that was a black art, as usual) and pocketed it.
+“With my equipment, I can probably access the files and move
+them across to the main storage for you. You’ll be able to
+access them from your office-mates’ machines.
+Won’t that be helpful?”
+Prescott went white, and said, “Er...”
+“A job well done, I think,” said Allard. “Of
+course, it may be quicker just to repair the computer and bring it
+back to you.”
+Prescott looked fidgety.
+Allard picked up the computer and walked out with it. It went on
+his “to do eventually” table, and he returned to his
+coffee and job ads. With any luck, he’d never have to repair
+it because he would have left the company. What a good argument for
+leaving the company.
+Allard picked up his coffee and took a long swig. He could feel
+his brain-cells stretching under the stimulation: when he was
+talking to Prescott he could feel them shrinking.
+The job ads. Surely he would find something there to offer him
+the promise that not every IT person had to deal with people
+like Prescott all the time?
+Logging onto one of the better sites, he set a search running,
+and left it to its own devices. He could finish his coffee break
+with Prescott’s private files, presumably a porn collection,
+and check the selected ads over lunch.
+It was quite an extensive porn collection. Not particularly to
+his taste, but very thorough. Prescott had a thing for little white
+socks. He could have happily gone through his whole life
+without knowing that. Little white socks on airbrushed pretty-boys,
+posed beside vehicles or stallions or outdated edged weapons in an
+unconvincing way.
+Allard preferred women to men, and men to boys. When he
+was thinking about men, he liked them large and
+freshly-sweaty, not gleaming with carefully-applied baby-oil. He
+also liked them old enough to have a bit of personality. Prescott
+liked a personality-vacuum in his pretty pictures.
+The models also all appeared to be sharing a single brain-cell
+between them. This was doubtless utterly unfair on some of them,
+because at least one or two of them must be quite intelligent in
+the real world. It was just, he liked the intelligence to show.
+All very boring, really. There was no need for Prescott to have
+been quite so embarrassed, other than for his lack of taste. This
+was extremely tame. No orgies, not even a hint of kink, and the
+pretty boys were all well over the age of consent. In his years as
+a sysadmin, Allard had learnt quite a lot about human sexuality.
+Some of it he would rather not have known, including things like
+colleagues with a penchant for little white socks. Prescott was
+deeply, wearyingly normal. He felt his eyes closing even thinking
+about it. There certainly wasn’t anything here that
+he’d be remotely tempted to add to his personal collection.
+He preferred pictures of real people.
+That little lot really was depressing. Back to the job ads. An
+unusual advert caught his eye. WANTED: IT SPECIALIST FOR SYNDICATE
+CREW. There was a word you didn’t see every day. Syndicate?
+Oh, yes, a political philosophy advocating worker-control, a sort
+of left-wing capitalist thing.
+He put ‘syndicate’ into a search-engine and got back reams
+of nonsense (including some alarming stuff about pirate ships, back
+in the days of wood and sail) which seemed to imply that his guess
+was more-or-less correct.
+A quick e-mail query later, he had the appropriate loony-fringe
+e-mail land in his inbox, explaining why it would be a really good
+thing to have a part-share in a ship. He sighed. He liked clean,
+well-paid jobs (where he could get away clean and
+well-paid); this sort of arrangement sounded messy.
+On the other hand, the work sounded interesting, and being his
+own boss could only be an improvement on his current boss. This lot
+didn’t believe in management, obviously, but from where he
+was sitting neither did his current employer.
+He sent off his resume.
+He was mildly surprised to find an invitation to an interview
+sitting in his inbox the next morning. He hadn’t expected the
+determinedly political bunch to show any interest in a faceless
+capitalist when there were doubtless so many of their own lot
+interested in joining.
+The interview was tomorrow. Not a lot of notice, but as they
+said, they would be in the neighbourhood.
+He didn’t bother to hide the message. In fact, he left it
+open on the screen. Even if nothing came of it, he could happily
+annoy various people by letting them know he was looking for a job
+elsewhere.
+>
+The ship was somehow larger than he’d expected, given the
+impression he’d had of a fairly small group of people. Of
+course, his previous experience was with passenger ships, and this
+must be a freighter. It looked good, reasonably trim and
+well-cared-for, not that he was an authority on such things. It was
+rather let down by the name Mary-Sue in purple letters with a rose
+painted beside it. Taste obviously wasn’t these
+people’s middle name.
+“You don’t have to tell me,” murmured a tall,
+curly-haired man who could evidently read his expression, “it
+was Harry’s idea, and he’s like that.”
+“It just seems a curious name for a ship,” said
+Allard. “Who are you, by the way?” Now this is more
+like it, thought a part of Allard’s mind still shuddering
+from Prescott’s taste in porn, big, friendly, sexy and not
+airbrushed-to-death. This man was in his early thirties,
+probably around Allard’s own age, ordinarily attractive
+without being ‘pretty’, and untidy without being a mess. He
+also had an impressive mane of brown curls that, with the long face
+and dark-honey-coloured eyes, actually made him look leonine.
+“Vaughan.” The man held out his hand.
+“Ship’s engineer. I take it you’re the IT expert
+who’s due for the interview.”
+“Allard.” Allard held out his own hand politely,
+despite worrying about what a large engineer’s grip could do
+to a precision tool like his hand. “Will you be taking me to
+see the Captain?”
+Vaughan winced visibly. “I am the Captain, but
+it’s not a way of thinking we encourage. This is a community
+of equals, I just tend to sign the paperwork if I don’t
+happen to run away fast enough.”
+“What an interesting outlook on life,” said Allard,
+hoping that avoiding signing paperwork did not extend to
+paycheques.
+“What would you like first—see what the job is? Tour
+of the ship? Meet the other members of the crew?”
+“I’d like to do the job, not move in and marry
+it,” said Allard.
+Vaughan looked slightly hurt. “You’ve never done a
+ship-based job before, have you?”
+“I should imagine it’s fairly similar to any other
+apart from the scenery.”
+“Well, in a manner of speaking, you do have to move
+in and marry it, or at least move in.”
+It showed how desperate he’d been to leave the
+current—no, previous—job that it hadn’t actually
+occurred to him that this job would involve living with his
+colleagues as well as working with them. “I see what you
+mean.” He thought about it. “You can explain the job to
+me as we tour the ship. I’m going to have to look at your
+equipment anyway.”
+Vaughan spluttered slightly. “Sorry. Too much exposure to
+Harry. For a second I thought you were referring to something
+else.”
+This made no sense to Allard. “Equipment, tools,
+tech,” he said impatiently, waving a hand.
+“This ship,” said Vaughan, stepping through the door
+and leading him down a corridor that somehow didn’t seem
+quite to scale, “is second-hand, or more than that, from a
+bunch of aliens. It’s passed through a number of hands,
+tentacles, whatever...” he waved airily, “and
+we’ve landed up with it. Its systems are a little strange,
+and since we’re, you might call us an accumulation of
+specialists, we want to find the best IT expert we can.”
+“Oh, you’re a group of consultants.” Allard
+was pleased to finally find a normal handle on this group. The ship
+looked rather less battered than he’d expect from a
+‘communal-property’ bunch of weirdos. Since all of them owned
+a share, it was their money, paintwork and furniture; he
+supposed it made sense it wasn’t shabby. The corridor at
+least was clean and well-maintained, just a few minor scuffs and
+chips on the paintwork from daily use.
+“More or less,” said Vaughan. “Everyone on
+this ship has a skill that’s useful to the ship itself and
+can be hired out. We do some trading and cargo-running, but we also
+act as consultants.”
+This is a definite improvement on my previous job.
+“So you want me to handle ship’s systems and act as
+a consultant?”
+“That’s the general idea.”
+Just as Allard was beginning to wonder if the corridor actually
+ever came to an end, Vaughan led the way into the computer room.
+Allard was pleased to see that this too was clean, moderately tidy,
+and well-lit.
+“Yes, that might be acceptable. I won’t stand for
+having a share in the ship, though. Nothing personal, it’s
+not the way I work. I want a salaried position.”
+“Owning shares in the syndicate is the way this ship
+works,” Vaughan said, “I thought that was clear from
+the ad.”
+He’d better get this point clear from the start.
+“It’s not the way I work. If I decide
+you’re all a bunch of...” wankers, he thought,
+and decided to wait to say that until the contract was signed,
+“...idiots, I want to be able to pull out without having to
+stop to disentangle my capital.”
+“We do actually know how to run a business,” Vaughan
+said. “We’ve been doing it this way for some time, and
+been quite successful. We are not about to lose your capital for
+you.”
+Allard thought, I should have used ‘wankers’. It makes
+it a lot clearer. But business sense would have been the next point
+to address. He assembled what little tact he had, and said,
+“I was actually thinking more along the lines of working
+compatibility, whether you would suit as colleagues, but I’m
+glad to hear that you’re as attached to your money as I am to
+mine.”
+“Well, we haven’t had any other suitable applicants
+from this system,” Vaughan said rather doubtfully.
+How dare he suggest I might not be good enough, Allard
+thought for a split-second, before catching up to the point that
+he knew how good he was but he hadn’t actually proved
+it yet.
+“If you’re as good as you seem to think you are,
+perhaps we can come to some sort of arrangement,” Vaughan
+went on. “Give you until the next planetfall to make up your
+mind. Of course, if you left the ship at that point we’d want
+you to pay a fare.”
+It was good to see that at least one member of the crew was very
+hard-nosed about money. He’d thought they might be a bunch of
+woolly-minded idealists, but Vaughan at least seemed to have his
+head screwed on the right way round.
+“As long as I get paid a reasonable salary for the work
+done in the meantime,” he said.
+“We’ll be fair about that. Now, can you actually
+work with these systems?”
+Many of them looked fairly unproblematic, although they clearly
+had been used by members of several different cultures and at least
+three different species. He noticed that an AI appeared to have
+been part of the original fittings—or at least that’s
+what he’d thought that particular unit was.
+“What’s your main AI like?” he asked, slightly
+preoccupied with a little preliminary button-pushing.
+“Shy,” said Vaughan.
+Allard stopped pushing buttons and looked Vaughan in the
+face.
+“Shy, I said,” Vaughan repeated.
+“That’s not a disposition I remember encountering
+before.”
+“Nor had we,” said Vaughan.
+He filed that for future consideration. Well, it was an alien
+system.
+After prodding a few more devices, he said, “I can
+probably manage most of this, the rest would take a bit more work.
+On the other hand, I can’t think of many people who could do
+any better than that.”
+“I’ll show you the engine room,” said Vaughan,
+“and then I can take you up to the flight-deck, and you can
+meet the rest of the crew there, as well as looking at the
+remaining systems.”
+“If you’re the engineer, doesn’t that mean you
+are adequate for taking care of the engine room? Certainly better
+than an IT expert.”
+“It’s always useful to have some degree of
+backup,” said Vaughan.
+Allard thought, this is certainly better than the situation
+at my last place of employment now I’ve left, and hugged
+himself in silent glee at the thought of the amount of mess he
+would not be expected to clear up.
+He followed Vaughan into the engine room.
+“Just look at this engine!” Vaughan enthused.
+Allard looked at it. It was an engine.
+“This is quite an old ship,” Vaughan said, stroking
+the engine-housing, “and this is the original engine. Not as
+sophisticated as some of the ones available today, but this one is
+actually far more reliable. It’s easy for one person to
+manage. It manages itself most of the time. That’s far more
+important than an extra percent efficiency.”
+Allard looked more closely at it, then he asked to have the
+housing taken off so that he could see it properly. Vaughan was
+right, this was actually a rather nice piece of technology even if
+it wasn’t new and shiny.
+Vaughan picked up on his interest and started wittering on about
+it in detail. It was a pleasure listening to someone who knew his
+subject, and Allard couldn’t help noticing that Vaughan had
+rather a nice voice. Especially when he started making love to his
+engines. Unlike Allard’s last employers and colleagues,
+Vaughan was actually interested in what he did. This job was
+looking better all the time, even if the people involved had
+strange politics.
+Eventually, Vaughan broke off from what he was saying and said,
+“I’m sorry, I got a little carried away.”
+Allard said, “Don’t be. It’s a pleasure
+listening to someone who’s genuinely enthusiastic.”
+Particularly when he’s enthusiastic in a warm, flowing
+baritone that’s a pleasure in itself to listen to, he
+thought. “My last colleagues left any interest in the job
+behind when they left work.”
+Vaughan looked at him appraisingly. “I can safely say we
+don’t have that problem here. We do things because
+we’re interested in them.”
+“This job seems more appealing all the time,” Allard
+admitted.
+“So how much notice do you need to give your current
+employers?” asked Vaughan.
+“Just as long as it takes me to clear out my desk.”
+Not very long. Since I got used to taking jobs as bad as that
+last one I’m making sure I can strip every trace of my
+presence out of a building in twenty minutes or less.
+“You’re not going to give them any notice?”
+Vaughan sounded slightly shocked.
+“They wouldn’t give me any notice if they decided to
+dispense with my services.” And that certainly didn’t
+endear them to him. He’d have shown them a good deal more
+loyalty if they’d behaved better to him or others.
+“They didn’t give two of my colleagues notice
+when they decided to dispense with their services and make me do
+both their jobs. I owe them nothing.”
+“I do hope this tit-for-tat mentality extends to giving
+notice to people who would give you notice,” Vaughan
+said.
+“I treat people precisely as well as they treat me.”
+Which was, as far as Allard was concerned, the plain truth. So many
+people overcomplicated social interaction.
+“Are you flirting with me, Allard?”
+Including him, apparently. “If I’ve got to do
+that to get a job, I’m not interested.”
+“Well, that put me in my place,” murmured Vaughan,
+sounding slightly regretful.
+Time to think about un-squashing Vaughan later, if necessary,
+Allard thought. He could do with a few weeks concentrating on work
+before he started considering recreational activities. Vaughan was
+the sort of person that would probably bounce back quite well if
+Allard decided to un-squash his ego later.
+“I suppose I’d better take you to meet the
+others,” said Vaughan, leading the way into the corridor.
+“How many are there?” asked Allard.
+“Three more humans, plus Master Control Unit
+93.”
+“The shy AI?”
+“Yes. He’s got a bit more personality than your
+average AI.”
+“In other words he’s as weird as the rest of the
+crew.”
+Vaughan faked a huge double-take. “Who told you about the
+rest of us?”
+Allard smiled politely.
+“But seriously,” Vaughan said, “why the hell
+would you apply to join us if you have no interest in what
+we’re doing?”
+“You may have gathered that I do not enjoy my present
+place of employment.”
+“Somewhat,” agreed Vaughan.
+“Even a slightly cuckoo job with people who are at least
+marginally intelligent would be a big improvement. I can stand a
+few political speeches for the sake of a decent job, and if you can
+stand the odd ideological disagreement for the sake of a decent
+worker, we may be able to come to some arrangement.”
+Vaughan said, “That’s not the point.”
+What a pity. We were getting on so well until
+now.
+“This is not a lunatic-fringe operation that substitutes
+verbiage for work,” said Vaughan rather firmly.
+“It’s a serious way of getting people to work together
+on a long-term basis in a way that benefits both the group and the
+individuals. This co-operative has been running for about five
+years now, with changes in membership as people found they were
+suited to a larger or smaller group. We do have provision
+for people to leave, whether to join a group more suited to their
+tastes or to leave syndicalist ship-running completely.” He
+looked at Allard with intense dark eyes. Allard was interested to
+see that Vaughan’s eye colour shifted with emotion.
+“But it’s a serious operation, and we ask that our
+members try to take it seriously. We cannot run on the same basis
+as short-term contracts for a large corporation, if that’s
+what you’re used to.”
+“I find that quite understandable,” said Allard,
+“but it’s not my way of working.” He paused.
+“Look, I’m not the easiest of people to get on with. I
+don’t get on with other people easily. I function best where
+I have the security of knowing I can walk out if
+necessary.”
+“All of us,” said Vaughan quietly, “have
+probably worked for large corporations at some point. We appreciate
+the freedom to make our own minds up.”
+“Who exactly is ‘we’? You were about to tell
+me before we got sidetracked into political debate.”
+“Well, here we are at the flight-deck,” said
+Vaughan. “You’re welcome to come in and meet the rest
+of us.”
+Allard followed Vaughan through to the flight-deck. It was
+spacious, well-equipped, and clearly old but well looked-after. It
+was also not designed by humans.
+A balding but quite young man was trying to sprawl in an alien
+chair and put his feet up on the desk. Obviously it was quite
+difficult for humanoids to lounge about on this ship, but he
+looked as though he was putting in the effort. Despite the casual
+nondescript clothes and thin fairish hair, he wasn’t
+bad-looking. An expressive face, and Allard liked the look of the
+laugh-lines around his eyes.
+He got up when he saw them come in. “Harry Chance.
+Valuations man. Are you the one who’s going to throttle our
+computer systems into some sort of shape?”
+“Possibly,” said Allard non-committally.
+“Harry’s already introduced himself,” said
+Vaughan. “Over there we have Karen Bright, our weapons
+tech...” A rather attractive woman with dark curly hair
+glanced up at him, smiled, and then looked back at her console.
+“And our pilot, Claire Steele.” The striking blonde did
+not look up at him. That was all right. If he’d been busy
+when somebody had strolled into his office, he’d probably
+have waited until he’d finished what he was doing as
+well.
+“And, last but not least, Master Control Unit 93.”
+Vaughan indicated an arrangement of geometric shapes on the wall
+that Allard had taken for a piece of art. It didn’t say
+anything.
+Allard politely faced it, feeling slightly silly, and said,
+“Hello, Master Control Unit 93. I am Allard.”
+“Say hello, MCU 93,” said Vaughan.
+It still didn’t say anything.
+“This may be your new personal physician,” said
+Vaughan. “You might say hello to him.”
+An androgynous voice (tilted very slightly towards the male end
+of the spectrum) said, “Welcome aboard the Mary-Sue,
+Allard.”
+“Now we’ve been introduced,” said Allard,
+“may I approach you with a probe at some point? I’ve
+been known to get unpleasant showers of blue sparks from AIs who do
+not consider me properly introduced.”
+“I like this one,” said MCU 93 to Vaughan,
+“may we keep him?”
+“We haven’t decided yet,” said Vaughan.
+He turned to Allard. “You’re doing a lot better than
+the last one we tried. He did his best to rewire MCU 93 without
+bothering to ask first. MCU 93 took it personally.”
+“I’m not surprised,” said Allard. “In
+case you didn’t know, changing an AI’s circuitry can
+actually affect their personality. It would be roughly equivalent
+to somebody spiking your drinks. Or, in extreme cases, a
+lobotomy.”
+The blonde (ah yes: Claire Steele) looked up. He noticed she had
+brown eyes: unusual combination with what he was ready to swear was
+a natural blonde hair-colour. She gazed at him thoughtfully, and
+then said, “At least you seem to know what you’re
+talking about. There aren’t that many people with much
+experience of AIs. Let alone alien ones.”
+“I know enough not to treat them like ordinary
+computers.”
+Actually, the opportunity to handle an alien AI was an
+attractive feature of the job. Living on a ship controlled by that
+AI was less appealing. AIs weren’t that common for a good
+reason. They were just as capable as humanoid intelligences of
+going insane. For some reason, people were far more bothered by
+that when the life-form in question was silicon. This was
+irrational: Allard wanted to keep as far as possible from mental
+disturbance, whatever the physical make-up of the circuits
+containing it. But it was easier to overpower something if it
+wasn’t built into the fabric of a ship; that particular worry
+was sensible enough.
+However, MCU 93’s personality seemed pleasant and
+likeable, which was a good start. Allard wouldn’t be
+surprised if insanity had warning-signs like brooding or paranoia,
+and the ‘feel’ of MCU 93 was quite healthy.
+“We do have a slight problem, everybody,” said
+Vaughan rather hesitantly. “He’s not a
+syndicalist.”
+“What’s he doing here, then?” said
+Claire, staring at him. “The advert was clear enough, we
+don’t want any time-wasters.”
+“If I might join the conversation at this point,”
+said Allard, “there are more important things than minor
+political squabbles. Like finding out if the work I can do is
+necessary, and if we can work together.”
+Harry exchanged a ‘full of himself, isn’t he?’ sort
+of glance with Vaughan.
+Vaughan said, “That point didn’t become clear until
+he was already touring the ship, but I believe he may have
+something to offer us.”
+“The last non-syndicalist we tried,” said Claire,
+“was an industrial spy who ripped off all the technical
+details he could take back to his corporate home.”
+“I don’t like working for corporations any more than
+you do,” said Allard flatly, “but I need my
+freedom.”
+“Why should we take you instead of somebody who believes
+in the same principles as we do?” said Harry.
+“Because I’m very, very good.”
+Vaughan sighed. “And he’s not flirting when he says
+that. I’ve tried.”
+No, Allard agreed, I wasn’t flirting and I
+don’t intend to. At least not just yet. However, this crew
+provide considerably more inspiration for flirting than the last
+lot.
+“Are we supposed to take his abilities on trust?”
+Claire said. “This is a secondhand—well,
+tenth-hand—ship bought from aliens. It has special
+requirements. Can you deal with alien computers?”
+“Probably better than most. Oh, you want a free sample, do
+you?”
+“You must see our position,” Karen said. “We
+don’t know anything about you.”
+“I’ve been discussing this with Vaughan,”
+Allard said. “He seems to think that a form of consultancy
+work might be fair on both sides.”
+“As a probationary period,” Vaughan hastily put
+in.
+At the end of the probationary period, Allard thought,
+I will have left if I don’t like it. If I do like it, I
+can always threaten to leave. And if they don’t care if I
+leave, I haven’t been doing a good enough job anyway.
+“I’ve never worked on a ship before,” said
+Allard. “As Vaughan has already pointed out to me, it
+involves living as well as working with my colleagues. I
+don’t think it’s unreasonable for me to find out
+whether I’m suited to that before making a long-term
+commitment.”
+Harry said, “Yes. If you go stir-crazy after three days in
+space, we probably don’t want the hassle of trying to
+untangle you from the contract before you can leave.”
+“I think I can manage three days,” said Allard.
+“I have, after all, travelled on a number of
+occasions.”
+“Just how many jobs have you run away from?”
+said Claire.
+She’s a bitch. But so am I. I can cope with that.
+At least she had a personality. It might be no more pleasant than
+his own, but compared to Prescott and his un-charming stable of
+pretty-boy photos, it was a big improvement on ‘bland’. She
+was better-looking than Prescott as well.
+He grinned at her. “I didn’t run away from all of
+them, and no I wasn’t sacked either. I’ve worked as an
+independent consultant as well as in a salaried
+position.”
+“I’m still not happy about this,” said
+Claire.
+“Just think of me as a consultant who just happens to be
+on board,” said Allard. “If I was a planet-based
+consultant I would expect to go and stay in the area. The area in
+this case happens to be your ship. If nothing else, you may care to
+employ me short-term to sort out your ship’s systems. We can
+worry about long-term contracts after that.”
+“If you’re happy with a short-term contract, why do
+you want to leave your present position?” asked Karen.
+“Because they’re a bunch of wankers and I
+can’t stand them,” admitted Allard, “but
+don’t tell them that until you’ve offered me a
+job.”
+Claire started to snigger. “At least he’s honest.
+You can say that for him.”
+“There are two ways to take that from someone I
+don’t know,” said Karen. “Either they are
+a bunch of wankers or you’re a shit-stirrer. Without knowing
+you I can’t say for sure,” she added demurely. He took
+a second glance at her: yes, she was much politer than Claire, but
+she was quite capable of coming out with her own blunt style of
+remark—very decorously. He suspected that the quiet voice and
+sweet smile covered up for that rather well.
+“There is always the possibility that I am a shit-stirrer
+and they are a bunch of wankers who set me off,”
+Allard said, with a helpful smile.
+He paused, and decided to deal with the query seriously. He
+suspected that that, rather than stupid jokes, was the way to
+impress Karen. “Look, they really are a bunch of jobsworths.
+They arrive on the dot of nine and leave exactly at five, whether
+or not they’ve finished what they are doing; nobody has any
+idea what anybody else is working on, or why; and the senior
+management treat us like dirt.” He thought about that.
+Vaughan had been more sympathetic to his attitude when he’d
+explained why he had that attitude. “Two of my colleagues
+were sacked, and I was expected to do their jobs. I resent that,
+but I also resent the fact that they came in on a Monday morning,
+were told to go to the office, and came back with a security guard
+to stand over them as they cleared their desks into a black bag,
+and were then marched to the door. They happened to be two of the
+few people I actually liked at that firm, but I would also
+like to be clear that it isn’t a good way to treat
+anybody.”
+“This is the sort of thing we’re trying to
+stop!” said Vaughan, eyes alight with fervour.
+“We are all co-owners. Nobody should have to deal with that
+sort of behaviour just because there are bosses.”
+“You’ll have to excuse Vaughan,” Harry said
+lazily, returning to his default sprawl. “We all take it
+seriously, but Vaughan takes it very seriously.”
+Allard thought he could probably put up with the evangelism as
+long as he was merely expected to share a room with it and not
+pontificate as well. At least Vaughan had a rather nice voice, even
+when he was talking complete bollocks. It could always be
+considered background music.
+“If you can put up with me, I can put up with you. I
+think.” He decided, on a provisional basis, to like these
+people. They were weird, true, but they were intelligent, and even
+good-looking, which might be a consideration later on in the long
+distances between planets. “As long as I can decide to leave
+later if I’m wrong about that, or you can decide to put me
+down on the nearest planet sooner than actually strangling
+me.”
+“Is that what passes for diplomatic from you,
+Allard?” Claire said.
+“Yes. If you can cope, this may be a fruitful
+relationship.” He looked at Vaughan, and said, “Do I
+have a job?”
+“Hey!” said Harry, “the rest of us have a vote
+in this too.”
+“Sorry,” said Allard, meaning it. “It’ll
+take me a while to get used to the way things are done here, but
+it’ll probably be more interesting than the sort of job with
+a boss who decides everything.” Whether he’s
+competent to or not, he thought.
+“Show of hands?” said Vaughan. “Hands up
+everyone who’s willing to try this arrangement with
+Allard.
+To Allard’s complete amazement, everybody raised their
+hands. That’s not how it works, he thought, people
+drew lots not to sit next to me at the last place but one.
+“Are you absolutely sure?” he asked. “Remember
+you will be living with me, and I might not manage even the most
+cursory façade of pleasant behaviour over my own personality
+on those terms.”
+“We’re weird too,” said Harry.
+“He certainly knows of what he speaks,” said Claire,
+with a cynical grin and a toss of her bright blonde hair.
+“Quick, Vaughan, get him to sign the contract before he finds
+out about Harry’s idea of personal entertainment.”
+“What is Harry’s idea of personal
+entertainment?” asked Allard quickly.
+“We’re it,” said Claire. “He’s a
+voyeur, and we can’t keep him out of our data-files or his
+audio bugs out of our bedrooms, try how we might.”
+“You can’t,” said Allard, rather
+smugly, thinking that at least Harry seemed to have a more lively
+taste in porn than Prescott did.
+“And you can, if you’re capable of doing the job we
+hired you for,” said Karen. Allard was moderately surprised:
+she’d kept fairly quiet until now.
+“Where are you going, Harry?” asked Claire, over the
+sound of Harry getting up with more speed and animation than
+he’d shown in half an hour.
+“Running a backup!” said Harry, over his
+shoulder.
+“Tut, tut,” said Allard, “you should already
+have one in a safe place. I can see I will have a lot to teach you
+about data security.”
+“When can you join us, Allard?” Vaughan asked.
+He glanced at his watch. “My employers (may they rot in
+hell) are still at work at this point, so I should be able to clear
+my desk and get back to you within the next hour or so. It’ll
+take me a little longer to clear out my flat, but I’m a
+consultant—I’m used to knowing I may need to move at
+short notice. I don’t seem to have collected a
+lot.”
+“Want a hand packing stuff?” Vaughan asked.
+About to refuse, he stopped and thought about it. With two of
+them, he could get away with shifting the stuff himself rather than
+getting professional help. And Vaughan was reasonable company when
+he’d dismounted from his particular hobby-horse.
+“Thank you, I’d like that,” he said.
+A discreet distance from the front door of his erstwhile
+employer, he finally gave vent to his feelings. He’d bottled
+it up until he’d left the premises, on the grounds that he
+might one day need a job with the same bunch of morons
+again.
+Vaughan politely let him rant until he’d run out of steam.
+“Do you need help finding further synonyms for
+‘wanker’?” he asked, after a while.
+“No. Thank you for listening to me get that off my
+chest.”
+“Even my brief exposure to that establishment,” said
+Vaughan, “tells me why you were so eager to leave. It reminds
+me of why I became involved in the syndicalist movement in the
+first place. Let’s move on quickly before I succumb to the
+temptation to set fire to it.”
+Allard could quite understand why Vaughan felt that way, having
+been subjected to a security-check for unannounced visitors. He led
+the way to his flat: one of the few enjoyable features of working
+for that company had been that he was within easy walking distance
+of work, and still living somewhere pleasant.
+Now it had the benefit that he’d never bought a
+car—one less thing to get rid of.
+“You do travel lightly, I see,” said Vaughan.
+“I suppose if you’ve been working as a consultant on
+short-term contracts for the last few years you’ve needed to
+be able to move in a hurry.”
+“Not usually this much of a hurry,” said Allard,
+opening his front door. “Why did you accept me? I was
+expecting a lot of talking-around-the-subject.”
+“We are quite practical,” said Vaughan.“We have sound business reasons for needing a very good
+person to handle our computer systems, and although we would have
+preferred to have a full member of the syndicate we would have
+needed a short-term computer consultant anyway.” He grinned
+cheerfully. “And there’s always the hope that
+we’ll have converted you by the time you’ve finished
+the work that needs immediate attention.”
+“And besides, your AI likes me,” said Allard,
+smiling back, and mentally dividing his possessions into those he
+wouldn’t mind a casual acquaintance handling and those he was
+going to pack himself, in private.
+“This is a nice flat,” said Vaughan. “With
+windows. Are you sure you’ll be comfortable on a
+ship?”
+Allard thought about it. “I don’t see why not. You
+showed me the cabins are nice and big, even if it’s because
+they were designed for eight-foot aliens. If it comes to a view, I
+can always look at the stars.”
+| main |
+fiction |
+news |
+ramblings |
+links |
+site updates |
+The Syndicate |
+Volume 1 |
+Volume 2 |
+Volume 3 |
+Four Leaf Clover |
+paperback |
+characters |
+stories
+Copyright © 2002-2006, Jules Jones and Alex Woolgrave

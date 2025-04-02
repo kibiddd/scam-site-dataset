@@ -1,0 +1,8 @@
+Domain  name    e-angajare.md
+Domain state    OK
+
+Registered on   2024-12-20
+Expires    on   2025-12-20
+
+Nameserver      ns5.mivocloud.com
+Nameserver      ns6.mivocloud.com

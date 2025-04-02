@@ -1,0 +1,17 @@
+   Domain Name: LAPTOP-ADVANTAGE.COM
+   Registry Domain ID: 593186030_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.registermatrix.com
+   Registrar URL: http://www.registermatrix.com
+   Updated Date: 2024-06-30T02:17:39Z
+   Creation Date: 2006-09-14T16:25:00Z
+   Registry Expiry Date: 2025-09-14T16:25:00Z
+   Registrar: Media Elite Holdings Limited
+   Registrar IANA ID: 1114
+   Registrar Abuse Contact Email: billing@registermatrix.com
+   Registrar Abuse Contact Phone: +50766190531
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.HASTYDNS.COM
+   Name Server: NS2.HASTYDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:06:24Z 

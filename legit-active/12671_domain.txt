@@ -1,0 +1,19 @@
+   Domain Name: TICKETRETURN.COM
+   Registry Domain ID: 23484456_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2024-01-27T13:05:53Z
+   Creation Date: 2000-03-27T23:50:38Z
+   Registry Expiry Date: 2026-03-27T22:50:38Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: EDNS4.ULTRADNS.BIZ
+   Name Server: EDNS4.ULTRADNS.COM
+   Name Server: EDNS4.ULTRADNS.NET
+   Name Server: EDNS4.ULTRADNS.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:02:13Z 

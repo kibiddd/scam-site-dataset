@@ -1,0 +1,21 @@
+   Domain Name: DOUBLEDAYLARGEPRINT.COM
+   Registry Domain ID: 621522_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.registrar.amazon.com
+   Registrar URL: http://registrar.amazon.com
+   Updated Date: 2024-05-20T22:35:56Z
+   Creation Date: 1996-06-25T04:00:00Z
+   Registry Expiry Date: 2025-06-24T04:00:00Z
+   Registrar: Amazon Registrar, Inc.
+   Registrar IANA ID: 468
+   Registrar Abuse Contact Email: trustandsafety@support.aws.com
+   Registrar Abuse Contact Phone: +1.2024422253
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1333.AWSDNS-38.ORG
+   Name Server: NS-1598.AWSDNS-07.CO.UK
+   Name Server: NS-215.AWSDNS-26.COM
+   Name Server: NS-991.AWSDNS-59.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:08:24Z 

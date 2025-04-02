@@ -1,0 +1,17 @@
+   Domain Name: SXGUANGYU.COM
+   Registry Domain ID: 2901333555_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: grs-whois.hichina.com
+   Registrar URL: http://wanwang.aliyun.com
+   Updated Date: 2024-07-22T09:05:52Z
+   Creation Date: 2024-07-22T09:02:55Z
+   Registry Expiry Date: 2025-07-22T09:02:55Z
+   Registrar: Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
+   Registrar IANA ID: 1599
+   Registrar Abuse Contact Email: DomainAbuse@service.aliyun.com
+   Registrar Abuse Contact Phone: +86.95187
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: DNS23.HICHINA.COM
+   Name Server: DNS24.HICHINA.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:46:22Z 

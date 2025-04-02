@@ -1,0 +1,17 @@
+   Domain Name: 3656JJ.NET
+   Registry Domain ID: 2888352944_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.wdomain.com
+   Registrar URL: http://www.wdomain.com
+   Updated Date: 2024-06-24T13:43:13Z
+   Creation Date: 2024-06-07T10:40:00Z
+   Registry Expiry Date: 2025-06-07T10:40:00Z
+   Registrar: Domain International Services Limited
+   Registrar IANA ID: 3863
+   Registrar Abuse Contact Email: abuse@wdomain.com
+   Registrar Abuse Contact Phone: +852 59855337
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: AIDA.NS.CLOUDFLARE.COM
+   Name Server: BEAU.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:40:21Z 

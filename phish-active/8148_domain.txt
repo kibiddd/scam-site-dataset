@@ -1,0 +1,17 @@
+   Domain Name: ESPACOCONECTAR.COM
+   Registry Domain ID: 2827722801_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.hostinger.com
+   Registrar URL: http://www.hostinger.com
+   Updated Date: 2024-10-09T13:29:38Z
+   Creation Date: 2023-11-06T21:03:08Z
+   Registry Expiry Date: 2025-11-06T21:03:08Z
+   Registrar: HOSTINGER operations, UAB
+   Registrar IANA ID: 1636
+   Registrar Abuse Contact Email: abuse-tracker@hostinger.com
+   Registrar Abuse Contact Phone: +37064503378
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DNS-PARKING.COM
+   Name Server: NS2.DNS-PARKING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:15:52Z 

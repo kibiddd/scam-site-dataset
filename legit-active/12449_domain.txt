@@ -1,0 +1,18 @@
+   Domain Name: ANTALYARESORTS.COM
+   Registry Domain ID: 112570121_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.sawbuck.com
+   Registrar URL: http://www.wordpress.com
+   Updated Date: 2025-01-11T08:25:32Z
+   Creation Date: 2004-02-25T09:19:18Z
+   Registry Expiry Date: 2026-01-31T11:59:59Z
+   Registrar: Automattic Inc.
+   Registrar IANA ID: 1531
+   Registrar Abuse Contact Email: domainabuse@automattic.com
+   Registrar Abuse Contact Phone: +1 877 273-3049
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.WORDPRESS.COM
+   Name Server: NS2.WORDPRESS.COM
+   Name Server: NS3.WORDPRESS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:01:28Z 

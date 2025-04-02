@@ -1,0 +1,17 @@
+   Domain Name: TRUSTEDACCETS.COM
+   Registry Domain ID: 2831683760_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.apiname.com
+   Registrar URL: http://www.apiname.com
+   Updated Date: 2024-11-22T08:42:13Z
+   Creation Date: 2023-11-21T21:46:52Z
+   Registry Expiry Date: 2025-11-21T21:46:52Z
+   Registrar: Atak Domain Bilgi Teknolojileri A.S.
+   Registrar IANA ID: 1601
+   Registrar Abuse Contact Email: domain@apiname.com
+   Registrar Abuse Contact Phone: +90.2623259222
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.TWOONEHOSTING.COM
+   Name Server: NS2.TWOONEHOSTING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:49:23Z 

@@ -1,0 +1,18 @@
+   Domain Name: GEMIUS.COM
+   Registry Domain ID: 75475836_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.netart-registrar.com
+   Registrar URL: http://www.netart-registrar.com
+   Updated Date: 2024-07-23T16:41:31Z
+   Creation Date: 2001-07-29T11:07:30Z
+   Registry Expiry Date: 2025-07-29T11:07:30Z
+   Registrar: NetArt Registrar Sp. z o.o.
+   Registrar IANA ID: 1456
+   Registrar Abuse Contact Email: abuse@netart-registrar.com
+   Registrar Abuse Contact Phone: +48 22 454 48 85
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.GEMIUS.PL
+   Name Server: NS2.GEMIUS.PL
+   Name Server: NS3.GEMIUS.PL
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T01:08:43Z 

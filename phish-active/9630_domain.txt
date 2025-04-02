@@ -1,0 +1,22 @@
+   Domain Name: PHPLIST.COM
+   Registry Domain ID: 23352198_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.123-reg.co.uk
+   Registrar URL: http://www.meshdigital.com
+   Updated Date: 2024-01-20T13:48:39Z
+   Creation Date: 2000-03-26T16:07:38Z
+   Registry Expiry Date: 2028-03-26T15:07:38Z
+   Registrar: 123-Reg Limited
+   Registrar IANA ID: 1515
+   Registrar Abuse Contact Email: abuse@123-reg.co.uk
+   Registrar Abuse Contact Phone: +44.3454502310
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.LINODE.COM
+   Name Server: NS1.PHPLIST.COM
+   Name Server: NS1.SOFTLAYER.COM
+   Name Server: NS2.LINODE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T12:53:00Z 

@@ -1,0 +1,2 @@
+Domain: adesso-financial.de
+Status: connect

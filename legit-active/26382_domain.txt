@@ -1,0 +1,17 @@
+   Domain Name: FAREASTVIBES.COM
+   Registry Domain ID: 1652512072_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-04-09T18:34:05Z
+   Creation Date: 2011-04-23T19:57:04Z
+   Registry Expiry Date: 2025-04-23T19:57:04Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS.INMOTIONHOSTING.COM
+   Name Server: NS2.INMOTIONHOSTING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T00:04:49Z 

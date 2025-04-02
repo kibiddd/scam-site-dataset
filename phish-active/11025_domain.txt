@@ -1,0 +1,26 @@
+Domain Name: heartspacecoaching.com.au
+Registry Domain ID: fbc7fc4355c3415d944a551330ba79e7-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://tucowsdomains.com/compliance-form/
+Last Modified: 2024-08-20T21:40:36Z
+Registrar Name: Tucows (Australia) Pty Ltd trading as OpenSRS
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 397bc6f49ee741f9b3223053e9aa60d8-AU
+Registrant Contact Name: Jessica Kerr
+Tech Contact ID: 638e07e35dc04b9486acfd47bdb8b261-AU
+Tech Contact Name: Data Protected Data Protected
+Name Server: ns-cloud-e2.googledomains.com
+Name Server: ns-cloud-e3.googledomains.com
+Name Server: ns-cloud-e1.googledomains.com
+Name Server: ns-cloud-e4.googledomains.com
+DNSSEC: unsigned
+Registrant: Jessica Louise Kerr
+Registrant ID: ABN 37924590864
+Eligibility Type: Sole Trader
+Eligibility Name: Jessica Louise Kerr
+Eligibility ID: ABN 37924590864
+>>> Last update of WHOIS database: 2025-03-27T13:58:20Z 

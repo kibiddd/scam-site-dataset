@@ -1,0 +1,19 @@
+   Domain Name: TSMINTERACTIVE.COM
+   Registry Domain ID: 1652136322_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2025-03-22T09:18:47Z
+   Creation Date: 2011-04-21T16:43:36Z
+   Registry Expiry Date: 2026-04-21T16:43:36Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.G10.CFDNS.NET
+   Name Server: NS2.G10.CFDNS.BIZ
+   Name Server: NS3.G10.CFDNS.INFO
+   Name Server: NS4.G10.CFDNS.CO.UK
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:21:39Z 

@@ -1,0 +1,17 @@
+   Domain Name: BENGALSERVICE.COM
+   Registry Domain ID: 2121791141_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.crazydomains.com
+   Registrar URL: http://www.crazydomains.com.au
+   Updated Date: 2024-05-31T13:01:20Z
+   Creation Date: 2017-05-08T09:37:40Z
+   Registry Expiry Date: 2025-05-08T09:37:40Z
+   Registrar: Dreamscape Networks International Pte Ltd
+   Registrar IANA ID: 1291
+   Registrar Abuse Contact Email: abuse@dreamscapenetworks.com
+   Registrar Abuse Contact Phone: +61 894 220 890
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.BH-14.WEBHOSTBOX.NET
+   Name Server: NS2.BH-14.WEBHOSTBOX.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T20:24:53Z 

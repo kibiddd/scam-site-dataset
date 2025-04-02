@@ -1,0 +1,20 @@
+Domain name: alwaysbeautifulbilthoven.nl
+Status:      active
+
+Registrar:
+   RootNet NOC B.V.
+   Winselingseweg 127
+   6541AH Nijmegen
+   Netherlands
+
+DNSSEC:      yes
+
+Domain nameservers:
+   nsauth.myrootnet.com
+   nsauth.myrootnet.nl
+
+Creation Date: 2024-07-16
+
+Updated Date: 2024-07-16
+
+Record maintained by: SIDN BV

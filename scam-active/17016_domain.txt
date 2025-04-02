@@ -1,0 +1,19 @@
+   Domain Name: VECHAINSFX.COM
+   Registry Domain ID: 2724557125_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.apiname.com
+   Registrar URL: http://www.apiname.com
+   Updated Date: 2025-02-01T07:31:26Z
+   Creation Date: 2022-09-11T11:51:10Z
+   Registry Expiry Date: 2025-09-11T11:51:10Z
+   Registrar: Atak Domain Bilgi Teknolojileri A.S.
+   Registrar IANA ID: 1601
+   Registrar Abuse Contact Email: domain@apiname.com
+   Registrar Abuse Contact Phone: +90.2623259222
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.ULTAHOST.COM
+   Name Server: NS2.ULTAHOST.COM
+   Name Server: NS3.ULTAHOST.COM
+   Name Server: NS4.ULTAHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:49:52Z 

@@ -1,0 +1,17 @@
+   Domain Name: GIFTSBUZZ.COM
+   Registry Domain ID: 2204715763_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domain.com
+   Registrar URL: http://www.domain.com
+   Updated Date: 2024-12-11T11:57:19Z
+   Creation Date: 2017-12-26T18:36:34Z
+   Registry Expiry Date: 2025-12-26T18:36:34Z
+   Registrar: Domain.com, LLC
+   Registrar IANA ID: 886
+   Registrar Abuse Contact Email: compliance@domain-inc.net
+   Registrar Abuse Contact Phone: 602-226-2389
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:52:17Z 

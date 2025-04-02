@@ -1,0 +1,24 @@
+Domain Name: AIRCASHWEB3.BOND
+Registry Domain ID: D485468484-CNIC
+Registrar WHOIS Server: whois.gname.com
+Registrar URL: https://www.gname.com/
+Updated Date: 2024-09-16T22:55:00.0Z
+Creation Date: 2024-09-11T22:53:23.0Z
+Registry Expiry Date: 2025-09-11T23:59:59.0Z
+Registrar: Gname.com Pte. Ltd.
+Registrar IANA ID: 1923
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: WH-aircash
+Registrant State/Province: Shatin Distric
+Registrant Country: HK
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NILE.NS.CLOUDFLARE.COM
+Name Server: SIMONE.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: complaint@gname.com
+Registrar Abuse Contact Phone: +65.65189986
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:45:02.0Z 

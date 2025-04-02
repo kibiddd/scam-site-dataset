@@ -1,0 +1,25 @@
+   Domain Name: MAILLIST-MANAGE.NET
+   Registry Domain ID: 2702751183_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-05-10T10:11:14Z
+   Creation Date: 2022-06-10T14:48:45Z
+   Registry Expiry Date: 2026-06-10T14:48:45Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: DNS1.P09.NSONE.NET
+   Name Server: DNS2.P09.NSONE.NET
+   Name Server: DNS3.P09.NSONE.NET
+   Name Server: DNS4.P09.NSONE.NET
+   Name Server: NS1.ZOHOCORP.COM
+   Name Server: PDNS90.ULTRADNS.BIZ
+   Name Server: PDNS90.ULTRADNS.COM
+   Name Server: PDNS90.ULTRADNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:00:02Z 

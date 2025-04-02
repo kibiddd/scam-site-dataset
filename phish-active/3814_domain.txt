@@ -1,0 +1,18 @@
+   Domain Name: BAYAZITSIGORTA.COM
+   Registry Domain ID: 1986412857_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.isimtescil.net
+   Registrar URL: http://www.isimtescil.net
+   Updated Date: 2024-12-03T09:41:18Z
+   Creation Date: 2015-12-09T16:01:33Z
+   Registry Expiry Date: 2025-12-09T16:01:33Z
+   Registrar: Isimtescil Bilisim A.S.
+   Registrar IANA ID: 3826
+   Registrar Abuse Contact Email: abuse@isimtescil.net
+   Registrar Abuse Contact Phone: +90.8502000444
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: EU.DNSENABLE.COM
+   Name Server: TR.DNSENABLE.COM
+   Name Server: US.DNSENABLE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T20:24:24Z 

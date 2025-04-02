@@ -1,0 +1,17 @@
+   Domain Name: AUSMINING.NET
+   Registry Domain ID: 2938081645_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.west.cn
+   Registrar URL: http://www.west.cn/
+   Updated Date: 2024-11-29T06:36:19Z
+   Creation Date: 2024-11-29T06:15:19Z
+   Registry Expiry Date: 2025-11-29T06:15:19Z
+   Registrar: Chengdu West Dimension Digital Technology Co., Ltd.
+   Registrar IANA ID: 1556
+   Registrar Abuse Contact Email: abuse@west.cn
+   Registrar Abuse Contact Phone: 86.28.62778877
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: DRAGONFLY.DNSPOD.NET
+   Name Server: LEVI.DNSPOD.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:46:06Z 

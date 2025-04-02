@@ -1,0 +1,17 @@
+   Domain Name: BIWINCAE.COM
+   Registry Domain ID: 2933569154_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.name.com
+   Registrar URL: http://www.name.com
+   Updated Date: 2024-11-21T14:26:52Z
+   Creation Date: 2024-11-12T11:13:34Z
+   Registry Expiry Date: 2025-11-12T11:13:34Z
+   Registrar: Name.com, Inc.
+   Registrar IANA ID: 625
+   Registrar Abuse Contact Email: abuse@name.com
+   Registrar Abuse Contact Phone: 7202492374
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ETIENNE.NS.CLOUDFLARE.COM
+   Name Server: MAEVE.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:45:21Z 

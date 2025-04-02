@@ -1,0 +1,2 @@
+Domain: cps-partnersnp.de
+Status: connect

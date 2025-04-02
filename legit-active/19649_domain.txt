@@ -1,0 +1,72 @@
+Domain Name: icc.ca
+Registry Domain ID: D8444-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.easydns.ca
+Updated Date: 2024-06-01T09:50:02Z
+Creation Date: 2000-10-29T07:13:30Z
+Registry Expiry Date: 2025-04-14T05:00:00Z
+Registrar: easyDNS Technologies Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@easydns.com
+Registrar Abuse Contact Phone: +1.4165358672
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 70228560-CIRA
+Registrant Name: 164780 Canada Inc. o/a ICC - Insurance Claims Collaborative
+Registrant Organization:
+Registrant Street:
+Registrant City:
+Registrant State/Province:
+Registrant Postal Code:
+Registrant Country:
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email:
+Registry Admin ID: 70228562-CIRA
+Admin Name: Wes Hodge
+Admin Organization: ICC - Insurance Claims Collaborative
+Admin Street: 11 Young St
+Admin City: Alliston
+Admin State/Province: ON
+Admin Postal Code: L9R1B5
+Admin Country: CA
+Admin Phone: +1.7054357588
+Admin Phone Ext:
+Admin Fax: +1.7054357533
+Admin Fax Ext:
+Admin Email: wes@icc.ca
+Registry Tech ID: 70228561-CIRA
+Tech Name: Mr Mike Barker
+Tech Organization: Cyberlink Online
+Tech Street: Cyberlink Online, 22 College Street , Suite 102e
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5G 1Y6
+Tech Country: CA
+Tech Phone: +1 (416) 410-0111
+Tech Phone Ext:
+Tech Fax: +1 (416) 929-7117
+Tech Fax Ext:
+Tech Email: hostmaster@toclo.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1-34.azure-dns.com
+Name Server: ns2-34.azure-dns.net
+Name Server: ns3-34.azure-dns.org
+Name Server: ns4-34.azure-dns.info
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T21:51:40Z 

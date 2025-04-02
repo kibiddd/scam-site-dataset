@@ -1,0 +1,9 @@
+Stockhouse
+The website address for Stockhouse has changed
+We changed the address of the Stockhouse website from www.stockhouse.com to stockhouse.com. When this page refreshes you will be logged in with the new address.
+Please note that the Stockhouse website uses JavaScript in many places to provide a richer user experience accross multiple devices.
+If you browse our website with JavaScript disabled there are many features of the website that will not function as designed or
+will not function at all.
+If you have JavaScript enabled then this page should refresh automatically, if it does not then please tap the button below.
+Thank you.
+Proceed to Stockhouse

@@ -1,0 +1,21 @@
+   Domain Name: SPARKPOSTMAIL1.COM
+   Registry Domain ID: 1878122475_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-01-15T16:40:40Z
+   Creation Date: 2014-09-29T17:59:12Z
+   Registry Expiry Date: 2028-09-29T17:59:12Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1309.AWSDNS-35.ORG
+   Name Server: NS-1905.AWSDNS-46.CO.UK
+   Name Server: NS-235.AWSDNS-29.COM
+   Name Server: NS-946.AWSDNS-54.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:56:31Z 

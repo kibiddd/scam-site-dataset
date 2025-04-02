@@ -1,0 +1,17 @@
+   Domain Name: TAXEXEMPTWORLD.COM
+   Registry Domain ID: 202292127_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2025-02-23T16:41:47Z
+   Creation Date: 2005-08-28T10:10:57Z
+   Registry Expiry Date: 2026-03-02T04:59:59Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.SOFTLAYER.COM
+   Name Server: NS2.SOFTLAYER.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:33:48Z 

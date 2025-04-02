@@ -1,0 +1,17 @@
+Domain Name: iron-trade.org
+Registry Domain ID: bd7cd6a093e54e0db2c0b0a6850630fc-LROR
+Registrar WHOIS Server: http://whois.reg.com
+Registrar URL: http://www.reg.com
+Updated Date: 2025-02-04T13:26:55Z
+Creation Date: 2022-10-02T21:52:06Z
+Registry Expiry Date: 2025-10-02T21:52:06Z
+Registrar: Registrar of Domain Names REG.RU LLC
+Registrar IANA ID: 1606
+Registrar Abuse Contact Email: abuse@reg.ru
+Registrar Abuse Contact Phone: +7.4955801111
+Domain Status: ok https://icann.org/epp#ok
+Name Server: ns1.hosting.reg.ru
+Name Server: ns2.hosting.reg.ru
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:47:07Z 

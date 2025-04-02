@@ -1,0 +1,12 @@
+Domain Name: sportsground.co.nz
+Registrar URL: www.1stdomains.nz
+Updated Date: 2024-12-19T21:43:25Z
+Creation Date: 2008-01-14T02:34:49Z
+Original Created: 2008-01-14T02:34:49Z
+Registrar: Voyager Internet Ltd T/A 1st Domains
+Domain Status: ok https://icann.org/epp#ok
+Name Server: ns1.1stdomains.net.nz
+Name Server: ns2.1stdomains.net.nz
+DNSSEC: unsigned
+URL of the Domain Name Commission Limited Inaccuracy Complaint Form: https://dnc.org.nz/enquiry-form/
+>>> Last update of WHOIS database: 2025-03-27T16:56:27Z 

@@ -1,0 +1,708 @@
+Rent Musical
+Fullscreen player
+Tweet this page
+share on Facebook
+Tuesday, 25 March 2025
+News
+Videos
+Video Details
+Wiki
+Images
+remove the playlist
+Rent (musical)
+remove the playlistRent (musical)
+Rent (musical)
+Rent
+Rent (MUD)
+Rent (song)
+Musical
+Musical film
+Musical theatre
+Rent (musical)
+Rent is a rock musical with music and lyrics by Jonathan Larson loosely based on Giacomo Puccini's opera La Bohème. It tells the story of a group of impoverished young artists struggling to survive and create a life in New York City's East Village in the thriving days of Bohemian Alphabet City, under the shadow of HIV/AIDS.
+The musical was first seen in a workshop production at New York Theatre Workshop in 1993. This same Off-Broadway theatre was also the musical's initial home following its official 1996 opening. The show's creator, Jonathan Larson, died suddenly of an aortic dissection, believed to have been caused by undiagnosed Marfan syndrome, the night before the Off-Broadway premiere. The show won a Pulitzer Prize, and the production was a hit. The musical moved to Broadway's larger Nederlander Theatre on April 29, 1996.
+On Broadway, Rent gained critical acclaim and won a Tony Award for Best Musical among other awards. The Broadway production closed on September 7, 2008 after a 12-year run of 5,123 performances, the eleventh longest-running Broadway show. The production grossed over $280 million.
+Read more
+This page contains text from Wikipedia, the Free Encyclopedia -	https://wn.com/Rent_(musical)
+Rent
+Rent may refer to:
+Renting, a system of payment for the temporary use of something owned by someone else (hiring); the payments for such use are typically referred to as "rent"
+Economic rent, a payment to a factor of production in excess of that which is needed to keep it employed in its current use
+Rent-seeking, attempting to increase one's share of existing wealth without creating wealth
+Economic rent, a payment to a factor of production in excess of that which is needed to keep it employed in its current use
+Rent-seeking, attempting to increase one's share of existing wealth without creating wealth
+Rent (musical), a stage musical by Jonathan Larson, directed by Michael Greif
+Rent (film), a 2005 movie version of the musical, directed by Chris Columbus
+Rent: Filmed Live on Broadway, the final performance of the Broadway production filmed live in 2008, directed by Michael John Warren
+Rent (film), a 2005 movie version of the musical, directed by Chris Columbus
+Rent: Filmed Live on Broadway, the final performance of the Broadway production filmed live in 2008, directed by Michael John Warren
+Read more
+This page contains text from Wikipedia, the Free Encyclopedia -	https://wn.com/Rent
+Rent (MUD)
+Rent, in MUDs (primarily DikuMUDs), is a mechanism for both enabling and limiting persistence of a player character's possessions.  In the "traditional" rent paradigm, in order to keep belongings between game sessions, the player must travel to an inn and use the rent command there, and is assessed a price, in game money, for each inventory item; items that cannot be paid for are not persisted.  If the player simply uses the quit command rather than rent, inventory items are not kept, and fall to the ground.  Many evolutions of this approach exist: the rent command is often made to be performable anywhere rather than only at an inn, sometimes costs are removed or made negligible, and so on.  At times, in MUDs where inventory is made to simply persist automatically when the player quits the game, the conceptualization of inventory persistence as "rent" is sufficiently ingrained that this is referred to as "autorent".
+Rent is often considered an annoyance to players, which is a factor that drives the many variations seen on the concept.  On the other hand, the need to pay to retain one's items can provide an impetus to engagement with the game, though this may be seen as unduly coercive.
+Read more
+This page contains text from Wikipedia, the Free Encyclopedia -	https://wn.com/Rent_(MUD)
+Rent (song)
+"Rent" is a 1987 single by the Pet Shop Boys. It was released in the UK by Parlophone on 12 October 1987.
+Song information
+The lyrics are commonly thought to deal with a financially one-sided relationship, i.e. that of a kept man, the title implying more specifically the lot of a rent boy.  Neil Tennant, however, stated in the Actually: Further Listening liner notes:
+It peaked at number 8 in the British charts. Producer Stephen Hague remixed the song for single release.
+Video
+The video for the song was directed by Derek Jarman. It features two intercut storylines. One, filmed in black and white, shows Chris Lowe arriving at King's Cross station by train and walking past various low-life characters. The other, filmed in colour, features Margi Clarke as the partner of a wealthy man (played by Alexander Thynn, 7th Marquess of Bath), who is hosting a dinner party. The lyrics are sung by Tennant, who plays her chauffeur. The woman becomes annoyed when the man pays her no attention.  She then gets Tennant to drive her to King's Cross. There, she meets Chris Lowe on the platform and they embrace.
+Read more
+This page contains text from Wikipedia, the Free Encyclopedia -	https://wn.com/Rent_(song)
+Musical
+Musical  may refer to:
+musical, adjective of music
+Musical, or musical theatre, theatrical performance
+Musical, or musical film, type of film
+MusicAL, Albanian television channel
+See also
+Music (disambiguation)
+Read more
+This page contains text from Wikipedia, the Free Encyclopedia -	https://wn.com/Musical
+Musical film
+The musical film is a film genre in which songs sung by the characters are interwoven into the narrative, sometimes accompanied by dancing.
+The songs usually advance the plot or develop the film's characters, though in some cases they serve merely as breaks in the storyline, often as elaborate "production numbers".
+The musical film was a natural development of the stage musical after the emergence of sound film technology. Typically, the biggest difference between film and stage musicals is the use of lavish background scenery and locations that would be impractical in a theater. Musical films characteristically contain elements reminiscent of theater; performers often treat their song and dance numbers as if there is a live audience watching. In a sense, the viewer becomes the diegetic audience, as the performer looks directly into the camera and performs to it.
+Musical films in the Western world
+The classical sound era
+The 1930s through the early 1950s are considered to be the golden age of the musical film, when the genre's popularity was at its highest in the Western world.
+Read more
+This page contains text from Wikipedia, the Free Encyclopedia -	https://wn.com/Musical_film
+Musical theatre
+Musical theatre is a form of theatrical performance that combines songs, spoken dialogue, acting, and dance. The story and emotional content of a musical – humor, pathos, love, anger – are communicated through the words, music, movement and technical aspects of the entertainment as an integrated whole. Although musical theatre overlaps with other theatrical forms like opera and dance, it may be distinguished by the equal importance given to the music as compared with the dialogue, movement and other elements. Since the early 20th century, musical theatre stage works have generally been called, simply, musicals.
+Although music has been a part of dramatic presentations since ancient times, modern Western musical theatre emerged during the 19th century, with many structural elements established by the works of Gilbert and Sullivan in Britain and those of Harrigan and Hart in America.  These were followed by the numerous Edwardian musical comedies and the musical theatre works of American creators like George M. Cohan. The Princess Theatre musicals and other smart shows like Of Thee I Sing (1931) were artistic steps forward beyond revues and other frothy entertainments of the early 20th century and led to such groundbreaking works as Show Boat (1927) and Oklahoma! (1943).  Some of the most famous and iconic musicals through the decades that followed include
+West Side Story (1957), The Fantasticks (1960), Hair (1967), A Chorus Line (1975), Les Misérables (1985), The Phantom of the Opera (1986), Rent (1996), The Producers (2001) and Wicked (2003).
+Read more
+This page contains text from Wikipedia, the Free Encyclopedia -	https://wn.com/Musical_theatre
+Podcasts:
+Email this Page
+Play all in Full Screen
+Show More Related Videos
+Email this Page
+Play all in Full Screen
+Show More Related Videos
+RENT (2005)  – Official Trailer
+Check out the official trailer for Rent (2005).
+Watch Now: https://www.youtube.com/watch?v=FOaLc1Wb7ps
+Subscribe to Sony Pictures Home Entertainment: https://www.youtube.com/user/sonypictureshomeent
+Set in New York City's gritty East Village, the revolutionary rock opera RENT tells the story of a group of bohemians struggling to live and pay their rent. "Measuring their lives in love," these starving artists strive for success and acceptance while enduring the obstacles of poverty, illness, and the AIDS epidemic. RENT is based on Jonathan Larson's Pulitzer and Tony Award-winning musical, one of the longest-running shows on Broadway. The raw and riveting musical stars Rosario Dawson, Taye Diggs, Wilson Jermaine Heredia, Jesse L. Martin, Idina Menzel, Adam Pascal, Anthony Rapp, and Tracie...
+published: 17 Nov 2020
+Seasons of Love (HD)
+Opening clip of  the movie Rent (2005) "Seasons of love"
+All is property of Columbia and Revolution Studios
+I do not own this
+published: 23 Dec 2010
+RENT: Live Finale + RENT Original Broadway Cast Reunion
+#JonathanLarson's legacy, from 1996 to 2019 and counting! #RentTheMusical
+published: 31 May 2019
+RENT (2019 FULL COMPLETE)  with Valentina LIVE
+I  do not own the copyroight to this. I'm uploading for the Drag Race fans wanting to experience Valentina. Musical written by Jonathan Larson based on La Boheme .On Broadway, Rent gained critical acclaim and won several awards. The Broadway production closed on September 7, 2008, after a 12-year run of 5,123 performances. On February 14, 2016, the musical Wicked surpassed Rent's number of performances with a 2pm matinee, pushing Rent from the tenth- to eleventh-longest-running Broadway show. The production grossed over $280 million.
+This was meant to have been transmitted live until one of the leads broke his foot in a prior performance. A previous tech run-through had been recorded  as a trial blocking and rehearsal experiment, so this was transmitted and the final number 525,600 minutes...
+published: 29 Jan 2019
+(Rent 2005) Tango: Maureen
+Bản quyền thuộc về Lasso Entertainment và Sony Pictures Movies & Shows.
+published: 08 Feb 2020
+Rent - Take me or leave me (HD)
+Clip of the movie Rent (2005) "Take me or leave me"
+All is property of Columbia and Revolution Studios
+I do not own this
+published: 24 Dec 2010
+La vie boheme - Rent
+Derechos reservados a su autor, vídeo sin fines de lucro
+published: 14 Mar 2017
+Rosario Dawson on the first time she saw RENT #Rent #rosariodawson #broadway
+published: 29 Aug 2023
+THE RENT IS TOO DAMN HIGH 家賃が高すぎる (boombap)
+Recorded in 2017, we take you back to a moment of angst for Rob2g$ and Geno Bucks. Is this the first rap diss to gentrification in Brooklyn or did Soulja Boy do it first?
+First single off of Rob2g$' mixtape "Dinner with Jay" releasing December 13th
+Produced by Centz
+https://soundcloud.com/bernards-nile
+#jazzhop #boombap
+published: 04 Dec 2024
+Rent (2005) – FIRST 10 MINUTES
+Check out the first 10 MINUTES of Rent (2005).
+Watch Now: https://www.youtube.com/watch?v=FOaLc1Wb7ps
+Subscribe to Sony Pictures Home Entertainment: https://www.youtube.com/user/sonypictureshomeent
+Set in New York City's gritty East Village, the revolutionary rock opera RENT tells the story of a group of bohemians struggling to live and pay their rent. "Measuring their lives in love," these starving artists strive for success and acceptance while enduring the obstacles of poverty, illness, and the AIDS epidemic. RENT is based on Jonathan Larson's Pulitzer and Tony Award-winning musical, one of the longest-running shows on Broadway. The raw and riveting musical stars Rosario Dawson, Taye Diggs, Wilson Jermaine Heredia, Jesse L. Martin, Idina Menzel, Adam Pascal, Anthony Rapp, and Tracie ...
+published: 16 Nov 2020
+1:54
+RENT (2005)  – Official Trailer
+Order: Reorder
+Duration: 1:54
+Uploaded Date: 17 Nov 2020
+views: 267891
+Check out the official trailer for Rent (2005).
+Watch Now: https://www.youtube.com/watch?v=FOaLc1Wb7ps
+Subscribe to Sony Pictures Home Entertainment: https://...
+Check out the official trailer for Rent (2005).
+Watch Now: https://www.youtube.com/watch?v=FOaLc1Wb7ps
+Subscribe to Sony Pictures Home Entertainment: https://www.youtube.com/user/sonypictureshomeent
+Set in New York City's gritty East Village, the revolutionary rock opera RENT tells the story of a group of bohemians struggling to live and pay their rent. "Measuring their lives in love," these starving artists strive for success and acceptance while enduring the obstacles of poverty, illness, and the AIDS epidemic. RENT is based on Jonathan Larson's Pulitzer and Tony Award-winning musical, one of the longest-running shows on Broadway. The raw and riveting musical stars Rosario Dawson, Taye Diggs, Wilson Jermaine Heredia, Jesse L. Martin, Idina Menzel, Adam Pascal, Anthony Rapp, and Tracie Thoms and is directed by Chris Columbus.
+#Rent #Sony #Trailer #RosarioDawson #JesseLMartin #IdinaMenzel #TayeDiggs
+https://wn.com/Rent_(2005)_–_Official_Trailer
+Check out the official trailer for Rent (2005).
+Watch Now: https://www.youtube.com/watch?v=FOaLc1Wb7ps
+Subscribe to Sony Pictures Home Entertainment: https://www.youtube.com/user/sonypictureshomeent
+Set in New York City's gritty East Village, the revolutionary rock opera RENT tells the story of a group of bohemians struggling to live and pay their rent. "Measuring their lives in love," these starving artists strive for success and acceptance while enduring the obstacles of poverty, illness, and the AIDS epidemic. RENT is based on Jonathan Larson's Pulitzer and Tony Award-winning musical, one of the longest-running shows on Broadway. The raw and riveting musical stars Rosario Dawson, Taye Diggs, Wilson Jermaine Heredia, Jesse L. Martin, Idina Menzel, Adam Pascal, Anthony Rapp, and Tracie Thoms and is directed by Chris Columbus.
+#Rent #Sony #Trailer #RosarioDawson #JesseLMartin #IdinaMenzel #TayeDiggs
+published: 17 Nov 2020
+views: 267891
+3:15
+Seasons of Love (HD)
+Order: Reorder
+Duration: 3:15
+Uploaded Date: 23 Dec 2010
+views: 13039339
+Opening clip of  the movie Rent (2005) "Seasons of love"
+All is property of Columbia and Revolution Studios
+I do not own this
+Opening clip of  the movie Rent (2005) "Seasons of love"
+All is property of Columbia and Revolution Studios
+I do not own this
+https://wn.com/Seasons_Of_Love_(Hd)
+Opening clip of  the movie Rent (2005) "Seasons of love"
+All is property of Columbia and Revolution Studios
+I do not own this
+published: 23 Dec 2010
+views: 13039339
+2:31
+RENT: Live Finale + RENT Original Broadway Cast Reunion
+Order: Reorder
+Duration: 2:31
+Uploaded Date: 31 May 2019
+views: 430966
+#JonathanLarson's legacy, from 1996 to 2019 and counting! #RentTheMusical
+#JonathanLarson's legacy, from 1996 to 2019 and counting! #RentTheMusical
+https://wn.com/Rent_Live_Finale_Rent_Original_Broadway_Cast_Reunion
+#JonathanLarson's legacy, from 1996 to 2019 and counting! #RentTheMusical
+published: 31 May 2019
+views: 430966
+2:14:36
+RENT (2019 FULL COMPLETE)  with Valentina LIVE
+Order: Reorder
+Duration: 2:14:36
+Uploaded Date: 29 Jan 2019
+views: 1322458
+I  do not own the copyroight to this. I'm uploading for the Drag Race fans wanting to experience Valentina. Musical written by Jonathan Larson based on La Bohem...
+I  do not own the copyroight to this. I'm uploading for the Drag Race fans wanting to experience Valentina. Musical written by Jonathan Larson based on La Boheme .On Broadway, Rent gained critical acclaim and won several awards. The Broadway production closed on September 7, 2008, after a 12-year run of 5,123 performances. On February 14, 2016, the musical Wicked surpassed Rent's number of performances with a 2pm matinee, pushing Rent from the tenth- to eleventh-longest-running Broadway show. The production grossed over $280 million.
+This was meant to have been transmitted live until one of the leads broke his foot in a prior performance. A previous tech run-through had been recorded  as a trial blocking and rehearsal experiment, so this was transmitted and the final number 525,600 minutes reunion with the original cast was transmitted live as it was being performed. ENJOY!
+https://wn.com/Rent_(2019_Full_Complete)_With_Valentina_Live
+I  do not own the copyroight to this. I'm uploading for the Drag Race fans wanting to experience Valentina. Musical written by Jonathan Larson based on La Boheme .On Broadway, Rent gained critical acclaim and won several awards. The Broadway production closed on September 7, 2008, after a 12-year run of 5,123 performances. On February 14, 2016, the musical Wicked surpassed Rent's number of performances with a 2pm matinee, pushing Rent from the tenth- to eleventh-longest-running Broadway show. The production grossed over $280 million.
+This was meant to have been transmitted live until one of the leads broke his foot in a prior performance. A previous tech run-through had been recorded  as a trial blocking and rehearsal experiment, so this was transmitted and the final number 525,600 minutes reunion with the original cast was transmitted live as it was being performed. ENJOY!
+published: 29 Jan 2019
+views: 1322458
+5:31
+(Rent 2005) Tango: Maureen
+Order: Reorder
+Duration: 5:31
+Uploaded Date: 08 Feb 2020
+views: 407687
+Bản quyền thuộc về Lasso Entertainment và Sony Pictures Movies & Shows.
+Bản quyền thuộc về Lasso Entertainment và Sony Pictures Movies & Shows.
+https://wn.com/(Rent_2005)_Tango_Maureen
+Bản quyền thuộc về Lasso Entertainment và Sony Pictures Movies & Shows.
+published: 08 Feb 2020
+views: 407687
+3:26
+Rent - Take me or leave me (HD)
+Order: Reorder
+Duration: 3:26
+Uploaded Date: 24 Dec 2010
+views: 8744551
+Clip of the movie Rent (2005) "Take me or leave me"
+All is property of Columbia and Revolution Studios
+I do not own this
+Clip of the movie Rent (2005) "Take me or leave me"
+All is property of Columbia and Revolution Studios
+I do not own this
+https://wn.com/Rent_Take_Me_Or_Leave_Me_(Hd)
+Clip of the movie Rent (2005) "Take me or leave me"
+All is property of Columbia and Revolution Studios
+I do not own this
+published: 24 Dec 2010
+views: 8744551
+6:14
+La vie boheme - Rent
+Order: Reorder
+Duration: 6:14
+Uploaded Date: 14 Mar 2017
+views: 1093539
+Derechos reservados a su autor, vídeo sin fines de lucro
+Derechos reservados a su autor, vídeo sin fines de lucro
+https://wn.com/La_Vie_Boheme_Rent
+Derechos reservados a su autor, vídeo sin fines de lucro
+published: 14 Mar 2017
+views: 1093539
+0:17
+Rosario Dawson on the first time she saw RENT #Rent #rosariodawson #broadway
+Order: Reorder
+Duration: 0:17
+Uploaded Date: 29 Aug 2023
+views: 36745
+https://wn.com/Rosario_Dawson_On_The_First_Time_She_Saw_Rent_Rent_Rosariodawson_Broadway
+published: 29 Aug 2023
+views: 36745
+3:15
+THE RENT IS TOO DAMN HIGH 家賃が高すぎる (boombap)
+Order: Reorder
+Duration: 3:15
+Uploaded Date: 04 Dec 2024
+views: 179
+Recorded in 2017, we take you back to a moment of angst for Rob2g$ and Geno Bucks. Is this the first rap diss to gentrification in Brooklyn or did Soulja Boy do...
+Recorded in 2017, we take you back to a moment of angst for Rob2g$ and Geno Bucks. Is this the first rap diss to gentrification in Brooklyn or did Soulja Boy do it first?
+First single off of Rob2g$' mixtape "Dinner with Jay" releasing December 13th
+Produced by Centz
+https://soundcloud.com/bernards-nile
+#jazzhop #boombap
+https://wn.com/The_Rent_Is_Too_Damn_High_家賃が高すぎる_(Boombap)
+Recorded in 2017, we take you back to a moment of angst for Rob2g$ and Geno Bucks. Is this the first rap diss to gentrification in Brooklyn or did Soulja Boy do it first?
+First single off of Rob2g$' mixtape "Dinner with Jay" releasing December 13th
+Produced by Centz
+https://soundcloud.com/bernards-nile
+#jazzhop #boombap
+published: 04 Dec 2024
+views: 179
+9:51
+Rent (2005) – FIRST 10 MINUTES
+Order: Reorder
+Duration: 9:51
+Uploaded Date: 16 Nov 2020
+views: 545193
+Check out the first 10 MINUTES of Rent (2005).
+Watch Now: https://www.youtube.com/watch?v=FOaLc1Wb7ps
+Subscribe to Sony Pictures Home Entertainment: https://w...
+Check out the first 10 MINUTES of Rent (2005).
+Watch Now: https://www.youtube.com/watch?v=FOaLc1Wb7ps
+Subscribe to Sony Pictures Home Entertainment: https://www.youtube.com/user/sonypictureshomeent
+Set in New York City's gritty East Village, the revolutionary rock opera RENT tells the story of a group of bohemians struggling to live and pay their rent. "Measuring their lives in love," these starving artists strive for success and acceptance while enduring the obstacles of poverty, illness, and the AIDS epidemic. RENT is based on Jonathan Larson's Pulitzer and Tony Award-winning musical, one of the longest-running shows on Broadway. The raw and riveting musical stars Rosario Dawson, Taye Diggs, Wilson Jermaine Heredia, Jesse L. Martin, Idina Menzel, Adam Pascal, Anthony Rapp, and Tracie Thoms and is directed by Chris Columbus.
+#Rent #Sony #RosarioDawson #JesseLMartin #IdinaMenzel #TayeDiggs
+https://wn.com/Rent_(2005)_–_First_10_Minutes
+Check out the first 10 MINUTES of Rent (2005).
+Watch Now: https://www.youtube.com/watch?v=FOaLc1Wb7ps
+Subscribe to Sony Pictures Home Entertainment: https://www.youtube.com/user/sonypictureshomeent
+Set in New York City's gritty East Village, the revolutionary rock opera RENT tells the story of a group of bohemians struggling to live and pay their rent. "Measuring their lives in love," these starving artists strive for success and acceptance while enduring the obstacles of poverty, illness, and the AIDS epidemic. RENT is based on Jonathan Larson's Pulitzer and Tony Award-winning musical, one of the longest-running shows on Broadway. The raw and riveting musical stars Rosario Dawson, Taye Diggs, Wilson Jermaine Heredia, Jesse L. Martin, Idina Menzel, Adam Pascal, Anthony Rapp, and Tracie Thoms and is directed by Chris Columbus.
+#Rent #Sony #RosarioDawson #JesseLMartin #IdinaMenzel #TayeDiggs
+published: 16 Nov 2020
+views: 545193
+back
+Most Related
+Most Recent
+Most Popular
+Top Rated
+expand screen to full width
+repeat playlist
+shuffle
+replay video
+clear playlist
+restore
+images
+list
+PLAYLIST TIME:
+back
+Most Related
+Most Recent
+Most Popular
+Top Rated
+expand screen to full width
+repeat playlist
+shuffle
+replay video
+clear playlist
+restore
+images
+list
+PLAYLIST TIME:
+1:54
+RENT (2005)  – Official Trailer
+Check out the official trailer for Rent (2005).
+Watch Now: https://www.youtube.com/watch?...
+published: 17 Nov 2020
+Play in Full Screen
+RENT (2005)  – Official Trailer
+RENT (2005)  – Official Trailer
+Report rights infringement
+published: 17 Nov 2020
+views: 267891
+Check out the official trailer for Rent (2005).
+Watch Now: https://www.youtube.com/watch?v=FOaLc1Wb7ps
+Subscribe to Sony Pictures Home Entertainment: https://www.youtube.com/user/sonypictureshomeent
+Set in New York City's gritty East Village, the revolutionary rock opera RENT tells the story of a group of bohemians struggling to live and pay their rent. "Measuring their lives in love," these starving artists strive for success and acceptance while enduring the obstacles of poverty, illness, and the AIDS epidemic. RENT is based on Jonathan Larson's Pulitzer and Tony Award-winning musical, one of the longest-running shows on Broadway. The raw and riveting musical stars Rosario Dawson, Taye Diggs, Wilson Jermaine Heredia, Jesse L. Martin, Idina Menzel, Adam Pascal, Anthony Rapp, and Tracie Thoms and is directed by Chris Columbus.
+#Rent #Sony #Trailer #RosarioDawson #JesseLMartin #IdinaMenzel #TayeDiggs
+Show More
+3:15
+Seasons of Love (HD)
+Opening clip of  the movie Rent (2005) "Seasons of love"
+All is property of Columbia a...
+published: 23 Dec 2010
+Play in Full Screen
+Seasons of Love (HD)
+Seasons of Love (HD)
+Report rights infringement
+published: 23 Dec 2010
+views: 13039339
+Opening clip of  the movie Rent (2005) "Seasons of love"
+All is property of Columbia and Revolution Studios
+I do not own this
+Show More
+2:31
+RENT: Live Finale + RENT Original Broadway Cast Reunion
+#JonathanLarson's legacy, from 1996 to 2019 and counting! #RentTheMusical
+published: 31 May 2019
+Play in Full Screen
+RENT: Live Finale + RENT Original Broadway Cast Reunion
+RENT: Live Finale + RENT Original Broadway Cast Reunion
+Report rights infringement
+published: 31 May 2019
+views: 430966
+#JonathanLarson's legacy, from 1996 to 2019 and counting! #RentTheMusical
+Show More
+2:14:36
+RENT (2019 FULL COMPLETE)  with Valentina LIVE
+I  do not own the copyroight to this. I'm uploading for the Drag Race fans wanting to expe...
+published: 29 Jan 2019
+Play in Full Screen
+RENT (2019 FULL COMPLETE)  with Valentina LIVE
+RENT (2019 FULL COMPLETE)  with Valentina LIVE
+Report rights infringement
+published: 29 Jan 2019
+views: 1322458
+I  do not own the copyroight to this. I'm uploading for the Drag Race fans wanting to experience Valentina. Musical written by Jonathan Larson based on La Boheme .On Broadway, Rent gained critical acclaim and won several awards. The Broadway production closed on September 7, 2008, after a 12-year run of 5,123 performances. On February 14, 2016, the musical Wicked surpassed Rent's number of performances with a 2pm matinee, pushing Rent from the tenth- to eleventh-longest-running Broadway show. The production grossed over $280 million.
+This was meant to have been transmitted live until one of the leads broke his foot in a prior performance. A previous tech run-through had been recorded  as a trial blocking and rehearsal experiment, so this was transmitted and the final number 525,600 minutes reunion with the original cast was transmitted live as it was being performed. ENJOY!
+Show More
+5:31
+(Rent 2005) Tango: Maureen
+Bản quyền thuộc về Lasso Entertainment và Sony Pictures Movies & Shows.
+published: 08 Feb 2020
+Play in Full Screen
+(Rent 2005) Tango: Maureen
+(Rent 2005) Tango: Maureen
+Report rights infringement
+published: 08 Feb 2020
+views: 407687
+Bản quyền thuộc về Lasso Entertainment và Sony Pictures Movies & Shows.
+Show More
+3:26
+Rent - Take me or leave me (HD)
+Clip of the movie Rent (2005) "Take me or leave me"
+All is property of Columbia and Re...
+published: 24 Dec 2010
+Play in Full Screen
+Rent - Take me or leave me (HD)
+Rent - Take me or leave me (HD)
+Report rights infringement
+published: 24 Dec 2010
+views: 8744551
+Clip of the movie Rent (2005) "Take me or leave me"
+All is property of Columbia and Revolution Studios
+I do not own this
+Show More
+6:14
+La vie boheme - Rent
+Derechos reservados a su autor, vídeo sin fines de lucro
+published: 14 Mar 2017
+Play in Full Screen
+La vie boheme - Rent
+La vie boheme - Rent
+Report rights infringement
+published: 14 Mar 2017
+views: 1093539
+Derechos reservados a su autor, vídeo sin fines de lucro
+Show More
+0:17
+Rosario Dawson on the first time she saw RENT #Rent #rosariodawson #broadway
+published: 29 Aug 2023
+Play in Full Screen
+Rosario Dawson on the first time she saw RENT #Rent #rosariodawson #broadway
+Rosario Dawson on the first time she saw RENT #Rent #rosariodawson #broadway
+Report rights infringement
+published: 29 Aug 2023
+views: 36745
+Show More
+3:15
+THE RENT IS TOO DAMN HIGH 家賃が高すぎる (boombap)
+Recorded in 2017, we take you back to a moment of angst for Rob2g$ and Geno Bucks. Is this...
+published: 04 Dec 2024
+Play in Full Screen
+THE RENT IS TOO DAMN HIGH 家賃が高すぎる (boombap)
+THE RENT IS TOO DAMN HIGH 家賃が高すぎる (boombap)
+Report rights infringement
+published: 04 Dec 2024
+views: 179
+Recorded in 2017, we take you back to a moment of angst for Rob2g$ and Geno Bucks. Is this the first rap diss to gentrification in Brooklyn or did Soulja Boy do it first?
+First single off of Rob2g$' mixtape "Dinner with Jay" releasing December 13th
+Produced by Centz
+https://soundcloud.com/bernards-nile
+#jazzhop #boombap
+Show More
+9:51
+Rent (2005) – FIRST 10 MINUTES
+Check out the first 10 MINUTES of Rent (2005).
+Watch Now: https://www.youtube.com/watch?v...
+published: 16 Nov 2020
+Play in Full Screen
+Rent (2005) – FIRST 10 MINUTES
+Rent (2005) – FIRST 10 MINUTES
+Report rights infringement
+published: 16 Nov 2020
+views: 545193
+Check out the first 10 MINUTES of Rent (2005).
+Watch Now: https://www.youtube.com/watch?v=FOaLc1Wb7ps
+Subscribe to Sony Pictures Home Entertainment: https://www.youtube.com/user/sonypictureshomeent
+Set in New York City's gritty East Village, the revolutionary rock opera RENT tells the story of a group of bohemians struggling to live and pay their rent. "Measuring their lives in love," these starving artists strive for success and acceptance while enduring the obstacles of poverty, illness, and the AIDS epidemic. RENT is based on Jonathan Larson's Pulitzer and Tony Award-winning musical, one of the longest-running shows on Broadway. The raw and riveting musical stars Rosario Dawson, Taye Diggs, Wilson Jermaine Heredia, Jesse L. Martin, Idina Menzel, Adam Pascal, Anthony Rapp, and Tracie Thoms and is directed by Chris Columbus.
+#Rent #Sony #RosarioDawson #JesseLMartin #IdinaMenzel #TayeDiggs
+Show More
+Rent (musical)
+Rent is a rock musical with music and lyrics by Jonathan Larson loosely based on Giacomo Puccini's opera La Bohème. It tells the story of a group of impoverished young artists struggling to survive and create a life in New York City's East Village in the thriving days of Bohemian Alphabet City, under the shadow of HIV/AIDS.
+The musical was first seen in a workshop production at New York Theatre Workshop in 1993. This same Off-Broadway theatre was also the musical's initial home following its official 1996 opening. The show's creator, Jonathan Larson, died suddenly of an aortic dissection, believed to have been caused by undiagnosed Marfan syndrome, the night before the Off-Broadway premiere. The show won a Pulitzer Prize, and the production was a hit. The musical moved to Broadway's larger Nederlander Theatre on April 29, 1996.
+On Broadway, Rent gained critical acclaim and won a Tony Award for Best Musical among other awards. The Broadway production closed on September 7, 2008 after a 12-year run of 5,123 performances, the eleventh longest-running Broadway show. The production grossed over $280 million.
+Read more
+This page contains text from Wikipedia, the Free Encyclopedia -	https://wn.com/Rent_(musical)
+<%= durationStr %>
+<%= title %>
+remove from playlist
+share this video
+<%= tooltipContentBody %>
+<%= title %>...
+share
+<%= durationStr %>
+<%= tooltipContentBody %>
+RENT (2005)  – Official Trailer...
+Seasons of Love (HD)...
+RENT: Live Finale + RENT Original Broadway Cast Re...
+RENT (2019 FULL COMPLETE)  with Valentina LIVE...
+(Rent 2005) Tango: Maureen...
+Rent - Take me or leave me (HD)...
+La vie boheme - Rent...
+Rosario Dawson on the first time she saw RENT #Ren...
+THE RENT IS TOO DAMN HIGH 家賃が高すぎる (boombap)...
+Rent (2005) – FIRST 10 MINUTES...
+Latest News for: rent (musical)
+Edit
+We spent years looking for the perfect US city to live in. After our dream ...
+Business Insider
+25 Mar 2025
+The music scene there seemed incredible, but despite plenty of creative opportunities and reasonable rent prices, mass relocation to Austin in recent years has driven up the cost of housing.
+Edit
+amBroadway | ‘The Jonathan Larson Project’ to close Off-Broadway, ‘Private Lives’ headed to Broadway and more
+The Villager
+25 Mar 2025
+“The Jonathan Larson Project,” a new Off-Broadway musical built using 20 unknown songs from the archives of Jonathan Larson (the author of “Rent,” who tragically died the night before its Off-Broadway ...
+Edit
+Beloved Shell Rock Spring Swing show now in 60th year
+Oelwein Daily Register
+25 Mar 2025
+He lived in Shell Rock and had been active in music in high school and college ... In addition to the "Be Our Guest" opener, musical numbers such as “Seasons of Love” from “Rent” and “For Good” from “Wicked” pepper the program.
+Edit
+The Irrational Boss Talks The 'Really Intense And Dangerous' Finale For Alec With Rose's Husband In The Mix, So What About Season 3?
+Cinema Blend
+25 Mar 2025
+Martin calling back to his Rent roots like he did for The Flash's musical episode and Karen David channeling her inner Princess Isabella from Galavant for Episode 17 last week was a different kind of ...
+Edit
+Hit theatrical movie 'Wicked' is now streaming. How to watch in Michigan
+Detroit Free Press
+24 Mar 2025
+Fans of "Wicked" now can watch the popular 2024 movie adaptation of the Broadway musical and on Peacock ... The movie is available for rent for $3.99 or purchase for $17.99 on Amazon Prime Video, including the bonus X-ray edition.
+Edit
+Meghan fires back in 'breakfast war' with Gwynnie as she unveils 're-invented banana split' (but ...
+The Daily Mail
+24 Mar 2025
+Some viewers suggested Ms Paltrow's laid back look, crumpled pyjamas and simple, silent cooking demonstration were chosen to contrast with Meghan's flawless make-up, designer clothes and rented kitchen ... 'Even the music...
+Edit
+Meghan Markle is 'adrift on reality': Vanity Fair's ex-editor reveals duchess believed she was magazine's ...
+The Daily Mail
+24 Mar 2025
+Some viewers suggested Ms Paltrow's laid back look, crumpled pyjamas and simple, silent cooking demonstration were chosen to contrast with Meghan's flawless make-up, designer clothes and rented kitchen ... 'Even the music...
+Edit
+Saratoga Springs Department of Public Works releases annual report
+The Saratogian
+24 Mar 2025
+Another historic space in the City, the 153-year-old Saratoga Music Hall, also received some ... The Skip Scirocco Music Hal was rented 13 times and brought in $14,900 in revenue for the city as well.
+Edit
+Amy Schumer mocks Meghan Markle for using 'Sussex' as her surname as she becomes latest ...
+The Daily Mail
+24 Mar 2025
+Some viewers suggested Ms Paltrow's laid back look, crumpled pyjamas and simple, silent cooking demonstration were chosen to contrast with Meghan's flawless make-up, designer clothes and rented kitchen ... 'Even the music...
+Edit
+Make-up free Gwynnie cooks fry-up in PJs in her OWN kitchen - so is she ...
+The Daily Mail
+23 Mar 2025
+Some viewers suggested Ms Paltrow's unmade-up look, rumpled PJs and simple, speech-free cooking demonstration were chosen to contrast with Meghan's flawless make-up, designer clothes and rented kitchen ... 'Even the music...
+Edit
+‘Wicked’ is now available to stream at home. Here’s which streamer it's on, how to watch
+Herald-Tribune Sarasota
+21 Mar 2025
+Peacock announced that the movie musical will be available to stream on its platform starting Friday, March 21 at 6 a.m ... How to purchase, rent 'Wicked' ... Part 1" is available to own or rent on digital platforms.
+Edit
+'Snow White' comes to the big screen. Where to see it in Michigan
+Port Huron Times Herald
+21 Mar 2025
+Who's in the cast of the musical? ... In addition, the 2012 "Snow White and the Huntsman" with Kristen Stewart and Chris Hemsworth is available for purchase or rent on Amazon Prime Video and Apple TV.Where can you watch the musical in Michigan?.
+Edit
+Henoch passing a loss to community, theater
+The Hawk Eye
+21 Mar 2025
+One of his award-winning performances was as Harold Hill in the Music Man for which he was named Best Leading Actor in a Musical by the Iowa Community Theater Association in 2013 ... “We loved musicals and RENT was at the top of the list.
+Edit
+‘I didn’t know if I was going to get out of there,’ says Israeli abducted ...
+The American Israelite
+20 Mar 2025
+Itay Kashti, a music producer residing in London, was ambushed by three Muslim men who, posing as representatives of Polydor Records, had lured him to an isolated cottage they had rented in rural Wales, ostensibly for a “music recording camp.”.
+Edit
+The Orchestra (For Now) capture the city’s fast-paced neuroticism with maximalist ‘London prog’
+NME
+20 Mar 2025
+“We are just people living in the here and now, we’re going to write honestly and be honest, musically,” Thompson adds. “And that means writing songs that are about the outrageous rent in London, even if it doesn’t say so explicitly in the lyrics.” ... .
+1
+2
+Next page »
+Article Search
+search
+tools
+You can search using any combination of the items listed below.
+Language:
+Afrikaans
+Albanian
+Amharic
+Arabic
+Armenian
+Assamese
+Azerbaijani
+Bangla
+Basque
+Belarusian
+Bengali
+Bholpuri
+Bosnian
+Bulgarian
+Burmese
+Cambodian
+Catalan
+Chinese
+Creole
+Croatian
+Czech
+Danish
+Dutch
+English
+Estonian
+Faroese
+Finnish
+Flemish
+French
+Galician
+Georgian
+German
+Greek
+Greenlandic
+Gujarati
+Haitian
+Hausa
+Hebrew
+Hindi
+Hungarian
+Icelandic
+Indonesian
+Irish
+Italian
+Japanese
+Kannada
+Kazakh
+Korean
+Kurdish
+Kurdish Kurmanji
+Kyrgyz
+Latvian
+Lithuanian
+Macedonian
+Malay
+Malayalam
+Maltese
+Marathi
+Moldovan
+Montenegrin
+Nepali
+Norwegian
+Oriya
+Ossetic
+Pashto
+Persian
+Polish
+Portuguese
+Punjabi
+Romanian
+Romansh
+Russian
+Rwandan
+Scottish Gaelic
+Serbian
+Slovak
+Slovenian
+Somali
+Spanish
+Swahili
+Swedish
+Tagalog
+Tamil
+Telugu
+Thai
+Turkish
+Ukrainian
+Urdu
+Uzbek
+Vietnamese
+Visayan
+Welsh
+Zulu
+Sort:
+Most relevant first
+Oldest first
+Newest first
+Indexed:
+last three days
+last three weeks
+Search:
+expression in headline and text
+all of the words
+any word in the headline
+boolean
+exact string in headline or text
+any of the words
+all words in the headline
+Duplicates:
+filter
+show
+EXPLORE WN.com
+Advanced Search
+Education
+Cities.com
+Dubai.com
+TravelAgents.com
+Weather
+World Photos
+Cheese.com
+Broadcasts.com
+Metas.com
+Students.com
+Emissions.com
+Population.com
+Domaines.com
+Wages.com
+Help |
+About WN |
+Privacy Policy |
+Contact |
+Feedback |
+Jobs |
+Students |
+Email this page |
+Newsletter |
+© WN 2025 All Rights Reserved, World News Inc
+Connect:
+×
+×
+×
+Share this video with your family and friends
+×

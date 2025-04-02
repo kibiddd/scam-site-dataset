@@ -1,0 +1,63 @@
+Universal Document Converter - convert to PDF with ease!
+English
+Deutsch
+Italiano
+Françias
+Espanõl
+日本語
+Русский
+Overview
+Download
+Order
+Tutorials
+Developer Solutions
+Support
+Universal Document Converter
+Convert any document you have to PDF or image file like JPEG or TIFF!
+Download now
+Documents Combination
+Take several different documents and combine them into a single multipage PDF, TIFF or DCX!
+See how it works
+PDF Password Protection
+Convert your documents to PDF and protect them from unauthorized access!
+Learn more
+Enterprise Deployment
+Company network with any topology is supported to deploy. Beginning from LAN with several desktops and up to corporate network that connected offices in different regions
+Get more details
+Integration with Workflow
+The Universal Document Converter package includes a public API for integration with workflow systems and using as a component in independend developers software
+Learn more
+Universal Document Converter
+Universal Document Converter is an intuitive productivity solution that allows users to convert documents into PDF or image file formats for distribution. The application installs itself as a virtual printer on the user’s computer. Once the file to be converted is opened, the user only needs to choose the “Universal Document Converter” printer and “print” the file for the conversion to successfully take place.
+Universal Document Converter is capable of converting a document from its current format into one of eight different output formats, including popular options like PDF, JPEG, DCX, BMP, PCX, GIF and even high quality TIFF and PNG image files. The application employs an advanced algorithm for image quantization, which makes it possible to convert a file into your desired format while still retaining the highest possible quality in comparison to the original.
+As security is a high priority in today’s modern technological climate, it should come as no surprise that Universal Document Converter offers a number of different document protection methods for you to choose from depending on your needs. Copy-paste protection can be enabled at will, which will prevent the recipient from copying the text and pasting it into a different program on their computer for unauthorized distribution. Watermark compatibility is also offered, which extends content protection to hard copies of documents that may be printed in the future. Standard password protection is also available.
+8 different output formats: PDF, JPEG, TIFF, PNG, GIF, PCX, DCX or BMP
+100’000+ satisfied customers use Universal Document Converter at home and in the office
+Advanced algorithm for image quantization makes it possible to produce the highest quality output files
+1’000+ corporative clients ordered and deployed Universal Document Converter in their businesses
+Ability to work over the network allows delegating document processing to the print-server
+500+ nonprofit and municipal organizations use Universal Document Converter in their everyday activities
+Different methods of document protection: password protection, watermarks or copy-paste protection
+300+ system integrators and independent developers included Universal Document Converter in dockflow systems
+What is new?
+Streamline your Document Flows with the Newly Released FolderMill 5.2The updated version of FolderMill, a file processing software by fCoder, is now available with numerous enhancements. The version 5.2 includes new macros for file renaming, enhanced 'Send to Email' Action, and improved CAD drawings processing.
+FolderMill 5.0 – Multitasking Mode, Uploading to Email or FTP, Better Performance, and New InterfacefCoder released a big update to our hot folder software – FolderMill. Version 5.0 brings new multitasking mode, much faster processing core, new functionality, and an improved interface.
+fCoder Releases a New 2PDF, Major Update 2.0Create PDF files from Word, Excel, PowerPoint, RTF, TXT, images, CAD drawings, and other documents. 2PDF is a professional CMD tool for conversion to PDF that can suit document workflows of any company.
+I recommend Universal Document Converter for all business applicationsI have used Universal Document Converter since the very first versions as my sole tool for making document conversions. It works flawlessly and is very user-friendly. I recommend the product for all business applications.
+Universal Document Converter
+Overview
+Download
+Order
+Support
+News and Articles
+Customer testimonials
+Video Tutorials
+Developer Solutions
+Useful Solutions
+Save Word as Searchable PDF
+Convert PDF to JPG Image
+Combine Documents to a Single PDF file
+Split Multipage PDF Document
+Batch Convert PDF files to JPG
+fCoder SIA All Rights Reserved.
+About  |  Privacy Policy  |  Cookie Policy  |  Sitemap

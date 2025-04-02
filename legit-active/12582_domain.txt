@@ -1,0 +1,42 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See https://www.isnic.is/en/about/copyright
+
+domain:       freedownload.is
+registrant:   IB55-IS
+admin-c:      NS53-IS
+tech-c:       NS53-IS
+zone-c:       CN25-IS
+billing-c:    NS53-IS
+nserver:      nick.ns.cloudflare.com
+nserver:      venus.ns.cloudflare.com
+dnssec:       unsigned delegation
+created:      March 17 2020
+expires:      March 17 2026
+source:       ISNIC 
+
+nic-hdl:      IB55-IS
+address:      BG
+created:      June  4 2012
+source:       ISNIC 
+
+role:         NETIM sarl
+nic-hdl:      NS53-IS
+address:      264 av arthur notebart
+address:      FR-59160 LILLE
+e-mail:       tld@netim.com
+created:      February 17 2011
+source:       ISNIC 
+
+role:         CloudFlare NOC
+nic-hdl:      CN25-IS
+address:      665 3rd Street, Suite 207
+address:      San Francisco, CA 94107
+address:      US
+phone:        +1 6503198930
+e-mail:       noc@cloudflare.com
+created:      January 19 2012
+source:       ISNIC 
+
+

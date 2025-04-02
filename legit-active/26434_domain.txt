@@ -1,0 +1,19 @@
+   Domain Name: ALLPOSTERS.COM
+   Registry Domain ID: 2766109_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.corporatedomains.com
+   Registrar URL: http://cscdbs.com
+   Updated Date: 2024-10-19T05:08:29Z
+   Creation Date: 1998-10-24T04:00:00Z
+   Registry Expiry Date: 2025-10-23T04:00:00Z
+   Registrar: CSC Corporate Domains, Inc.
+   Registrar IANA ID: 299
+   Registrar Abuse Contact Email: domainabuse@cscglobal.com
+   Registrar Abuse Contact Phone: 8887802723
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: SDNS113.ULTRADNS.BIZ
+   Name Server: SDNS113.ULTRADNS.COM
+   Name Server: SDNS113.ULTRADNS.NET
+   Name Server: SDNS113.ULTRADNS.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T00:05:05Z 

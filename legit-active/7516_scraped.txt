@@ -1,0 +1,325 @@
+Basketball Historian - Part of the Sports Historian Network
+Basketball Player Statistics
+National Basketball Association
+(NBA) & American Basketball Assocation (ABA)
+Select First Letter of Last Name, or use our search feature:
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Basketball Historian's Database
+contains the statistics of players in the NBA and ABA
+through the 2004-05 season. Steals, blocked shots, and
+turnovers were not kept as official statistics until
+the 1970s and so may show as "0" for the early
+years. Just use our index above to find your favorite
+player or type the name in the search engine below.
+First Name
+Last Name
+Name
+Birthdate
+Zan Tabak
+6/15/1970
+Yuta Tabuse
+10/5/1980
+Sid Tannenbaum
+10/8/1925
+Dragan Tarlac
+5/9/1973
+Roy Tarpley
+11/28/1964
+Levern Tart
+6/1/1942
+Earl Tatum
+7/26/1953
+Anthony Taylor
+11/30/1965
+Brian Taylor
+6/9/1951
+Fatty Taylor
+n/a
+Fred Taylor
+2/5/1948
+Jay Taylor
+10/3/1967
+Jeff Taylor
+1/1/1960
+Johnny Taylor
+6/4/1974
+Leonard Taylor
+5/2/1966
+Maurice Taylor
+10/30/1976
+Ollie Taylor
+3/7/1947
+Roland Taylor
+3/13/1946
+Ron Taylor
+11/21/1947
+Vince Taylor
+9/11/1960
+Terry Teagle
+4/10/1960
+Sebastian Telfair
+6/9/1985
+Collis Temple
+11/8/1952
+Ira Terrell
+6/19/1954
+Carlos Terry
+6/22/1956
+Chuck Terry
+9/27/1950
+Claude Terry
+1/12/1950
+Jason Terry
+9/15/1977
+Tom Thacker
+11/2/1939
+Floyd Theard
+9/5/1944
+Reggie Theus
+10/13/1957
+Peter Thibeaux
+10/3/1961
+Bill Thieben
+3/28/1935
+Justus Thigpen
+8/13/1947
+David Thirdkill
+4/12/1960
+Billy Thomas
+12/23/1975
+Carl Thomas
+10/3/1969
+Charles Thomas
+10/3/1969
+Etan Thomas
+4/1/1978
+Irving Thomas
+1/2/1966
+Isiah Thomas
+4/30/1961
+Jamel Thomas
+3/25/1973
+James Thomas
+11/22/1980
+Jim Thomas
+10/19/1960
+Joe Thomas
+3/9/1948
+John Thomas
+9/8/1975
+Kenny Thomas
+7/25/1977
+Kurt Thomas
+10/4/1972
+Ron Thomas
+11/19/1950
+Terry Thomas
+8/20/1953
+Tim Thomas
+2/26/1977
+Willis Thomas
+1/1/1937
+Bernard Thompson
+8/30/1962
+Billy Thompson
+12/1/1963
+Brooks Thompson
+7/19/1970
+Corny Thompson
+2/5/1960
+David Thompson
+7/13/1954
+George Thompson
+11/29/1947
+Jack Thompson
+3/26/1946
+John Thompson
+9/2/1941
+Kevin Thompson
+2/7/1971
+Lasalle Thompson
+6/23/1961
+Mychal Thompson
+1/30/1955
+Paul Thompson
+5/25/1961
+Stephen Thompson
+12/2/1968
+Skip Thoren
+4/5/1943
+Rod Thorn
+5/23/1941
+Bob Thornton
+7/10/1962
+Dallas Thornton
+9/1/1946
+Otis Thorpe
+8/5/1962
+Sedale Threatt
+9/10/1961
+Nate Thurmond
+7/25/1941
+Mel Thurston
+1/16/1919
+Howard Tidrick
+8/4/1915
+Dan Tieman
+11/30/1940
+Darren Tillis
+2/23/1960
+Jack Tingle
+12/30/1924
+George Tinsley
+9/19/1946
+Jamaal Tinsley
+2/28/1978
+Wayman Tisdale
+6/9/1964
+Marko Todorovich
+6/11/1923
+Ray Tolbert
+9/10/1958
+Tom Tolbert
+10/16/1965
+Dean Tolson
+11/25/1951
+Rudy Tomjanovich
+11/24/1948
+Andrew Toney
+11/23/1957
+Sedric Toney
+4/13/1962
+Andy Tonkovich
+11/1/1922
+Andy Toolson
+1/19/1966
+Jack Toomay
+8/9/1922
+Bernard Toone
+7/14/1956
+Irv Torgoff
+3/6/1917
+Gene Tormohlen
+5/12/1937
+Oscar Torres
+12/18/1976
+Bill Tosheff
+6/2/1926
+Bob Tough
+8/28/1920
+Monte Towe
+9/27/1953
+Keith Tower
+5/15/1970
+William Towery
+6/20/1920
+Linton Townes
+11/30/1959
+Raymond Townsend
+12/20/1955
+George Trapp
+7/11/1948
+John Trapp
+10/2/1945
+Robert Traylor
+2/1/1977
+Gary Trent
+9/22/1974
+Jeff Trepagnier
+7/11/1979
+John Tresvant
+11/6/1939
+Dick Triptow
+11/3/1922
+Kelly Tripucka
+2/16/1959
+Ansley Truitt
+8/24/1950
+Cezary Trybanski
+9/22/1979
+Jake Tsakalidis
+6/10/1979
+John Tschogl
+4/25/1950
+Lou Tsioropoulos
+8/31/1930
+Nikoloz Tskitishvili
+4/14/1983
+Al Tucker
+2/24/1943
+Anthony Tucker
+4/4/1969
+Jim Tucker
+12/11/1932
+Trent Tucker
+12/20/1959
+Mirsad Turkcan
+6/7/1976
+Hidayet Turkoglu
+3/19/1979
+Andre Turner
+12/13/1964
+Bill Turner
+2/18/1944
+Elston Turner
+6/10/1959
+Gary Turner
+1/1/1945
+Henry Turner
+8/18/1966
+Herschel Turner
+3/29/1938
+Jack Turner
+6/29/1930
+Jack Turner
+6/5/1939
+Jeff Turner
+4/9/1962
+John Turner
+11/30/1967
+Wayne Turner
+3/22/1976
+Mel Turpin
+12/28/1960
+Dave Twardzik
+9/20/1950
+Jack Twyman
+5/11/1934
+B.j. Tyler
+4/30/1971
+Terry Tyler
+10/30/1956
+Charlie Tyra
+8/16/1935
+copyright © 2006 - 2014 basketballhistorian.com.
+www.baseballhistorian.com
+||  www.footballhistorian.com
+||  www.boxinghistorian.com
+www.bowlinghistorian.com
+||  Baseball Song of the Day
+||  www.crosstownclassic.com

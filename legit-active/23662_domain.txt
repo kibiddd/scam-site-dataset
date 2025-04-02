@@ -1,0 +1,19 @@
+   Domain Name: MUSICIANGUIDE.COM
+   Registry Domain ID: 14093854_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2018-01-24T14:26:54Z
+   Creation Date: 1999-11-28T11:06:53Z
+   Registry Expiry Date: 2026-07-15T03:59:59Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1494.AWSDNS-58.ORG
+   Name Server: NS-1563.AWSDNS-03.CO.UK
+   Name Server: NS-318.AWSDNS-39.COM
+   Name Server: NS-846.AWSDNS-41.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T22:48:09Z 

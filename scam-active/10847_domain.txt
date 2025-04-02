@@ -1,0 +1,24 @@
+Domain Name: NEWEGGEXP.XYZ
+Registry Domain ID: D468038442-CNIC
+Registrar WHOIS Server: whois.discount-domain.com
+Registrar URL: http://www.onamae.com
+Updated Date: 2024-07-07T12:57:13.0Z
+Creation Date: 2024-07-02T12:55:02.0Z
+Registry Expiry Date: 2025-07-02T23:59:59.0Z
+Registrar: GMO Internet Group, Inc. d/b/a Onamae.com
+Registrar IANA ID: 49
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: Whois Privacy Protection Service by onamae.com
+Registrant State/Province: Tokyo
+Registrant Country: JP
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: LUCIANA.NS.CLOUDFLARE.COM
+Name Server: WILSON.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@gmo.jp
+Registrar Abuse Contact Phone: +81.337709199
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:48:06.0Z 

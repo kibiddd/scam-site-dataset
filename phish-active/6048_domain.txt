@@ -1,0 +1,17 @@
+   Domain Name: COOPERGROOVE.COM
+   Registry Domain ID: 1918930894_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enomdomains.com
+   Updated Date: 2022-11-23T20:39:26Z
+   Creation Date: 2015-04-12T05:41:46Z
+   Registry Expiry Date: 2031-04-12T05:41:46Z
+   Registrar: eNom, LLC
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.ALLEVI8MARKETING.COM
+   Name Server: NS2.ALLEVI8MARKETING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:11:24Z 

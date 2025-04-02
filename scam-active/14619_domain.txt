@@ -1,0 +1,17 @@
+   Domain Name: MAODADAN.COM
+   Registry Domain ID: 2963524157_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namesrs.com
+   Registrar URL: http://www.namesrs.com
+   Updated Date: 2025-03-01T12:40:57Z
+   Creation Date: 2025-03-01T12:30:46Z
+   Registry Expiry Date: 2026-03-01T12:30:46Z
+   Registrar: Name SRS AB
+   Registrar IANA ID: 638
+   Registrar Abuse Contact Email: abuse@namesrs.com
+   Registrar Abuse Contact Phone: +46.313011220
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: A5.SHARE-DNS.COM
+   Name Server: B5.SHARE-DNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:49:08Z 

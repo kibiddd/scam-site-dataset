@@ -1,0 +1,19 @@
+   Domain Name: FORMSTACK.COM
+   Registry Domain ID: 1587390902_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2025-02-01T07:16:35Z
+   Creation Date: 2010-03-03T19:07:11Z
+   Registry Expiry Date: 2026-03-03T19:07:11Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1400.AWSDNS-47.ORG
+   Name Server: NS-2016.AWSDNS-60.CO.UK
+   Name Server: NS-500.AWSDNS-62.COM
+   Name Server: NS-701.AWSDNS-23.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:42:53Z 

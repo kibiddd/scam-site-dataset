@@ -1,0 +1,20 @@
+   Domain Name: GREATAMERICANSTATIONS.COM
+   Registry Domain ID: 533292572_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2022-03-17T21:17:36Z
+   Creation Date: 2006-07-26T19:04:25Z
+   Registry Expiry Date: 2026-07-26T19:04:25Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS93.WORLDNIC.COM
+   Name Server: NS94.WORLDNIC.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 57209 13 1 FF6810C31ADA9EED950AB925844A3147B8E3782C
+   DNSSEC DS Data: 57209 13 4 DCE490FBCAFF3923BB2FAE585BEDC3E03DE8BB7B89A86AE2FAD0D56F6C911632F1BA850E343B24D347B4B3719C2A9CAA
+   DNSSEC DS Data: 57209 13 2 C4783500F91EF60FA40575EEC194C497C82DEE71007255B239CAAA1759DBF282
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T01:10:58Z 

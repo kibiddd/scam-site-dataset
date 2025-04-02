@@ -1,0 +1,17 @@
+   Domain Name: APPALACHIANREGGAE.COM
+   Registry Domain ID: 88652316_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-06-24T17:54:25Z
+   Creation Date: 2002-07-23T10:14:08Z
+   Registry Expiry Date: 2025-07-23T10:14:08Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: DNS1.SITEZOOGLE.COM
+   Name Server: DNS2.SITEZOOGLE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T22:03:52Z 

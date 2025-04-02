@@ -1,0 +1,17 @@
+   Domain Name: CIAJFK.COM
+   Registry Domain ID: 2625764_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2025-01-13T13:46:28Z
+   Creation Date: 1997-01-17T05:00:00Z
+   Registry Expiry Date: 2026-01-18T05:00:00Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS5.GOT.NET
+   Name Server: NS6.GOT.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T15:00:37Z 

@@ -1,0 +1,17 @@
+   Domain Name: TURKEY4TRAVEL.COM
+   Registry Domain ID: 2864022501_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.PublicDomainRegistry.com
+   Registrar URL: http://www.publicdomainregistry.com
+   Updated Date: 2025-03-18T07:33:34Z
+   Creation Date: 2024-03-16T08:15:47Z
+   Registry Expiry Date: 2026-03-16T08:15:47Z
+   Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+   Registrar IANA ID: 303
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.HOSTING.REG.RU
+   Name Server: NS2.HOSTING.REG.RU
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:13:09Z 

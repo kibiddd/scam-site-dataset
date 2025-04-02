@@ -1,0 +1,17 @@
+   Domain Name: MUSICVIDEOSWIZ.COM
+   Registry Domain ID: 2822474221_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-09-18T12:25:48Z
+   Creation Date: 2023-10-17T17:21:32Z
+   Registry Expiry Date: 2025-10-17T17:21:32Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS13.HAWKHOST.COM
+   Name Server: NS14.HAWKHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T22:45:55Z 

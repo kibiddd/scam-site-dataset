@@ -1,0 +1,17 @@
+   Domain Name: 0419HL.COM
+   Registry Domain ID: 1841718417_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.jumi.com
+   Registrar URL: http://www.juming.com
+   Updated Date: 2024-12-26T15:20:22Z
+   Creation Date: 2014-01-07T02:35:47Z
+   Registry Expiry Date: 2026-01-07T02:35:47Z
+   Registrar: Hefei Juming Network Technology Co., Ltd
+   Registrar IANA ID: 3758
+   Registrar Abuse Contact Email: ymn@juming.com
+   Registrar Abuse Contact Phone: 4009972996
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.4.CN
+   Name Server: NS2.4.CN
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:53:24Z 

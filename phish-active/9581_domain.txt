@@ -1,0 +1,17 @@
+   Domain Name: FFMG.NET
+   Registry Domain ID: 120393188_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.internet.bs
+   Registrar URL: http://www.internet.bs
+   Updated Date: 2024-05-20T05:01:07Z
+   Creation Date: 2004-05-17T21:07:55Z
+   Registry Expiry Date: 2034-05-17T21:07:55Z
+   Registrar: Internet Domain Service BS Corp
+   Registrar IANA ID: 2487
+   Registrar Abuse Contact Email: abuse@internet.bs
+   Registrar Abuse Contact Phone: +1.5163015301
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS.SOURCEDNS.COM
+   Name Server: NS1.SOURCEDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T12:53:00Z 

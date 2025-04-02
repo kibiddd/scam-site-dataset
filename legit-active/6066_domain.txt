@@ -1,0 +1,12 @@
+Domain Name: tourism.org.nz
+Registrar URL: www.1stdomains.nz
+Updated Date: 2025-01-25T08:56:35Z
+Creation Date: 2024-10-20T02:00:00Z
+Original Created: 2000-07-18T21:45:27Z
+Registrar: Voyager Internet Ltd T/A 1st Domains
+Domain Status: ok https://icann.org/epp#ok
+Name Server: ns1.cms-tool.net
+Name Server: ns2.cms-tool.net
+DNSSEC: unsigned
+URL of the Domain Name Commission Limited Inaccuracy Complaint Form: https://dnc.org.nz/enquiry-form/
+>>> Last update of WHOIS database: 2025-03-28T03:17:54Z 

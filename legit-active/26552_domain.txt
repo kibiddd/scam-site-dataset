@@ -1,0 +1,21 @@
+   Domain Name: SHUTTERSTOCK.COM
+   Registry Domain ID: 100344065_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2020-07-08T22:39:09Z
+   Creation Date: 2003-07-10T22:20:53Z
+   Registry Expiry Date: 2027-07-10T22:20:53Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1105.AWSDNS-10.ORG
+   Name Server: NS-2006.AWSDNS-58.CO.UK
+   Name Server: NS-231.AWSDNS-28.COM
+   Name Server: NS-715.AWSDNS-25.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T00:05:36Z 

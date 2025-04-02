@@ -1,0 +1,20 @@
+   Domain Name: ANIMATIONARTWORK.COM
+   Registry Domain ID: 103164147_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.godaddy.com
+   Registrar URL: http://www.godaddy.com
+   Updated Date: 2025-02-03T00:51:20Z
+   Creation Date: 2003-09-06T07:35:02Z
+   Registry Expiry Date: 2025-09-06T07:35:02Z
+   Registrar: GoDaddy.com, LLC
+   Registrar IANA ID: 146
+   Registrar Abuse Contact Email: abuse@godaddy.com
+   Registrar Abuse Contact Phone: 480-624-2505
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS75.DOMAINCONTROL.COM
+   Name Server: NS76.DOMAINCONTROL.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:09:54Z 

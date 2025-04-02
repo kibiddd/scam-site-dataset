@@ -1,0 +1,18 @@
+   Domain Name: STJAMESKEMPTVILLE.COM
+   Registry Domain ID: 1565508153_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.one.com
+   Registrar URL: http://www.one.com
+   Updated Date: 2024-07-14T00:44:41Z
+   Creation Date: 2009-08-13T16:02:36Z
+   Registry Expiry Date: 2025-08-13T16:02:36Z
+   Registrar: One.com A/S
+   Registrar IANA ID: 1462
+   Registrar Abuse Contact Email: abuse@one.com
+   Registrar Abuse Contact Phone: +45 44451220
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS01.ONE.COM
+   Name Server: NS02.ONE.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 60579 13 2 759CF60517B224E44C9ECE6C67A9FFC5E8074B5E8BF7F6472952C07D5BC2AA98
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:06:24Z 

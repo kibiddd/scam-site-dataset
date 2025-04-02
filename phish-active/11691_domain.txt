@@ -1,0 +1,17 @@
+   Domain Name: ILAESG.COM
+   Registry Domain ID: 2659983730_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-11-18T21:01:21Z
+   Creation Date: 2021-12-07T04:09:36Z
+   Registry Expiry Date: 2025-12-07T04:09:36Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: CHAN.NS.CLOUDFLARE.COM
+   Name Server: CLEO.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:52:49Z 

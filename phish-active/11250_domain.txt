@@ -1,0 +1,17 @@
+   Domain Name: HLGUALOU.COM
+   Registry Domain ID: 2571575421_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gname.com
+   Registrar URL: http://www.gname.com
+   Updated Date: 2024-10-23T00:14:35Z
+   Creation Date: 2020-11-10T19:24:45Z
+   Registry Expiry Date: 2025-11-10T19:24:45Z
+   Registrar: Gname.com Pte. Ltd.
+   Registrar IANA ID: 1923
+   Registrar Abuse Contact Email: complaint@gname.com
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: JM1.ALIDNS.COM
+   Name Server: JM2.ALIDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:59:32Z 

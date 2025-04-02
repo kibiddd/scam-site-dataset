@@ -1,0 +1,17 @@
+   Domain Name: DOHERTYEXCAVATING.COM
+   Registry Domain ID: 2818159985_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.launchpad.com
+   Registrar URL: http://www.launchpad.com
+   Updated Date: 2024-09-14T08:02:04Z
+   Creation Date: 2023-09-29T23:46:55Z
+   Registry Expiry Date: 2025-09-29T23:46:55Z
+   Registrar: Launchpad.com Inc.
+   Registrar IANA ID: 955
+   Registrar Abuse Contact Email: abuse@hostgator.com
+   Registrar Abuse Contact Phone: 602-226-2389
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1025.WEBSITEWELCOME.COM
+   Name Server: NS1026.WEBSITEWELCOME.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:37:35Z 

@@ -1,0 +1,17 @@
+   Domain Name: FOODBYSANN.COM
+   Registry Domain ID: 2571801006_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.cronon.net
+   Registrar URL: http://www.cronon.net
+   Updated Date: 2024-11-12T08:31:48Z
+   Creation Date: 2020-11-11T19:23:46Z
+   Registry Expiry Date: 2025-11-11T19:23:46Z
+   Registrar: Cronon GmbH
+   Registrar IANA ID: 141
+   Registrar Abuse Contact Email: abuse-domains@cronon.net
+   Registrar Abuse Contact Phone: +4930398020
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: DAISY.NS.CLOUDFLARE.COM
+   Name Server: FINLEY.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:50:16Z 

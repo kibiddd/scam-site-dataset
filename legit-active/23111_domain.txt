@@ -1,0 +1,21 @@
+   Domain Name: CIBCCARDS.COM
+   Registry Domain ID: 19423948_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.corporatedomains.com
+   Registrar URL: http://cscdbs.com
+   Updated Date: 2024-07-17T05:09:23Z
+   Creation Date: 2000-02-08T20:19:14Z
+   Registry Expiry Date: 2025-07-21T04:22:46Z
+   Registrar: CSC Corporate Domains, Inc.
+   Registrar IANA ID: 299
+   Registrar Abuse Contact Email: domainabuse@cscglobal.com
+   Registrar Abuse Contact Phone: 8887802723
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: A1-188.AKAM.NET
+   Name Server: A11-67.AKAM.NET
+   Name Server: A13-64.AKAM.NET
+   Name Server: A16-65.AKAM.NET
+   Name Server: A18-66.AKAM.NET
+   Name Server: A26-67.AKAM.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T22:45:55Z 

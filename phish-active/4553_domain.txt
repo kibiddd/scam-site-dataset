@@ -1,0 +1,74 @@
+Domain Name: borsasetelsis.cat
+Registry Domain ID: 859857-D
+Registrar WHOIS Server: whois.cdmon.com
+Registrar URL: https://www.cdmon.com
+Updated Date: 2024-07-03T10:32:13.741Z
+Creation Date: 2008-08-24T16:30:04.470Z
+Registry Expiry Date: 2025-08-24T16:37:59.745Z
+Registrar Registration Expiration Date: 
+Registrar: 10dencehispahard S.L. (CDmon.com)
+Registrar IANA ID: 1403
+Registrar Abuse Contact Email: abuse@cdmon.com
+Registrar Abuse Contact Phone: +34.935677577
+Reseller: 
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: 
+Registrant Organization: 
+Registrant Street: 
+Registrant City: 
+Registrant State/Province: 
+Registrant Postal Code: 
+Registrant Country: ES
+Registrant Phone: 
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: 
+Admin Name: 
+Admin Organization: 
+Admin Street: 
+Admin City: 
+Admin State/Province: 
+Admin Postal Code: 
+Admin Country: 
+Admin Phone: 
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: 
+Tech Name: 
+Tech Organization: 
+Tech Street: 
+Tech City: 
+Tech State/Province: 
+Tech Postal Code: 
+Tech Country: 
+Tech Phone: 
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns2.inproject.net
+Name Server: ns1.inproject.net
+DNSSEC: unsigned
+IDN Tag:
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf
+>>> Last update of Whois database: 2025-03-26T22:58:13.693Z 

@@ -1,0 +1,11 @@
+Domain Name: nmsl.cn
+ROID: 20131213s10001s68908428-cn
+Domain Status: clientTransferProhibited
+Registrant: 兰山区抽象网络工作室（个体工商户）
+Registrant Contact Email: x@nmsl.cn
+Sponsoring Registrar: 阿里云计算有限公司（万网）
+Name Server: ns1.alidns.com
+Name Server: ns2.alidns.com
+Registration Time: 2013-12-13 12:56:18
+Expiration Time: 2025-12-13 12:56:18
+DNSSEC: unsigned

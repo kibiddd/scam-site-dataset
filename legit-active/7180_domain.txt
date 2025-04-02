@@ -1,0 +1,69 @@
+Domain Name: carart.us
+Registry Domain ID: D18319700-US
+Registrar WHOIS Server: whois.opensrs.net
+Registrar URL: www.opensrs.com
+Updated Date: 2025-01-05T08:34:00Z
+Creation Date: 2009-01-02T06:37:30Z
+Registry Expiry Date: 2026-01-01T23:59:59Z
+Registrar: Tucows Domains Inc.
+Registrar IANA ID: 69
+Registrar Abuse Contact Email: compliance@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: C25848848-US
+Registrant Name: Peter Aylett
+Registrant Organization: CAR ART, INC.
+Registrant Street: 16 Suffolk Downs
+Registrant Street:
+Registrant Street:
+Registrant City: Laguna Niguel
+Registrant State/Province: CA
+Registrant Postal Code: 92677
+Registrant Country: US
+Registrant Phone: +1.9494430500
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: sales@carart.us
+Registrant Application Purpose: P1
+Registrant Nexus Category: C11
+Registry Admin ID: C25848847-US
+Admin Name: Peter Aylett
+Admin Organization: CAR ART, INC.
+Admin Street: 16 Suffolk Downs
+Admin Street:
+Admin Street:
+Admin City: Laguna Niguel
+Admin State/Province: CA
+Admin Postal Code: 92677
+Admin Country: US
+Admin Phone: +1.9494430500
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: sales@carart.us
+Admin Application Purpose: P1
+Admin Nexus Category: C11
+Registry Tech ID: C18319699-US
+Tech Name: Ross Rader
+Tech Organization: Hover
+Tech Street: 96 Mowat
+Tech Street:
+Tech Street:
+Tech City: Toronto
+Tech State/Province: On
+Tech Postal Code: M6K3M1
+Tech Country: CA
+Tech Phone: +1.4165385492
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: help@hover.com
+Tech Application Purpose: P1
+Tech Nexus Category: C11
+Name Server: ns5.newtekdns.com
+Name Server: ns6.newtekdns.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T03:23:10Z 

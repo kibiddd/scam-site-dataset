@@ -1,0 +1,19 @@
+   Domain Name: LEGENDARYAUCTIONS.COM
+   Registry Domain ID: 188769640_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-07-19T03:25:33Z
+   Creation Date: 2005-07-25T02:45:38Z
+   Registry Expiry Date: 2025-07-25T02:45:38Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DNSIMPLE.COM
+   Name Server: NS2.DNSIMPLE.COM
+   Name Server: NS3.DNSIMPLE.COM
+   Name Server: NS4.DNSIMPLE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:15:37Z 

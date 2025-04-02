@@ -1,0 +1,22 @@
+Domain Name: evelynhotel.com.au
+Registry Domain ID: f3d0edf5ba23477dae715e1981531a49-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://elb.www.netregistry.com.au/contact-us/
+Last Modified: 2024-04-30T02:51:03Z
+Registrar Name: Melbourne IT
+Registrar Abuse Contact Email: abuse@webcentral.com.au
+Registrar Abuse Contact Phone: +61.279080901
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 7c3e3e9c0f5e4ecd80a73811c66e6398-AU
+Registrant Contact Name: John D'Alessandro
+Tech Contact ID: ec3ddc1f3a86463983a2807b161c2ce9-AU
+Tech Contact Name: Edwin Yeoh
+Name Server: aida.ns.cloudflare.com
+Name Server: anirban.ns.cloudflare.com
+DNSSEC: unsigned
+Registrant: J.A.I.D. INVESTMENTS PTY. LTD.
+Registrant ID: ABN 66053845686
+Eligibility Type: Registered Business
+>>> Last update of WHOIS database: 2025-03-28T16:08:26Z 

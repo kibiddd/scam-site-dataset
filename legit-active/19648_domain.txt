@@ -1,0 +1,17 @@
+   Domain Name: MARJEYOUN.NET
+   Registry Domain ID: 2907878970_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-08-13T22:00:10Z
+   Creation Date: 2024-08-13T21:56:44Z
+   Registry Expiry Date: 2025-08-13T21:56:44Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DION.NS.CLOUDFLARE.COM
+   Name Server: MEG.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:51:22Z 

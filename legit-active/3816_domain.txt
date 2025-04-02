@@ -1,0 +1,76 @@
+<pre>
+Domain Name: gov.za
+Domain ID: dom_3R--1
+WHOIS Server: za-whois31.dns.net.za
+
+Updated Date: 2017-10-12T10:19:53Z
+Creation Date: 2017-06-15T07:33:10Z
+Registry Expiry Date: 2999-12-30T22:00:00Z
+Sponsoring Registrar: .ZADNA
+Domain Status: ok https://icann.org/epp#ok
+
+Registrant ID: GOVZA Admin
+Registrant Name: Domain Administrator
+Registrant Organization: State Information Technology Agency (SOC) Ltd
+Registrant Street: 44 Grand Central Blvd Sanofi House Halfway house 
+Registrant City: Midrand
+Registrant State/Province: Gauteng
+Registrant Postal Code: 1685
+Registrant Country: ZA
+Registrant Phone: +27.100203910
+Registrant Phone Ext: 
+Registrant Fax: +27.100203919
+Registrant Fax Ext: 
+Registrant Email: dnsadmin@gov.za
+
+Admin ID: GOVZA Admin
+Admin Name: Domain Administrator
+Admin Organization: State Information Technology Agency (SOC) Ltd
+Admin Street: 44 Grand Central Blvd Sanofi House Halfway house 
+Admin City: Midrand
+Admin State/Province: Gauteng
+Admin Postal Code: 1685
+Admin Country: ZA
+Admin Phone: +27.100203910
+Admin Phone Ext: 
+Admin Fax: +27.100203919
+Admin Fax Ext: 
+Admin Email: dnsadmin@gov.za
+
+Billing ID: GOVZA Admin
+Billing Name: Domain Administrator
+Billing Organization: State Information Technology Agency (SOC) Ltd
+Billing Street: 44 Grand Central Blvd Sanofi House Halfway house 
+Billing City: Midrand
+Billing State/Province: Gauteng
+Billing Postal Code: 1685
+Billing Country: ZA
+Billing Phone: +27.100203910
+Billing Phone Ext: 
+Billing Fax: +27.100203919
+Billing Fax Ext: 
+Billing Email: dnsadmin@gov.za
+
+Tech ID: GOVZA Tech
+Tech Name: Domain Administrator
+Tech Organization: State Information Technology Agency (SOC) Ltd
+Tech Street: 44 Grand Central Blvd Sanofi House Halfway house 
+Tech City: Midrand
+Tech State/Province: Gauteng
+Tech Postal Code: 1685
+Tech Country: ZA
+Tech Phone: +27.100203910
+Tech Phone Ext: 
+Tech Fax: +27.100203919
+Tech Fax Ext: 
+Tech Email: admin@gov.za
+
+
+Name Server: ns1.gov.za
+Name Server: ns2.gov.za
+Name Server: ns3.gov.za
+Name Server: ns2.inx.net.za
+Name Server: ns1.inx.net.za
+Name Server: ns3.inx.net.za
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2025-03-28T01:58:27Z 

@@ -1,0 +1,20 @@
+   Domain Name: 50MEGS.COM
+   Registry Domain ID: 7063885_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.corporatedomains.com
+   Registrar URL: http://cscdbs.com
+   Updated Date: 2024-06-03T05:16:39Z
+   Creation Date: 1999-06-07T02:16:27Z
+   Registry Expiry Date: 2025-06-07T02:17:04Z
+   Registrar: CSC Corporate Domains, Inc.
+   Registrar IANA ID: 299
+   Registrar Abuse Contact Email: domainabuse@cscglobal.com
+   Registrar Abuse Contact Phone: 8887802723
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.50MEGS.COM
+   Name Server: NS2.50MEGS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:51:47Z 

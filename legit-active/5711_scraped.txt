@@ -1,0 +1,9 @@
+Problem with Your Input
+Problem with Your Input
+to Philip Greenspun's Homepage
+We had some problems processing your entry:
+Must Submit a valid integer user_id
+Please back up using your browser, correct them, and
+resubmit your entry.
+Thank you.
+philg@mit.edu

@@ -1,0 +1,43 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T21:23:32-03:00 - 2a09:bac5:c82e:1678::23d:94
+
+domain:      darole.com.br
+owner:       Francisco Roberio Lemos Pereira
+ownerid:     ***.549.743-**
+country:     BR
+owner-c:     FRLPE5
+tech-c:      CSJ76
+nserver:     ns1.aed-ma.inf.br
+nsstat:      20250324 AA
+nslastaa:    20250324
+nserver:     ns2.aed-ma.inf.br
+nsstat:      20250324 AA
+nslastaa:    20250324
+saci:        yes
+created:     20101228 #7724960
+changed:     20241002
+expires:     20251228
+status:      published
+
+nic-hdl-br:  FRLPE5
+person:      Francisco Roberio Lemos Pereira
+e-mail:      roberiolemos@gmail.com
+country:     BR
+created:     20100401
+changed:     20230814
+
+nic-hdl-br:  CSJ76
+person:      Cassiano Saraiva Junior
+e-mail:      cassiano@datatech-ma.com.br
+country:     BR
+created:     20031104
+changed:     20230824
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

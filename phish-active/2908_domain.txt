@@ -1,0 +1,18 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        AVTOTURBO.RU
+nserver:       ns1.expired.active.domains.
+nserver:       ns2.expired.active.domains.
+state:         REGISTERED, DELEGATED, VERIFIED
+person:        Private Person
+registrar:     ACTIVE-RU
+admin-contact: https://active.domains/whoisfb/avtoturbo.ru
+created:       2024-03-12T14:13:01Z
+paid-till:     2025-03-12T14:13:01Z
+free-date:     2025-04-15
+source:        TCI
+
+Last updated on 2025-03-26T20:18:01Z
+

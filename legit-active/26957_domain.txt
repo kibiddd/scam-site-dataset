@@ -1,0 +1,38 @@
+Domain Name: gov.au
+Registry Domain ID: 72aaac46d7434e9fa82b2bd3b58312e2-AU
+Registrar WHOIS Server: http://whois.auda.org.au
+Registrar URL: https://auda.org.au
+Last Modified: 2024-02-22T21:58:32Z
+Registrar Name: auDA Internal (9999)
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Reseller Name: 
+Status: serverDeleteProhibited https://identitydigital.au/get-au/whois-status-codes#serverDeleteProhibited
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Status: serverTransferProhibited https://identitydigital.au/get-au/whois-status-codes#serverTransferProhibited
+Status: serverUpdateProhibited https://identitydigital.au/get-au/whois-status-codes#serverUpdateProhibited
+Registrant Contact ID: b4913ef7fb744714ae8a17ec819d17f3-AU
+Registrant Contact Name: CEO
+Tech Contact ID: b4913ef7fb744714ae8a17ec819d17f3-AU
+Tech Contact Name: CEO
+Name Server: t.au
+Name Server IP: 2a01:8840:c1::1
+Name Server IP: 65.22.199.1
+Name Server: r.au
+Name Server IP: 2a01:8840:bf::1
+Name Server IP: 65.22.197.1
+Name Server: q.au
+Name Server IP: 2a01:8840:be::1
+Name Server IP: 65.22.196.1
+Name Server: s.au
+Name Server IP: 2a01:8840:c0::1
+Name Server IP: 65.22.198.1
+Name Server: a.au
+Name Server IP: 2407:6e00:254::1
+Name Server IP: 58.65.254.1
+DNSSEC: signedDelegation
+Registrant: Department of Finance
+Registrant ID: ABN 61970632495
+Eligibility Type: Government Body
+>>> Last update of WHOIS database: 2025-03-28T01:05:29Z 

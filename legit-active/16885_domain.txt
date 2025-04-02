@@ -1,0 +1,19 @@
+   Domain Name: WIKIOBITS.COM
+   Registry Domain ID: 548897775_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.rebel.com
+   Registrar URL: http://www.rebel.com
+   Updated Date: 2024-03-31T07:54:19Z
+   Creation Date: 2006-08-09T18:00:16Z
+   Registry Expiry Date: 2025-03-31T03:59:59Z
+   Registrar: Rebel Ltd
+   Registrar IANA ID: 600
+   Registrar Abuse Contact Email: abuse@rebel.com
+   Registrar Abuse Contact Phone: 1-866-497-3235
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1132.DNS.DYN.COM
+   Name Server: NS2160.DNS.DYN.COM
+   Name Server: TOR.CYBERDATING.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:36:05Z 

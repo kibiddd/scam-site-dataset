@@ -1,0 +1,18 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        SCAT.SU
+nserver:       bataysk.ens.mail.ru.
+nserver:       novgorod.ens.mail.ru.
+state:         REGISTERED, DELEGATED
+person:        Private Person
+e-mail:        scat@scat.su
+registrar:     RUCENTER-SU
+created:       2009-10-26T12:28:01Z
+paid-till:     2025-10-26T12:28:01Z
+free-date:     2025-11-28
+source:        TCI
+
+Last updated on 2025-03-27T13:48:01Z
+

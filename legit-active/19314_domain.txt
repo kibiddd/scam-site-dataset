@@ -1,0 +1,21 @@
+   Domain Name: ANDROIDCENTRAL.COM
+   Registry Domain ID: 1319876719_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.lexsynergy.com
+   Registrar URL: http://www.lexsynergy.com
+   Updated Date: 2023-07-24T10:18:55Z
+   Creation Date: 2007-11-05T16:47:55Z
+   Registry Expiry Date: 2025-11-05T15:47:55Z
+   Registrar: Lexsynergy Limited
+   Registrar IANA ID: 1466
+   Registrar Abuse Contact Email: abuse@lexsynergy.com
+   Registrar Abuse Contact Phone: +442031370459
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1237.AWSDNS-26.ORG
+   Name Server: NS-1593.AWSDNS-07.CO.UK
+   Name Server: NS-229.AWSDNS-28.COM
+   Name Server: NS-682.AWSDNS-21.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:36:39Z 

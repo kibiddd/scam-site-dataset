@@ -1,0 +1,18 @@
+   Domain Name: ETHERMAILER.COM
+   Registry Domain ID: 2072447224_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.papaki.gr
+   Registrar URL: http://www.papaki.com
+   Updated Date: 2024-10-31T23:02:13Z
+   Creation Date: 2016-11-08T13:05:29Z
+   Registry Expiry Date: 2025-11-08T13:05:29Z
+   Registrar: Enartia Single Member S.A.
+   Registrar IANA ID: 1727
+   Registrar Abuse Contact Email: abuse@papaki.gr
+   Registrar Abuse Contact Phone: +30 211-800-2275
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: GINA.NS.CLOUDFLARE.COM
+   Name Server: SEAN.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T12:53:15Z 

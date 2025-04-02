@@ -1,0 +1,17 @@
+   Domain Name: 365K28.CC
+   Registry Domain ID: 200997294_DOMAIN_CC-VRSN
+   Registrar WHOIS Server: whois.jumi.com
+   Registrar URL: http://www.juming.com
+   Updated Date: 2025-02-26T06:37:09Z
+   Creation Date: 2024-06-05T08:02:54Z
+   Registry Expiry Date: 2025-06-05T08:02:54Z
+   Registrar: Hefei Juming Network Technology Co., Ltd
+   Registrar IANA ID: 3758
+   Registrar Abuse Contact Email: ymn@juming.com
+   Registrar Abuse Contact Phone: 4009972996
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: EVELYN.NS.CLOUDFLARE.COM
+   Name Server: LEIF.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T17:40:19Z 

@@ -1,0 +1,17 @@
+   Domain Name: FINDTUBES.COM
+   Registry Domain ID: 1353452052_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.eurodns.com
+   Registrar URL: http://www.EuroDNS.com
+   Updated Date: 2024-12-13T11:36:10Z
+   Creation Date: 2007-12-12T11:18:39Z
+   Registry Expiry Date: 2031-12-12T11:18:39Z
+   Registrar: EuroDNS S.A.
+   Registrar IANA ID: 1052
+   Registrar Abuse Contact Email: legalservices@eurodns.com
+   Registrar Abuse Contact Phone: +352.27220150
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DEB.NS.CLOUDFLARE.COM
+   Name Server: VENKAT.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:11:54Z 

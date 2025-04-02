@@ -1,0 +1,17 @@
+   Domain Name: CLASSICMOVIEKIDS.COM
+   Registry Domain ID: 1873020061_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namebright.com
+   Registrar URL: http://www.NameBright.com
+   Updated Date: 2025-03-07T03:57:01Z
+   Creation Date: 2014-08-27T18:24:33Z
+   Registry Expiry Date: 2026-08-27T18:24:33Z
+   Registrar: TurnCommerce, Inc. DBA NameBright.com
+   Registrar IANA ID: 1441
+   Registrar Abuse Contact Email: support@namebright.com
+   Registrar Abuse Contact Phone: 17204960020
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.CLASSICMOVIEKIDS.COM
+   Name Server: NS2.CLASSICMOVIEKIDS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:40:52Z 

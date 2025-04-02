@@ -1,0 +1,17 @@
+   Domain Name: IXTRADERS.COM
+   Registry Domain ID: 2869664535_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.upperlink.ng
+   Registrar URL: http://domains.upperlink.ng
+   Updated Date: 2024-04-05T12:37:19Z
+   Creation Date: 2024-04-05T12:37:19Z
+   Registry Expiry Date: 2025-04-05T12:37:19Z
+   Registrar: Upperlink Limited
+   Registrar IANA ID: 1749
+   Registrar Abuse Contact Email: abuse@upperlink.ng
+   Registrar Abuse Contact Phone: +234.8062696840
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.UPPERSERVER26.COM
+   Name Server: NS2.UPPERSERVER26.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:46:52Z 

@@ -1,0 +1,20 @@
+   Domain Name: FLOWT-WEB.COM
+   Registry Domain ID: 2885630344_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.star-domain.jp
+   Registrar URL: http://www.netowl.jp
+   Updated Date: 2024-05-29T06:21:49Z
+   Creation Date: 2024-05-29T06:21:49Z
+   Registry Expiry Date: 2025-05-29T06:21:49Z
+   Registrar: Netowl, Inc.
+   Registrar IANA ID: 1557
+   Registrar Abuse Contact Email: registrar-abuse@netowl.jp
+   Registrar Abuse Contact Phone: +81.752568553
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.XSERVER.JP
+   Name Server: NS2.XSERVER.JP
+   Name Server: NS3.XSERVER.JP
+   Name Server: NS4.XSERVER.JP
+   Name Server: NS5.XSERVER.JP
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:49:59Z 

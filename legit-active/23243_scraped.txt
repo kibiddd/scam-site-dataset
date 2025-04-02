@@ -1,0 +1,45 @@
+MR lookup
+About
+| Support
+Author
+Title
+Journal
+First
+page
+Last
+page
+Year
+Format:
+MR Citation
+BibTeX
+View
+clipboard
+Notes:
+Required
+Fields:
+Enter
+criteria in one
+or more of the fields
+above. Users must enter data into the Author or Title fields.
+Author:
+Last Name Or Last Name, First initial; e.g:
+graham; graham, r; graham and chung, f
+Title: Use word or
+phrase
+Journal:
+Use
+either
+(part of) the full journal name or (part of) the MR journal abbreviation
+Boolean:
+AND is permitted in the Author, Title and Journal fields
+Wild
+Cards: Should not be used
+with this tool
+Results: If more than three regular database
+items match the search criteria, only the most recent three are returned.
+In addition up to 100 DML Items will
+be returned.
+Comments:
+webmaster@ams.org
+©
+Copyright 2025, American Mathematical Society

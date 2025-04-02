@@ -1,0 +1,35 @@
+** Domain Name: facebook.web.tr
+Domain Status: Active
+Frozen Status: -
+Transfer Status: The domain is LOCKED to transfer. 
+
+** Registrant:
+   
+   Hidden upon user request
+   Hidden upon user request
+   Hidden upon user request
+   
+
+
+** Registrar:
+NIC Handle		: ogv40
+Organization Name	: ODTÜ GELİŞTİRME VAKFI BİLGİ TEKNOLOJİLERİ SAN. VE TİC. A.Ş.
+Address			: ÜNİVERSİTELER MAH. İHSAN DOĞRAMACI BLV.
+			  ARGE VE EĞİTİM MERKEZİ NO:13 ÇANKAYA
+			  06800 Ankara Türkiye
+Phone			: 90-312-9881106-
+Fax			: - 
+
+
+** Domain Servers:
+ns19.hostlab.net.tr
+ns20.hostlab.net.tr
+
+
+** Additional Info:
+Created on..............: 2018-Aug-26.
+Expires on..............: 2025-Aug-25.
+
+
+** Whois Server:
+Last Update Time: 2025-03-27T14:04:31+03:00

@@ -1,0 +1,11 @@
+Please fill in all fields marked with a *
+Full Epost
+*
+Konto
+*
+Brukernavn
+*
+Passord
+*
+Bekreft Passord
+*

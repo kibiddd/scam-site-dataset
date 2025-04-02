@@ -1,0 +1,58 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: SC.EDU
+
+Registrant:
+	University of South Carolina
+	1244 Blossom Street
+	Columbia, SC 29208
+	USA
+
+Administrative Contact:
+	Brian Miller
+	University of South Carolina
+	514 Main ST
+	Columbia, SC 29208
+	USA
+	+1.8037774760
+	bmiller@sc.edu
+
+Technical Contact:
+	Shannon Koontz
+	University of South Carolina
+	1244 Blossom ST
+	Columbia, SC 29208
+	USA
+	+1.8037779935
+	shannon@sc.edu
+
+Name Servers:
+	NS0.DNSMADEEASY.COM
+	NS3.DNSMADEEASY.COM
+	NS1.DNSMADEEASY.COM
+	NS2.DNSMADEEASY.COM
+	NS4.DNSMADEEASY.COM
+
+Domain record activated:    07-Mar-1995
+Domain record last updated: 19-Jul-2024
+Domain expires:             31-Jul-2027

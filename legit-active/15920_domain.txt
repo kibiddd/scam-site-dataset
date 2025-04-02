@@ -1,0 +1,18 @@
+   Domain Name: HOLLYEATS.COM
+   Registry Domain ID: 31208158_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2025-03-05T22:21:32Z
+   Creation Date: 2000-07-11T21:13:42Z
+   Registry Expiry Date: 2025-07-11T21:13:42Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DREAMHOST.COM
+   Name Server: NS2.DREAMHOST.COM
+   Name Server: NS3.DREAMHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:31:47Z 

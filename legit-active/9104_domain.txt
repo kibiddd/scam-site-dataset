@@ -1,0 +1,20 @@
+   Domain Name: SLOVENIAHOLIDAYS.COM
+   Registry Domain ID: 94045321_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.yoursrs.com
+   Registrar URL: http://www.realtimeregister.com
+   Updated Date: 2024-12-24T16:37:44Z
+   Creation Date: 2003-01-16T04:47:44Z
+   Registry Expiry Date: 2026-01-16T04:47:44Z
+   Registrar: Realtime Register B.V.
+   Registrar IANA ID: 839
+   Registrar Abuse Contact Email: rtr-security-threats@realtimeregister.com
+   Registrar Abuse Contact Phone: +31.384530759
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.HE.NET
+   Name Server: NS2.HE.NET
+   Name Server: NS3.HE.NET
+   Name Server: NS4.HE.NET
+   Name Server: NS5.HE.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:11:25Z 

@@ -1,0 +1,21 @@
+Domain name: butel.nl
+Status:      active
+
+Registrar:
+   Superior B.V.
+   Steenovenweg 5
+   5708HN Helmond
+   Netherlands
+
+DNSSEC:      no
+
+Domain nameservers:
+   ns-3.eu
+   ns2.hix.nl
+   ns1.hix.nl
+
+Creation Date: 1999-07-14
+
+Updated Date: 2025-03-20
+
+Record maintained by: SIDN BV

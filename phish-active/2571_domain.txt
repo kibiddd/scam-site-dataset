@@ -1,0 +1,30 @@
+% SaudiNIC Whois server.
+% Rights restricted by copyright.
+% http://nic.sa/en/view/whois-cmd-copyright
+
+Domain Name: arkanmedia.com.sa
+
+Registrant:
+مؤسسة اركان ميديا للخدمات التجارية
+Address: ********************
+***** ******
+Unknown
+
+Administrative Contact:
+محمد ***** ***** *****
+Address: ***** *****
+***** *****
+*****
+
+Technical Contact:
+محمد ***** ***** *****
+Address: ***** *****
+***** *****
+*****
+
+Name Servers:
+jay.ns.cloudflare.com
+chan.ns.cloudflare.com
+
+DNSSEC: No
+

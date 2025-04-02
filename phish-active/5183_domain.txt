@@ -1,0 +1,33 @@
+% La información a la que estás accediendo se provee exclusivamente para
+% fines relacionados con operaciones sobre nombres de dominios y DNS,
+% quedando absolutamente prohibido su uso para otros fines.
+%
+% La DIRECCIÓN NACIONAL DEL REGISTRO DE DOMINIOS DE INTERNET es depositaria
+% de la información que los usuarios declaran con la sola finalidad de
+% registrar nombres de dominio en ‘.ar’, para ser publicada en el sitio web
+% de NIC Argentina.
+%
+% La información personal que consta en la base de datos generada a partir
+% del sistema de registro de nombres de dominios se encuentra amparada por
+% la Ley N° 25326 “Protección de Datos Personales” y el Decreto
+% Reglamentario 1558/01.
+
+domain:		cecaitra.org.ar
+registrant:	30700955008
+registrar:	nicar
+registered:	2006-12-28 00:00:00
+changed:	2025-02-07 12:53:54.599964
+expire:		2026-01-28 00:00:00
+
+contact:	30700955008
+name:		CAMARA DE EMPRESAS DE CONTROL Y ADM DE INFRAC DE TRANS DE LA REP ARG CECAITRA AS
+registrar:	nicar
+created:	2015-01-26 00:00:00
+changed:	2025-02-07 13:00:04.820700
+
+nserver:	o200.prima.com.ar ()
+nserver:	o2000.prima.com.ar ()
+registrar:	nicar
+created:	2016-06-30 22:59:41.002866
+
+

@@ -1,0 +1,29 @@
+Domain name: jamedologo.nl
+Status:      active
+
+Reseller:
+   TransIP
+   Vondellaan 47
+   2332AA Leiden
+   Netherlands
+
+Registrar:
+   team.blue nl B.V.
+   Vondellaan 47
+   2332AA Leiden
+   Netherlands
+
+Abuse Contact:
+   abuse@nl.team.blue
+
+DNSSEC:      no
+
+Domain nameservers:
+   ns1.knothserv12.nl
+   ns2.knothserv12.nl
+
+Creation Date: 2012-12-03
+
+Updated Date: 2021-03-27
+
+Record maintained by: SIDN BV

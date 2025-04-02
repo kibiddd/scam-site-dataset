@@ -1,0 +1,17 @@
+   Domain Name: PLAMOYA.COM
+   Registry Domain ID: 984520568_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.discount-domain.com
+   Registrar URL: http://gmo.jp
+   Updated Date: 2024-04-20T22:57:58Z
+   Creation Date: 2007-05-21T04:59:07Z
+   Registry Expiry Date: 2025-05-21T04:59:07Z
+   Registrar: GMO Internet Group, Inc. d/b/a Onamae.com
+   Registrar IANA ID: 49
+   Registrar Abuse Contact Email: abuse@gmo.jp
+   Registrar Abuse Contact Phone: +81.337709199
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS0.HETEML.JP
+   Name Server: DNS1.HETEML.JP
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:05:13Z 

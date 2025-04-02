@@ -1,0 +1,17 @@
+   Domain Name: AMGMALL.COM
+   Registry Domain ID: 2944151193_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.web.com
+   Registrar URL: http://www.networksolutions.com
+   Updated Date: 2024-12-22T06:45:34Z
+   Creation Date: 2024-12-21T19:10:34Z
+   Registry Expiry Date: 2025-12-21T19:10:34Z
+   Registrar: Major League Domains, LLC
+   Registrar IANA ID: 2264
+   Registrar Abuse Contact Email: abuse@web.com
+   Registrar Abuse Contact Phone: +1.8003337680
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: PATRYK.NS.CLOUDFLARE.COM
+   Name Server: TRICIA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:45:06Z 

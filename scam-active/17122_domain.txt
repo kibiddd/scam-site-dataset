@@ -1,0 +1,17 @@
+   Domain Name: OTIVV.COM
+   Registry Domain ID: 2837361736_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gname.com
+   Registrar URL: http://www.gname.com
+   Updated Date: 2024-09-01T11:19:01Z
+   Creation Date: 2023-12-13T08:53:24Z
+   Registry Expiry Date: 2025-12-13T08:53:24Z
+   Registrar: Gname.com Pte. Ltd.
+   Registrar IANA ID: 1923
+   Registrar Abuse Contact Email: complaint@gname.com
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: A.SHARE-DNS.COM
+   Name Server: B.SHARE-DNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:49:52Z 

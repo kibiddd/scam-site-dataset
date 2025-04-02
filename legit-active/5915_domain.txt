@@ -1,0 +1,17 @@
+   Domain Name: OTRCAT.COM
+   Registry Domain ID: 76314576_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enomdomains.com
+   Updated Date: 2024-05-14T21:44:47Z
+   Creation Date: 2001-08-23T03:46:10Z
+   Registry Expiry Date: 2029-08-23T03:46:10Z
+   Registrar: eNom, LLC
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.NDEVIX.COM
+   Name Server: NS2.NDEVIX.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:17:06Z 

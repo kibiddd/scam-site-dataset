@@ -1,0 +1,13 @@
+Domain Name: softball.org.nz
+Registrar URL: https://www.key-systems.net
+Updated Date: 2025-02-27T04:24:58Z
+Creation Date: 1998-03-22T12:00:00Z
+Original Created: 1998-03-22T12:00:00Z
+Registrar: Key-Systems GmbH
+Domain Status: ok https://icann.org/epp#ok
+Name Server: ns1.partnerconsole.net
+Name Server: ns2.partnerconsole.net
+Name Server: ns3.partnerconsole.net
+DNSSEC: unsigned
+URL of the Domain Name Commission Limited Inaccuracy Complaint Form: https://dnc.org.nz/enquiry-form/
+>>> Last update of WHOIS database: 2025-03-27T22:41:38Z 

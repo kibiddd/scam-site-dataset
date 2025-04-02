@@ -1,0 +1,23 @@
+Domain Name: frankmurray.com.au
+Registry Domain ID: 6b2229c67a294007844d09aae4d26f1a-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.instra.com/en/about-us/contact-us
+Last Modified: 2024-10-24T06:17:23Z
+Registrar Name: Domain Directors Pty Ltd trading as Instra
+Registrar Abuse Contact Email: abuse@key-systems.net
+Registrar Abuse Contact Phone: +49.68949396850
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: a43329f16c314e9a828e2c31d57d9e4c-AU
+Registrant Contact Name: Andrew Murray
+Tech Contact ID: 6ed6b425252846cea98df46a536dcef4-AU
+Tech Contact Name: Andrew Murray
+Name Server: dns.site5.com
+Name Server: dns2.site5.com
+DNSSEC: unsigned
+Registrant: MURRAY, ANDREW ERNEST
+Registrant ID: ABN 48993793340
+Eligibility Type: Sole Trader
+Eligibility ID: ABN 48993793340
+>>> Last update of WHOIS database: 2025-03-27T21:35:07Z 

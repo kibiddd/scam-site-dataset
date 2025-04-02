@@ -1,0 +1,18 @@
+   Domain Name: FLOWCODE.COM
+   Registry Domain ID: 1602396831_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.cloudflare.com
+   Registrar URL: http://www.cloudflare.com
+   Updated Date: 2024-06-23T04:17:11Z
+   Creation Date: 2010-06-16T18:30:30Z
+   Registry Expiry Date: 2025-06-16T18:30:30Z
+   Registrar: Cloudflare, Inc.
+   Registrar IANA ID: 1910
+   Registrar Abuse Contact Email: registrar-abuse@cloudflare.com
+   Registrar Abuse Contact Phone: +1.6503198930
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: MAX.NS.CLOUDFLARE.COM
+   Name Server: REZA.NS.CLOUDFLARE.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 2371 13 2 39EE8CA35F36399A358048202FA0A3CD59BDDD8F6157A0005269DF79A76EED66
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:49:44Z 

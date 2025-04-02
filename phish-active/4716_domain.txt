@@ -1,0 +1,17 @@
+   Domain Name: BUCEARENCOLUMBRETES.COM
+   Registry Domain ID: 2871914512_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.diymysite.com
+   Registrar URL: http://www.diymysite.com
+   Updated Date: 2025-03-10T08:46:07Z
+   Creation Date: 2024-04-13T07:52:39Z
+   Registry Expiry Date: 2025-04-13T07:52:39Z
+   Registrar: Cloud Yuqu LLC
+   Registrar IANA ID: 3824
+   Registrar Abuse Contact Email: abuse@diymysite.com
+   Registrar Abuse Contact Phone: +86.17723349228
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: JULIO.NS.CLOUDFLARE.COM
+   Name Server: ROXY.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:00:07Z 

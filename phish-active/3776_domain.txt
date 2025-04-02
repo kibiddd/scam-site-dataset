@@ -1,0 +1,33 @@
+# Hello 2a09:bac5:c82e:2446::39d:58. Your session has been logged.
+#
+# Copyright (c) 2002 - 2025 by Punktum dk A/S
+#
+# Version: 5.4.0
+#
+# The data in the DK Whois database is provided by Punktum dk A/S
+# for information purposes only, and to assist persons in obtaining
+# information about or related to a domain name registration record.
+# We do not guarantee its accuracy. We will reserve the right to remove
+# access for entities abusing the data, without notice.
+#
+# Any use of this material to target advertising or similar activities
+# are explicitly forbidden and will be prosecuted. Punktum dk A/S
+# requests to be notified of any such activities or suspicions thereof.
+
+Domain:               barberhagen.dk
+DNS:                  barberhagen.dk
+Registered:           2020-01-14
+Expires:              2026-01-31
+Registration period:  1 year
+VID:                  no
+DNSSEC:               Unsigned delegation
+Status:               Active
+
+Nameservers
+Hostname:             ns1.simply.com
+Hostname:             ns2.simply.com
+Hostname:             ns3.simply.com
+Hostname:             ns4.simply.com
+
+# Use option --show-handles to get handle information.
+# whois -h whois.punktum.dk HELP for more help.

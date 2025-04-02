@@ -1,0 +1,18 @@
+   Domain Name: EGEPERDETEKSTIL.COM
+   Registry Domain ID: 1557709496_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.isimtescil.net
+   Registrar URL: http://www.isimtescil.net
+   Updated Date: 2018-04-02T08:48:13Z
+   Creation Date: 2009-06-01T10:58:03Z
+   Registry Expiry Date: 2025-06-01T10:58:03Z
+   Registrar: FBS Inc.
+   Registrar IANA ID: 1110
+   Registrar Abuse Contact Email: abuse@isimtescil.net
+   Registrar Abuse Contact Phone: +90.8502000444
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: EU.DNSENABLE.COM
+   Name Server: TR.DNSENABLE.COM
+   Name Server: US.DNSENABLE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:13:20Z 

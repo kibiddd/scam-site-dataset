@@ -1,0 +1,2 @@
+Domain: blueboxstore.de
+Status: connect

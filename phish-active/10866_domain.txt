@@ -1,0 +1,2 @@
+Domain: gutscheinefuermorgen.de
+Status: connect

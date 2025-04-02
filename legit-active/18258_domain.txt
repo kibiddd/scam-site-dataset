@@ -1,0 +1,58 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: UNC.EDU
+
+Registrant:
+	University of North Carolina at Chapel Hill
+	ITS - CB#1150 440 West Franklin Street
+	Chapel Hill, NC 27599-1150
+	USA
+
+Administrative Contact:
+	Domain Admin
+	The University of North Carolina
+	ITS  CB #1150, 440 West Franklin Street
+	Chapel Hill, NC 27599-1150
+	USA
+	+1.9194450123
+	hostmaster@unc.edu
+
+Technical Contact:
+	 
+	The University of North Carolina - ITS
+	440 West Franklin Street
+	CB #1150
+	Chapel Hill, NC 27599-1150
+	USA
+	+1.9199626503
+	hostmaster@unc.edu
+
+Name Servers:
+	NS.UNC.EDU
+	NS-01.MCNC.ORG
+	NS-02.MCNC.ORG
+	NS2.UNC.EDU
+
+Domain record activated:    17-Jun-1986
+Domain record last updated: 22-Jan-2025
+Domain expires:             31-Jul-2025

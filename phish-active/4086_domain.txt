@@ -1,0 +1,17 @@
+   Domain Name: BET5816.COM
+   Registry Domain ID: 2933241818_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.discount-domain.com
+   Registrar URL: http://gmo.jp
+   Updated Date: 2024-11-11T06:43:27Z
+   Creation Date: 2024-11-11T04:06:28Z
+   Registry Expiry Date: 2025-11-11T04:06:28Z
+   Registrar: GMO Internet Group, Inc. d/b/a Onamae.com
+   Registrar IANA ID: 49
+   Registrar Abuse Contact Email: abuse@gmo.jp
+   Registrar Abuse Contact Phone: +81.337709199
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: A.SHARE-DNS.COM
+   Name Server: B.SHARE-DNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T20:25:08Z 

@@ -1,0 +1,22 @@
+   Domain Name: IPOWER.COM
+   Registry Domain ID: 353823_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domain.com
+   Registrar URL: http://www.domain.com
+   Updated Date: 2023-06-14T22:16:48Z
+   Creation Date: 1997-07-14T04:00:00Z
+   Registry Expiry Date: 2029-07-13T04:00:00Z
+   Registrar: Domain.com, LLC
+   Registrar IANA ID: 886
+   Registrar Abuse Contact Email: compliance@domain-inc.net
+   Registrar Abuse Contact Phone: 602-226-2389
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.IPOWER.COM
+   Name Server: NS1.IPOWERDNS.COM
+   Name Server: NS1.IPOWERWEB.NET
+   Name Server: NS2.IPOWER.COM
+   Name Server: NS2.IPOWERDNS.COM
+   Name Server: NS2.IPOWERWEB.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:51:49Z 

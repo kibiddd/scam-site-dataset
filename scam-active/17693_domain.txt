@@ -1,0 +1,17 @@
+   Domain Name: WEALTH-LTD.COM
+   Registry Domain ID: 2914924439_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namesrs.com
+   Registrar URL: http://www.namesrs.com
+   Updated Date: 2024-09-08T12:01:35Z
+   Creation Date: 2024-09-08T12:01:34Z
+   Registry Expiry Date: 2025-09-08T12:01:34Z
+   Registrar: Name SRS AB
+   Registrar IANA ID: 638
+   Registrar Abuse Contact Email: abuse@namesrs.com
+   Registrar Abuse Contact Phone: +46.313011220
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DNS-PARKING.COM
+   Name Server: NS2.DNS-PARKING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:50:08Z 

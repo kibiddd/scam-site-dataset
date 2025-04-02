@@ -1,0 +1,19 @@
+   Domain Name: NEWALBANYOHIO.COM
+   Registry Domain ID: 6205748_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domaindiscover.com
+   Registrar URL: http://tierra.net
+   Updated Date: 2021-05-06T16:25:03Z
+   Creation Date: 1999-05-03T15:48:08Z
+   Registry Expiry Date: 2027-05-03T15:46:32Z
+   Registrar: DomainSpot LLC
+   Registrar IANA ID: 86
+   Registrar Abuse Contact Email: icann-abuse-reports@tierra.net
+   Registrar Abuse Contact Phone: 6193932105
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1115.AWSDNS-11.ORG
+   Name Server: NS-1863.AWSDNS-40.CO.UK
+   Name Server: NS-207.AWSDNS-25.COM
+   Name Server: NS-586.AWSDNS-09.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:31:47Z 

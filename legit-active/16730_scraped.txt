@@ -1,0 +1,141 @@
+MarkSanborn.net
+Toggle navigation
+Mark Sanborn.net
+All Posts
+About me
+Compiling Duckdb On OpenbsdUnfortunately duckdb doesn’t have an official package for OpenBSD so we need to compile it from source.
+It turns out you can’t get extensions after compilation because there are no official packages for OpenBSD. So make sure to compile with the extensions you need.
+Switch to a known release tag: git checkout tags/v1.1.2
+pkg_add gmake cmake
+git clone https://github.com/duckdb/duckdb.git
+cd duckdb
+CORE_EXTENSIONS='autocomplete;httpfs;icu;parquet;json' gmake
+Read on →Lock Down SSH with spipedSSH has had a history of vulnerabilities which could lead to remote code execution or compromise your server. Spiped protects against 0-day vulnerabilities. It prevents anyone without the key from even attempting to connect.
+From the author:
+Since data is authenticated before being forwarded to the target, this can allow you to SSH to a host while protecting you in the event that someone finds an exploitable bug in the SSH daemon — this serves the same purpose as port knocking or a firewall which restricts source IP addresses which can connect to SSH.> Spiped is a utility for creating encrypted and authenticated pipes between socket addresses. It’s like a force field for your SSH connection.
+What is spiped?
+Spiped is a utility for creating encrypted and authenticated pipes between socket addresses. It’s like a force field for your SSH connection.
+Why use spiped?
+Adds an extra layer of encryption
+Protects against man-in-the-middle attacks
+Hides your SSH port from scanners
+Works with any SSH client
+Let’s secure your server.
+Step 1: Install spiped
+On Ubuntu or Debian:
+sudo apt update
+sudo apt install spiped
+On CentOS or Fedora:
+sudo yum install epel-release
+sudo yum install spiped
+Step 2: Generate a secret key
+Spiped needs a shared secret key. Create one:
+dd if=/dev/urandom bs=32 count=1 of=/etc/spiped-secret
+chmod 600 /etc/spiped-secret
+This creates a 32-byte random key and restricts access to root.
+Step 3: Set up spiped on your VPS
+Create a systemd service file:
+sudo nano /etc/systemd/system/spiped-ssh.service
+Paste this content:
+[Unit]
+Description=Spiped for SSH
+After=network.target
+[Service]
+Type=simple
+ExecStart=/usr/bin/spiped -F -d -s '[0.0.0.0]:8022' -t '[127.0.0.1]:22' -k /etc/spiped-secret
+Restart=always
+[Install]
+WantedBy=multi-user.target
+This tells spiped to:
+Listen on all interfaces, port 8022
+Forward traffic to localhost, port 22 (SSH)
+Use the secret key we generated
+Save and close the file.
+Step 4: Start and enable the service
+sudo systemctl start spiped-ssh
+sudo systemctl enable spiped-ssh
+Step 5: Configure your firewall
+Allow incoming connections on port 8022:
+For UFW:
+sudo ufw allow 8022/tcp
+For firewalld:
+sudo firewall-cmd --add-port=8022/tcp --permanent
+sudo firewall-cmd --reload
+Step 6: Set up spiped on your local machine
+Install spiped on your local machine using the same method as Step 1.
+Create a script to start the local spiped instance:
+nano ~/spiped-ssh-connect.sh
+Add this content:
+#!/bin/bash
+spiped -e -s [127.0.0.1]:8022 -t [YOUR_VPS_IP]:8022 -k /path/to/spiped-secret
+Replace [YOUR_VPS_IP] with your VPS’s actual IP address.
+Make the script executable:
+chmod +x ~/spiped-ssh-connect.sh
+Step 7: Connect to your VPS
+Start the local spiped instance:
+~/spiped-ssh-connect.sh
+In a new terminal, connect via SSH:
+ssh -p 8022 username@localhost
+You’re now connected through an encrypted spiped tunnel!
+Optional: Disable password authentication
+For maximum security, use SSH keys and disable password authentication:
+On your local machine, generate an SSH key pair:
+ssh-keygen -t ed25519 -C "your_email@example.com"
+Copy the public key to your VPS:
+ssh-copy-id -p 8022 username@localhost
+On your VPS, edit the SSH config:
+sudo nano /etc/ssh/sshd_config
+Set these options:
+PasswordAuthentication no
+PubkeyAuthentication yes
+Restart the SSH service:
+sudo systemctl restart ssh
+Troubleshooting
+Can’t connect? Check these:
+Is spiped running on both machines?
+sudo systemctl status spiped-ssh
+Are you using the correct port (8022)?
+Is your firewall allowing connections?
+Did you copy the secret key to your local machine?
+Are the IP addresses in your local script correct?
+Spiped vs. VPN
+Why use spiped instead of a VPN?
+Simpler setup
+Less overhead
+Focused on securing just SSH
+Can be used alongside a VPN
+However, a VPN secures all traffic. Choose based on your needs.
+Conclusion
+You’ve now fortified your VPS’s SSH connection. Spiped adds a powerful layer of security, making life much harder for attackers.
+Remember:
+Keep your secret key safe
+Update your systems regularly
+Monitor for unusual activity
+With these steps, you’ve significantly boosted your server’s security. Sleep easier knowing your VPS is better protected against SSH-based attacks.
+Read on →Golang Naked Redirect WWW MiddlewareIt is important to make sure you site’s URL is either naked yoursite.com or with www. like www.yoursite.com. One should redirect to the other and you should keep is consistent for SEO.
+If you redirect naked to www., and you use Go, you can use the following Go middleware to have all naked requests redirect with 301 to www.:
+func RedirectNakedToWWW(handler http.Handler) http.Handler {
+return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+// if host doesn't have www. redirect
+if !strings.HasPrefix(r.Host, "www.") {
+http.Redirect(w, r, fmt.Sprintf("https://www.%s", r.Host)+r.URL.String(), http.StatusMovedPermanently)
+return
+}
+handler.ServeHTTP(w, r)
+})
+}
+Read on →WireGuard a Fast, Modern, and Secure way to Connect to Your Home NetworkThere are many guides out there on how to use WireGuard to create your own personal VPN to route all your traffic through a VPS (Virtual Private Server) for privacy or other reasons.
+This guide will focus on creating a VPN so you can connect to your home network on the go.
+Read on →Notes on MergerFSInstall mergerfs
+sudo apt install mergerfs
+Mount it
+/mnt/data1:/mnt/data2 /mnt/usb fuse.mergerfs category.create=mfs,nonempty,defaults,allow_other,minfreespace=20G,fsname=mergerfsPool 0 0
+Reboot to mount as drives may already be mounted/used
+Read on →OSX: Never Paste with StyleI never want to copy a chunk of text and then later paste that text with all of its styles and formatting.  I personally found that I have no purpose for this.  My styles are never aligned with the same styles that I am copying from.
+Read on →Robo Calling with TwilioEvery one hates to get political or an automated spam robo call; however, I recently had the opportunity to create one that people loved and it was stupid simple thanks to Twilio.
+Read on →Documentation for Magento DevelopersI am excited to announce that I have a new book coming out!
+Read on →What RSS Feeds Does Mark Sanborn Read?Ever wonder what RSS feeds I subscribe to?  Here is a quick list of most of the feeds I subscribe to.
+Read on →Schedule a Tweet with One Comnand in LinuxEver want to schedule a tweet to go out at the same time an article is published or an event is started?  Want to do it without signing up to a service or some other complicated task?  Well this post is for you.  I am going to show you how to schedule a tweet from the command line in one line of code.  You can schedule the tweet to take place ten minutes from now, 14 days, or whenever you wish.
+Read on →
+View all posts
+Copyright ©  - Mark Sanborn

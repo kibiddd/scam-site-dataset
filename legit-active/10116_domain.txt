@@ -1,0 +1,17 @@
+   Domain Name: ALEXANDRAANDNICOLAY.COM
+   Registry Domain ID: 29011228_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enomdomains.com
+   Updated Date: 2024-05-14T06:21:07Z
+   Creation Date: 2000-06-11T19:57:01Z
+   Registry Expiry Date: 2025-06-11T19:57:01Z
+   Registrar: eNom, LLC
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.OLDTOWNWEB.NET
+   Name Server: NS2.OLDTOWNWEB.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T15:00:08Z 

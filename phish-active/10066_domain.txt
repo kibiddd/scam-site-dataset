@@ -1,0 +1,49 @@
+
+**********************************************************
+*            The UG ccTLD Registry Database              *
+**********************************************************
+
+Domain name:                    galaxyfm.co.ug
+Status:                         ACTIVE
+Expires On:                     2028-05-21
+Registered On:                  2012-05-23
+Renewed On:                     2023-05-02
+Nameserver:                     ns1.realtechosting.com
+Nameserver:                     ns1.realtechosting.com
+
+
+
+Registrant Contact Information:  
+Registrant Name:                Robert Busingye
+Registrant Organization:        Blue Cube LIMITED
+Registrant Country:             Uganda
+Registrant State / Province:    Central
+Registrant City:                Kampala
+Registrant Address:             Plot 249, Ggaba Road
+Registrant Postal Code:         256
+Registrant Phone:               +256707000440
+Registrant Email:               busingye@bluecube.co.ug
+
+Administrative Contact Information:  
+Admin Name:                     Innocent Nahabwe
+Admin Organization:             Blue Cube LIMITED
+Admin Country:                  Uganda
+Admin State / Province:         Central
+Admin City:                     Kampala
+Admin Address:                  Plot 249, Ggaba Road
+Admin Postal Code:              256
+Admin Phone:                    +256707000429
+Admin Email:                    innocent@bluecube.co.ug
+
+Technical Contact Information:  
+Tech Name:                      Robert Busingye
+Tech Organization:              Blue Cube LIMITED
+Tech Country:                   Uganda
+Tech State / Province:          Central
+Tech City:                      Kampala
+Tech Address:                   Plot 249, Ggaba Road
+Tech Postal Code:               256
+Tech Phone:                     +256707000440
+Tech Email:                     busingye@bluecube.co.ug
+
+Information Last Updated:       2023-05-02 11:18:37

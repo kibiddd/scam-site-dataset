@@ -1,0 +1,21 @@
+   Domain Name: LURKERFILMS.COM
+   Registry Domain ID: 100129951_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.squarespace.domains
+   Registrar URL: http://domains2.squarespace.com
+   Updated Date: 2024-06-21T00:30:27Z
+   Creation Date: 2003-07-05T20:26:25Z
+   Registry Expiry Date: 2025-07-05T20:26:25Z
+   Registrar: Squarespace Domains II LLC
+   Registrar IANA ID: 895
+   Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+   Registrar Abuse Contact Phone: +1.6466935324
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-CLOUD-B1.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-B2.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-B3.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-B4.GOOGLEDOMAINS.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 7891 8 2 B172A7A26F9BFAE906898BDA644F01AA874FBEE43A693BC8BB1DDFAF398547FD
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:10:25Z 

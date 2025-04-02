@@ -1,0 +1,141 @@
+lusir's blog - 分享互联网的宝藏
+
+lusir's blog
+
+
+Keyword
+关键词不能为空
+Please enter text.
+Search
+cancel
+大道至简
+
+分类
+
+默认分类
+linux
+外汇
+python
+安卓
+openwrt
+macbook
+
+页面
+
+关于
+
+友情链接
+
+
+正在加载一言...
+access数据库密码破解软件
+admin
+因工作需要，需要修改数据库文件，由于好久不操作数据库了，忘记了access数据库密码，网上找了一款软件，秒破access数据库密码，特记录下来，以备不时之需。
+下载地址：https:/...
+阅读
+access密码破解数据库
+expand_more
+通过telnet获取光猫超级密码
+admin
+前一篇通过超级密码打开了telnet,就可以telnet到光猫，用命令获取超级密码，从此无惧电信修改超级密码了！telnet 192.168.1.1，账号：admin，密码：admin登录。进去...
+阅读
+超级密码telnet
+expand_more
+TEWA-1000E光猫开启telnet方法
+admin
+通过小翼管家抓包成功获取TEWA-1000E光猫超级密码，为防止超级密码被修改后登录不了，需要开启telnet，超级用户登入后打开http://192.168.1.1:8080/enableTe...
+阅读
+光猫超级密码tewa-1000etelnet
+expand_more
+zsh: command not found: nvm 问题（Mac）
+admin
+最近折腾Picgo,需要安装NVM,安装完，运行nvm -v 然后报错出现：zsh: command not found: nvm，
+网上搜索，折腾了半天，最后按照以下步骤解决了。
+(1): 使...
+阅读
+nvm
+expand_more
+电信光猫抓包获取超级密码
+admin
+需要小翼管家和抓包软件1.打开小翼管家和抓包软件，小翼管家绑定网关，点击进入网关页面点击网关设置
+2.抓包软件开启抓包在小翼管家的网关设置里开启关闭指示灯
+3.抓包软件长按url为nos10-4...
+阅读
+小翼管家超级密码
+expand_more
+12...9后一页
+
+最新文章
+
+最新回复
+
+分类
+最热文章
+欢迎使用 Typecho俄罗斯的网盘：Yandex Disk免费10G容量现货的交易时间，亚盘、欧盘、美盘的开盘时间表 Linux解压命令Typecho 隐藏评论区Typecho去掉index.php让链接更美观button onclick 实现下载文件解决方案： locale::facet::_S_create_c_locale name not valid关于locale问题 warning: setlocale: LC_CTYPE: cannot change locale (UTF-8): No such file or directorycrontab定时执行python脚本另类方法
+最近回复
+1: 20
+1: 20
+1: 20
+1: 20
+1: 20
+1: 20
+Typecho: 欢迎加入 Typecho 大家族
+分类
+默认分类
+linux
+外汇
+python
+安卓
+openwrt
+macbook
+归档
+2025-01
+2024-12
+2024-05
+2024-01
+2023-12
+2023-09
+2022-11
+2022-04
+2022-03
+2022-02
+2022-01
+2021-12
+2021-11
+其它
+文章 RSS
+评论 RSS
+标签云
+亚盘
+美盘
+欧盘
+linux
+解压
+压缩
+Typecho
+评论
+button
+下载
+网盘
+locale
+crontab
+python
+按键精灵
+文件属性
+隐藏
+命令
+v2ray
+armbian
+赚钱宝PRO
+挂载
+usb硬盘
+nginx
+php解析
+clash
+透明网关
+vless
+pixel
+recovery
+© 2025 lusir's blog.
+由 Typecho 强力驱动 .
+

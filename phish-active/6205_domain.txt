@@ -1,0 +1,17 @@
+   Domain Name: CRUTECHNEWS.COM
+   Registry Domain ID: 2789803200_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.julyname.com
+   Registrar URL: http://www.julyname.com
+   Updated Date: 2024-04-13T01:26:05Z
+   Creation Date: 2023-06-13T18:13:01Z
+   Registry Expiry Date: 2025-06-13T18:13:01Z
+   Registrar: July Name Limited
+   Registrar IANA ID: 3855
+   Registrar Abuse Contact Email: abuse@julyname.com
+   Registrar Abuse Contact Phone: +852.56109513
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: A.SHARE-DNS.COM
+   Name Server: B.SHARE-DNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:15:08Z 

@@ -1,0 +1,22 @@
+Domain Name: strategyfirst.com.au
+Registry Domain ID: ea92c5e1330b413c9bc699c44ce9e882-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.crazydomains.com.au/contact/
+Last Modified: 2024-07-26T01:39:32Z
+Registrar Name: Web Address Registration Pty Ltd
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 2dca94ee33004620913f46175bf76251-AU
+Registrant Contact Name: David Price
+Tech Contact ID: dfcdf0085084473bb175776ddbe4a672-AU
+Tech Contact Name: David Price
+Name Server: marge.ns.cloudflare.com
+Name Server: mitch.ns.cloudflare.com
+DNSSEC: unsigned
+Registrant: STRATEGY FIRST FINANCIAL PLANNING PTY LTD
+Registrant ID: ABN 69114540528
+Eligibility Type: Company
+>>> Last update of WHOIS database: 2025-03-27T15:00:42Z 

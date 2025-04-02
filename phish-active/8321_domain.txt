@@ -1,0 +1,25 @@
+Domain Name: ezkey.com.tw
+   Domain Status: ok
+   Registrant:
+      寰賀科技股份有限公司
+      EzKEY Corp.
+      pascal_lin@ezkey.com.tw
+      TW
+      (Redacted for privacy)
+
+   Administrative Contact:
+      (Redacted for privacy)
+
+   Technical Contact:
+      (Redacted for privacy)
+
+   Record expires on 2026-05-31 00:00:00 (UTC+8)
+   Record created on 1997-05-01 11:58:25 (UTC+8)
+
+   Domain servers in listed order:
+      m.coowo.com     
+      n.coowo.com     
+
+Registration Service Provider: TWNIC
+Registration Service URL: http://rs.twnic.net.tw/
+Registrar Abuse Contact Email: abuse@twnic.tw

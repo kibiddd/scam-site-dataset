@@ -1,0 +1,44 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T11:52:22-03:00 - 2a09:bac5:c82c:2446::39d:28
+
+domain:      iconsorciodigital.com.br
+owner:       Brasil Representa��es de Cons�rcio Online EIRELI
+ownerid:     11.072.621/0001-05
+responsible: LUIZMAR RODRIGUES BUENOS
+country:     BR
+owner-c:     BURLT4
+tech-c:      BRRCO95
+nserver:     ns1.oconsorciodigital.com.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+nserver:     ns2.oconsorciodigital.com.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+saci:        yes
+created:     20200826 #21623074
+changed:     20240808
+expires:     20260826
+status:      published
+
+nic-hdl-br:  BURLT4
+person:      buenos representa��es LTDA
+e-mail:      junior@romanainfo.com.br
+country:     BR
+created:     20110301
+changed:     20240806
+
+nic-hdl-br:  BRRCO95
+person:      BRASIL REPRESENTACOES DE CONSORCIOS
+e-mail:      junior@romanainfo.com.br
+country:     BR
+created:     20190516
+changed:     20230710
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

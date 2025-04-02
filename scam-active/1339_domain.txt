@@ -1,0 +1,19 @@
+   Domain Name: CAKEDEFI.COM
+   Registry Domain ID: 2413674552_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2022-01-19T02:01:26Z
+   Creation Date: 2019-07-17T02:51:08Z
+   Registry Expiry Date: 2031-07-17T02:51:08Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1199.AWSDNS-21.ORG
+   Name Server: NS-1926.AWSDNS-48.CO.UK
+   Name Server: NS-353.AWSDNS-44.COM
+   Name Server: NS-927.AWSDNS-51.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:45:37Z 

@@ -1,0 +1,18 @@
+Domain Name: anjappar.com.sg
+Unicode Name: anjappar.com.sg
+Updated Date: 2024-04-30T16:05:35Z
+Creation Date: 2006-03-31T17:16:46Z
+Registry Expiry Date: 2025-03-31T16:00:00Z
+Registrar: Dreamscape Networks International Pte Ltd
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+VerifiedID Status: VerifiedID@SG-Not Required
+Registry Lock:
+Registrant Name: ANJAPPAR AUTHENTIC CHETTINAAD RESTAURANT
+Admin Name: VODIEN INTERNET SOLUTIONS PTE. LTD.
+Tech Name: SELVI SARAVANAN
+Tech Email: 2022webdevelopment@gmail.com
+Name Server: ns1.vodien.com
+Name Server: ns2.vodien.com
+Name Server: ns3.vodien.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2025-03-26T17:46:01Z 

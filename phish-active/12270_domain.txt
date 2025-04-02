@@ -1,0 +1,11 @@
+Domain Name: jahone.cn
+ROID: 20080517s10001s58821443-cn
+Domain Status: ok
+Registrant: 杨梅英
+Registrant Contact Email: bai33444@126.com
+Sponsoring Registrar: 阿里云计算有限公司（万网）
+Name Server: ns1.4.cn
+Name Server: ns2.4.cn
+Registration Time: 2008-05-17 22:30:47
+Expiration Time: 2025-05-17 22:30:47
+DNSSEC: unsigned

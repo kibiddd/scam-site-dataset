@@ -1,0 +1,55 @@
+Pedigree: Mathilde de JOINVILLE
+The PEDIGREE of
+Mathilde de JOINVILLE
+(Mahaut)
+Born:    ?   Died:   aft. 1382
+HRH Charles's 19-Great Grandmother.       HRH Albert II's 20-Great Grandmother.       Louis XVII's 13-Great Grandmother.       HM Juan Carlos' 18-Great Grandmother.       Philippe of Belgium's 19-Great Grandmother.       HM Manuel II's 17-Great Grandmother.
+Husband/Partner:
+Charles d' HARAUCOURT
+Child:
+Jean (II) d' HARAUCOURT
+_______________________________________________________________________________________
+/-- Roger (III; Sn.) de JOINVILLE   +==&=>   [ 255 ,gC,tm,&]
+/-- Geoffroy III (Sn.) de JOINVILLE
+/  \-- Oudiarde (Adelaide) de VIGNORY   +==&=>   [ 255 ,Hg,Y,&]
+/-- Geoffroy IV (III; Sn.) de JOINVILLE
+/  \-- Felicite de BRIENNE   +==&=>   [ 255 ,Hg,&]
+/-- prob.  Simon de GENEVILLE (JOINVILLE-GEZ)
+/  \-- Helvide (Helvise) de DAMPIERRE   +==&=>   [ 255 ,Hg,&]
+/-- Jean (I) de JOINVILLE  (1230? - 1317)
+/  \-- prob.  Beatrix of BURGUNDY   +&&&>   [ 255 ,wHaG,RVTXQ,&]
+/-- Jean `Boutefeu' de JOINVILLE  (1248 - 1315?)
+| \  /-- Henri III Wafflart de GRANDPRE   +&&&>   [ 255 ,HG,&]
+| | /-- Henri IV (Count) de GRANDPRE  (1198? - 1229)
+| | /  \-- Isabeau (Melisende) de COUCY   +==&=>   [ 255 ,HG,Rv,&]
+| \-- Alix de GRANDPRE  (? - 1261?)
+/   \-- Marie de GARLANDE   +==&=>   [ 255 ,wHaG,Rv,&]
+/-- Aubert de JOINVILLE  (1275? - ?)
+| \ / (skip this generation?)
+| |   /-- Hugo III of VAUDEMONT   +==&=>   [ 255 ,HG,&]
+| |  /-- Heinrich I of VAUDEMONT  (1219? - 1279?)
+| |  | \ / (skip this generation?)
+| |  /  \-- Margarete of BAR   +==&=>   [ 255 ,WHa,v,&]
+| | /-- Heinrich II of VAUDEMONT  (1243? - 1299?)
+| | | \-- Marguerite de la ROCHE-SUR-OGNON   +==&=>   [ 255 ,WHa,&]
+| | |   / or: Marguerite of BRIENNE
+| | /    / or: skip
+| \-- Marguerite de VAUDEMONT  (? - by 1336)
+|  \  /-- Henri I de VERGY   +==&=>   [ 255 ,hag,&]
+|  | /-- Jean I de VERGY  (? - 1310)
+|  | /  \-- Elisabeth (de BOURGOGNE) d' AUXONNE   +&&&>   [ 255 ,WHa,RVTXQ,&]
+|  \-- Helisende de VERGY  (1248? - 1312?)
+|   \ /-- Miles IV (VIII; Sn.) de NOYERS   +==&=>   [ 255 ,Hg,R,&]
+|   \-- Marguerite de NOYERS  (? - 1300?)
+/     \-- Aixante (Alixent) des BARRES   +==&=>   [ 255 ,HaG,&]
+- Mathilde de JOINVILLE
+\ \-- Agathe de GRAND   (skip?)
+Her (poss.) 4-Great Grandchildren:
+Jacques II de HARAUCOURT
+;     Joffroi d' ASPREMONT
+;     Gosbert XI d' APREMONT
+;     Anne d' HARAUCOURT
+;     Pierre (II) `le Bon' de BEAUVAU
+;     Thierry de LENONCOURT
+;     Francois de DOMMARTIN
+[ Start ]FabPed Genealogy Vers. 102   ©   Jamie, 1997-2022

@@ -1,0 +1,24 @@
+Domain Name: ERICZ.XYZ
+Registry Domain ID: D100908989-CNIC
+Registrar WHOIS Server: whois.namesilo.com
+Registrar URL: https://www.namesilo.com
+Updated Date: 2024-04-24T10:02:25.0Z
+Creation Date: 2019-04-20T06:21:06.0Z
+Registry Expiry Date: 2025-04-20T23:59:59.0Z
+Registrar: NameSilo, LLC
+Registrar IANA ID: 1479
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: See PrivacyGuardian.org
+Registrant State/Province: AZ
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: JOCELYN.NS.CLOUDFLARE.COM
+Name Server: ROAN.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@namesilo.com
+Registrar Abuse Contact Phone: +1.4805240066
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T00:25:50.0Z 

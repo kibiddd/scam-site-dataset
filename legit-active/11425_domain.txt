@@ -1,0 +1,18 @@
+   Domain Name: WORKGLOVES.NET
+   Registry Domain ID: 86032049_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.cloudflare.com
+   Registrar URL: http://www.cloudflare.com
+   Updated Date: 2024-03-28T20:04:54Z
+   Creation Date: 2002-04-27T18:06:36Z
+   Registry Expiry Date: 2025-04-27T18:06:36Z
+   Registrar: Cloudflare, Inc.
+   Registrar IANA ID: 1910
+   Registrar Abuse Contact Email: registrar-abuse@cloudflare.com
+   Registrar Abuse Contact Phone: +1.6503198930
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: LOLA.NS.CLOUDFLARE.COM
+   Name Server: PETE.NS.CLOUDFLARE.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 2371 13 2 C14BBB819FF45DC23617A4617A8B4849678D739B755D2EB4DF39D14D30C96A00
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T15:58:10Z 

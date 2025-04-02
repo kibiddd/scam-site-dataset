@@ -1,0 +1,20 @@
+   Domain Name: RATEMDS.COM
+   Registry Domain ID: 103599928_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.uniregistrar.com
+   Registrar URL: http://www.uniregistry.com
+   Updated Date: 2024-09-16T15:45:23Z
+   Creation Date: 2003-09-15T19:53:06Z
+   Registry Expiry Date: 2025-09-15T19:53:06Z
+   Registrar: GoDaddy Online Services Cayman Islands Ltd.
+   Registrar IANA ID: 1659
+   Registrar Abuse Contact Email: abuse@uniregistry.com
+   Registrar Abuse Contact Phone: +1 4805058800
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: ROSE.NS.CLOUDFLARE.COM
+   Name Server: SID.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:17:50Z 

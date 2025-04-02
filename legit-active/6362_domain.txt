@@ -1,0 +1,54 @@
+% Copyright (c)2025 by NIC.AT (1)                                       
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         appartement-pension-gaber.at
+registrar:      T-Mobile Austria GmbH ( https://nic.at/registrar/60 )
+registrant:     ADHG14024644-NICAT
+tech-c:         UAG8317792-NICAT
+nserver:        ns1.nameservice.at
+nserver:        ns2.nameservice.at
+changed:        20240410 12:27:02
+source:         AT-DOM
+
+personname:     
+organization:   Appartement-Pension Dr. Hans Gaber Ges.m.b.H
+street address: Josef-Pirchl-Strasse 18
+postal code:    6370
+city:           Kitzbuehel
+country:        Austria
+e-mail:         <data not disclosed>
+nic-hdl:        ADHG14024644-NICAT
+changed:        20240410 12:27:01
+source:         AT-DOM
+
+personname:     Domain Admin
+organization:   T-Mobile Austria Gmbh
+street address: Rennweg 97-99
+postal code:    1030
+city:           Wien
+country:        Austria
+e-mail:         <data not disclosed>
+nic-hdl:        UAG8317792-NICAT
+changed:        20221013 08:52:37
+source:         AT-DOM
+

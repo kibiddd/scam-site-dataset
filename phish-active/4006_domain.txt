@@ -1,0 +1,36 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T17:25:07-03:00 - 2a09:bac5:c82e:de1::162:212
+
+domain:      berocco.com.br
+owner:       Bernardo Moredo Rocco
+ownerid:     ***.676.448-**
+country:     BR
+owner-c:     BEMRO29
+tech-c:      BEMRO29
+nserver:     lewis.ns.cloudflare.com
+nsstat:      20250324 AA
+nslastaa:    20250324
+nserver:     magnolia.ns.cloudflare.com
+nsstat:      20250324 AA
+nslastaa:    20250324
+saci:        yes
+created:     20200929 #21798383
+changed:     20230825
+expires:     20250929
+status:      published
+
+nic-hdl-br:  BEMRO29
+person:      Bernardo Moredo Rocco
+e-mail:      bmrocco3000@gmail.com
+country:     BR
+created:     20200929
+changed:     20220315
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

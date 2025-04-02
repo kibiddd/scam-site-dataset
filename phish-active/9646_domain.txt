@@ -1,0 +1,18 @@
+   Domain Name: FIBILL.COM
+   Registry Domain ID: 2842857759_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.ascio.com
+   Registrar URL: http://www.ascio.com
+   Updated Date: 2025-01-04T08:16:30Z
+   Creation Date: 2024-01-03T13:18:53Z
+   Registry Expiry Date: 2026-01-03T13:18:53Z
+   Registrar: Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA
+   Registrar IANA ID: 106
+   Registrar Abuse Contact Email: abuse@ascio.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: ROOT-DNS.NETCUP.NET
+   Name Server: SECOND-DNS.NETCUP.NET
+   Name Server: THIRD-DNS.NETCUP.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T12:53:15Z 

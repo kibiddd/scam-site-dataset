@@ -1,0 +1,26 @@
+Domain Name: deliveries.africa
+Registry Domain ID: dom_13RY--1
+Registrar WHOIS Server:
+Registrar URL: 101domain.com/co_za.htm
+Updated Date: 2025-01-31T07:08:29Z
+Creation Date: 2021-10-29T07:14:05Z
+Registry Expiry Date: 2025-10-29T07:14:05Z
+Registrar Registration Expiration Date: 2025-10-29T07:14:05Z
+Registrar: 101domain GRS Ltd.
+Registrar IANA ID: 1011
+Registrar Abuse Contact Email: abuse@101domain.com
+Registrar Abuse Contact Phone: +1.7604448674
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: JAND 2 GIDI ENTERPRISES
+Registrant Country: NG
+Registrant Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Admin Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Tech Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Billing Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Name Server: ns1.digitalocean.com
+Name Server: ns2.digitalocean.com
+Name Server: ns3.digitalocean.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T00:24:04Z 

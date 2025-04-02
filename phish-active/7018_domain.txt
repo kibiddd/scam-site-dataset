@@ -1,0 +1,11 @@
+Domain Name: dkfirst.cn
+ROID: 20151208s10001s79913592-cn
+Domain Status: ok
+Registrant: 湖南迪科银网络有限公司
+Registrant Contact Email: 1@h5.gg
+Sponsoring Registrar: 成都西维数码科技有限公司
+Name Server: ns1.alidns.com
+Name Server: ns2.alidns.com
+Registration Time: 2015-12-08 22:17:05
+Expiration Time: 2025-12-08 22:17:05
+DNSSEC: unsigned

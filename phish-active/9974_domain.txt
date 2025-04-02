@@ -1,0 +1,20 @@
+   Domain Name: SSLSECUREPROXY.COM
+   Registry Domain ID: 1705841152_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.porkbun.com
+   Registrar URL: http://porkbun.com
+   Updated Date: 2024-11-12T09:48:22Z
+   Creation Date: 2012-03-06T18:53:56Z
+   Registry Expiry Date: 2026-03-06T18:53:56Z
+   Registrar: Porkbun LLC
+   Registrar IANA ID: 1861
+   Registrar Abuse Contact Email: abuse@porkbun.com
+   Registrar Abuse Contact Phone: 5038508351
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS1.UK7.ORG
+   Name Server: DNS2.UK7.ORG
+   Name Server: DNS3.UK7.ORG
+   Name Server: DNS4.UK7.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:50:46Z 

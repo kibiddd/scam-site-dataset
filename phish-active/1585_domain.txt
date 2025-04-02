@@ -1,0 +1,59 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://web-whois.nic.it                                           *
+*********************************************************************
+
+Domain:             associazioneridere.it
+Status:             ok
+Signed:             no
+Created:            2024-01-19 16:00:01
+Last Update:        2025-02-04 00:56:07
+Expire Date:        2026-01-19
+
+Registrant
+  Organization:     Domainorder.com
+  Address:          Lireweg 32
+                    Nieuw-Vennep
+                    2153PH
+                    North Holland
+                    NL
+  Created:          2019-12-12 21:22:12
+  Last Update:      2020-05-29 18:33:30
+
+Admin Contact
+  Name:             Tom Boom
+  Organization:     Domainorder.com
+  Address:          Lireweg 32
+                    Nieuw-Vennep
+                    2153PH
+                    North Holland
+                    NL
+  Created:          2019-12-12 21:22:12
+  Last Update:      2020-05-29 18:33:30
+
+Technical Contacts
+  Name:             Tom Boom
+  Organization:     Domainorder.com
+  Address:          Lireweg 32
+                    Nieuw-Vennep
+                    2153PH
+                    North Holland
+                    NL
+  Created:          2019-12-12 21:22:12
+  Last Update:      2020-05-29 18:33:30
+
+Registrar
+  Organization:     Webguru
+  Name:             WEBGURU-REG
+  Web:              https://www.domainorder.com/
+  DNSSEC:           no
+
+
+Nameservers
+  ns.domainorderdns.nl
+  ns1.domainorderdns.nl
+

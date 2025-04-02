@@ -1,0 +1,19 @@
+   Domain Name: COCCOC.COM
+   Registry Domain ID: 201442606_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.squarespace.domains
+   Registrar URL: http://domains2.squarespace.com
+   Updated Date: 2024-05-24T02:45:03Z
+   Creation Date: 2005-08-26T19:03:53Z
+   Registry Expiry Date: 2031-08-26T19:03:53Z
+   Registrar: Squarespace Domains II LLC
+   Registrar IANA ID: 895
+   Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+   Registrar Abuse Contact Phone: +1.6466935324
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.COCCOC.IO
+   Name Server: NS2.COCCOC.IO
+   Name Server: NS3.COCCOC.IO
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:45:37Z 

@@ -1,0 +1,44 @@
+Payout
+^
+Sign in
+Sign up
+You have 1 new transaction
+We have sent a notification to your email address that a new transaction has been received.
+Our Coinbase service has received a payment order from Binance.com and sends you the
+payout.
+The sender of the payment is indicated by Binance.com, and the recipient is your email as the
+contact person.
+Transaction hash:
+00c4c8af163a635a62e1f7b36cbcf0dc8fa51477e01024a8c9b81fc2c98d****
+My balance: 0.9473 Bitcoin
+Dear user, this transaction was not previously delivered to you because you did not complete
+the entire payout process.
+Attention! You must complete the transaction search procedure within 24 hours of receiving
+this notification.  After this time, the transaction will be returned to the sender.
+Remaining time until return:
+GET BITCOIN
+Built for you 🇫🇷
+Instant trading, and
+Advanced trading
+Buy your crypto as simply as one click. Or set advanced trading orders to never miss
+opportunities. The choice is yours.
+Your account
+in a
+minute
+Set up your Coinbase account quickly with our instant verification process.
+Earn even more with your
+crypto
+Earn rewards by simply holding USDC and earn up to 6% yield on some of our staking assets.
+Trade 200+ assets
+securely
+From Bitcoin to Ethereum to your favorite tokens.
+The more you trade the less you pay with Advanced Trade
+More order types
+Market, Limit, Stop Limit, and Auction Mode orders.
+Powerful
+trading tools
+Charts powered by TradingView with EMA, MA, MACD, RSI, and Bollinger Bands.
+One unified balance
+Seamlessly switch between Simple and Advanced Trade.
+GET BITCOIN
+© 2024 Coinbase

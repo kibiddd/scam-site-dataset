@@ -1,0 +1,68 @@
+Domain Name: lexic.us
+Registry Domain ID: D12048632-US
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2024-12-03T11:03:34Z
+Creation Date: 2007-03-02T05:12:55Z
+Registry Expiry Date: 2026-03-01T23:59:59Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: C40806670-US
+Registrant Name: Stephen Ryder
+Registrant Organization:
+Registrant Street: PO Box 950429
+Registrant Street:
+Registrant Street:
+Registrant City: Lake Mary
+Registrant State/Province: Florida
+Registrant Postal Code: 32795
+Registrant Country: US
+Registrant Phone: +1.3213480708
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: admin@puzzlebaron.com
+Registrant Application Purpose: P3
+Registrant Nexus Category: C11
+Registry Admin ID: C40806674-US
+Admin Name: Stephen Ryder
+Admin Organization:
+Admin Street: PO Box 950429
+Admin Street:
+Admin Street:
+Admin City: Lake Mary
+Admin State/Province: Florida
+Admin Postal Code: 32795
+Admin Country: US
+Admin Phone: +1.3213480708
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: admin@puzzlebaron.com
+Admin Application Purpose: P3
+Admin Nexus Category: C11
+Registry Tech ID: C40806672-US
+Tech Name: Stephen Ryder
+Tech Organization:
+Tech Street: PO Box 950429
+Tech Street:
+Tech Street:
+Tech City: Lake Mary
+Tech State/Province: Florida
+Tech Postal Code: 32795
+Tech Country: US
+Tech Phone: +1.3213480708
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: admin@puzzlebaron.com
+Tech Application Purpose: P3
+Tech Nexus Category: C11
+Name Server: dns1.registrar-servers.com
+Name Server: dns2.registrar-servers.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T21:35:33Z 

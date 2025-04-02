@@ -1,0 +1,22 @@
+   Domain Name: RAZERZONE.COM
+   Registry Domain ID: 5310420_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.101domain.com
+   Registrar URL: http://101domain.com
+   Updated Date: 2025-02-15T00:02:07Z
+   Creation Date: 1999-04-15T04:00:00Z
+   Registry Expiry Date: 2027-04-15T04:00:00Z
+   Registrar: 101domain GRS Limited
+   Registrar IANA ID: 1011
+   Registrar Abuse Contact Email: abuse@101domain.com
+   Registrar Abuse Contact Phone: +17604448674
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS0.RAZERZONE.COM
+   Name Server: NS1.RAZERZONE.COM
+   Name Server: NS2.RAZERZONE.COM
+   Name Server: NS3.RAZERZONE.COM
+   Name Server: NS4.RAZERZONE.COM
+   Name Server: NS5.RAZERZONE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:06:24Z 

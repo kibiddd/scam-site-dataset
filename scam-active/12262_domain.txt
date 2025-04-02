@@ -1,0 +1,17 @@
+   Domain Name: OCEANEXPROE.COM
+   Registry Domain ID: 2763587120_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.PublicDomainRegistry.com
+   Registrar URL: http://www.publicdomainregistry.com
+   Updated Date: 2025-03-04T14:49:36Z
+   Creation Date: 2023-03-08T15:31:41Z
+   Registry Expiry Date: 2026-03-08T15:31:41Z
+   Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+   Registrar IANA ID: 303
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ADELAIDE.NS.CLOUDFLARE.COM
+   Name Server: HAL.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:48:07Z 

@@ -1,0 +1,24 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+Domain Information: [ドメイン情報]
+a. [ドメイン名]                 TOYOTA.CO.JP
+e. [そしきめい]                 とよたじどうしゃ かぶしきがいしゃ
+f. [組織名]                     トヨタ自動車 株式会社
+g. [Organization]               TOYOTA MOTOR CORPORATION
+k. [組織種別]                   株式会社
+l. [Organization Type]          Corporation
+m. [登録担当者]                 TT274JP
+n. [技術連絡担当者]             TT274JP
+n. [技術連絡担当者]             DS8886JP
+p. [ネームサーバ]               majesta.tns.ne.jp
+p. [ネームサーバ]               ns1a.toyota.co.jp
+p. [ネームサーバ]               ns1b.toyota.co.jp
+p. [ネームサーバ]               royal.tns.ne.jp
+s. [署名鍵]                     
+[状態]                          Connected (2025/03/31)
+[登録年月日]                     
+[接続年月日]                     
+[最終更新]                      2024/04/01 01:02:14 (JST)
+

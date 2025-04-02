@@ -1,0 +1,21 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        TW1.RU
+nserver:       ns1.timeweb.ru.
+nserver:       ns2.timeweb.ru.
+nserver:       ns3.timeweb.org.
+nserver:       ns4.timeweb.org.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           JSC "TIMEWEB"
+taxpayer-id:   7810961206
+registrar:     TIMEWEB-RU
+admin-contact: http://timeweb.name/contact-admin
+created:       2006-06-29T20:00:00Z
+paid-till:     2025-06-29T21:00:00Z
+free-date:     2025-07-31
+source:        TCI
+
+Last updated on 2025-03-26T22:58:01Z
+

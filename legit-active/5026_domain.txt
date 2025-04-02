@@ -1,0 +1,19 @@
+   Domain Name: MYGENIESITE.COM
+   Registry Domain ID: 1101867440_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.ionos.com
+   Registrar URL: http://www.ionos.com
+   Updated Date: 2024-07-22T07:44:52Z
+   Creation Date: 2007-07-22T00:27:49Z
+   Registry Expiry Date: 2025-07-22T00:27:49Z
+   Registrar: IONOS SE
+   Registrar IANA ID: 83
+   Registrar Abuse Contact Email: abuse@ionos.com
+   Registrar Abuse Contact Phone: +1.6105601459
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1120.UI-DNS.BIZ
+   Name Server: NS1120.UI-DNS.COM
+   Name Server: NS1120.UI-DNS.DE
+   Name Server: NS1120.UI-DNS.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:13:19Z 

@@ -1,0 +1,11 @@
+Domain Name: kpi7.cn
+ROID: 20230816s10001s53713159-cn
+Domain Status: ok
+Registrant: 武汉极设星电商技术有限责任公司
+Registrant Contact Email: 2810323675@qq.com
+Sponsoring Registrar: 广州云讯信息科技有限公司
+Name Server: narrow.dnspod.net
+Name Server: helen.dnspod.net
+Registration Time: 2023-08-16 21:19:05
+Expiration Time: 2025-08-16 21:19:05
+DNSSEC: unsigned

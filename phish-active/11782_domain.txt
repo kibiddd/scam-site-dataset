@@ -1,0 +1,18 @@
+   Domain Name: ALLIEDELEC.COM
+   Registry Domain ID: 8148142_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.corporatedomains.com
+   Registrar URL: http://cscdbs.com
+   Updated Date: 2024-07-15T05:14:17Z
+   Creation Date: 1999-07-19T14:29:00Z
+   Registry Expiry Date: 2025-07-19T14:29:00Z
+   Registrar: CSC Corporate Domains, Inc.
+   Registrar IANA ID: 299
+   Registrar Abuse Contact Email: domainabuse@cscglobal.com
+   Registrar Abuse Contact Phone: 8887802723
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: AUTH00.DCAT.MASERGY.COM
+   Name Server: AUTH00.DFWB.MASERGY.COM
+   Name Server: NS.ALLIEDELEC.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:53:04Z 

@@ -1,0 +1,17 @@
+   Domain Name: CARTMARTSERVICE.COM
+   Registry Domain ID: 2504538423_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2025-03-10T00:00:07Z
+   Creation Date: 2020-03-17T21:41:28Z
+   Registry Expiry Date: 2026-03-17T21:41:28Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS1.INSTANTREPLY.COM
+   Name Server: DNS2.INSTANTREPLY.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:02:36Z 

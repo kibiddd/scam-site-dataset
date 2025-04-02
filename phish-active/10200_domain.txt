@@ -1,0 +1,20 @@
+Domain Name: GEOCITIES.WS
+Domain ID: D865CD2F877B835CE040010AAB015FFF
+WHOIS Server: whois.godaddy.com
+Registrar URL: www.godaddy.com
+Updated Date: 2024-08-11T11:08:29Z
+Creation Date: 2009-08-10T03:05:06Z
+Registrar Registration Expiration Date: 2025-08-10T03:05:06Z
+Registrar: GoDaddy.com
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: 4805058800
+Domain Status: clientTransferProhibited
+Domain Status: clientDeleteProhibited
+Domain Status: clientUpdateProhibited
+Domain Status: clientRenewProhibited
+Name Server: brianna.ns.cloudflare.com
+Name Server: jerry.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-03-27T13:51:55Z 

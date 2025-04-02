@@ -1,0 +1,30 @@
+% SaudiNIC Whois server.
+% Rights restricted by copyright.
+% http://nic.sa/en/view/whois-cmd-copyright
+
+Domain Name: almana.com.sa
+
+Registrant:
+شركة إبراهيم محمد المانع و إخوانه
+Address: *********************** ***************************
+***** *****
+Unknown
+
+Administrative Contact:
+Yousif ***** ***** ***** *****
+Address: ***** *****
+***** *****
+*****
+
+Technical Contact:
+Yousif ***** ***** ***** *****
+Address: ***** *****
+***** *****
+*****
+
+Name Servers:
+ns2.asphostserver.org
+ns215.asphostserver.org
+
+DNSSEC: No
+

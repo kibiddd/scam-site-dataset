@@ -1,0 +1,118 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        seventure.fr
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      SP66904-FRNIC
+admin-c:                       ANO00-FRNIC
+tech-c:                        SC104212-FRNIC
+tech-c:                        DD195-FRNIC
+registrar:                     SAFEBRANDS
+Expiry Date:                   2026-02-28T07:36:32Z
+created:                       2007-02-28T07:36:32Z
+last-update:                   2025-02-19T15:21:12.249474Z
+source:                        FRNIC
+
+nserver:                       ns1.safebrands.fr
+nserver:                       ns2.safebrands.eu
+nserver:                       ns3.safebrands.com
+nserver:                       ns4.safebrands.org
+nserver:                       ns5.safebrands.tech
+source:                        FRNIC
+
+registrar:                     SAFEBRANDS
+address:                       Pôle Média de la Belle de Mai
+address:                       13003 MARSEILLE CEDEX 03
+country:                       FR
+phone:                         +33.488662222
+fax-no:                        +33.488662200
+e-mail:                        fg@safebrands.com
+website:                       https://selling.safebrands.com/
+anonymous:                     No
+registered:                    1998-12-28T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       SC104212-FRNIC
+type:                          PERSON
+contact:                       Service Clientele
+address:                       MailClub
+address:                       13356 Marseille
+country:                       FR
+phone:                         +33.488662222
+e-mail:                        ripe@mailclub.fr
+registrar:                     SAFEBRANDS
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       SP66904-FRNIC
+type:                          ORGANIZATION
+contact:                       SEVENTURE PARTNERS
+address:                       SEVENTURE PARTNERS SEVENTURE PARTNERS
+address:                       5/7 RUE DE Monttessuy
+address:                       75007 PARIS
+country:                       FR
+phone:                         +33.158191316
+e-mail:                        olivier.mespoulet@seventure.fr
+registrar:                     SAFEBRANDS
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       ANO00-FRNIC
+type:                          PERSON
+contact:                       Ano Nymous
+registrar:                     SAFEBRANDS
+anonymous:                     YES
+remarks:                       -------------- WARNING --------------
+remarks:                       While the registrar knows him/her,
+remarks:                       this person chose to restrict access
+remarks:                       to his/her personal data. So PLEASE,
+remarks:                       don't send emails to Ano Nymous. This
+remarks:                       address is bogus and there is no hope
+remarks:                       of a reply.
+remarks:                       -------------- WARNING --------------
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       DD195-FRNIC
+type:                          ORGANIZATION
+contact:                       Service Technique
+address:                       MailClub
+address:                       Pole Media de la Belle de Mai
+address:                       37, rue Guibal
+address:                       13356 Marseille
+country:                       FR
+phone:                         +33.488662222
+e-mail:                        technique@mailclub.fr
+registrar:                     SAFEBRANDS
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-03-26T23:11:14.379883Z 

@@ -1,0 +1,102 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        couverturethomas.fr
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      ST21150-FRNIC
+admin-c:                       ST44212-FRNIC
+tech-c:                        OVH5-FRNIC
+registrar:                     OVH
+Expiry Date:                   2025-06-03T17:27:02Z
+created:                       2019-06-03T17:27:02Z
+last-update:                   2024-06-18T23:07:17.577308Z
+source:                        FRNIC
+
+nserver:                       dns103.ovh.net
+nserver:                       ns103.ovh.net
+source:                        FRNIC
+
+key1-tag:                      37814
+key1-algo:                     8 [RSASHA256]
+key1-dgst-t:                   2 [SHA256]
+key1-dgst:                     A6B2B92E4FDC138381FC7E32553C4C28504F1E76CBF23D5F943C5CF8821A66A3
+source:                        FRNIC
+
+registrar:                     OVH
+address:                       2 Rue Kellermann
+address:                       59100 ROUBAIX
+country:                       FR
+phone:                         +33.899701761
+fax-no:                        +33.320200958
+e-mail:                        support@ovh.net
+website:                       http://www.ovh.com
+anonymous:                     No
+registered:                    1999-10-18T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       OVH5-FRNIC
+type:                          ORGANIZATION
+contact:                       OVH NET
+address:                       OVH
+address:                       140, quai du Sartel
+address:                       59100 Roubaix
+country:                       FR
+phone:                         +33.899701761
+e-mail:                        tech@ovh.net
+registrar:                     OVH
+changed:                       2025-03-26T22:50:58.557686Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       ST21150-FRNIC
+type:                          ORGANIZATION
+contact:                       SARL THOMAS
+address:                       SARL THOMAS
+address:                       28 RUE DES ECOLES
+address:                       14350 SAINT MARTIN DES BESACES
+country:                       FR
+phone:                         +33.642209632
+e-mail:                        pascal.bg@free.fr
+registrar:                     OVH
+changed:                       2019-06-03T17:30:28Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       ST44212-FRNIC
+type:                          ORGANIZATION
+contact:                       SARL THOMAS
+address:                       SARL THOMAS
+address:                       28 RUE DES ECOLES
+address:                       14350 SAINT MARTIN DES BESACES
+country:                       FR
+phone:                         +33.642209632
+e-mail:                        qs2u1b4q5v2k4o8vwbxi@f.o-w-o.info
+registrar:                     OVH
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-03-26T23:12:01.395395Z 

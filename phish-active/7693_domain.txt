@@ -1,0 +1,25 @@
+Domain name: eerdseondernemers.nl
+Status:      active
+
+Registrar:
+   Registrar.eu
+   Hofplein 20
+   3032AC Rotterdam
+   Netherlands
+
+Abuse Contact:
+   +31.104482297
+   abuse@registrar.eu
+
+DNSSEC:      yes
+
+Domain nameservers:
+   ns1.openprovider.nl
+   ns2.openprovider.be
+   ns3.openprovider.eu
+
+Creation Date: 2018-11-27
+
+Updated Date: 2024-11-27
+
+Record maintained by: SIDN BV

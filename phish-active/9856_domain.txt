@@ -1,0 +1,44 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T10:50:24-03:00 - 2a09:bac5:a724:1973::289:11
+
+domain:      formativaprojetos.com.br
+owner:       Formativa Gest�o de Projetos Des. Org. LTDA
+ownerid:     18.806.074/0001-85
+responsible: Greiner Teixeira Marinho Costa
+country:     BR
+owner-c:     GTMCO10
+tech-c:      COPIN7
+nserver:     ns1130.hostgator.com.br
+nsstat:      20250326 UDN
+nslastaa:    20250106
+nserver:     ns1131.hostgator.com.br
+nsstat:      20250326 UDN
+nslastaa:    20250106
+saci:        yes
+created:     20230531 #26260741
+changed:     20230726
+expires:     20250531
+status:      published
+
+nic-hdl-br:  GTMCO10
+person:      Greiner Teixeira Marinho Costa
+e-mail:      greiner.tmc@gmail.com
+country:     BR
+created:     20230531
+changed:     20230724
+
+nic-hdl-br:  COPIN7
+person:      Coser e Pinheiro
+e-mail:      contato@coserepinheiro.com.br
+country:     BR
+created:     20110121
+changed:     20230928
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

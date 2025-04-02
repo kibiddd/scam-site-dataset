@@ -1,0 +1,17 @@
+   Domain Name: CONTINUEHOTELANDRESORTS.COM
+   Registry Domain ID: 2573882317_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: Whois.bigrock.com
+   Registrar URL: http://www.bigrock.com
+   Updated Date: 2024-10-24T14:51:26Z
+   Creation Date: 2020-11-22T13:46:38Z
+   Registry Expiry Date: 2025-11-22T13:46:38Z
+   Registrar: BigRock Solutions Ltd
+   Registrar IANA ID: 1495
+   Registrar Abuse Contact Email: abuse@bigrock.com
+   Registrar Abuse Contact Phone: +1.832-295-1535
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DNS-PARKING.COM
+   Name Server: NS2.DNS-PARKING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:12:07Z 

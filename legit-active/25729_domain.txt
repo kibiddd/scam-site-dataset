@@ -1,0 +1,21 @@
+   Domain Name: WHATCULTURE.COM
+   Registry Domain ID: 1663129064_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.lexsynergy.com
+   Registrar URL: http://www.lexsynergy.com
+   Updated Date: 2024-07-30T13:06:48Z
+   Creation Date: 2011-06-22T15:19:14Z
+   Registry Expiry Date: 2025-06-22T15:19:14Z
+   Registrar: Lexsynergy Limited
+   Registrar IANA ID: 1466
+   Registrar Abuse Contact Email: abuse@lexsynergy.com
+   Registrar Abuse Contact Phone: +442031370459
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1129.AWSDNS-13.ORG
+   Name Server: NS-2019.AWSDNS-60.CO.UK
+   Name Server: NS-447.AWSDNS-55.COM
+   Name Server: NS-996.AWSDNS-60.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T00:02:35Z 

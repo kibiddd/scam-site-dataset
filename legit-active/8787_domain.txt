@@ -1,0 +1,18 @@
+   Domain Name: GHOSTTOWNS.COM
+   Registry Domain ID: 1342388_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domainpeople.com
+   Registrar URL: http://www.domainpeople.com
+   Updated Date: 2019-12-06T17:45:32Z
+   Creation Date: 1998-03-06T05:00:00Z
+   Registry Expiry Date: 2029-03-05T05:00:00Z
+   Registrar: DomainPeople, Inc.
+   Registrar IANA ID: 65
+   Registrar Abuse Contact Email: abuse@domainpeople.com
+   Registrar Abuse Contact Phone: +1.8664678929
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: GECKO.EZOICNS.COM
+   Name Server: KOALA.EZOICNS.COM
+   Name Server: MACAW.EZOICNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:10:11Z 

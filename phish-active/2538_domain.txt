@@ -1,0 +1,23 @@
+Domain Name: araelectrical.com.au
+Registry Domain ID: 731d6f7e6e004208b7aaf6de71ae0e26-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.crazydomains.com.au/contact/
+Last Modified: 2025-01-05T02:58:19Z
+Registrar Name: Web Address Registration Pty Ltd
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 4c6c7ca57e37440dab0b82a43dbb0f2c-AU
+Registrant Contact Name: Marcus Green
+Tech Contact ID: 41c75b8e97d34edd876d0408e6e41b7e-AU
+Tech Contact Name: Marcus Green
+Name Server: ns1.vodien.com
+Name Server: ns2.vodien.com
+DNSSEC: unsigned
+Registrant: Nick Aravanis on behalf of THE N ARAVANIS FAMILY TRUST
+Eligibility Type: Sole Trader
+Eligibility Name: The Trustee for THE N ARAVANIS FAMILY TRUST
+Eligibility ID: ABN 97008024914
+>>> Last update of WHOIS database: 2025-03-26T20:18:24Z 

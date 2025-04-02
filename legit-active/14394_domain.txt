@@ -1,0 +1,19 @@
+   Domain Name: WORDNIK.COM
+   Registry Domain ID: 1387306983_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.name.com
+   Registrar URL: http://www.name.com
+   Updated Date: 2016-10-12T12:16:22Z
+   Creation Date: 2008-01-25T05:23:49Z
+   Registry Expiry Date: 2026-01-25T05:23:49Z
+   Registrar: Name.com, Inc.
+   Registrar IANA ID: 625
+   Registrar Abuse Contact Email: abuse@name.com
+   Registrar Abuse Contact Phone: 7202492374
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1216.AWSDNS-24.ORG
+   Name Server: NS-1960.AWSDNS-53.CO.UK
+   Name Server: NS-288.AWSDNS-36.COM
+   Name Server: NS-612.AWSDNS-12.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:58:51Z 

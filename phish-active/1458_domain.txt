@@ -1,0 +1,26 @@
+DOMAIN NAME:                    cba.pl
+registrant type:                organization
+nameservers:                    ns1.cba.pl. [95.211.144.65]
+                                ns2.cba.pl. [37.48.70.196]
+                                ns3.cba.pl. [95.211.144.67]
+created:                        2005.01.14 14:36:58
+last modified:                  2024.12.20 18:27:12
+renewal date:                   2026.03.15 14:36:58
+
+option created:                 2022.07.30 16:52:10
+option expiration date:         2025.07.30 16:52:10
+
+dnssec:                         Unsigned
+
+REGISTRAR:
+Abc Hosting Ltd.
+#7B Neal Pen Road
+Belize City
+Belize/Belize
+https://www.cba.pl/pl
+domeny@cba.pl
+
+WHOIS database responses:       https://dns.pl/en/whois
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system
+

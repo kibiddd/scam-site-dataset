@@ -1,0 +1,19 @@
+   Domain Name: SSLBLINDADO.COM
+   Registry Domain ID: 1334531362_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-10-28T19:34:24Z
+   Creation Date: 2007-11-16T16:38:57Z
+   Registry Expiry Date: 2025-11-16T16:38:57Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.HOST.UOL.COM.BR
+   Name Server: NS2.HOST.UOL.COM.BR
+   Name Server: NS3.HOST.UOL.COM.BR
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:15:07Z 

@@ -1,0 +1,22 @@
+   Domain Name: ARCHITECTUREASSOCIATESINC.COM
+   Registry Domain ID: 120650083_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.registrar.amazon.com
+   Registrar URL: http://registrar.amazon.com
+   Updated Date: 2024-04-16T22:17:09Z
+   Creation Date: 2004-05-20T21:03:00Z
+   Registry Expiry Date: 2025-05-20T21:03:00Z
+   Registrar: Amazon Registrar, Inc.
+   Registrar IANA ID: 468
+   Registrar Abuse Contact Email: trustandsafety@support.aws.com
+   Registrar Abuse Contact Phone: +1.2024422253
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1222.AWSDNS-24.ORG
+   Name Server: NS-1712.AWSDNS-22.CO.UK
+   Name Server: NS-178.AWSDNS-22.COM
+   Name Server: NS-867.AWSDNS-44.NET
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 13253 13 2 99F71E7D0BE5F55C485534EB017971150FC638EDC35A373EE2BAB97B6A201E89
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:57:36Z 

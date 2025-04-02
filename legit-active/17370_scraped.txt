@@ -1,0 +1,4 @@
+Shopping
+Javascript is disabled on your browser.
+To view this site, you must enable JavaScript or upgrade to a JavaScript-capable browser.
+...

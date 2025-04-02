@@ -1,0 +1,17 @@
+   Domain Name: ZHANGXINHE.COM
+   Registry Domain ID: 2788488024_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.paycenter.com.cn
+   Registrar URL: http://www.xinnet.com
+   Updated Date: 2023-11-29T08:52:32Z
+   Creation Date: 2023-06-09T06:28:19Z
+   Registry Expiry Date: 2025-06-09T06:28:19Z
+   Registrar: Xin Net Technology Corporation
+   Registrar IANA ID: 120
+   Registrar Abuse Contact Email: supervision@xinnet.com
+   Registrar Abuse Contact Phone: +86.4008182233
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NORM.NS.CLOUDFLARE.COM
+   Name Server: TORI.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:25:41Z 

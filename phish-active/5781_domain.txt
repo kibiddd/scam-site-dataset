@@ -1,0 +1,18 @@
+   Domain Name: COACHINGCOMUNICACION.COM
+   Registry Domain ID: 1538136318_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domain.com
+   Registrar URL: http://www.domain.com
+   Updated Date: 2024-12-20T11:03:52Z
+   Creation Date: 2009-01-19T16:56:51Z
+   Registry Expiry Date: 2026-01-19T16:56:51Z
+   Registrar: Domain.com, LLC
+   Registrar IANA ID: 886
+   Registrar Abuse Contact Email: compliance@domain-inc.net
+   Registrar Abuse Contact Phone: 602-226-2389
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: DNS88163.PHDNS16.ES
+   Name Server: NS88163.PHDNS16.ES
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:09:36Z 

@@ -1,0 +1,69 @@
+Domain Name: enap.ca
+Registry Domain ID: D52507-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webdomaine.ca
+Updated Date: 2019-10-15T18:47:08Z
+Creation Date: 2000-12-19T22:09:24Z
+Registry Expiry Date: 2028-12-19T05:00:00Z
+Registrar: A.R.C. Informatique Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: mona@arcinfo.qc.ca
+Registrar Abuse Contact Phone: +1.4185459224
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R48189-CIRA
+Registrant Name: Ecole nationale d'administration publique
+Registrant Organization: Ecole nationale d'administration publique
+Registrant Street: 555, boulevard Charest Est
+Registrant City: Québec
+Registrant State/Province: QC
+Registrant Postal Code: G1K9E5
+Registrant Country: CA
+Registrant Phone: +1.4186413000
+Registrant Phone Ext:
+Registrant Fax: +1.4186413060
+Registrant Fax Ext:
+Registrant Email: Patrick.Fortin@enap.ca
+Registry Admin ID: C936245-CIRA
+Admin Name: M. Patrick Fortin
+Admin Organization: Ecole nationale d'administration publique
+Admin Street: 555, boulevard Charest Est
+Admin City: Québec
+Admin State/Province: QC
+Admin Postal Code: G1K9E5
+Admin Country: CA
+Admin Phone: +1.4186413000
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Patrick.Fortin@enap.ca
+Registry Tech ID: C936245-CIRA
+Tech Name: M. Patrick Fortin
+Tech Organization: Ecole nationale d'administration publique
+Tech Street: 555, boulevard Charest Est
+Tech City: Québec
+Tech State/Province: QC
+Tech Postal Code: G1K9E5
+Tech Country: CA
+Tech Phone: +1.4186413000
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Patrick.Fortin@enap.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: amnesix.uqss.uquebec.ca
+Name Server: asterix.uqss.uquebec.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T23:57:37Z 

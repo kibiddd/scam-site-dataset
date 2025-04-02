@@ -1,0 +1,71 @@
+Domain Name: allentownship.us
+Registry Domain ID: D2368826-US
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: whois.godaddy.com
+Updated Date: 2024-05-20T12:03:11Z
+Creation Date: 2002-05-15T13:22:43Z
+Registry Expiry Date: 2025-05-14T23:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: C24646452-US
+Registrant Name: Jennifer Witt
+Registrant Organization: Allen Township
+Registrant Street: PO Box 440
+Registrant Street:
+Registrant Street:
+Registrant City: Williston
+Registrant State/Province: OH
+Registrant Postal Code: 43468
+Registrant Country: us
+Registrant Phone: +1.4298364204
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: jwitt@amplex.net
+Registrant Application Purpose: P5
+Registrant Nexus Category: C11
+Registry Admin ID: C24646454-US
+Admin Name: Jennifer Witt
+Admin Organization: Allen Township
+Admin Street: PO Box 440
+Admin Street:
+Admin Street:
+Admin City: Williston
+Admin State/Province: OH
+Admin Postal Code: 43468
+Admin Country: us
+Admin Phone: +1.4298364204
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: jwitt@amplex.net
+Admin Application Purpose: P5
+Admin Nexus Category: C11
+Registry Tech ID: C24646453-US
+Tech Name: Jennifer Witt
+Tech Organization: Allen Township
+Tech Street: PO Box 440
+Tech Street:
+Tech Street:
+Tech City: Williston
+Tech State/Province: OH
+Tech Postal Code: 43468
+Tech Country: us
+Tech Phone: +1.4298364204
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: jwitt@amplex.net
+Tech Application Purpose: P5
+Tech Nexus Category: C11
+Name Server: ns14.wixdns.net
+Name Server: ns15.wixdns.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T18:38:26Z 

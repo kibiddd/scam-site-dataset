@@ -1,0 +1,2 @@
+Domain: digitale-agenda30.de
+Status: connect

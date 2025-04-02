@@ -1,0 +1,19 @@
+   Domain Name: OLYMPTRADE.COM
+   Registry Domain ID: 1854647876_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.eurodns.com
+   Registrar URL: http://www.EuroDNS.com
+   Updated Date: 2025-03-07T06:57:34Z
+   Creation Date: 2014-04-14T13:30:13Z
+   Registry Expiry Date: 2026-04-14T13:30:13Z
+   Registrar: EuroDNS S.A.
+   Registrar IANA ID: 1052
+   Registrar Abuse Contact Email: legalservices@eurodns.com
+   Registrar Abuse Contact Phone: +352.27220150
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1291.AWSDNS-33.ORG
+   Name Server: NS-160.AWSDNS-20.COM
+   Name Server: NS-1756.AWSDNS-27.CO.UK
+   Name Server: NS-892.AWSDNS-47.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:48:07Z 

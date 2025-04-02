@@ -1,0 +1,11 @@
+Domain Name: coinbase-wallet.org.cn
+ROID: 20220613s10051s02008157-cn
+Domain Status: clientTransferProhibited
+Registrant: 上海锦玉汇科技有限公司
+Registrant Contact Email: 17721024413@163.com
+Sponsoring Registrar: 上海福虎信息科技有限公司
+Name Server: ns1.judns.com
+Name Server: ns2.judns.com
+Registration Time: 2022-06-13 18:25:09
+Expiration Time: 2027-06-13 18:25:09
+DNSSEC: unsigned

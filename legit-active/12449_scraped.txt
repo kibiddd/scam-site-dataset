@@ -1,0 +1,1 @@
+Impossibile aprire una connessione Mysql :Access denied for user 'ottihote_user'@'localhost' (using password: YES)

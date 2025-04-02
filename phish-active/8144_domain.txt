@@ -1,0 +1,100 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        espace-client.fr
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      AWC7-FRNIC
+admin-c:                       ACAW33-FRNIC
+tech-c:                        PW339-FRNIC
+registrar:                     PLANET-WORK
+Expiry Date:                   2026-03-22T04:01:56Z
+created:                       2004-12-08T07:24:59Z
+last-update:                   2025-03-24T09:27:31.7941Z
+source:                        FRNIC
+
+nserver:                       ns1.planet-work.com
+nserver:                       ns2.planet-work.com
+nserver:                       ns3.planet-work.com
+source:                        FRNIC
+
+registrar:                     PLANET-WORK
+address:                       231 Rue Saint-Honoré
+address:                       75001 PARIS
+country:                       FR
+phone:                         +33.141797860
+fax-no:                        +33.141797861
+e-mail:                        domains@planet-work.com
+website:                       http://www.planet-work.fr
+anonymous:                     No
+registered:                    2004-08-02T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       AWC7-FRNIC
+type:                          ORGANIZATION
+contact:                       AGENCE WEB CONSEIL
+address:                       25, Hameau de Grandchamp
+address:                       95350 Saint Brice sous ForêT
+country:                       FR
+phone:                         +33.134297842
+fax-no:                        +33.134297842
+e-mail:                        domains@planet-work.com
+registrar:                     PLANET-WORK
+changed:                       2015-01-27T10:40:28Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRAR
+eligdate:                      2015-01-27T00:00:00Z
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       ACAW33-FRNIC
+type:                          PERSON
+contact:                       admin-c AGENCE WEB CONSEIL
+address:                       25, Hameau de Grandchamp
+address:                       95350 Saint-Brice-sous-Forêt
+country:                       FR
+phone:                         +33.134297842
+fax-no:                        +33.134297842
+e-mail:                        bcarlier@agence-web-conseil.com
+registrar:                     PLANET-WORK
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       PW339-FRNIC
+type:                          ORGANIZATION
+contact:                       PLANET-WORK
+address:                       Planet-Work
+address:                       231, rue Saint-Honore
+address:                       75001 Paris
+country:                       FR
+phone:                         +33.891024424
+fax-no:                        +33.141797861
+e-mail:                        domains@planet-work.com
+registrar:                     PLANET-WORK
+changed:                       2025-03-25T07:35:01.395298Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-03-27T11:16:04.207014Z 

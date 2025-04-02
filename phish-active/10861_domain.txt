@@ -1,0 +1,19 @@
+   Domain Name: GUMUSREKLAM.COM
+   Registry Domain ID: 427968688_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.PublicDomainRegistry.com
+   Registrar URL: http://www.publicdomainregistry.com
+   Updated Date: 2024-04-29T13:52:22Z
+   Creation Date: 2006-04-27T10:38:56Z
+   Registry Expiry Date: 2025-04-27T10:38:56Z
+   Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+   Registrar IANA ID: 303
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS11.EKONOMIKHOST.NET
+   Name Server: NS12.EKONOMIKHOST.NET
+   Name Server: NS7.EKONOMIKHOST.NET
+   Name Server: NS8.EKONOMIKHOST.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:57:31Z 

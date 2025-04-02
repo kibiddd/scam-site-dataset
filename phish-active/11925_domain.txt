@@ -1,0 +1,25 @@
+Domain Name: FINANCE.BLOG
+Registry Domain ID: D120017926-CNIC
+Registrar WHOIS Server: whois.centralnic.com
+Registrar URL: https://my.blog
+Updated Date: 2024-10-04T00:01:11.0Z
+Creation Date: 2016-10-10T15:41:08.0Z
+Registry Expiry Date: 2025-10-10T23:59:59.0Z
+Registrar: Knock Knock WHOIS There, LLC
+Registrar IANA ID: 9999
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: Knock Knock WHOIS There, LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS3.AUTOMATTIC.COM
+Name Server: NS1.AUTOMATTIC.COM
+Name Server: NS2.AUTOMATTIC.COM
+Name Server: NS4.AUTOMATTIC.COM
+DNSSEC: unsigned
+Registrar Abuse Contact Email: admin@my.blog
+Registrar Abuse Contact Phone: +1.8772733049
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T14:53:47.0Z 

@@ -1,0 +1,19 @@
+   Domain Name: EUROGAMER.NET
+   Registry Domain ID: 6202664_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.corporatedomains.com
+   Registrar URL: http://cscdbs.com
+   Updated Date: 2020-11-19T14:32:04Z
+   Creation Date: 1999-05-03T13:38:14Z
+   Registry Expiry Date: 2029-04-06T17:29:00Z
+   Registrar: CSC Corporate Domains, Inc.
+   Registrar IANA ID: 299
+   Registrar Abuse Contact Email: domainabuse@cscglobal.com
+   Registrar Abuse Contact Phone: 8887802723
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS0.GAMER-NETWORK.UK
+   Name Server: NS0.GN-DNS.COM
+   Name Server: NS0.GN-DNS.ORG
+   Name Server: NS1.GN-DNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T15:59:56Z 

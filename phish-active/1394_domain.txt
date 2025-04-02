@@ -1,0 +1,17 @@
+   Domain Name: ABBROYALGOLD.COM
+   Registry Domain ID: 1984432381_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.webnames.ca
+   Registrar URL: http://www.webnames.ca
+   Updated Date: 2025-03-04T16:01:31Z
+   Creation Date: 2015-11-28T17:25:22Z
+   Registry Expiry Date: 2025-11-28T17:25:22Z
+   Registrar: Webnames.ca Inc.
+   Registrar IANA ID: 456
+   Registrar Abuse Contact Email: abuse@webnames.ca
+   Registrar Abuse Contact Phone: 18662217878
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS3.HOSTERFY.COM
+   Name Server: NS4.HOSTERFY.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:42:07Z 

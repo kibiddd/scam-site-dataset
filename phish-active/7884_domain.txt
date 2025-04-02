@@ -1,0 +1,24 @@
+Domain Name: emmaspencer.com.au
+Registry Domain ID: 6f33a6d28d3b48b7a8445286395b56d1-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.crazydomains.com.au/contact/
+Last Modified: 2022-09-17T04:59:07Z
+Registrar Name: Web Address Registration Pty Ltd
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 7839fc6a83b04f36b538c0f4e52b0a91-AU
+Registrant Contact Name: Emma Spencer
+Tech Contact ID: 7839fc6a83b04f36b538c0f4e52b0a91-AU
+Tech Contact Name: Emma Spencer
+Name Server: ns1.webcity.com.au
+Name Server IP: 203.17.36.33
+Name Server: ns2.webcity.com.au
+Name Server IP: 203.17.36.4
+DNSSEC: unsigned
+Registrant: Opposable Thumbs
+Registrant ID: ABN 92551994966
+Eligibility Type: Company
+>>> Last update of WHOIS database: 2025-03-27T11:14:31Z 

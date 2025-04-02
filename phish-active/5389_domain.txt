@@ -1,0 +1,18 @@
+   Domain Name: DREAMHOSTERS.COM
+   Registry Domain ID: 134276233_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.dreamhost.com
+   Registrar URL: http://www.DreamHost.com
+   Updated Date: 2024-10-03T07:46:29Z
+   Creation Date: 2004-11-03T19:23:26Z
+   Registry Expiry Date: 2025-11-03T19:23:26Z
+   Registrar: DreamHost, LLC
+   Registrar IANA ID: 431
+   Registrar Abuse Contact Email: domain-abuse@dreamhost.com
+   Registrar Abuse Contact Phone: +1.7148729370
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DREAMHOST.COM
+   Name Server: NS2.DREAMHOST.COM
+   Name Server: NS3.DREAMHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:04:51Z 

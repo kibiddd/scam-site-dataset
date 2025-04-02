@@ -1,0 +1,27 @@
+Domain Name: org.fj
+Registrar URL: RegistrarURL
+Updated Date: 2022-02-17T21:23:38.902Z
+Creation Date: 2021-01-20T04:27:24.543Z
+Registry Expiry Date: 2030-12-31T00:00:00.0Z
+Registrar Registration Expiration Date: 2030-12-31T00:00:00.0Z
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverRenewProhibited https://icann.org/epp#serverRenewProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: inactive https://icann.org/epp#inactive
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverHold https://icann.org/epp#serverHold
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Redacted | Registry Policy
+Registrant Name: The University of the South Pacific
+Registrant Organization: The University of the South Pacific
+Registrant Street: Suva
+Registrant City: Suva
+Registrant Country: FJ
+Registrant Phone: +679.3232117
+Registrant Email: systems.manager@usp.ac.fj
+Registrar: USP Reserved
+Registrar Admin Email: sysadmin@usp.ac.fj
+>>> Last update of WHOIS database: 2025-03-27T00:18:30.750Z 

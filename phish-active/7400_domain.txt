@@ -1,0 +1,21 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        EASYPLAY.SU
+descr:         easyplay.su project
+nserver:       ns1.spaceweb.ru.
+nserver:       ns2.spaceweb.ru.
+nserver:       ns3.spaceweb.pro.
+nserver:       ns4.spaceweb.pro.
+state:         REGISTERED, DELEGATED
+person:        Private Person
+e-mail:        easyplaysu@yandex.ru
+registrar:     REGTIME-SU
+created:       2021-04-03T13:15:06Z
+paid-till:     2026-04-03T13:15:06Z
+free-date:     2026-05-06
+source:        TCI
+
+Last updated on 2025-03-27T11:08:01Z
+

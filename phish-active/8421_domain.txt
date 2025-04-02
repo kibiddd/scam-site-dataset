@@ -1,0 +1,21 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        BLOGSPOT.RU
+nserver:       ns1.google.com.
+nserver:       ns2.google.com.
+nserver:       ns3.google.com.
+nserver:       ns4.google.com.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           Google LLC
+taxpayer-id:   -
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2005-08-29T20:00:00Z
+paid-till:     2025-08-29T21:00:00Z
+free-date:     2025-09-30
+source:        TCI
+
+Last updated on 2025-03-27T11:13:01Z
+

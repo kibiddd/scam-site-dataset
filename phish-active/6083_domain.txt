@@ -1,0 +1,31 @@
+Domain Name: countysplash.co.ke
+Registry Domain ID: 1630838-KENIC
+Registrar URL: 
+Updated Date: 2024-04-26T09:01:38Z
+Creation Date: 2024-03-27T06:43:29Z
+Registry Expiry Date: 2025-03-27T06:43:29Z
+Registrar Registration Expiration Date: 2025-03-27T06:43:29Z
+Domain Status: active https://icann.org/epp#active
+Registrar: Truehost Cloud Limited
+Registrar IANA ID: P051332644V
+Registrar Address: Ryanada Place, Thika Superhighway, Highpoint, Juja.
+P.O. Box 14460 - 00400
+Nairobi.
+Registrar Country: KE
+Registrar Abuse Contact Email: info@truehost.cloud
+Registrar Abuse Contact Phone: 
+Registry Registrant ID: 1630836-KENIC
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: 
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: REDACTED FOR PRIVACY
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: KE
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Email: REDACTED FOR PRIVACY
+Name Server: ns3.cloudoon.org
+Name Server: ns2.cloudoon.net
+Name Server: ns1.cloudoon.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2025-03-26T23:12:05.698Z 

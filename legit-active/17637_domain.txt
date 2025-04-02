@@ -1,0 +1,17 @@
+   Domain Name: FERMELECREPUSCULE.COM
+   Registry Domain ID: 87066852_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.1api.net
+   Registrar URL: http://www.1api.net
+   Updated Date: 2024-01-15T13:46:14Z
+   Creation Date: 2002-05-29T21:25:35Z
+   Registry Expiry Date: 2027-05-29T21:25:35Z
+   Registrar: 1API GmbH
+   Registrar IANA ID: 1387
+   Registrar Abuse Contact Email: abuse@1api.net
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS3.PANELBOXMANAGER.COM
+   Name Server: NS4.PANELBOXMANAGER.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:39:36Z 

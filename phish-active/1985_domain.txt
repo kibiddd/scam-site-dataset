@@ -1,0 +1,22 @@
+Domain Name: alliancelink.com.au
+Registry Domain ID: dfa0ed06be2241b493987a33aed37e86-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.crazydomains.com.au/contact/
+Last Modified: 2023-12-13T18:51:44Z
+Registrar Name: Web Address Registration Pty Ltd
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: e59bfc90616e476da70f3c2600cde3b6-AU
+Registrant Contact Name: Ian Bode
+Tech Contact ID: bb07e27d5c23488e9f32b8a8ec4b349b-AU
+Tech Contact Name: Ian Bode
+Name Server: ns1.dnspackage.com
+Name Server: ns2.dnspackage.com
+DNSSEC: unsigned
+Registrant: ALLIANCE LINK PTY LTD
+Registrant ID: ABN 26161471325
+Eligibility Type: Company
+>>> Last update of WHOIS database: 2025-03-26T17:45:10Z 

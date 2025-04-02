@@ -1,0 +1,22 @@
+   Domain Name: SLASHFILM.COM
+   Registry Domain ID: 189526601_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.godaddy.com
+   Registrar URL: http://www.godaddy.com
+   Updated Date: 2024-12-09T16:01:48Z
+   Creation Date: 2005-07-26T14:30:24Z
+   Registry Expiry Date: 2026-07-26T14:30:24Z
+   Registrar: GoDaddy.com, LLC
+   Registrar IANA ID: 146
+   Registrar Abuse Contact Email: abuse@godaddy.com
+   Registrar Abuse Contact Phone: 480-624-2505
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1136.AWSDNS-14.ORG
+   Name Server: NS-1552.AWSDNS-02.CO.UK
+   Name Server: NS-191.AWSDNS-23.COM
+   Name Server: NS-780.AWSDNS-33.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:09:39Z 

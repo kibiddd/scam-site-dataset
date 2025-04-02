@@ -1,0 +1,71 @@
+Domain Name: richmondhill.ca
+Registry Domain ID: D122951-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.easydns.ca
+Updated Date: 2024-05-07T13:25:44Z
+Creation Date: 2002-05-24T18:36:46Z
+Registry Expiry Date: 2025-05-22T04:00:00Z
+Registrar: easyDNS Technologies Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@easydns.com
+Registrar Abuse Contact Phone: +1.4165358672
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 4170178-CIRA
+Registrant Name: Corporation of the Town of Richmond Hill
+Registrant Organization:
+Registrant Street: 225 East Beaver Creek Road
+Registrant City: Richmond Hill
+Registrant State/Province: ON
+Registrant Postal Code: L4C4Y5
+Registrant Country: CA
+Registrant Phone: +1.9057715731
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: tinfrastructure@richmondhill.ca
+Registry Admin ID: 4170179-CIRA
+Admin Name: Jimmy Chao
+Admin Organization: Corporation of the Town of Richmond Hill
+Admin Street: 225 East Beaver Creek Road
+Admin City: Richmond Hill
+Admin State/Province: ON
+Admin Postal Code: L4C4Y5
+Admin Country: CA
+Admin Phone: +1.9057713638
+Admin Phone Ext:
+Admin Fax: +1.9057712494
+Admin Fax Ext:
+Admin Email: jchao@richmondhill.ca
+Registry Tech ID: 4170180-CIRA
+Tech Name: Isaac Lee
+Tech Organization: Corporation of the Town of Richmond Hill
+Tech Street: 225 East Beaver Creek Road
+Tech City: Richmond Hill
+Tech State/Province: ON
+Tech Postal Code: L4C4Y5
+Tech Country: CA
+Tech Phone: +1.9057712533
+Tech Phone Ext:
+Tech Fax: +1.9057712494
+Tech Fax Ext:
+Tech Email: ilee@richmondhill.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns-1316.awsdns-36.org
+Name Server: ns-1771.awsdns-29.co.uk
+Name Server: ns-389.awsdns-48.com
+Name Server: ns-653.awsdns-17.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T16:08:13Z 

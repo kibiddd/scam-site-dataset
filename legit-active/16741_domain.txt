@@ -1,0 +1,19 @@
+   Domain Name: SATINPLAY.COM
+   Registry Domain ID: 1508245474_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2023-07-06T19:38:59Z
+   Creation Date: 2008-07-14T17:22:26Z
+   Registry Expiry Date: 2025-07-14T17:22:26Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.DOMAINDIRECT.COM
+   Name Server: NS2.DOMAINDIRECT.COM
+   Name Server: NS3.DOMAINDIRECT.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:35:35Z 

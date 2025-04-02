@@ -1,0 +1,17 @@
+   Domain Name: HAIDATIAN.COM
+   Registry Domain ID: 2875359412_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: WWW.GNAME.COM/WHOIS
+   Registrar URL: http://WWW.GNAME.COM
+   Updated Date: 2024-04-24T23:36:52Z
+   Creation Date: 2024-04-24T18:18:12Z
+   Registry Expiry Date: 2025-04-24T18:18:12Z
+   Registrar: Gname 028 Inc
+   Registrar IANA ID: 3997
+   Registrar Abuse Contact Email: fwicann@gname.com
+   Registrar Abuse Contact Phone: +6531581391
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: A.SHARE-DNS.COM
+   Name Server: B.SHARE-DNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:46:22Z 

@@ -1,0 +1,19 @@
+   Domain Name: GLENDALE-REAL-ESTATE-AGENT.COM
+   Registry Domain ID: 2828636887_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.beget.com
+   Registrar URL: http://beget.com
+   Updated Date: 2024-09-12T07:35:50Z
+   Creation Date: 2023-11-10T12:58:06Z
+   Registry Expiry Date: 2025-11-10T12:58:06Z
+   Registrar: Beget LLC
+   Registrar IANA ID: 3806
+   Registrar Abuse Contact Email: abuse@beget.com
+   Registrar Abuse Contact Phone: +7-812-4494053
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.FORNEX.COM
+   Name Server: NS2.FORNEX.COM
+   Name Server: NS3.FORNEX.COM
+   Name Server: NS4.FORNEX.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T17:00:53Z 

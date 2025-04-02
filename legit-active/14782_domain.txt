@@ -1,0 +1,69 @@
+Domain Name: ndp.ca
+Registry Domain ID: D18523-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: webnames.ca
+Updated Date: 2025-01-23T16:01:45Z
+Creation Date: 2000-10-31T23:57:41Z
+Registry Expiry Date: 2025-09-27T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email: abuse@webnames.ca
+Registrar Abuse Contact Phone: +1.8662217878
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R23606-CIRA
+Registrant Name: James Williamson
+Registrant Organization: New Democratic Party of Canada
+Registrant Street: 300-279 Laurier Ave W
+Registrant City: Ottawa
+Registrant State/Province: ON
+Registrant Postal Code: K1P5J9
+Registrant Country: CA
+Registrant Phone: +1.6132363613
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: it@ndp.ca
+Registry Admin ID: C887707-CIRA
+Admin Name: James Williamson
+Admin Organization: New Democratic Party of Canada
+Admin Street: 300-279 Laurier Ave W
+Admin City: Ottawa
+Admin State/Province: ON
+Admin Postal Code: K1P5J9
+Admin Country: CA
+Admin Phone: +1.6132363613
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: it@ndp.ca
+Registry Tech ID: 55168148-CIRA
+Tech Name: James Williamson
+Tech Organization: New Democratic Party of Canada
+Tech Street: 300-279 Laurier Ave W
+Tech City: Ottawa
+Tech State/Province: ON
+Tech Postal Code: K1P5J9
+Tech Country: CA
+Tech Phone: +1.6132363613
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: it@ndp.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: dahlia.ns.cloudflare.com
+Name Server: ned.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T17:00:29Z 

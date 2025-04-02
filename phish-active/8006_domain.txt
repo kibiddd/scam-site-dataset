@@ -1,0 +1,19 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        EPICTECH.RU
+nserver:       ns3.nic.ru.
+nserver:       ns4.nic.ru.
+nserver:       ns8.nic.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+person:        Private Person
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2023-06-20T14:05:20Z
+paid-till:     2025-06-20T14:05:20Z
+free-date:     2025-07-21
+source:        TCI
+
+Last updated on 2025-03-27T11:13:01Z
+

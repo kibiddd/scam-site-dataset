@@ -1,0 +1,17 @@
+   Domain Name: BRUCEHAYES.COM
+   Registry Domain ID: 17303957_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enomdomains.com
+   Updated Date: 2024-12-14T07:33:06Z
+   Creation Date: 2000-01-12T03:48:42Z
+   Registry Expiry Date: 2026-01-12T03:48:42Z
+   Registrar: eNom, LLC
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.HEADWATERSHOSTING.COM
+   Name Server: NS2.HEADWATERSHOSTING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:09:54Z 

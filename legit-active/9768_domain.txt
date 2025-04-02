@@ -1,0 +1,18 @@
+   Domain Name: PATRICIADELL.COM
+   Registry Domain ID: 811143479_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domain.com
+   Registrar URL: http://www.domain.com
+   Updated Date: 2025-01-15T12:51:34Z
+   Creation Date: 2007-02-12T17:56:21Z
+   Registry Expiry Date: 2026-02-12T17:56:21Z
+   Registrar: Domain.com, LLC
+   Registrar IANA ID: 886
+   Registrar Abuse Contact Email: compliance@domain-inc.net
+   Registrar Abuse Contact Phone: 602-226-2389
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.LOWESTHOSTING.COM
+   Name Server: NS2.LOWESTHOSTING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:13:24Z 

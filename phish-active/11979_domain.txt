@@ -1,0 +1,78 @@
+%  (c) 2006-2021 CZ.NIC, z.s.p.o.
+% 
+% Intended use of supplied data and information
+% 
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+% 
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+% 
+% See also a search service at http://www.nic.cz/whois/
+% 
+% 
+% Whoisd Server Version: 3.15.0
+% Timestamp: Thu Mar 27 15:54:01 2025
+
+domain:       interierykm.cz
+registrant:   FORPSI-H2V-S273990
+nsset:        FORPSI
+keyset:       FORPSI-KS-IOBIKAW7
+registrar:    REG-INTERNET-CZ
+registered:   04.04.2008 04:59:10
+changed:      24.12.2011 03:06:52
+expire:       04.04.2026
+
+contact:      FORPSI-H2V-S273990
+org:          Kateřina Mlejnková
+name:         Kateřina Mlejnková
+address:      Elektrárenská 3
+address:      Praha 10
+address:      10100
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      04.04.2008 04:59:07
+
+nsset:        FORPSI
+nserver:      ns.forpsi.net 
+nserver:      ns.forpsi.cz (81.2.209.185, 2001:15e8:201:1::d1b9)
+nserver:      ns.forpsi.it 
+tech-c:       FORPSI
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 10:19:47
+changed:      11.12.2024 14:34:26
+
+contact:      FORPSI
+org:          INTERNET CZ, a.s.
+name:         Stefano Cecconi
+address:      Ktiš 2
+address:      Ktiš
+address:      38403
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      04.08.2008 14:42:08
+changed:      15.05.2018 21:32:00
+
+keyset:       FORPSI-KS-IOBIKAW7
+dnskey:       257 3 10 AwEAAZ8NqdL9lN8fNXMG/IjB+YgjUsU5Hey2xZR3rHdC3mV5OOL6HGkDfU7vHqf8AY/Yxno/VoSJZmX1RviGHWegW+/7hThi6L7tweRFqTOgvlDRqBOJPAbyi0vIcbZCxkttNzbvoLwrjjckDXiDS7QzAbhckNb0uy2YKU2+vrW3jJCE/7X2d30QazYyVW1OdyEdpx0AvYRsGhdEbJSu+R55AwfmiIkZ2ku+f2HZv3M77TXIdy2VIJaLjfTPusUbPpgg7RYvUCPJWt5zc/croPS+whm5gReBeMMHWR2AFSMXcrH+2YJ5IvhLMHeor0furu4SnIHW5c1eoxRztQ2hHkf8lb0=
+tech-c:       FORPSI-KEYSET
+registrar:    REG-INTERNET-CZ
+created:      24.12.2011 03:06:51
+changed:      25.11.2018 02:27:02
+
+contact:      FORPSI-KEYSET
+org:          INTERNET CZ, a.s.
+name:         Stefano Cecconi
+address:      Ktiš 2
+address:      Ktiš
+address:      38403
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      12.12.2011 11:16:39
+changed:      11.11.2019 10:05:22
+
+

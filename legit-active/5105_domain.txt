@@ -1,0 +1,74 @@
+Domain Name: viarail.ca
+Registry Domain ID: D1043-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: ca.godaddy.com
+Updated Date: 2023-11-20T17:41:18Z
+Creation Date: 2000-09-25T18:25:52Z
+Registry Expiry Date: 2027-03-10T05:00:00Z
+Registrar: Go Daddy Domains Canada, Inc
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 111001895-CIRA
+Registrant Name: it nwk
+Registrant Organization: Via Rail Canada Inc.
+Registrant Street: 3 pvm 500
+Registrant City: montreal
+Registrant State/Province: QC
+Registrant Postal Code: H3B2C9
+Registrant Country: CA
+Registrant Phone: +1.5148716895
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: networkdata@viarail.ca
+Registry Admin ID: 27668869-CIRA
+Admin Name: Diane Langevin
+Admin Organization: Via Rail Canada Inc.
+Admin Street: 3 Place Ville-Marie Suite 500
+Admin City: Montr\u00c3\u00a9al
+Admin State/Province: QC
+Admin Postal Code: H3B2C9
+Admin Country: CA
+Admin Phone: +1.5148716000
+Admin Phone Ext:
+Admin Fax: +1.5148716657
+Admin Fax Ext:
+Admin Email: diane_langevin@viarail.ca
+Registry Tech ID: 27669011-CIRA
+Tech Name: IT Nwk
+Tech Organization: VIA Rail Canada inc.
+Tech Street: 3 Place Ville Marie, Suite 500
+Tech City: Montreal
+Tech State/Province: QC
+Tech Postal Code: H3B2C9
+Tech Country: CA
+Tech Phone: +1.5148716895
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: networkdata@viarail.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns0.dnsmadeeasy.com
+Name Server: ns1.dnsmadeeasy.com
+Name Server: ns2.dnsmadeeasy.com
+Name Server: ns3.dnsmadeeasy.com
+Name Server: ns4.dnsmadeeasy.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T03:13:58Z 

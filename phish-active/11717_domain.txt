@@ -1,0 +1,17 @@
+Domain Name: immersivetech.sg
+Unicode Name: immersivetech.sg
+Updated Date: 2024-09-18T14:09:58Z
+Creation Date: 2020-09-23T16:20:18Z
+Registry Expiry Date: 2025-09-23T16:20:18Z
+Registrar: Key-Systems GmbH
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+VerifiedID Status: VerifiedID@SG-OK
+Registry Lock:
+Registrant Name: BENNERICK SAMSON
+Admin Name: BENNERICK SAMSON
+Tech Name: BENNERICK SAMSON
+Tech Email: bennericksamson@gmail.com
+Name Server: ns65.domaincontrol.com
+Name Server: ns66.domaincontrol.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2025-03-27T14:53:07Z 

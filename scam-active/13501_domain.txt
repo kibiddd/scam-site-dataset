@@ -1,0 +1,20 @@
+   Domain Name: ROBINFX.COM
+   Registry Domain ID: 2853245697_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2025-01-09T05:45:10Z
+   Creation Date: 2024-02-07T16:57:34Z
+   Registry Expiry Date: 2026-02-07T16:57:34Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS01.HOSTNET.NL
+   Name Server: NS02.HOSTNET.NL
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 48600 13 4 D9D0E72B26CA4C27B8B3E49ECC93131A543006CD63A7A0B6409975A76133C9405035D031047DA7F256198C1FD16D184E
+   DNSSEC DS Data: 48600 13 2 974BDCFA0FD61C71E01A870AE0E2339462E2CFDE3A35B1E84E3985B01C7DA540
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:48:38Z 

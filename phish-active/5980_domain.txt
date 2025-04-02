@@ -1,0 +1,28 @@
+
+                This information has been redacted to comply with European Union General Data Protection Regulations (GDPR). Please contact us at info@nic.im if you have any further queries.
+              
+Domain Name:	conion.im
+Domain Managers
+Name: Redacted
+Address
+Redacted
+Domain Owners / Registrant
+Name: Redacted
+Address
+Redacted
+Administrative Contact
+Name: Redacted
+Address
+Redacted
+Billing Contact
+Name: Redacted
+Address
+Redacted
+Technical Contact
+Name: Redacted
+Address
+Redacted
+Domain Details
+Expiry Date: 16/11/2025 00:59:59
+Name Server:geo.dyna-ns.net.
+Name Server:geo2.dyna-ns.net.

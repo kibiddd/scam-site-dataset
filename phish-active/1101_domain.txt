@@ -1,0 +1,58 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://web-whois.nic.it                                           *
+*********************************************************************
+
+Domain:             60019.it
+Status:             ok
+Signed:             no
+Created:            2002-04-03 00:00:00
+Last Update:        2024-07-04 00:44:28
+Expire Date:        2025-06-18
+
+Registrant
+  Organization:     LANETSERVICE srls
+  Address:          via Marche, 43
+                    Senigallia
+                    60019
+                    AN
+                    IT
+  Created:          2024-05-06 17:41:22
+  Last Update:      2024-05-06 17:41:22
+
+Admin Contact
+  Name:             Massimo Mariselli
+  Organization:     LANETSERVICE srls
+  Address:          Via Marche, 43
+                    Senigallia
+                    60019
+                    AN
+                    IT
+  Created:          2024-05-06 17:46:49
+  Last Update:      2024-05-06 17:46:49
+
+Technical Contacts
+  Name:             Luca Ceccacci
+  Address:          Via Marche, 43
+                    Senigallia
+                    60019
+                    AN
+                    IT
+  Created:          2003-07-02 00:00:00
+  Last Update:      2024-06-07 12:16:58
+
+Registrar
+  Organization:     Lanetservice s.r.l.s.
+  Name:             LANETSERVICE-REG
+  Web:              https://www.lanetservice.it
+  DNSSEC:           no
+
+
+Nameservers
+  ns2.lanetservice.com
+  ns3.lanetservice.com
+

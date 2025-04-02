@@ -1,0 +1,17 @@
+   Domain Name: HABIBINSURANCE.NET
+   Registry Domain ID: 104721166_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enomdomains.com
+   Updated Date: 2024-11-13T07:04:02Z
+   Creation Date: 2003-10-08T11:49:54Z
+   Registry Expiry Date: 2030-10-08T11:49:54Z
+   Registrar: eNom, LLC
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.PAKIWEBHOST.COM
+   Name Server: NS2.PAKIWEBHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:57:48Z 

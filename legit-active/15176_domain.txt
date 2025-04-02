@@ -1,0 +1,19 @@
+   Domain Name: 7DIALS.COM
+   Registry Domain ID: 86981529_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.meshdigital.com
+   Registrar URL: http://www.meshdigital.com
+   Updated Date: 2024-12-18T15:28:48Z
+   Creation Date: 2002-05-27T12:24:56Z
+   Registry Expiry Date: 2025-05-27T12:24:56Z
+   Registrar: Mesh Digital Limited
+   Registrar IANA ID: 1390
+   Registrar Abuse Contact Email: abuse@domainbox.com
+   Registrar Abuse Contact Phone: +18779770099
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS49.DOMAINCONTROL.COM
+   Name Server: NS50.DOMAINCONTROL.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T17:01:38Z 

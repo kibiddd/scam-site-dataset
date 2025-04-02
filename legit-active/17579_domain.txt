@@ -1,0 +1,17 @@
+   Domain Name: SNCRR.COM
+   Registry Domain ID: 1621754712_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.dynadot.com
+   Registrar URL: http://www.dynadot.com
+   Updated Date: 2024-10-07T10:23:11Z
+   Creation Date: 2010-10-22T21:45:23Z
+   Registry Expiry Date: 2025-10-22T21:45:23Z
+   Registrar: Dynadot Inc
+   Registrar IANA ID: 472
+   Registrar Abuse Contact Email: abuse@dynadot.com
+   Registrar Abuse Contact Phone: +16502620100
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.ABOVE.COM
+   Name Server: NS2.ABOVE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:39:22Z 

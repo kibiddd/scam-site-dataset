@@ -1,0 +1,58 @@
+Domain Name: buteegch.mn
+Registry Domain ID: 4dc036b64f7840a8a03307b00217d65e-DONUTS
+Registrar WHOIS Server: whois.nic.mn
+Registrar URL: https://datacom.mn/
+Updated Date: 2024-12-24T08:19:18Z
+Creation Date: 2013-12-23T05:08:34Z
+Registry Expiry Date: 2025-12-23T05:08:34Z
+Registrar: Datacom Co., Ltd.
+Registrar IANA ID: 800036
+Registrar Abuse Contact Email: abuse@datacom.mn
+Registrar Abuse Contact Phone: +976.70000505
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 910f16a8b793427689ffaeab76659767-DONUTS
+Registrant Name: OUG LLC
+Registrant Organization: OUG LLC
+Registrant Street: UB, MOngolia
+Registrant City: UB
+Registrant State/Province: Ulaanbaatar
+Registrant Postal Code: 14200
+Registrant Country: MN
+Registrant Phone: +976.324248
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: info@intellicom.mn
+Registry Admin ID: 910f16a8b793427689ffaeab76659767-DONUTS
+Admin Name: OUG LLC
+Admin Organization: OUG LLC
+Admin Street: UB, MOngolia
+Admin City: UB
+Admin State/Province: Ulaanbaatar
+Admin Postal Code: 14200
+Admin Country: MN
+Admin Phone: +976.324248
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: info@intellicom.mn
+Registry Tech ID: 910f16a8b793427689ffaeab76659767-DONUTS
+Tech Name: OUG LLC
+Tech Organization: OUG LLC
+Tech Street: UB, MOngolia
+Tech City: UB
+Tech State/Province: Ulaanbaatar
+Tech Postal Code: 14200
+Tech Country: MN
+Tech Phone: +976.324248
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: info@intellicom.mn
+Name Server: dns7.magicnet.mn
+Name Server: dns8.magicnet.mn
+Name Server: dns9.magicnet.mn
+Name Server: dns10.magicnet.mn
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T23:00:47Z 

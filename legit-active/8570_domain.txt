@@ -1,0 +1,17 @@
+   Domain Name: PRIME-ACCOMMODATION-CHAMONIX.COM
+   Registry Domain ID: 798449362_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.123-reg.co.uk
+   Registrar URL: http://www.meshdigital.com
+   Updated Date: 2025-02-06T08:14:58Z
+   Creation Date: 2007-02-06T19:45:16Z
+   Registry Expiry Date: 2026-02-06T19:45:16Z
+   Registrar: 123-Reg Limited
+   Registrar IANA ID: 1515
+   Registrar Abuse Contact Email: abuse@123-reg.co.uk
+   Registrar Abuse Contact Phone: +44.3454502310
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS73.DOMAINCONTROL.COM
+   Name Server: NS74.DOMAINCONTROL.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:09:25Z 

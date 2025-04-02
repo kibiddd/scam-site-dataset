@@ -1,0 +1,18 @@
+   Domain Name: METSMERIZEDONLINE.COM
+   Registry Domain ID: 657607959_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-11-03T14:01:23Z
+   Creation Date: 2006-11-05T00:57:37Z
+   Registry Expiry Date: 2025-11-05T00:57:37Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: CODY.NS.CLOUDFLARE.COM
+   Name Server: ELLE.NS.CLOUDFLARE.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 2371 13 2 EABF56396FA28C0FA2BB01F8AF9E51C083D7BFE7110DE6CB48DBA70675955720
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:35:19Z 

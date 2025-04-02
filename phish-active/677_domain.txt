@@ -1,0 +1,44 @@
+
+% The data in the Whois database are provided by RNIDS
+% for information purposes only and to assist persons in obtaining
+% information about or related to a domain name registration record. 
+% Data in the database are created by registrants and we do not guarantee 
+% their accuracy. We reserve the right to remove access 
+% for entities abusing the data, without notice.
+% All timestamps are given in Serbian local time. 
+%
+Domain name: 25th.rs
+Domain status: Active https://www.rnids.rs/en/domain-name-status-codes#Active
+Registration date: 27.08.2020 17:40:31
+Modification date: 27.08.2024 09:40:47
+Expiration date: 27.08.2025 17:40:31
+Confirmed: 01.09.2020 19:22:42
+Registrar: Superhosting
+
+
+Registrant: Bar 25th d.o.o
+Address: Tadeusa Koscuska 63, Beograd, Serbia
+Postal Code: 11000
+ID Number: akbnbkp3uhb16s
+Tax ID: 
+
+Administrative contact: Bar 25th d.o.o
+Address: Tadeusa Koscuska 63, Beograd, Serbia
+Postal Code: 11000
+ID Number: v4pz9zfbuhb16s
+Tax ID: 
+
+Technical contact: Bar 25th d.o.o
+Address: Tadeusa Koscuska 63, Beograd, Serbia
+Postal Code: 11000
+ID Number: 5otilvq4uhb16s
+Tax ID: 
+
+
+DNS: ns5.superhosting.rs - 
+DNS: ns6.superhosting.rs - 
+
+
+DNSSEC signed: no
+
+Whois Timestamp: 26.03.2025 18:40:19

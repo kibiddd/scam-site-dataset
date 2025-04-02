@@ -1,0 +1,23 @@
+Domain Name: garagistes.com.au
+Registry Domain ID: fd547d3e4a8d472b9f662b99d1c42156-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.drop.com.au/
+Last Modified: 2025-02-06T03:01:47Z
+Registrar Name: DROP.com.au Pty Ltd
+Registrar Abuse Contact Email: support@drop.com.au
+Registrar Abuse Contact Phone: +61.395897946
+Reseller Name: 
+Status: ok https://identitydigital.au/get-au/whois-status-codes#ok
+Registrant Contact ID: b1ad7f02bad347beb3561d8dd1f3df8b-AU
+Registrant Contact Name: callum sherwood
+Tech Contact ID: b1ad7f02bad347beb3561d8dd1f3df8b-AU
+Tech Contact Name: callum sherwood
+Name Server: ns1.garagistes.com.au
+Name Server IP: 199.19.224.123
+Name Server: ns2.garagistes.com.au
+Name Server IP: 199.19.224.123
+DNSSEC: unsigned
+Registrant: CALLUM SHERWOOD
+Registrant ID: ABN 36723201866
+Eligibility Type: Sole Trader
+>>> Last update of WHOIS database: 2025-03-27T13:51:40Z 

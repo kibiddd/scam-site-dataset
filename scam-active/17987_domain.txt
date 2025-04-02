@@ -1,0 +1,17 @@
+   Domain Name: WOODENCOIN.CC
+   Registry Domain ID: 201409393_DOMAIN_CC-VRSN
+   Registrar WHOIS Server: whois.gname.com
+   Registrar URL: http://www.gname.com
+   Updated Date: 2024-06-30T14:36:20Z
+   Creation Date: 2024-06-30T14:22:53Z
+   Registry Expiry Date: 2025-06-30T14:22:53Z
+   Registrar: Gname.com Pte. Ltd.
+   Registrar IANA ID: 1923
+   Registrar Abuse Contact Email: complaint@gname.com
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: BRADLEY.NS.CLOUDFLARE.COM
+   Name Server: ROSE.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:49:56Z 

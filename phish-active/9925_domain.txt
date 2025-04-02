@@ -1,0 +1,17 @@
+   Domain Name: FREEGIFTLIMITED.COM
+   Registry Domain ID: 2851192718_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: grs-whois.hichina.com
+   Registrar URL: http://wanwang.aliyun.com
+   Updated Date: 2025-01-30T01:07:22Z
+   Creation Date: 2024-01-31T13:30:54Z
+   Registry Expiry Date: 2026-01-31T13:30:54Z
+   Registrar: Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
+   Registrar IANA ID: 1599
+   Registrar Abuse Contact Email: DomainAbuse@service.aliyun.com
+   Registrar Abuse Contact Phone: +86.95187
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: DNS3.HICHINA.COM
+   Name Server: DNS4.HICHINA.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:50:30Z 

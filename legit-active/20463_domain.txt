@@ -1,0 +1,19 @@
+   Domain Name: 123HELPME.COM
+   Registry Domain ID: 21803459_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.name.com
+   Registrar URL: http://www.name.com
+   Updated Date: 2025-02-18T19:32:29Z
+   Creation Date: 2000-03-08T02:13:56Z
+   Registry Expiry Date: 2027-03-08T02:13:56Z
+   Registrar: Name.com, Inc.
+   Registrar IANA ID: 625
+   Registrar Abuse Contact Email: abuse@name.com
+   Registrar Abuse Contact Phone: 7202492374
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1090.AWSDNS-08.ORG
+   Name Server: NS-1914.AWSDNS-47.CO.UK
+   Name Server: NS-419.AWSDNS-52.COM
+   Name Server: NS-990.AWSDNS-59.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:55:20Z 

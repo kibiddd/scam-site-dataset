@@ -1,0 +1,19 @@
+   Domain Name: ONTEGA.COM
+   Registry Domain ID: 1991737448_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.instra.net
+   Registrar URL: http://www.instra.com
+   Updated Date: 2025-03-25T09:55:06Z
+   Creation Date: 2016-01-05T01:19:49Z
+   Registry Expiry Date: 2026-01-05T01:19:49Z
+   Registrar: Instra Corporation Pty Ltd.
+   Registrar IANA ID: 1376
+   Registrar Abuse Contact Email: abuse@instra.com
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1403.AWSDNS-47.ORG
+   Name Server: NS-1551.AWSDNS-01.CO.UK
+   Name Server: NS-376.AWSDNS-47.COM
+   Name Server: NS-835.AWSDNS-40.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:48:07Z 

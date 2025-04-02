@@ -1,0 +1,36 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T20:08:53-03:00 - 2a09:bac5:c82c:1791::259:e3
+
+domain:      clinicalevie.com.br
+owner:       OWP Comunica��o LTDA
+ownerid:     08.187.583/0001-13
+responsible: Caio Owp
+country:     BR
+owner-c:     CRMEN10
+tech-c:      CRMEN10
+nserver:     ns1.locaweb.com.br
+nsstat:      20250324 AA
+nslastaa:    20250324
+nserver:     ns2.locaweb.com.br
+nsstat:      20250324 AA
+nslastaa:    20250324
+created:     20090714 #5777785
+changed:     20230801
+expires:     20250714
+status:      published
+
+nic-hdl-br:  CRMEN10
+person:      Cristaine Mendes
+e-mail:      jm@owp.com.br
+country:     BR
+created:     20100302
+changed:     20220630
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

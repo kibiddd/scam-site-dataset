@@ -1,0 +1,17 @@
+   Domain Name: XILOSTRADING.COM
+   Registry Domain ID: 2747397444_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namesilo.com
+   Registrar URL: http://www.namesilo.com
+   Updated Date: 2025-01-09T01:09:44Z
+   Creation Date: 2022-12-27T11:23:43Z
+   Registry Expiry Date: 2025-12-27T11:23:43Z
+   Registrar: NameSilo, LLC
+   Registrar IANA ID: 1479
+   Registrar Abuse Contact Email: abuse@namesilo.com
+   Registrar Abuse Contact Phone: +1.4805240066
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.BT-HOST.COM.NG
+   Name Server: NS2.BT-HOST.COM.NG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:50:08Z 

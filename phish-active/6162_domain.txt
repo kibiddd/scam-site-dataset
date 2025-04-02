@@ -1,0 +1,27 @@
+Domain Name: CREATOR-GATE.XYZ
+Registry Domain ID: D396723048-CNIC
+Registrar WHOIS Server: whois.squarespace.domains
+Registrar URL: https://domains.squarespace.com
+Updated Date: 2024-10-16T12:04:54.0Z
+Creation Date: 2023-09-15T00:00:18.0Z
+Registry Expiry Date: 2025-09-15T23:59:59.0Z
+Registrar: Squarespace Domains II LLC
+Registrar IANA ID: 895
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrant Organization: Contact Privacy Inc. Customer 7151571251
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS-CLOUD-B1.GOOGLEDOMAINS.COM
+Name Server: NS-CLOUD-B2.GOOGLEDOMAINS.COM
+Name Server: NS-CLOUD-B3.GOOGLEDOMAINS.COM
+Name Server: NS-CLOUD-B4.GOOGLEDOMAINS.COM
+DNSSEC: signedDelegation
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+Registrar Abuse Contact Phone: +1.6466935324
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T23:15:03.0Z 

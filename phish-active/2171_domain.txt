@@ -1,0 +1,39 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T14:45:44-03:00 - 2a09:bac5:c82c:de1::162:19
+
+domain:      ampesc.org.br
+owner:       Associa��o de Mantenedoras Particulares de Educa��
+ownerid:     03.979.881/0001-22
+responsible: Cesar Augusto Lunkes
+country:     BR
+owner-c:     ASMPA17
+tech-c:      ASMPA17
+nserver:     ns1.locaweb.com.br
+nsstat:      20250323 AA
+nslastaa:    20250323
+nserver:     ns2.locaweb.com.br
+nsstat:      20250323 AA
+nslastaa:    20250323
+nserver:     ns3.locaweb.com.br
+nsstat:      20250323 AA
+nslastaa:    20250323
+created:     20091209 #6339426
+changed:     20241127
+expires:     20251209
+status:      published
+
+nic-hdl-br:  ASMPA17
+person:      Associa��o de Mantenedoras Particulares
+e-mail:      administracao@ampesc.org.br
+country:     BR
+created:     20190626
+changed:     20210415
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

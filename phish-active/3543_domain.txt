@@ -1,0 +1,16 @@
+Domain Name:                     teamintllc.ae
+Registrar ID:                    EPAG
+Registrar Name:                  EPAG Domainservices GmbH
+Status:                          ok
+
+Registrant Contact ID:           O0018329682
+Registrant Contact Name:         Laith Irqsusi
+Registrant Contact Email:        Visit whois.aeda.net.ae for Web based WhoIs
+Registrant Contact Organisation: Laith Irqsusi
+
+Tech Contact ID:                 T0018329684
+Tech Contact Name:               Data Protected Data Protected
+Tech Contact Email:              Visit whois.aeda.net.ae for Web based WhoIs
+
+Name Server:                     ns1.ipage.com
+Name Server:                     ns2.ipage.com

@@ -1,0 +1,19 @@
+   Domain Name: HMCSVENTURE.COM
+   Registry Domain ID: 96026837_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2025-03-10T15:41:11Z
+   Creation Date: 2003-03-21T18:16:52Z
+   Registry Expiry Date: 2031-03-21T17:16:52Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: DNS1.REGISTEREDSITE.COM
+   Name Server: DNS2.REGISTEREDSITE.COM
+   Name Server: DNS3.REGISTEREDSITE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T00:03:35Z 

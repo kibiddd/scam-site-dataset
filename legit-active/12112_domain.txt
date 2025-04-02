@@ -1,0 +1,18 @@
+   Domain Name: SPOOKYTOMS.COM
+   Registry Domain ID: 2694322910_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.netim.com
+   Registrar URL: http://www.netim.com/domain-name/
+   Updated Date: 2024-10-08T07:31:51Z
+   Creation Date: 2022-05-06T18:24:19Z
+   Registry Expiry Date: 2026-05-06T18:24:19Z
+   Registrar: NETIM SAS
+   Registrar IANA ID: 1519
+   Registrar Abuse Contact Email: abuse@netim.net
+   Registrar Abuse Contact Phone: +33.972307476
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.NETIM.NET
+   Name Server: NS2.NETIM.NET
+   Name Server: NS3.NETIM.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:00:12Z 

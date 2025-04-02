@@ -1,0 +1,28 @@
+
+domain.............: bot.fi
+status.............: Registered
+created............: 6.4.2011 20:42:40
+expires............: 6.4.2026 20:42:42
+available..........: 6.5.2026 20:42:42
+modified...........: 21.3.2025 01:13:35
+RegistryLock.......: no
+
+Nameservers
+
+nserver............: dns18.ovh.net [OK]
+nserver............: ns18.ovh.net [OK]
+
+DNSSEC
+
+dnssec.............: no
+
+Holder
+
+holder.............: Private person
+
+Registrar
+
+registrar..........: OVH SAS
+www................: https://www.ovh.ie/
+
+>>> Last update of WHOIS database: 27.3.2025 0:45:44 (EET) 

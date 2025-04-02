@@ -1,0 +1,17 @@
+   Domain Name: WEINI999.COM
+   Registry Domain ID: 2930756540_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.dynadot3.com
+   Registrar URL: http://www.dynadot3.com
+   Updated Date: 2024-11-04T16:34:54Z
+   Creation Date: 2024-11-01T18:28:44Z
+   Registry Expiry Date: 2025-11-01T18:28:44Z
+   Registrar: Dynadot3 LLC
+   Registrar IANA ID: 1651
+   Registrar Abuse Contact Email: registry@dynadot3.com
+   Registrar Abuse Contact Phone: +1.6502620100
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: A.SHARE-DNS.COM
+   Name Server: B.SHARE-DNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:50:08Z 

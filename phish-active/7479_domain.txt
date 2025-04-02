@@ -1,0 +1,17 @@
+   Domain Name: EBRUSANATI.COM
+   Registry Domain ID: 117858474_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.isimtescil.net
+   Registrar URL: http://www.isimtescil.net
+   Updated Date: 2024-04-21T19:43:45Z
+   Creation Date: 2004-04-21T13:33:39Z
+   Registry Expiry Date: 2025-04-21T13:33:39Z
+   Registrar: Isimtescil Bilisim A.S.
+   Registrar IANA ID: 3826
+   Registrar Abuse Contact Email: abuse@isimtescil.net
+   Registrar Abuse Contact Phone: +90.8502000444
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: DNS1.MARKUM.NET
+   Name Server: DNS2.MARKUM.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:12:06Z 

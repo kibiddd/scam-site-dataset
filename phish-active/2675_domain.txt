@@ -1,0 +1,83 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        associationorion.fr
+status:                        ACTIVE
+eppstatus:                     clientTransferProhibited
+hold:                          NO
+holder-c:                      ANO00-FRNIC
+admin-c:                       O2798-FRNIC
+tech-c:                        O2798-FRNIC
+registrar:                     SCALEWAY
+Expiry Date:                   2026-01-16T18:50:33Z
+created:                       2021-01-16T18:50:33Z
+last-update:                   2025-01-18T10:07:35.004404Z
+source:                        FRNIC
+
+nserver:                       ns1.o2switch.net
+nserver:                       ns2.o2switch.net
+source:                        FRNIC
+
+registrar:                     SCALEWAY
+address:                       8, rue de la ville l'Eveque
+address:                       75008 PARIS
+country:                       FR
+phone:                         +33.184130069
+fax-no:                        +33.173502901
+e-mail:                        frnic-admin@free.org
+website:                       https://www.bookmyname.com
+anonymous:                     No
+registered:                    1999-03-29T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       ANO00-FRNIC
+type:                          PERSON
+contact:                       Ano Nymous
+registrar:                     SCALEWAY
+changed:                       2025-03-17T16:24:39.901592Z
+anonymous:                     YES
+remarks:                       -------------- WARNING --------------
+remarks:                       While the registrar knows him/her,
+remarks:                       this person chose to restrict access
+remarks:                       to his/her personal data. So PLEASE,
+remarks:                       don't send emails to Ano Nymous. This
+remarks:                       address is bogus and there is no hope
+remarks:                       of a reply.
+remarks:                       -------------- WARNING --------------
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2025-03-17T16:24:39.901593Z
+source:                        FRNIC
+
+nic-hdl:                       O2798-FRNIC
+type:                          ORGANIZATION
+contact:                       O2SWITCH
+address:                       Chemin des Pardiaux
+address:                       63000 CLERMONT FERRAND
+country:                       FR
+phone:                         +33.444446040
+fax-no:                        +33.444446041
+e-mail:                        dns-nospam@o2switch.fr
+registrar:                     SCALEWAY
+changed:                       2022-09-18T10:04:59Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-03-26T20:19:49.994479Z 

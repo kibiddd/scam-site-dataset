@@ -1,0 +1,22 @@
+Domain Name: earthwalker.com.au
+Registry Domain ID: 10444f782e90475da6e36dcb52bd5df5-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://elb.www.netregistry.com.au/contact-us/
+Last Modified: 2024-10-03T17:01:04Z
+Registrar Name: Melbourne IT
+Registrar Abuse Contact Email: abuse@webcentral.com.au
+Registrar Abuse Contact Phone: +61.279080901
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 5566963de5fb40958f548eb91cb3af79-AU
+Registrant Contact Name: Randy Lagerway
+Tech Contact ID: cd712d57e24249eb96d7d61ac92ff36f-AU
+Tech Contact Name: Randy Lagerway
+Name Server: ns1.wix.com
+Name Server: ns2.wix.com
+DNSSEC: unsigned
+Registrant: STOREY, DONNA MAREE
+Eligibility Type: Company
+Eligibility ID: ABN 45116402670
+>>> Last update of WHOIS database: 2025-03-27T21:50:30Z 

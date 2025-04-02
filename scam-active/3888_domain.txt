@@ -1,0 +1,17 @@
+   Domain Name: FINCAX.COM
+   Registry Domain ID: 2470231392_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gname.com
+   Registrar URL: http://www.gname.com
+   Updated Date: 2025-01-08T02:07:42Z
+   Creation Date: 2019-12-21T21:37:07Z
+   Registry Expiry Date: 2026-12-21T21:37:07Z
+   Registrar: Gname.com Pte. Ltd.
+   Registrar IANA ID: 1923
+   Registrar Abuse Contact Email: complaint@gname.com
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: RENAN.NS.CLOUDFLARE.COM
+   Name Server: SUMMER.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:45:50Z 

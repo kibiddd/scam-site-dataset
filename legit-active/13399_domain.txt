@@ -1,0 +1,17 @@
+   Domain Name: KRAKATOABIKES.NET
+   Registry Domain ID: 1573707488_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.domainpeople.com
+   Registrar URL: http://www.domainpeople.com
+   Updated Date: 2024-10-21T20:18:39Z
+   Creation Date: 2009-10-27T20:18:24Z
+   Registry Expiry Date: 2025-10-27T20:18:24Z
+   Registrar: DomainPeople, Inc.
+   Registrar IANA ID: 65
+   Registrar Abuse Contact Email: abuse@domainpeople.com
+   Registrar Abuse Contact Phone: +1.8664678929
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS0.WIXDNS.NET
+   Name Server: NS1.WIXDNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:04:43Z 

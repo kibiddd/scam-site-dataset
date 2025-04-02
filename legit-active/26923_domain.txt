@@ -1,0 +1,17 @@
+   Domain Name: XCRACER.COM
+   Registry Domain ID: 139672477_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.123-reg.co.uk
+   Registrar URL: http://www.meshdigital.com
+   Updated Date: 2025-01-15T11:29:21Z
+   Creation Date: 2005-01-15T01:52:06Z
+   Registry Expiry Date: 2026-01-15T01:52:06Z
+   Registrar: 123-Reg Limited
+   Registrar IANA ID: 1515
+   Registrar Abuse Contact Email: abuse@123-reg.co.uk
+   Registrar Abuse Contact Phone: +44.3454502310
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: CYPHER.JABHOSTING.COM
+   Name Server: MORPHEOUS.JABHOSTING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T01:05:13Z 

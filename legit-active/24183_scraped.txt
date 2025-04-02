@@ -1,0 +1,77 @@
+Ted Pedersen - Name Discrimination Data / Name Disambiguation Data / Name Ambiguity Data / Named Entity Resolution / Named Entity Disambiguation
+Name Discrimination Data
+This page contains data where ambiguous entity names in text have been
+disambiguated. The data has either been manually disambiguated, or created
+by conflating multiple names into a single ambiguous pseudo-name.
+Kulkarni Name Corpus
+This data was manually disambiguated by Anagha Kulkarni as a part of her
+M.S. thesis. It has subsequently been used in our
+IJCAI-2007 workshop
+and
+CICLING-2007
+papers.
+It consists of Google search results for
+person names that are known to be ambiguous. The names have been
+manually disambiguated in this data. Please cite her thesis if you use
+the data:
+Kulkarni, Anagha K.,
+Unsupervised Context Discrimination and Automatic Cluster Stopping,
+Master of Science Thesis, Department of Computer Science, University of
+Minnesota, Duluth, July, 2006.
+This data is described in the following
+README
+and is available for download
+here.
+Name Conflate Data
+This is data where we have created artificial ambiguities by conflating
+together the occurrences of person or places names. We typically
+create this data from the English GigaWord corpus using the
+nameconflate.pl
+program
+(CICLING 2006)
+2, 3, and 4-way name conflations in Spanish, English, Bulgarian, and
+Romanian. The Spanish data includes Bill Clinton-Yasar Arafat, Boris
+Yeltsin-John Paul II, New York-Washington, New York-Brasil-Washington,
+OTAN-EZLN. The English data includes Bill Clinton-Tony Blair, Bill
+Clinton-Tony Blair-Ehud Barak, Mexico-Uganda,
+Mexico-India-California-Peru, Microsoft-IBM. The Bulgarian data includes
+Burgas-Varna, Franciya-Germaniya, Petar Stoyanov-Georgi Parvanov,
+Simeon Sakskoburggotski-Nikolay Vasilev, BSP-SDS. The Romanian data
+includes Traian Basescu-Adrian Nastase, Bucuresti-Brasov, PD-PSD, Ion
+Iliescu-Adrian Nastase-Traian Basescu.
+[paper with experiments and results for this data:
+CICLING-2006]
+(IICAI 2005)  20 Newsgroup data (email) by topic and 2 and 3-way
+name conflations, including Tony Blair-Vladimir Putin, Mexico-Uganda,
+Microsoft-Compaq, Serena Williams-Tiger Woods, Sonia Ghandi-Leonid
+Kuchma, Tony Blair-Vladimir Putin-Saddam Hussein, Mexico-Uganda-India,
+Microsoft-Compaq-Serena Williams.
+[paper with experiments and results for this data:
+IICAI-2005]
+(ACL 2005 demo)
+20 Newsgroup data (email) by topic and 2 and 3-way name conflations,
+including American Airlines-Tom Cruise, Britney Spears-George Bush, Bill
+Gates-Tom Cruise, American Airlines-Hewlett Packard-BMW,
+American Airlines-Hewlett Packard-Britney Spears, Bill Gates-Tom
+Cruise-George Bush.
+[paper with experiments and results for this data:
+ACL-2005 demo]
+(AAAI 2005 demo)
+2-way name conflations of the form Name-Name, Country-Noun, Name-Noun,
+Noun-Noun, Noun-Verb.
+(ACL 2005 workshop)
+2, 3, and 4-way name conflations, including Bill Clinton-Tony Blair,
+Bill Clinton-Tony Blair-Ehud Barak, Mexico-India-California, John
+Grisham-Bayer-Bank of America, Bill Clinton-Tony Blair-Ehud
+Barak-Vladimir Putin.
+[paper with experiments and results for this data:
+ACL-2005 student research workshop]
+(CICLING 2005)
+2-way name conflations, including David Beckham-Ronaldo, Japan-France,
+Micrsoft-IBM, Peres-Milosevic, Rolf-Tajik, Egyptian-Jordan.
+[paper with experiments and results for this data:
+CICLING-2005]
+Acknowledgments
+All of the data on this page was created by
+Anagha Kulkarni,  either
+using the nameconflate.pl program she wrote, or via manual annotation.

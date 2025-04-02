@@ -1,0 +1,17 @@
+   Domain Name: OBAKS.COM
+   Registry Domain ID: 2649916949_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-11-17T15:29:43Z
+   Creation Date: 2021-10-24T15:09:35Z
+   Registry Expiry Date: 2025-10-24T15:09:35Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ACHIEL.NS.CLOUDFLARE.COM
+   Name Server: SIERRA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T01:55:47Z 

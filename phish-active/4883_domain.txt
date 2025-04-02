@@ -1,0 +1,25 @@
+Domain Name: nicestore.com.tw
+   Domain Status: clientDeleteProhibited,clientTransferProhibited
+   Registrant:
+      Lee Sheng Hsing
+      Lee Sheng Hsing
+      ericlee7206@gmail.com
+      tw
+      (Redacted for privacy)
+
+   Administrative Contact:
+      (Redacted for privacy)
+
+   Technical Contact:
+      (Redacted for privacy)
+
+   Record expires on 2029-10-29 00:44:26 (UTC+8)
+   Record created on 2010-10-29 00:44:26 (UTC+8)
+
+   Domain servers in listed order:
+      dns1.acsite.net     
+      dns2.acsite.net     
+
+Registration Service Provider: Cloudmax Inc.
+Registration Service URL: https://www.cloudmax.com.tw/
+Registrar Abuse Contact Email: abuse@mailto.asiawhere.com

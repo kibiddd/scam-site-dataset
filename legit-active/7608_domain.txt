@@ -1,0 +1,17 @@
+   Domain Name: DANIESBEAUTYSALON.COM
+   Registry Domain ID: 104482448_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.PublicDomainRegistry.com
+   Registrar URL: http://www.publicdomainregistry.com
+   Updated Date: 2024-09-12T05:55:10Z
+   Creation Date: 2003-10-03T09:20:39Z
+   Registry Expiry Date: 2025-10-03T09:20:39Z
+   Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+   Registrar IANA ID: 303
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.WEBPAGE4LESS.COM
+   Name Server: NS2.WEBPAGE4LESS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:05:41Z 

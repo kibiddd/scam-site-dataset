@@ -1,0 +1,22 @@
+Domain Name: TWEN.SHOP
+Registry Domain ID: DO10925669-GMO
+Registrar WHOIS Server: whois.gname.com
+Registrar URL: www.gname.com
+Updated Date: 2024-05-24T11:34:26.0Z
+Creation Date: 2024-05-19T11:20:19.0Z
+Registry Expiry Date: 2025-05-19T23:59:59.0Z
+Registrar: GNAME.COM PTE. LTD.
+Registrar IANA ID: 1923
+Registrar Abuse Contact Email: complaint@gname.com
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant State/Province: Beijing
+Registrant Country: CN
+Registrant Email:
+Admin Email:
+Tech Email:
+Name Server: A.SHARE-DNS.COM
+Name Server: B.SHARE-DNS.NET
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:49:23.0Z 

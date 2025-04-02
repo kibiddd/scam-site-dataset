@@ -1,0 +1,18 @@
+   Domain Name: INSUMASAGRO.COM
+   Registry Domain ID: 1618550374_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.donweb.com
+   Registrar URL: http://www.donweb.com
+   Updated Date: 2024-07-26T19:28:21Z
+   Creation Date: 2010-10-02T13:08:05Z
+   Registry Expiry Date: 2026-10-02T13:08:05Z
+   Registrar: Dattatec Corp
+   Registrar IANA ID: 1388
+   Registrar Abuse Contact Email: abuse@donweb.com
+   Registrar Abuse Contact Phone: +54.01152388127
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.TOWEBS.COM
+   Name Server: NS2.TOWEBS.COM
+   Name Server: NS3.TOWEBS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:53:48Z 

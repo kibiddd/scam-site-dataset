@@ -1,0 +1,20 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        NICHOST.RU
+nserver:       ns3.nic.ru.
+nserver:       ns4.nic.ru.
+nserver:       ns8.nic.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           JSC 'RU-CENTER'
+taxpayer-id:   7733573894
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2004-05-24T20:00:00Z
+paid-till:     2026-05-24T21:00:00Z
+free-date:     2026-06-25
+source:        TCI
+
+Last updated on 2025-03-27T13:53:01Z
+

@@ -1,0 +1,20 @@
+   Domain Name: CENTREFORAVIATION.COM
+   Registry Domain ID: 44911785_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.101domain.com
+   Registrar URL: http://101domain.com
+   Updated Date: 2024-09-25T00:04:40Z
+   Creation Date: 2000-11-23T07:05:34Z
+   Registry Expiry Date: 2025-11-23T07:05:34Z
+   Registrar: 101domain GRS Limited
+   Registrar IANA ID: 1011
+   Registrar Abuse Contact Email: abuse@101domain.com
+   Registrar Abuse Contact Phone: +17604448674
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS0.DNSMADEEASY.COM
+   Name Server: NS1.DNSMADEEASY.COM
+   Name Server: NS2.DNSMADEEASY.COM
+   Name Server: NS3.DNSMADEEASY.COM
+   Name Server: NS4.DNSMADEEASY.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:36:50Z 

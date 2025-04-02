@@ -1,0 +1,17 @@
+   Domain Name: DLIOS.CC
+   Registry Domain ID: 144293461_DOMAIN_CC-VRSN
+   Registrar WHOIS Server: whois.godaddy.com
+   Registrar URL: http://www.godaddy.com
+   Updated Date: 2024-04-29T06:49:04Z
+   Creation Date: 2019-08-26T07:36:01Z
+   Registry Expiry Date: 2025-08-26T07:36:01Z
+   Registrar: GoDaddy.com, LLC
+   Registrar IANA ID: 146
+   Registrar Abuse Contact Email: abuse@godaddy.com
+   Registrar Abuse Contact Phone: 480-624-2505
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: FRANK.NS.CLOUDFLARE.COM
+   Name Server: JULE.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T13:57:54Z 

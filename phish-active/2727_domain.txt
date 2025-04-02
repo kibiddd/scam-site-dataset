@@ -1,0 +1,64 @@
+Domain Name: tiny.us
+Registry Domain ID: D46787785-US
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2019-08-11T15:29:38Z
+Creation Date: 2014-09-25T18:04:59Z
+Registry Expiry Date: 2028-09-24T23:59:59Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C21D97E5748B94A3A927CB4F31C3E0E05-NSR
+Registrant Name: Kevin Gilbertson
+Registrant Organization: TinyURL, LLC
+Registrant Street: 3916 N Potsdam Ave #4535
+Registrant Street:
+Registrant Street:
+Registrant City: Sioux Falls
+Registrant State/Province: SD
+Registrant Postal Code: 57104
+Registrant Country: US
+Registrant Phone: +1.7633900044
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: d@tinyurl.com
+Registrant Application Purpose: P1
+Registrant Nexus Category: C11
+Registry Admin ID: C93A644682F804110AD22646A74BBE609-NSR
+Admin Name: Kevin Gilbertson
+Admin Organization: TinyURL, LLC
+Admin Street: 3916 N Potsdam Ave #4535
+Admin Street:
+Admin Street:
+Admin City: Sioux Falls
+Admin State/Province: SD
+Admin Postal Code: 57104
+Admin Country: US
+Admin Phone: +1.7633900044
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: d@tinyurl.com
+Registry Tech ID: C59C1B1688ED6419F91C236C91DC1B507-NSR
+Tech Name: Kevin Gilbertson
+Tech Organization: TinyURL, LLC
+Tech Street: 3916 N Potsdam Ave #4535
+Tech Street:
+Tech Street:
+Tech City: Sioux Falls
+Tech State/Province: SD
+Tech Postal Code: 57104
+Tech Country: US
+Tech Phone: +1.7633900044
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: d@tinyurl.com
+Name Server: gwen.ns.cloudflare.com
+Name Server: jerry.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T20:20:02Z 

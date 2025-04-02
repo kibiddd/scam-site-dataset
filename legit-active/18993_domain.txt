@@ -1,0 +1,26 @@
+Domain Name: saxton.com.au
+Registry Domain ID: 4b433ff16eee47678188a56cbd0371ca-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.instra.com/en/about-us/contact-us
+Last Modified: 2023-09-23T02:51:14Z
+Registrar Name: Domain Directors Pty Ltd trading as Instra
+Registrar Abuse Contact Email: abuse@key-systems.net
+Registrar Abuse Contact Phone: +49.68949396850
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 7ba2fc6c000c41d9bafd978ad50fe6c0-AU
+Registrant Contact Name: The Manager
+Tech Contact ID: d1feb9a6bf9645759be2ea57dacd52f0-AU
+Tech Contact Name: The Manager
+Name Server: ns3.esupport.net.au
+Name Server IP: 202.161.112.62
+Name Server: ns2.esupport.net.au
+Name Server IP: 202.142.133.116
+Name Server: ns.esupport.net.au
+Name Server IP: 203.24.17.201
+DNSSEC: unsigned
+Registrant: Saxton Speakers Bureau Pty Ltd
+Registrant ID: OTHER 007 416 140
+Eligibility Type: Other
+>>> Last update of WHOIS database: 2025-03-27T21:35:16Z 

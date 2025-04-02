@@ -1,0 +1,7 @@
+bworby.com
+BWorby
+com
+self.whatIDo( "Devops Engineer", "Software Engineer" )
+{ What I do }
+{ Resume }
+{ Contact }

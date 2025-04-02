@@ -1,0 +1,17 @@
+   Domain Name: INTSHOPCMS.CC
+   Registry Domain ID: 202536079_DOMAIN_CC-VRSN
+   Registrar WHOIS Server: whois.namesilo.com
+   Registrar URL: http://www.namesilo.com
+   Updated Date: 2024-09-19T18:14:15Z
+   Creation Date: 2024-09-19T18:11:47Z
+   Registry Expiry Date: 2025-09-19T18:11:47Z
+   Registrar: NameSilo, LLC
+   Registrar IANA ID: 1479
+   Registrar Abuse Contact Email: abuse@namesilo.com
+   Registrar Abuse Contact Phone: +1.4805240066
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: ARYANNA.NS.CLOUDFLARE.COM
+   Name Server: STERLING.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:46:37Z 

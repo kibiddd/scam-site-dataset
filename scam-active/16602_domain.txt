@@ -1,0 +1,11 @@
+Domain Name: xiafenfa.cn
+ROID: 20221126s10001s50014959-cn
+Domain Status: ok
+Registrant: 东莞市皮皮虾网络有限公司
+Registrant Contact Email: qzccs@qq.com
+Sponsoring Registrar: 北京新网数码信息技术有限公司
+Name Server: ns11.xincache.com
+Name Server: ns12.xincache.com
+Registration Time: 2022-11-26 11:39:47
+Expiration Time: 2025-11-26 11:39:47
+DNSSEC: unsigned

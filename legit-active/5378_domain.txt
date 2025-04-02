@@ -1,0 +1,73 @@
+Domain Name: huffingtonpost.ca
+Registry Domain ID: D1400976-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2023-07-17T10:35:05Z
+Creation Date: 2010-08-18T20:24:17Z
+Registry Expiry Date: 2025-08-18T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 22836076-CIRA
+Registrant Name: BuzzFeed Canada, Inc.
+Registrant Organization:
+Registrant Street: 570 Queen Street, Suite 600
+Registrant City: Fredericton
+Registrant State/Province: NB
+Registrant Postal Code: E3B6Z6
+Registrant Country: CA
+Registrant Phone: +1.2124317464
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: buzzfeed@buzzfeed.com
+Registry Admin ID: 22836075-CIRA
+Admin Name: Clement Huyghebaert
+Admin Organization: BuzzFeed Canada, Inc.
+Admin Street: 570 Queen Street, Suite 600
+Admin City: Fredericton
+Admin State/Province: NB
+Admin Postal Code: E3B6Z6
+Admin Country: CA
+Admin Phone: +1.2124317464
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: buzzfeed@buzzfeed.com
+Registry Tech ID: 22836075-CIRA
+Tech Name: Clement Huyghebaert
+Tech Organization: BuzzFeed Canada, Inc.
+Tech Street: 570 Queen Street, Suite 600
+Tech City: Fredericton
+Tech State/Province: NB
+Tech Postal Code: E3B6Z6
+Tech Country: CA
+Tech Phone: +1.2124317464
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: buzzfeed@buzzfeed.com
+Registry Billing ID: 73886904-CIRA
+Billing Name: CCOPS Billing
+Billing Organization: MarkMonitor Inc.
+Billing Street: 3540 East Longwing Lane, Suite 300
+Billing City: Meridian
+Billing State/Province: ID
+Billing Postal Code: 83646
+Billing Country: US
+Billing Phone: +1.2083895740
+Billing Phone Ext:
+Billing Fax: +1.2083895771
+Billing Fax Ext:
+Billing Email: ccopsbilling@markmonitor.com
+Name Server: ns-1420.awsdns-49.org
+Name Server: ns-1673.awsdns-17.co.uk
+Name Server: ns-382.awsdns-47.com
+Name Server: ns-934.awsdns-52.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T03:15:07Z 

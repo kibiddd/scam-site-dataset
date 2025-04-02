@@ -1,0 +1,17 @@
+   Domain Name: LFC33.COM
+   Registry Domain ID: 2944584155_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.hostinger.com
+   Registrar URL: http://www.hostinger.com
+   Updated Date: 2025-03-13T18:01:14Z
+   Creation Date: 2024-12-23T10:13:25Z
+   Registry Expiry Date: 2025-12-23T10:13:25Z
+   Registrar: HOSTINGER operations, UAB
+   Registrar IANA ID: 1636
+   Registrar Abuse Contact Email: abuse-tracker@hostinger.com
+   Registrar Abuse Contact Phone: +37064503378
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ADELAIDE.NS.CLOUDFLARE.COM
+   Name Server: ODIN.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:47:21Z 

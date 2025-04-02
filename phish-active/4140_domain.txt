@@ -1,0 +1,23 @@
+%%
+%% This is the NIC Chile Whois server (whois.nic.cl).
+%%
+%% Rights restricted by copyright.
+%% See https://www.nic.cl/normativa/politica-publicacion-de-datos-cl.pdf
+%%
+
+Domain name: nnodes.cl
+Registrant name: Nnodes S.A.
+Registrant organisation: 
+Registrar name: NIC Chile
+Registrar URL: https://www.nic.cl
+Creation date: 2015-09-03 10:01:05 CLST
+Expiration date: 2027-09-03 09:01:05 CLST
+Name server: ns-1187.awsdns-20.org
+Name server: ns-157.awsdns-19.com
+Name server: ns-1868.awsdns-41.co.uk
+Name server: ns-569.awsdns-07.net
+
+%%
+%% For communication with domain contacts please use website.
+%% See https://www.nic.cl/registry/Whois.do?d=nnodes.cl
+%%

@@ -1,0 +1,2 @@
+Domain: hoosit.de
+Status: connect

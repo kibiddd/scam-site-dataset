@@ -1,0 +1,17 @@
+   Domain Name: CIGARINSPECTOR.COM
+   Registry Domain ID: 1085464934_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.register.eu
+   Registrar URL: http://www.combell.com
+   Updated Date: 2025-01-15T04:34:18Z
+   Creation Date: 2007-07-14T08:29:59Z
+   Registry Expiry Date: 2025-07-14T08:29:59Z
+   Registrar: Combell NV
+   Registrar IANA ID: 1467
+   Registrar Abuse Contact Email: activation@combell.com
+   Registrar Abuse Contact Phone: +32.92187979
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: EVERTON.NS.CLOUDFLARE.COM
+   Name Server: ULLIS.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:58:06Z 

@@ -1,0 +1,56 @@
+Domain Name: godeaug.org
+Registry Domain ID: 01810046dec348bfb6af8e67f8eaa52e-LROR
+Registrar WHOIS Server: whois.names4ever.com
+Registrar URL: https://www.aplus.net
+Updated Date: 2024-05-22T07:15:59Z
+Creation Date: 2011-05-17T16:44:05Z
+Registry Expiry Date: 2025-05-17T16:44:05Z
+Registrar: Hostopia Canada Corp
+Registrar IANA ID: 52
+Registrar Abuse Contact Email: tld-abuse@hostopia.com
+Registrar Abuse Contact Phone: +1.8003229438
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: JNS Technology Associates
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: 
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: UG
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns1.gatewaysltd.com
+Name Server: ns2.gatewaysltd.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T13:56:03Z 

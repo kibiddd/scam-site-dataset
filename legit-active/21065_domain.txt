@@ -1,0 +1,25 @@
+   Domain Name: AWAYDAYZ.COM
+   Registry Domain ID: 2792598776_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.squarespace.domains
+   Registrar URL: http://squarespace.domains
+   Updated Date: 2024-06-07T22:20:45Z
+   Creation Date: 2023-06-22T18:36:58Z
+   Registry Expiry Date: 2025-06-22T18:36:58Z
+   Registrar: Squarespace Domains LLC
+   Registrar IANA ID: 3827
+   Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+   Registrar Abuse Contact Phone: 1-646-693-5324
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: DNS1.P01.NSONE.NET
+   Name Server: DNS2.P01.NSONE.NET
+   Name Server: DNS3.P01.NSONE.NET
+   Name Server: DNS4.P01.NSONE.NET
+   Name Server: NS01.SQUARESPACEDNS.COM
+   Name Server: NS02.SQUARESPACEDNS.COM
+   Name Server: NS03.SQUARESPACEDNS.COM
+   Name Server: NS04.SQUARESPACEDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:57:52Z 

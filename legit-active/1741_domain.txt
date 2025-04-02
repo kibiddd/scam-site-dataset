@@ -1,0 +1,19 @@
+   Domain Name: TAPOLOGY.COM
+   Registry Domain ID: 141854945_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.1api.net
+   Registrar URL: http://www.1api.net
+   Updated Date: 2024-12-10T15:09:16Z
+   Creation Date: 2005-02-08T12:38:52Z
+   Registry Expiry Date: 2026-02-08T12:38:52Z
+   Registrar: 1API GmbH
+   Registrar IANA ID: 1387
+   Registrar Abuse Contact Email: abuse@1api.net
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1223.AWSDNS-24.ORG
+   Name Server: NS-2033.AWSDNS-62.CO.UK
+   Name Server: NS-310.AWSDNS-38.COM
+   Name Server: NS-545.AWSDNS-04.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:38:36Z 

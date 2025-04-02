@@ -1,0 +1,19 @@
+   Domain Name: EMIRATESFARMS.COM
+   Registry Domain ID: 1518177416_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.nic.ae
+   Registrar URL: http://www.nic.ae
+   Updated Date: 2024-08-30T06:28:57Z
+   Creation Date: 2008-09-06T11:51:38Z
+   Registry Expiry Date: 2026-09-06T11:51:38Z
+   Registrar: E & Enterprise Cloud - Sole Proprietorship L.L.C
+   Registrar IANA ID: 1738
+   Registrar Abuse Contact Email: abuse@nic.ae
+   Registrar Abuse Contact Phone: +971.43717272
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: PNS41.CLOUDNS.NET
+   Name Server: PNS42.CLOUDNS.NET
+   Name Server: PNS43.CLOUDNS.NET
+   Name Server: PNS44.CLOUDNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:14:20Z 

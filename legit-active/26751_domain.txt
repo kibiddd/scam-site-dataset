@@ -1,0 +1,57 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: MSU.EDU
+
+Registrant:
+	Michigan State University
+	195 Crescent Road, Room 30
+	East Lansing, MI 48824
+	USA
+
+Administrative Contact:
+	Network Services
+	Michigan State University - IT Services
+	195 Crescent Road, Room 30
+	East Lansing, MI 48824
+	USA
+	+1.5173536770
+	dnsadmin@msu.edu
+
+Technical Contact:
+	Network Services
+	Michigan State University - IT Services
+	195 Crescent Road, Room 30
+	East Lansing, MI 48824
+	USA
+	+1.5174326200
+	dnstech@msu.edu
+
+Name Servers:
+	NS-665.AWSDNS-19.NET
+	NS-1432.AWSDNS-51.ORG
+	NS-1827.AWSDNS-36.CO.UK
+	NS-64.AWSDNS-08.COM
+
+Domain record activated:    06-May-1987
+Domain record last updated: 17-Dec-2024
+Domain expires:             31-Jul-2025

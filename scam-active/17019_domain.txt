@@ -1,0 +1,24 @@
+Domain Name: VELESFINANCE.ONLINE
+Registry Domain ID: D481286856-CNIC
+Registrar WHOIS Server: whois.reg.ru
+Registrar URL: https://www.reg.ru/
+Updated Date: 2024-10-24T21:23:02.0Z
+Creation Date: 2024-08-26T04:59:49.0Z
+Registry Expiry Date: 2025-08-26T23:59:59.0Z
+Registrar: Registrar of Domain Names REG.RU, LLC
+Registrar IANA ID: 1606
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: Private Person
+Registrant State/Province: Moskva i Moskovskaya oblast
+Registrant Country: RU
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS1.HOSTING.REG.RU
+Name Server: NS2.HOSTING.REG.RU
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@reg.ru
+Registrar Abuse Contact Phone: +7.4955801111
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:50:04.0Z 

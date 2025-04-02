@@ -1,0 +1,30 @@
+Domain Name: BUYCELEBREX.XYZ
+Registry Domain ID: D337320510-CNIC
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: https://namecheap.com
+Updated Date: 2024-11-29T16:22:14.0Z
+Creation Date: 2022-12-07T14:30:55.0Z
+Registry Expiry Date: 2025-12-07T23:59:59.0Z
+Registrar: Namecheap
+Registrar IANA ID: 1068
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant State/Province: Capital Region
+Registrant Country: IS
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS101.CLOUDNS.NET
+Name Server: NS102.CLOUDNS.NET
+Name Server: NS103.CLOUDNS.NET
+Name Server: NS104.CLOUDNS.NET
+Name Server: PNS101.CLOUDNS.NET
+Name Server: PNS102.CLOUDNS.NET
+Name Server: PNS103.CLOUDNS.NET
+Name Server: PNS104.CLOUDNS.NET
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:45:35.0Z 

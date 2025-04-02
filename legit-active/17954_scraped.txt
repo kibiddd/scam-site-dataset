@@ -1,0 +1,37 @@
+Home MUMT306 - Classical music generation software
+The Music Tech Project
+Artificial intelligence for your ears
+Home
+About Us
+Contact Us
+Project Status
+Programming Details
+Sample Run
+Links
+Current page : Home
+Artificial Intelligence for Your Ears: Harmonic Progression Generation Software
+by Antoine Rotondo and Melina Soochan
+McGill University (Montreal, Quebec, Canada) – Fall 2006
+Introduction
+Let's face it: not everyone can compose music. In the context of tonal music, it requires the ability to imagine new melodies, harmonies and rhythms, and juggling with instrumentation (among other key concepts). Nonetheless, most people are capable of identifying these basic elements when listening to music.
+However, most individuals (non-musicians) listen to music in a holistic manner: they are mostly concerned with the sound “as a whole” and don’t “zoom in” too much on these musical components. They can be aware of how a piece affects their mood, can make subjective assessments such as “this is fast”, “happy”, “loud” or “too long” and, of course, whether they like or dislike it.
+With this holistic approach in mind, we’ve decided to develop software that could enable nonmusicians to participate in their own way in the creative process of composing a harmonic progression inspired by tonal classical music. The following is an outline of our general, technological and scientific goals in developing harmonic progression generation software.
+General goals
+To enable any user to generate new tonal harmonic progression  without any prerequisite knowledge of music theory.
+To obtain a new musical piece every time. However, the end result must be similar if the user specified selections that are similar or identical.
+Specific technological and scientific goals
+To develop algorithms that randomly generate chords of a harmonic progression in a user-specifed key, length and tempo, and to develop the mechanisms that ensure that the harmonic progression makes tonal sense to create an aesthetically pleasing  musical composition.
+To develop a platform providing the user with basic parametric control over the end result.
+To ensure the application generates randomly diverse sequences every time.
+Software functionality
+To provide a simple command-prompt style interface for basic parameter value selection (key signature, tempo,duration).
+To output the generated music as raw MIDI bytes using RtMidi.
+Potential commercial applications
+Classroom instruction in music theory and compositional methods
+Orchestral simulation
+Full score generation
+Music for web and multimedia design
+Scoring for film, television and video games
+Music therapy
+Ringtone technology
+Musical toys

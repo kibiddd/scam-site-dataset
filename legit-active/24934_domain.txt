@@ -1,0 +1,18 @@
+   Domain Name: YUKU.COM
+   Registry Domain ID: 38709782_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.cloudflare.com
+   Registrar URL: http://www.cloudflare.com
+   Updated Date: 2024-09-27T04:03:51Z
+   Creation Date: 2000-10-27T01:37:21Z
+   Registry Expiry Date: 2025-10-27T01:37:21Z
+   Registrar: Cloudflare, Inc.
+   Registrar IANA ID: 1910
+   Registrar Abuse Contact Email: registrar-abuse@cloudflare.com
+   Registrar Abuse Contact Phone: +1.6503198930
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: CORY.NS.CLOUDFLARE.COM
+   Name Server: MIRA.NS.CLOUDFLARE.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 2371 13 2 CEBBAF280795021CBA248E0DE65D12FFCB8B08DE93F6A3CCF328F98FA4E9DABE
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T23:59:35Z 

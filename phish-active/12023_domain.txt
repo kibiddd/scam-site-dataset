@@ -1,0 +1,36 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T11:54:10-03:00 - 2a09:bac5:c82e:dcd::160:b7
+
+domain:      voipminashost.com.br
+owner:       Alan Miranda
+ownerid:     ***.924.426-**
+country:     BR
+owner-c:     ALMIR9
+tech-c:      ALMIR9
+nserver:     dns3101.playunix.com.br
+nsstat:      20250327 AA
+nslastaa:    20250327
+nserver:     dns3102.playunix.com.br
+nsstat:      20250327 AA
+nslastaa:    20250327
+saci:        yes
+created:     20170409 #16864527
+changed:     20240417
+expires:     20250409
+status:      published
+
+nic-hdl-br:  ALMIR9
+person:      Alan Miranda
+e-mail:      voipminasbh2@gmail.com
+country:     BR
+created:     20080223
+changed:     20240313
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

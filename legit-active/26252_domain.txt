@@ -1,0 +1,71 @@
+Domain Name: flairair.ca
+Registry Domain ID: D315677-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: ca.godaddy.com
+Updated Date: 2024-11-09T04:07:46Z
+Creation Date: 2005-09-26T03:31:58Z
+Registry Expiry Date: 2025-09-25T04:00:00Z
+Registrar: Go Daddy Domains Canada, Inc
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 74412816-CIRA
+Registrant Name: Chris Lapointe
+Registrant Organization:
+Registrant Street:
+Registrant City:
+Registrant State/Province:
+Registrant Postal Code:
+Registrant Country:
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email:
+Registry Admin ID: 74413025-CIRA
+Admin Name: NorthernComputer Hicks
+Admin Organization: Flair Airlines Ltd
+Admin Street: 5795 Airport Way
+Admin City: Kelowna
+Admin State/Province: BC
+Admin Postal Code: V1V1S1
+Admin Country: CA
+Admin Phone: +1.2507657753
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: baremetal@flairair.ca
+Registry Tech ID: 74412815-CIRA
+Tech Name: NorthernComputer
+Tech Organization: Flair Airlines Ltd
+Tech Street: 5795 Airport Way
+Tech City: Kelowna
+Tech State/Province: BC
+Tech Postal Code: V1V1S1
+Tech Country: CA
+Tech Phone: +1.2507627753
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: baremetal@flairair.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns47.domaincontrol.com
+Name Server: ns48.domaincontrol.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T00:04:38Z 

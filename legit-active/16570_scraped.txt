@@ -1,0 +1,210 @@
+Umo IQ: 15 & 72 min
+Settings
+ADA Site
+Agency Admin
+Find Your NextBus
+My Umo
+Get Help
+Mobile Access
+Are you having trouble finding arrival information for your stop using our new website?
+Click to switch to our old NextBus site until we resolve web browser's compatibility concerns.
+You can now update your bookmarks for the agency portal to  retro.umoiq.com.
+BCC Ferries
+Hornibrook Bus Lines
+Laidleys
+Dumbarton Express
+Escalon eTrans
+FAST
+Placer County Transit
+San Francisco Muni CIS
+San Leandro LINKS
+Sonoma County Transit
+Tahoe Truckee Area Regional Transit
+Unitrans ASUCD/City of Davis
+University of California Berkeley
+City of West Hollywood
+City of West Hollywood Test
+Glendale Beeline
+Omnitrans
+Palos Verdes Transit
+Nova Southeastern University
+Indianapolis International Airport
+Western Kentucky University
+Maine Medical Center
+Selkirk Transit
+APL
+Salisbury University
+Cape Cod Regional Transit Authority
+EZRide - Charles River TMA
+MIT Lincoln Lab Shuttle
+Massachusetts Institute of Technology
+University of New Hampshire - Wildcat Transit
+Montclair State University
+Downtown Connection
+LaGuardia Airport Shuttle
+Roosevelt Island
+Chapel Hill Transit
+Greenville Area Transit
+Vidant Medical Center
+Western Carolina University CAT-TRAN
+Winston-Salem
+Toronto Transit Commission
+Portland Streetcar
+Societe de transport de Laval
+Seattle Streetcar
+Spokane International Airport
+Change
+This stop code does not exist. Please check your stop code and try again.
+Enter Stop No.
+... Or select your route, direction, and stop to obtain GPS-based arrival and departure times.
+Route
+Ca California Street Cable Car
+F Market & Wharves
+Fbus Market & Wharves Bus
+J Church
+K Ingleside
+Kbus Ingleside Bus
+L Taraval
+Lowl Owl Taraval
+M Ocean View
+N Judah
+Nbus Judah Bus
+Nowl Owl Judah
+Ph Powell-Hyde Cable Car
+Pm Powell-Mason Cable Car
+T Third
+Tbus Third Bus
+1 California
+1X California Express
+2 Sutter
+5 Fulton
+5R Fulton Rapid
+6 Haight-Parnassus
+7 Haight-Noriega
+8 Bayshore
+8AX Bayshore A Express
+8BX Bayshore B Express
+9 San Bruno
+9R San Bruno Rapid
+12 Folsom-Pacific
+14 Mission
+14R Mission Rapid
+15 Bayview Hunters Point Express
+18 46th Avenue
+19 Polk
+21 Hayes
+22 Fillmore
+23 Monterey
+24 Divisadero
+25 Treasure Island
+27 Bryant
+28 19th Avenue
+28R 19th Avenue Rapid
+29 Sunset
+30 Stockton
+30X Marina Express
+31 Balboa
+33 Ashbury-18th St
+35 Eureka
+36 Teresita
+37 Corbett
+38 Geary
+38R Geary Rapid
+39 Coit
+43 Masonic
+44 O'Shaughnessy
+45 Union-Stockton
+48 Quintara-24th Street
+49 Van Ness-Mission
+52 Excelsior
+54 Felton
+55 Dogpatch
+56 Rutland
+57 Parkmerced
+58 Lake Merced
+66 Quintara
+67 Bernal Heights
+90 San Bruno Owl
+91 3rd-19th Ave Owl
+714 Bart Early Bird
+Directions
+Market & California
+Van Ness & California
+Stop
+California St & Van Ness Ave
+California St & Polk St
+California St & Larkin St
+California St & Hyde St
+California St & Leavenworth St
+California St & Jones St
+California St & Taylor St
+California St & Mason St
+California St & Powell St
+California St & Stockton St
+California St & Grant Ave
+California St & Kearny St
+California St & Montgomery St
+California St & Sansome St
+California St & Battery St
+California St & Front St
+California St & Davis St
+California St & Davis St
+California St & Drumm St
+Destination
+California St & Van Ness Ave
+California St & Polk St
+California St & Larkin St
+California St & Hyde St
+California St & Leavenworth St
+California St & Jones St
+California St & Taylor St
+California St & Mason St
+California St & Powell St
+California St & Stockton St
+California St & Grant Ave
+California St & Kearny St
+California St & Montgomery St
+California St & Sansome St
+California St & Battery St
+California St & Front St
+California St & Davis St
+California St & Davis St
+California St & Drumm St
+optional
+Show Map
+Arriving in
+15min*
+72min*
+87min*
+Valid as of Tuesday, March 25, 2025 5:23 PM
+15min*
+72min*
+87min*
+EnlargeHide
+Also at this stop
+See More
+?key=8a8482f79678251f19f986f8f4f052bb
+Cubic Transportation Systems, Inc. Proprietary Information. All Rights Reserved.
+Website
+Schedule
+Call  5-1-1
+Stop No. 13902
+Text 41411
+nextmuni 15650
+X
+Agency initializing ...
+please wait
+Going to your closest Agency...
+please wait
+X
+Internet connection lost.
+Unable to predict until connection restored.
+My Settings
+Language
+English
+Français
+Español
+Show predictions in
+minutes to go, e.g. "5 minutes"
+time, e.g. "2:05pm"
+Hide vehicles not moving in selected direction

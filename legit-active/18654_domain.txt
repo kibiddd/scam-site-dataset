@@ -1,0 +1,55 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: WSU.EDU
+
+Registrant:
+	Washington State University
+	PO Box 641222
+	Pullman, WA 99164-1222
+	USA
+
+Administrative Contact:
+	Domain Admin
+	Washington State University
+	PO Box 641222
+	Pullman, WA 99164-1222
+	USA
+	+1.5093351642
+	wsudotedu@wsu.edu
+
+Technical Contact:
+	WSU Security Operations
+	Washington State University
+	Box 641222
+	Pullman, WA 99164-1222
+	USA
+	+1.5093359776
+	abuse@wsu.edu
+
+Name Servers:
+	NS2.WSU.EDU
+	NS1.WSU.EDU
+
+Domain record activated:    14-Apr-1987
+Domain record last updated: 18-Nov-2024
+Domain expires:             31-Jul-2025

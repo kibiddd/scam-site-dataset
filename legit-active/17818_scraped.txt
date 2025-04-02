@@ -1,0 +1,346 @@
+Source Code Online - Free Source Code and Scripts Related Downloads
+Source Code Online Listing
+All
+Code Editors
+C & C++
+C#
+Go
+Java
+JavaScript
+PHP
+Python
+SQL
+Swift
+Web Frameworks
+Notepad++
+Download
+Notepad++ is a free (as in âfree speechâ and also as in âfree beerâ) source code editor and Notepad replacement that supports several languages.
+Sublime Text
+Download
+Sublime Text is a sophisticated text editor for code, markup and prose.
+Brackets
+Download
+Brackets is an open-source, modern text editor crafted for web developers and front-end developers.
+Eclipse
+Download
+Eclipse is a free development software that enables you to create Java applications from scratch.
+Visual Studio Code
+Download
+Code editing. Redefined. Free. Built on open source. Runs everywhere.
+NetBeans IDE
+Download
+NetBeans IDE is a free and open source integrated development environment for application development on Windows, Mac, Linux, and Solaris operating systems.
+Atom
+Download
+Atom was a free and open-source text and source code editor for macOS, Linux, and Windows with support for plug-ins written in JavaScript, and embedded Git Control.
+PyCharm
+Download
+PyCharm is an integrated development environment used for programming in Python.
+Vim
+Download
+Vim is a free and open-source, screen-based text editor program.
+Compare Text
+Visit Site
+CompareText.io is perfect for comparing codes. You can easily detect which parts have been changed in comparison to the original code.
+React
+Download
+React is a JavaScript library for building user interfaces.
+Vue.js
+Download
+Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+React Native
+Download
+A framework for building native applications using React.
+Electron
+Download
+The Electron framework lets you write cross-platform desktop applications using JavaScript, HTML and CSS.
+Kubernetes
+Download
+Kubernetes is an open source system for automating deployment, scaling, and management of containerized applications.
+Axios
+Download
+Axios is a simple promise based HTTP client for the browser and node.js.
+Node.js
+Download
+Node.js is an open-source, cross-platform JavaScript runtime environment.
+Angular
+Download
+Angular is a development platform for building mobile and desktop web applications using TypeScript/JavaScript and other languages.
+Laravel
+Download
+Laravel is a web application framework with expressive, elegant syntax.
+Django
+Download
+Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
+PyTorch
+Download
+PyTorch is a fully featured framework for building deep learning models, which is a type of machine learning.
+Spring Boot
+Download
+Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+Hugo
+Download
+Hugo is a static site generator written in Go, optimized for speed and designed for flexibility.
+Moby
+Download
+Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Elasticsearch
+Download
+Elasticsearch is a distributed, RESTful search engine optimized for speed and relevance on production-scale workloads.
+Flask
+Download
+Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
+Webpack
+Download
+Webpack is a free and open-source module bundler for JavaScript.
+Express.js
+Download
+Fast, unopinionated, minimalist web framework for Node.js.
+Keras
+Download
+Keras 3 is a multi-backend deep learning framework, with support for TensorFlow, JAX, and PyTorch.
+Ansible
+Download
+Ansible is a radically simple IT automation system. It handles configuration management, application deployment, cloud provisioning, ad-hoc task execution, network automation, and multi-node orchestration.
+Socket.IO
+Download
+Socket.IO is an event-driven library for real-time web applications.
+jQuery
+Download
+jQuery is a fast, small, and feature-rich JavaScript library.
+Ruby on Rails
+Download
+Rails is a web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.
+LLaMA
+Download
+LLaMA is a C/C++ port of Facebook's LLaMA model
+RxJava
+Download
+RxJava is a Java VM implementation of Reactive Extensions: a library for composing asynchronous and event-based programs by using observable sequences.
+Traefik
+Download
+Traefik (pronounced traffic) is a modern HTTP reverse proxy and load balancer that makes deploying microservices easy.
+Meteor
+Download
+Meteor, or MeteorJS, is a partly proprietary, mostly free and open-source isomorphic JavaScript web framework written using Node.js.
+Babel
+Download
+Babel is a tool that helps you write code in the latest version of JavaScript.
+PowerShell
+Download
+PowerShell is a task automation and configuration management program from Microsoft, consisting of a command-line shell and the associated scripting language.
+pandas
+Download
+pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
+Alamofire
+Download
+Alamofire is an HTTP networking library written in Swift.
+JSON for Modern C++
+Download
+JSON for modern C++ is an open source project with an intuitive syntax and trivial integration that allows you to read JSON from a file quickly, create JSON objects from JSON literals, and treat JSON as a first-class data type, among many others!
+DBeaver
+Download
+DBeaver Community is a free cross-platform database tool for developers, database administrators, analysts, and everyone working with data.
+Glide
+Download
+Glide is a fast and efficient open source media management and image loading framework for Android that wraps media decoding, memory and disk caching, and resource pooling into a simple and easy to use interface.
+Istio
+Download
+Istio is an open source service mesh that layers transparently onto existing distributed applications.
+ClickHouse
+Download
+ClickHouse is a fast open-source column-oriented database management system that allows generating analytical data reports in real-time using SQL queries.
+GoogleTest
+Download
+GoogleTest UI is a test runner that runs your test binary, allows you to track its progress via a progress bar, and displays a list of test failures.
+CockroachDB
+Download
+CockroachDB - the open source, cloud-native distributed SQL database.
+Charts
+Download
+Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
+sqlmap
+Download
+sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.
+The Serenity Operating System
+Download
+A graphical Unix-like operating system for desktop computers!
+Ryujinx
+Download
+Ryujinx is an open-source Nintendo Switch emulator.
+Lottie for iOS
+Download
+An iOS library to natively render After Effects vector animations
+Vapor
+Download
+Vapor is an HTTP web framework for Swift. It provides a beautifully expressive and easy-to-use foundation for your next website, API, or cloud project.
+Guzzle
+Download
+Guzzle is a PHP HTTP client that makes it easy to send HTTP requests and trivial to integrate with web services.
+k6
+Download
+k6 is a modern load-testing tool, built on our years of experience in the performance and testing industries.
+Ember.js
+Download
+Ember.js is a JavaScript framework that greatly reduces the time, effort and resources needed to build any web application.
+libGDX
+Download
+libGDX is a cross-platform Java game development framework based on OpenGL (ES), designed for Windows, Linux, macOS, Android, web browsers, and iOS.
+Polymer
+Download
+Polymer is an open-source JavaScript library for building web applications using Web Components.
+Jenkins
+Download
+Jenkins is the leading open-source automation server built with Java.
+.NET MAUI
+Download
+.NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+Monolog
+Download
+Monolog sends your logs to files, sockets, inboxes, databases and various web services.
+PHPMailer
+Download
+PHPMailer â A full-featured email creation and transfer class for PHP
+Monica
+Download
+Monica is an open-source web application that enables you to document your life, organize, and log your interactions with your family and friends.
+MindsDB
+Download
+MindsDB's AI SQL Server enables developers to build AI tools that need access to real-time data to perform their tasks.
+PHPUnit
+Download
+PHPUnit is a programmer-oriented testing framework for PHP. It is an instance of the xUnit architecture for unit testing frameworks.
+MyBatis SQL Mapper
+Download
+The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented applications.
+WordPress
+Download
+WordPress is an open-source and very popular web content management system.
+CodeIgniter
+Download
+CodeIgniter is an Application Development Framework - a toolkit - for people who build web sites using PHP.
+SwiftLint
+Download
+A tool to enforce Swift style and conventions.
+Semantic Kernel
+Download
+Semantic Kernel is an open-source SDK that lets you easily build agents that can call your existing code.
+Teleport
+Download
+The Open Infrastructure Access Platform. The easiest, most secure way to access all your infrastructure.
+Gitleaks
+Download
+Gitleaks is a SAST tool for detecting and preventing hardcoded secrets like passwords, api keys, and tokens in git repos.
+Mockito
+Download
+Most popular Mocking framework for unit tests written in Java
+PostgreSQL
+Download
+PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance.
+RapidJSON
+Download
+RapidJSON is a JSON parser and generator for C++. It was inspired by RapidXml. RapidJSON is small but complete.
+Dlib
+Download
+Dlib is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems.
+ASP.NET Core
+Download
+ASP.NET Core is an open-source modular web-application framework.
+SQLModel
+Download
+SQL databases in Python, designed for simplicity, compatibility, and robustness.
+ASP.NET Boilerplate
+Download
+ASP.NET Boilerplate is a general purpose application framework specially designed for new modern web applications.
+Cookiecutter Django
+Download
+Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+The Composable Architecture
+Download
+A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+sqlc
+Download
+sqlc generates type-safe code from SQL.
+django CMS
+Download
+The easy-to-use, free and developer-friendly enterprise CMS powered by Django
+SFML
+Download
+Simple and Fast Multimedia Library is a cross-platform software development library designed to provide a simple application programming interface to various multimedia components in computers.
+CakePHP
+Download
+CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Associative Data Mapping, Front Controller, and MVC.
+django-allauth
+Download
+Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+SQLAlchemy
+Download
+SQLAlchemy is the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
+npm CLI
+Download
+A JavaScript package manager
+Nuke Image Loading System
+Download
+Load images from different sources and display them in your app using simple and flexible APIs.
+Apache Tomcat
+Download
+The Apache TomcatÂ® software is an open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies.
+SQLFluff
+Download
+A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
+MassTransit
+Download
+An open-source distributed application framework for .NET. MassTransit provides a developer-focused, modern platform for creating distributed applications without complexity.
+Swinject
+Download
+Dependency injection (DI) is a software design pattern that implements Inversion of Control (IoC) for resolving dependencies.
+Oscar
+Download
+Oscar is an open-source ecommerce framework for Django.
+ZITADEL
+Download
+ZITADEL gives developers all they need to integrate identity management.
+Hibernate ORM
+Download
+Hibernate ORM is a powerful object/relational mapping solution for Java, and makes it easy to develop persistence logic for applications, libraries, and frameworks.
+BTCPay Server
+Download
+BTCPay Server is a free and open-source Bitcoin payment processor which allows you to accept bitcoin without fees or intermediaries.
+Nextcloud
+Download
+A safe home for all your data. Access & share your files, calendars, contacts, mail & more from any device, on your terms.
+SQLPad
+Download
+A web app for writing and running SQL queries and visualizing the results.
+SQLFlow
+Download
+SQLFlow is a compiler that compiles a SQL program to a workflow that runs on Kubernetes.
+IncludeOS
+Download
+IncludeOS allows you to run your application in the cloud without an operating system.
+OCR API
+Visit Site
+Transform images into text with this OCR API. PHP response format with examples.
+Akka.NET
+Download
+Akka.NET is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
+Tastypie
+Download
+Tastypie is a webservice API framework for Django. It provides a convenient, yet powerful and highly customizable abstraction for creating REST-style interfaces.
+Apollo iOS
+Download
+Apollo iOS is a strongly-typed, caching GraphQL client, written in Swift.
+Haystack
+Download
+Haystack provides modular search for Django.
+JabRef
+Download
+Graphical Java application for managing BibTeX and biblatex (.bib) databases
+Technitium DNS Server
+Download
+Technitium DNS Server is an open source authoritative as well as recursive DNS server that can be used for self hosting a DNS server for privacy & security.
+OnlySwitch
+Download
+All-in-One menu bar app, hide ð»MacBook Pro's notch, dark mode, AirPods, Shortcuts
+Â© 2000-2024 Source Code Online, All Rights Reserved.
+For any inquiries, mail to info@sourcecodeonline.com

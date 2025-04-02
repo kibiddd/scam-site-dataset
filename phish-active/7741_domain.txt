@@ -1,0 +1,11 @@
+Domain Name: ekobebe.cn
+ROID: 20150811s10001s76703444-cn
+Domain Status: ok
+Registrant: 上海辑伟实业发展有限公司
+Registrant Contact Email: 13788931551@126.com
+Sponsoring Registrar: 阿里云计算有限公司（万网）
+Name Server: dns9.hichina.com
+Name Server: dns10.hichina.com
+Registration Time: 2015-08-11 09:32:39
+Expiration Time: 2027-08-11 09:32:39
+DNSSEC: unsigned

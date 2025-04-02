@@ -1,0 +1,17 @@
+Domain Name: sanjeevaningo.org
+Registry Domain ID: b1b5fd5e1914467a870b55e70bd24fb7-LROR
+Registrar WHOIS Server: https://rdap.spaceship.com
+Registrar URL: http://www.spaceship.com/
+Updated Date: 2025-03-06T15:03:15Z
+Creation Date: 2009-02-15T05:06:06Z
+Registry Expiry Date: 2026-02-15T05:06:06Z
+Registrar: Spaceship, Inc.
+Registrar IANA ID: 3862
+Registrar Abuse Contact Email: abuse@spaceship.com
+Registrar Abuse Contact Phone: +1.9854014545
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: launch1.spaceship.net
+Name Server: launch2.spaceship.net
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T03:23:57Z 

@@ -1,0 +1,17 @@
+   Domain Name: CSKJKING.COM
+   Registry Domain ID: 2938250464_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: www.gname.com/whois
+   Registrar URL: http://www.gname.com
+   Updated Date: 2024-11-29T23:37:00Z
+   Creation Date: 2024-11-29T19:10:38Z
+   Registry Expiry Date: 2025-11-29T19:10:38Z
+   Registrar: Gname 119 Inc
+   Registrar IANA ID: 4111
+   Registrar Abuse Contact Email: ZYS@GNAME.COM
+   Registrar Abuse Contact Phone: +65 31581391
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: A.SHARE-DNS.COM
+   Name Server: B.SHARE-DNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:15:37Z 

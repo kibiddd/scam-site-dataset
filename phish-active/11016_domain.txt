@@ -1,0 +1,17 @@
+   Domain Name: OVER-BLOG.COM
+   Registry Domain ID: 112622266_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gandi.net
+   Registrar URL: http://www.gandi.net
+   Updated Date: 2025-01-25T17:58:20Z
+   Creation Date: 2004-02-25T19:51:07Z
+   Registry Expiry Date: 2026-02-25T19:51:07Z
+   Registrar: Gandi SAS
+   Registrar IANA ID: 81
+   Registrar Abuse Contact Email: abuse@support.gandi.net
+   Registrar Abuse Contact Phone: +33.170377661
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: OBNS1.WEBEDIA-GROUP.ORG
+   Name Server: OBNS2.WEBEDIA-GROUP.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:58:02Z 

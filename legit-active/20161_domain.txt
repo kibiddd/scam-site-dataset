@@ -1,0 +1,18 @@
+   Domain Name: XXXBUNKER.COM
+   Registry Domain ID: 1526631713_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.danesconames.com
+   Registrar URL: http://www.danesconames.com
+   Updated Date: 2024-07-15T20:56:24Z
+   Creation Date: 2008-11-01T08:24:50Z
+   Registry Expiry Date: 2027-11-01T08:24:50Z
+   Registrar: Danesco Trading Ltd.
+   Registrar IANA ID: 1418
+   Registrar Abuse Contact Email: abuse@danesconames.com
+   Registrar Abuse Contact Phone: +357.95713635
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: GAIL.NS.CLOUDFLARE.COM
+   Name Server: KEN.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:54:06Z 

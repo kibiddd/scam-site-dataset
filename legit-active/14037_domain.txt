@@ -1,0 +1,28 @@
+Domain Name: benclarkphotography.com.au
+Registry Domain ID: 91c013fbe3df4b6e9dfa62571b2f49e5-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://elb.www.netregistry.com.au/contact-us/
+Last Modified: 2024-04-24T01:06:39Z
+Registrar Name: Melbourne IT
+Registrar Abuse Contact Email: abuse@webcentral.com.au
+Registrar Abuse Contact Phone: +61.279080901
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: c10af0dc48d04e5db29cdb9f7abf00a6-AU
+Registrant Contact Name: Ben Clark
+Tech Contact ID: 55f02b1e4e71480492f80e9cffc73189-AU
+Tech Contact Name: Ben Clark
+Name Server: nssyd01.crucial.com.au
+Name Server IP: 111.118.163.5
+Name Server: nssyd02.crucial.com.au
+Name Server IP: 182.160.129.2
+Name Server: nsdal01.crucial.com.au
+Name Server IP: 128.199.123.135
+DNSSEC: unsigned
+Registrant: Ben Clark Photography
+Registrant ID: OTHER None given
+Eligibility Type: Other
+Eligibility Name: Ben Clark Photography
+Eligibility ID: QLD BN17734484 (QLD)
+>>> Last update of WHOIS database: 2025-03-27T16:57:47Z 

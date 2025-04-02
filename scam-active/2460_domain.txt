@@ -1,0 +1,17 @@
+   Domain Name: SENBITA.COM
+   Registry Domain ID: 2740900636_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: grs-whois.aliyun.com
+   Registrar URL: http://www.alibabacloud.com
+   Updated Date: 2024-11-27T16:24:25Z
+   Creation Date: 2022-11-26T03:20:36Z
+   Registry Expiry Date: 2025-11-26T03:20:36Z
+   Registrar: Dominet (HK) Limited
+   Registrar IANA ID: 3775
+   Registrar Abuse Contact Email: domainabuse@service.aliyun.com
+   Registrar Abuse Contact Phone: +86.95187
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: FRED.NS.CLOUDFLARE.COM
+   Name Server: OLIVIA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:45:37Z 

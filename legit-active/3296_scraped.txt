@@ -1,0 +1,15 @@
+Home page
+Menu
+Home pageUser registrationLoginProductsGensearchPMCRMutalyzer supportGensearchHIVGensearchNGSGensearchVETGensearchGTeMLPAP3RED: Crédit d'Impôt RechercheGenetic Variant Interpretation Tool (ACMG/AMP) - FrenchGenetic Variant Interpretation Tool (ACMG/AMP) - CzechR&DcapHIVGen2Phen FP7NMDchip FP7Contact UsPrivacy policyTools and guidelines
+Welcome to PhenoSystems SA
+We develop software for the molecular genetics and genomics community since 2002, in close collaboration with leading European diagnostics laboratories, universities and public hospitals. We are regularly involved as active SME partners in European research projects funded by the European Union as well as other funding agencies.
+Our products are targeted for the biologist, genetician or MD working on DNA and RNA sequences, with organisms ranging from virus and bacteria to plants, animals and human. Our focus is on diagnostic applications, ranging from infectious diseases to rare genetic disorders as well as cancer risk prediction and optimising their treatment through personalised medicine. In the veterinary field our software packages are used both for diagnostics application as well as breeding purposes.
+Latest articles
+Application note: Homozygous Inversion on Chromosome 13 Involving SGCG Detected by Short Read Whole Genome Sequencing in a Patient Suffering from Limb-Girdle Muscular Dystrophy
+Collaboration with PMCR
+Clinvar introduces submission API
+Wuhan COVID19 upload module for German RKI
+Application note: A comprehensive method protocol for annotation and integrated functional understanding of lncRNAs
+Wuhan COVID19 flu
+Oracle Java licensing
+Copyrights 2012 Phenosystems SA

@@ -1,0 +1,101 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        orange.fr
+status:                        ACTIVE
+status:                        transferPeriod
+eppstatus:                     serverUpdateProhibited
+eppstatus:                     serverTransferProhibited
+eppstatus:                     serverDeleteProhibited
+eppstatus:                     serverRecoverProhibited
+hold:                          NO
+holder-c:                      CTC5102137-FRNIC
+admin-c:                       O69928-FRNIC
+tech-c:                        CTC5066892-FRNIC
+registrar:                     NORDNET
+Expiry Date:                   2026-10-14T15:12:55Z
+created:                       2001-02-01T23:00:00Z
+last-update:                   2025-03-25T12:15:32.376497Z
+source:                        FRNIC
+
+nserver:                       ns1.orange.fr
+nserver:                       ns2.orange.fr
+source:                        FRNIC
+
+registrar:                     NORDNET
+address:                       245 Boulevard de Tournai
+address:                       CS 20458
+address:                       59664 VILLENEUVE D'ASCQ CEDEX
+country:                       FR
+phone:                         +33.969360360
+e-mail:                        administration@nordnet.com
+website:                       https://www.nordnet.com/offres/pack_relais/presentation.php
+anonymous:                     No
+registered:                    1997-12-29T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       CTC5066892-FRNIC
+type:                          ORGANIZATION
+contact:                       Nordnet
+address:                       245 Boulevard de Tournai
+address:                       cs 20458
+address:                       59664 Villeneuve d'Ascq
+country:                       FR
+phone:                         +33.892702033
+fax-no:                        +33.892702033
+e-mail:                        technical@lerelaisinternet.com
+registrar:                     NORDNET
+changed:                       2025-03-25T17:19:21.84437Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       O69928-FRNIC
+type:                          ORGANIZATION
+contact:                       Orange
+address:                       111 Quai du President Roosevelt
+address:                       92130 Issy les Moulineaux
+country:                       FR
+phone:                         +33.157399729
+e-mail:                        gestionndd@francetelecom.biz
+registrar:                     NORDNET
+changed:                       2025-03-26T10:06:18.332976Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       CTC5102137-FRNIC
+type:                          ORGANIZATION
+contact:                       ORANGE
+address:                       ORANGE
+address:                       111 QUAI DU PRESIDENT ROOSEVELT
+address:                       92130 ISSY LES MOULINEAUX
+country:                       FR
+phone:                         +33.157395678
+fax-no:                        +33.157395678
+e-mail:                        gestionndd@francetelecom.biz
+registrar:                     NORDNET
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     serverUpdateProhibited
+eppstatus:                     associated
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-03-27T16:59:25.121574Z 

@@ -1,0 +1,17 @@
+   Domain Name: CAMBALKONCUM.NET
+   Registry Domain ID: 2306265231_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.discount-domain.com
+   Registrar URL: http://gmo.jp
+   Updated Date: 2024-09-02T07:29:29Z
+   Creation Date: 2018-09-05T03:10:08Z
+   Registry Expiry Date: 2025-09-05T03:10:08Z
+   Registrar: GMO Internet Group, Inc. d/b/a Onamae.com
+   Registrar IANA ID: 49
+   Registrar Abuse Contact Email: abuse@gmo.jp
+   Registrar Abuse Contact Phone: +81.337709199
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.CAMBALKONCUM.NET
+   Name Server: NS2.CAMBALKONCUM.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:01:21Z 

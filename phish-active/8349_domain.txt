@@ -1,0 +1,26 @@
+Domain Name: GOSERVER.HOST
+Registry Domain ID: D10070033-CNIC
+Registrar WHOIS Server: whois.registrar.internetx.com
+Registrar URL: https://www.internetx.com/
+Updated Date: 2024-11-24T00:29:30.0Z
+Creation Date: 2015-09-10T14:50:38.0Z
+Registry Expiry Date: 2025-09-10T23:59:59.0Z
+Registrar: InternetX GmbH
+Registrar IANA ID: 151
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: webgo GmbH
+Registrant State/Province: DE
+Registrant Country: DE
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS1.WEBGO.DE
+Name Server: NS2.WEBGO.DE
+Name Server: NS3.WEBGO.DE
+Name Server: NS4.WEBGO.DE
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: domain-abuse@internetx.com
+Registrar Abuse Contact Phone: +49.941595590
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T11:17:12.0Z 

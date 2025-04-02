@@ -1,0 +1,69 @@
+%  (c) 2006-2021 CZ.NIC, z.s.p.o.
+% 
+% Intended use of supplied data and information
+% 
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+% 
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+% 
+% See also a search service at http://www.nic.cz/whois/
+% 
+% 
+% Whoisd Server Version: 3.15.0
+% Timestamp: Fri Mar 28 02:06:04 2025
+
+domain:       ckrumlov.cz
+registrant:   CESKYKRUMLOV
+admin-c:      CESKYKRUMLOV
+nsset:        NSS:GLOBE-SGLO000001:1
+keyset:       A24-KEYSET
+registrar:    REG-ACTIVE24
+registered:   07.11.1997 01:00:00
+changed:      02.02.2021 14:13:34
+expire:       20.10.2025
+
+contact:      CESKYKRUMLOV
+org:          Město Český Krumlov
+name:         Jan Lippl
+address:      náměstí Svornosti 1
+address:      Český Krumlov
+address:      38101
+address:      CZ
+registrar:    REG-ACTIVE24
+created:      20.05.2015 16:50:03
+changed:      01.02.2021 16:46:10
+
+nsset:        NSS:GLOBE-SGLO000001:1
+nserver:      alfa.ns.active24.cz (81.95.96.2, 2a02:4a8:ac24:100::96:2)
+nserver:      gama.ns.active24.sk 
+nserver:      beta.ns.active24.cz (185.111.90.94, 2a00:4b40:1000:590:185:111:90:94)
+tech-c:       ACTIVE24
+registrar:    REG-ACTIVE24
+created:      01.10.2007 02:00:00
+changed:      11.12.2024 12:01:01
+
+contact:      ACTIVE24
+org:          ACTIVE 24, s.r.o.
+name:         ACTIVE 24, s.r.o.
+address:      Sokolovská 394/17
+address:      Praha 8
+address:      186 00
+address:      CZ
+registrar:    REG-ACTIVE24
+created:      29.04.2008 12:35:02
+changed:      15.05.2018 21:32:00
+
+keyset:       A24-KEYSET
+dnskey:       257 3 13 0EK9ChwJW+CVCvP7mizQwEnR2OJpHgbLmilGV5OyqncZoOufo9fIbVrvxT6qid/T9sAWH7KOfzItPxkVOIbRjg==
+tech-c:       ACTIVE24
+registrar:    REG-ACTIVE24
+created:      26.11.2008 14:12:02
+changed:      10.09.2019 15:48:38
+
+

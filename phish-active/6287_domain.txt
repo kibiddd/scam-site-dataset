@@ -1,0 +1,30 @@
+Domain name: cursusomgaanmetgeld.nl
+Status:      active
+
+Reseller:
+   TransIP
+   Vondellaan 47
+   2332AA Leiden
+   Netherlands
+
+Registrar:
+   team.blue nl B.V.
+   Vondellaan 47
+   2332AA Leiden
+   Netherlands
+
+Abuse Contact:
+   abuse@nl.team.blue
+
+DNSSEC:      yes
+
+Domain nameservers:
+   ns0.transip.net
+   ns1.transip.nl
+   ns2.transip.eu
+
+Creation Date: 2014-11-22
+
+Updated Date: 2021-12-02
+
+Record maintained by: SIDN BV

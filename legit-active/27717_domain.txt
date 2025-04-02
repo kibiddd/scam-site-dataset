@@ -1,0 +1,19 @@
+   Domain Name: FLUTETUNES.COM
+   Registry Domain ID: 1545535774_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.name.com
+   Registrar URL: http://www.name.com
+   Updated Date: 2024-11-02T09:36:43Z
+   Creation Date: 2009-03-05T15:23:41Z
+   Registry Expiry Date: 2026-03-05T15:23:41Z
+   Registrar: Name.com, Inc.
+   Registrar IANA ID: 625
+   Registrar Abuse Contact Email: abuse@name.com
+   Registrar Abuse Contact Phone: 7202492374
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1MTW.NAME.COM
+   Name Server: NS2FJZ.NAME.COM
+   Name Server: NS3CPR.NAME.COM
+   Name Server: NS4FQZ.NAME.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T01:07:57Z 

@@ -1,0 +1,24 @@
+Domain Name: antechcontrols.com.au
+Registry Domain ID: 44a7ec9c4d3241caa7cba9af7a4610ad-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://synergywholesale.com/partner-lookup
+Last Modified: 2024-10-20T23:07:22Z
+Registrar Name: Synergy Wholesale Accreditations Pty Ltd
+Registrar Abuse Contact Email: registry-abuse@nexigen.digital
+Registrar Abuse Contact Phone: +61.383999483
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 5004aa789a364325a2ab99c9eb7d4a91-AU
+Registrant Contact Name: Anil Nath
+Tech Contact ID: 5004aa789a364325a2ab99c9eb7d4a91-AU
+Tech Contact Name: Anil Nath
+Name Server: ns1.serversaurus.com
+Name Server: ns2.serversaurus.com
+DNSSEC: unsigned
+Registrant: ANTECH CONTROLS PTY. LTD.
+Registrant ID: ABN 81 106 695 381
+Eligibility Type: Company
+Eligibility Name: ANTECH CONTROLS PTY. LTD.
+Eligibility ID: ABN 81 106 695 381
+>>> Last update of WHOIS database: 2025-03-26T17:46:07Z 

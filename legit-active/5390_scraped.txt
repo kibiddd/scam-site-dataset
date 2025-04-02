@@ -1,0 +1,168 @@
+EVGA - EVGA X58 SLI Motherboard - EVGA X58 SLI Motherboard
+Skip to main content
+By using EVGA's website and services, you agree to the use of cookies in accordance with EVGA's Privacy Policy.
+Click here to learn more.
+Close
+EVGA logo
+SIGN IN
+NEWS
+News & NoticeEVGA NewsPress Release
+Product UpdatesEVGA GE SeriesEVGA CLCx SeriesEVGA Z790 MotherboardsEVGA E1EVGA SuperNOVA G7EVGA XR1 PRO Capture Card
+AwardsAll AwardsGraphicsMotherboardsPower SuppliesMiceCase
+TechnologyEVGA iCX3EVGA MotherboardsEVGA Power SupplyEVGA NU AudioEVGA HYBRID CoolersEVGA PowerLinkEVGA Precision X1EVGA ELEET X1
+CONCEPT
+Design ConceptGraphics CardsMotherboardsPower SuppliesCoolingGaming GearAudio Card
+PRODUCTS
+Power SuppliesAll Power SuppliesSFX Power Supplies1600 Watts1300 Watts1200 Watts1000 Watts850 Watts800 Watts750 Watts700 Watts650 Watts600 Watts550 Watts500 Watts450 Watts400 WattsPower Supply Awards
+MotherboardsAll MotherboardsIntel Z790 SeriesMotherboard Awards
+Gaming KeyboardsAll Gaming KeyboardsZ20 SeriesZ15 SeriesZ12 Series
+Gaming MiceAll Gaming MiceX20 SeriesX17 SeriesX15 SeriesX12 Series
+Capture DeviceXR1 ProXR1 Lite
+CoolingCPU Closed Loop Cooler
+Overclocking SoftwareEVGA Precision X1EVGA ELEET X1
+Other ProductsAccessories Where To BuyBrowse All ProductsAll Awards
+SERVICE
+Product Info.EVGA SoftwareDrivers and BIOSPower MeterProduct ManualsProduct SpecsCPU and Memory SupportEVGA FAQ
+ServiceProduct RegistrationInvoice UploadSupport TicketsSubmit Warranty ClaimDealer RMAOpen RMAsOrder HistoryRMA HistoryWarranty Check
+Contact UsContact InfoContact Tech SupportComplaints and SuggestionsEVGA Support TeamRate Our Service
+Terms & ConditionsEVGA WarrantyEVGA Extended WarrantyHow To RMADealer RMA Terms & ConditionsTerms and Conditions
+VIDEOS
+COMMUNITY
+ForumsForum HomeEVGA SignaturesPeripheralsGraphics CardsMotherboardsPower SuppliesNU Audio SeriesCLC & Hybrid CoolersGaming & Gaming NewsComputer Hardware & SoftwareGeneral DiscussionEVGA Marketplace
+Community PortalCurrent PromotionsEVGA on SocialEVGA Step Up ProgramNewsletters
+AboutAbout EVGACareersPress Releases
+MY EVGA
+My EVGAMy EVGAMy ProfileMy ProductsMy DataMy BadgesMy Open RMAsView Software BundlesMy Order HistoryProduct RegistrationEVGA Rewards
+Elite MembershipELITE Home
+Associates ProgramAssociates Home
+ServiceContact InfoContact Tech SupportCheck My TicketsComplaints and SuggestionsRate Our Service
+SELECT REGION
+HOME ( US )
+HOME ( Europe )
+HOME ( Deutsch )
+HOME ( FranÃ§ais )
+HOME ( EspaÃ±ol )
+HOME ( PortuguÃªs )
+HOME ( Australia )
+HOME ( Asia )
+é¦é  ( ç¹é«ä¸­æ )
+é¦é¡µ ( ç®ä½ä¸­æ )
+ããããã¼ã¸ ( æ¥æ¬èª )
+ÐÐÐÐÐÐÐ¯ Ð¡Ð¢Ð ÐÐÐÐ¦Ð ( Ð ÑÑÑÐºÐ¸Ð¹ )
+Login
+Designed for the overclocking addict!
+EVGA is proud to announce its first motherboard designed around an Intel chipset: the EVGA X58 SLI. This motherboard is based off the highly anticipated Intel X58/ICH10R chipset and is optimized for those who want the absolute best. Featuring 6 DIMMs of DDR3 memory, capable of supporting triple-channel memory, gives you record breaking memory bandwidth. The EVGA Enthusiast board layout makes sure 2-Way and 3-Way SLI are compatable with all chassis. With all these features and much more, it's no wonder why EVGA products are for those who demand no less that the ultimate in performance!
+EVGA X58 SLI Features:
+Roll over for features list:
+Ability to run 3-way SLI in any chassis
+Onboard power and reset buttons, reset button shows HDD activity.  Onboard and rear I/O panel CMOS clear button, reset the BIOS without opening the case
+Onboard debug LED that shows current CPU temp after boot
+100% solid state capacitors allow for better overclocking and stability
+Supports up to 12 USB ports and 10 SATA II ports, one of which is also e-SATA
+Click for more information
+Next generation Intel™ Core i7 Support
+Intel™ X58/ICH10R Chipsets
+Supports over 6.4 Giga-transfers per second
+Supports Intel™ Turbo Mode Technology for free performance boosts
+Triple-channel memory bus delivers incredible bandwidth, up to 12gigs supported
+3-way SLI optimized for the ultimate in 3D performance
+Click for more information
+EVGA E-LEET Tuning Utility gives you quick access to overclocking controls lets you control the BIOS in real-time
+EVGA EZ Voltage gives hardcore overclockers quick access to reading their voltage levels
+CPU PWM Optimized for over 430w continuous load
+Capable of running QPI frequencies of 200MHz and beyond
+Click for more information
+EVGA VDroop control stabilizes voltage, what you see in the BIOS is what you get in Windows
+Dummy-OC for easy overclocking
+Adjustable CPU PWM Frequency from 800KHz to 1,050KHz
+Very flexible voltages
+•CPU VCore up to 2.30v
+•DRAM Voltage from 0.7v to 3.075v
+•CPU VTT 1.1v to 1.875v
+•CPU PLL 1.0v to 2.575v
+•RAM VRef -> -640mv to +640mv
+•QPI PLL Voltage 1.1v to 1.875v
+•IOH VCore 1.1v to 1.875v
+•ICH/IOH I/O Voltage 1.5v to 2.275v
+•ICH VCore 1.05v to 1.825v
+Click for more information
+"We are extremely pleased with EVGAs X58 motherboard for Intel Core i7™ Processors. The Intel® X58 Express Chipset and Intel® Core i7™ Processor offer a breakthrough in technology and performance, and we are very excited to offer this new next generation platform." said Zane Ball, Director of Desktop Processor Marketing at Intel Corporation.
+"We are absolutely thrilled that EVGA has launched their X58 platform with support for 2-way and 3-way SLI," said Tom Petersen, Director of Technical Marketing at NVIDIA. "3 GeForce GTX 280 GPUs running in 3-way SLI operation on the new EVGA X58 motherboard is one of the fastest platforms for playing this years hottest games such as Far Cry 2 and Fallout 3."
+"EVGA has now launched the latest flagship Intel X58 based SLI platform on the market today, the EVGA X58 SLI motherboard," said Bob Klase, VP of Sales at EVGA. "EVGA strives very hard to deliver the best of the best to meet the high performance that the community demands."
+"The EVGA X58 SLI is a straight forward board that gives you a performance boost in so many environments and makes overclocking fun and familiar to the upgrading enthusiasts," said Peter "Shamino" Tan, Overclocking Evangelist for EVGA.
+Hover over to Zoom-in
+X58 Motherboard Backpanel (Hover over ports for description)
+EVGA X58 SLI
+Part Number
+132-BL-E758-A1
+CPU Support
+Intel Socket 1366
+Chipset
+Intel X58
+Memory Support
+Dual or Triple Channel DDR3
+SLI Support
+2-Way & 3-Way
+SATA Header
+10 (1x e-SATA)
+SATA Type
+3GB/sec
+USB Ports
+12
+PCIE Slot
+1 x PCIe x16, 1 x PCIe x8/x16, 1 x PCIe x8, 1 x PCIe x1, 2 x PCI
+Integrated LAN
+2 x 10/100/1000
+Product Warranty
+Limited Lifetime warrantyupon registration
+Previous Article
+Next Article
+GeForce is a registered trademark of NVIDIA Corporation in the United States and other countries.  Intel, Intel Core and the Intel logo are trademarks of Intel Corporation in the United States and other countries. All brands, products and companies are trademarks or registered trademarks of their respective companies. All rights reserved.
+Article Viewed: 521363 times since 11/17/2008
+EVGA Programs
+EVGA Product Review
+ELITE Member
+Associate Program
+EVGA Features
+Power Meter
+EVGA Precision X1
+Company
+About EVGA
+Press Release
+Contact Customer Service
+Email Customer Service
+EVGA Support Team
+Rate Our Service
+Careers
+Terms & Conditions
+EVGA Warranty
+EVGA Extended Warranty
+How To RMA
+RMA EVGA Step-Up
+Terms and Conditions
+Get Support
+EVGA FAQ
+EVGA Software
+Drivers and BIOS
+Product Manuals
+Product Specs
+CPU and Memory Support
+Accessibility
+Connect
+select country language
+Selection will refresh the page with new results
+æ¥æ¬èª
+ä¸­æ (ç®ä½)
+ä¸­æ (ç¹é«)
+Asia
+Australia
+PortuguÃªs
+EspaÃ±ol (EspaÃ±a)
+FranÃ§ais (France)
+Deutsch
+Europe
+English (US)
+© 2025 EVGA® Corporation | All Rights Reserved
+Privacy
+Cookies
+Terms

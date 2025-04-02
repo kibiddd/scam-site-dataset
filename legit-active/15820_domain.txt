@@ -1,0 +1,21 @@
+   Domain Name: BIZRATE.COM
+   Registry Domain ID: 2293178_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-03-24T11:21:34Z
+   Creation Date: 1996-04-24T04:00:00Z
+   Registry Expiry Date: 2026-04-25T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1189.AWSDNS-20.ORG
+   Name Server: NS-2038.AWSDNS-62.CO.UK
+   Name Server: NS-398.AWSDNS-49.COM
+   Name Server: NS-528.AWSDNS-02.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:31:33Z 

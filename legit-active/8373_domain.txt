@@ -1,0 +1,19 @@
+   Domain Name: STLC.COM
+   Registry Domain ID: 190535_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.rebel.com
+   Registrar URL: http://www.rebel.com
+   Updated Date: 2024-03-29T07:01:45Z
+   Creation Date: 1997-03-27T05:00:00Z
+   Registry Expiry Date: 2025-03-28T04:00:00Z
+   Registrar: Rebel Ltd
+   Registrar IANA ID: 600
+   Registrar Abuse Contact Email: abuse@rebel.com
+   Registrar Abuse Contact Phone: 1-866-497-3235
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: DNS1.EASYDNS.COM
+   Name Server: DNS2.EASYDNS.NET
+   Name Server: DNS3.EASYDNS.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:08:53Z 

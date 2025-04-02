@@ -1,0 +1,25 @@
+Domain Name: astrospace.com.tw
+   Domain Status: ok
+   Registrant:
+      朝暘興業有限公司
+      astrospace co.,
+      zhao.yang@msa.hinet.net
+      TW
+      (Redacted for privacy)
+
+   Administrative Contact:
+      (Redacted for privacy)
+
+   Technical Contact:
+      (Redacted for privacy)
+
+   Record expires on 2026-12-25 00:00:00 (UTC+8)
+   Record created on 2000-10-18 12:07:02 (UTC+8)
+
+   Domain servers in listed order:
+      ns1.jinware.com.tw     
+      ns2.jinware.com.tw     
+
+Registration Service Provider: TWNIC
+Registration Service URL: http://rs.twnic.net.tw/
+Registrar Abuse Contact Email: abuse@twnic.tw

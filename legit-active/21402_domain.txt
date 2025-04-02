@@ -1,0 +1,17 @@
+   Domain Name: JAPAN-ZONE.COM
+   Registry Domain ID: 7057995_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.ionos.com
+   Registrar URL: http://www.ionos.com
+   Updated Date: 2024-06-07T07:27:40Z
+   Creation Date: 1999-06-06T17:06:45Z
+   Registry Expiry Date: 2025-06-06T17:07:22Z
+   Registrar: IONOS SE
+   Registrar IANA ID: 83
+   Registrar Abuse Contact Email: abuse@ionos.com
+   Registrar Abuse Contact Phone: +1.6105601459
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS000.NS0.COM
+   Name Server: NS549.PAIR.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T22:04:07Z 

@@ -1,0 +1,17 @@
+   Domain Name: DONOVANSPRING.COM
+   Registry Domain ID: 1565918437_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2022-07-14T13:00:51Z
+   Creation Date: 2009-08-17T15:02:39Z
+   Registry Expiry Date: 2025-08-17T15:02:39Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS3.IVENUE.COM
+   Name Server: NS4.IVENUE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:00:12Z 

@@ -1,0 +1,24 @@
+Domain Name: cherub.org.au
+Registry Domain ID: b275013b0b29402b91c4b57c8bc76a23-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.godaddy.com/en-au/contact-us
+Last Modified: 2024-09-03T21:15:31Z
+Registrar Name: GoDaddy.com LLC trading as GoDaddy.com
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4426008800
+Reseller Name: 
+Status: clientDeleteProhibited https://identitydigital.au/get-au/whois-status-codes#clientDeleteProhibited
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Status: clientUpdateProhibited https://identitydigital.au/get-au/whois-status-codes#clientUpdateProhibited
+Registrant Contact ID: 92e4547d1349443da38e6605b39fbfe1-AU
+Registrant Contact Name: Andrew Glassock
+Tech Contact ID: 9dc7cb1e5c044c77ab9606bb9a2ecc48-AU
+Tech Contact Name: Andrew Glassock
+Name Server: ns02.domaincontrol.com
+Name Server: ns01.domaincontrol.com
+DNSSEC: unsigned
+Registrant: CHERUB ASSOCIATION OF N.S.W. INCORPORATED
+Registrant ID: NSW Y2842708
+Eligibility Type: Incorporated Association
+>>> Last update of WHOIS database: 2025-03-26T23:05:10Z 

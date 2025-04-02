@@ -1,0 +1,69 @@
+Domain Name: mcgill.ca
+Registry Domain ID: D6879-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webdomaine.ca
+Updated Date: 2022-07-26T17:26:41Z
+Creation Date: 2000-10-11T19:27:35Z
+Registry Expiry Date: 2027-01-12T05:00:00Z
+Registrar: A.R.C. Informatique Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: mona@arcinfo.qc.ca
+Registrar Abuse Contact Phone: +1.4185459224
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 107192019-CIRA
+Registrant Name: Spiro Mitsialis
+Registrant Organization: McGill University (Quebec)
+Registrant Street: 805 Sherbrooke St. W.
+Registrant City: Montreal
+Registrant State/Province: QC
+Registrant Postal Code: H3A2K6
+Registrant Country: CA
+Registrant Phone: +1.5143984455
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: spiro.mitsialis@mcgill.ca
+Registry Admin ID: 107192020-CIRA
+Admin Name: Spiro Mitsialis
+Admin Organization: McGill University (Quebec)
+Admin Street: 805 Sherbrooke St. W.
+Admin City: Montreal
+Admin State/Province: QC
+Admin Postal Code: H3A2K6
+Admin Country: CA
+Admin Phone: +1.5143984455
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: spiro.mitsialis@mcgill.ca
+Registry Tech ID: 107192018-CIRA
+Tech Name: ITS Finance
+Tech Organization: McGill University (Quebec)
+Tech Street: 805 Sherbrooke St. W.
+Tech City: Montreal
+Tech State/Province: QC
+Tech Postal Code: H3A2K6
+Tech Country: CA
+Tech Phone: +1.5143984455
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: acctadmin.ncs@mcgill.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: pens1.mcgill.ca
+Name Server: pens2.mcgill.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T03:10:13Z 

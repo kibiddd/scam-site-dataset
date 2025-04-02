@@ -1,0 +1,25 @@
+DOMAIN NAME:                    reklamarzym.pl
+registrant type:                organization
+nameservers:                    ns1.tld.pl. [94.152.254.101]
+                                ns2.tld.pl. [94.152.255.101]
+created:                        2012.09.13 01:48:01
+last modified:                  2024.07.15 08:48:15
+renewal date:                   2025.09.13 01:48:01
+
+option:                         no
+
+dnssec:                         Unsigned
+
+REGISTRAR:
+Consulting Service Sp. z o.o.
+ul. Jerzego Iwanowa-Szajnowicza 7 lok. U3
+02-796 Warszawa
+Polska/Poland
+Tel: +48.221238080
+http://consultingservice.pl/
+domeny@ConsultingService.pl
+
+WHOIS database responses:       https://dns.pl/en/whois
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system
+

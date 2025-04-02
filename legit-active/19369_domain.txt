@@ -1,0 +1,29 @@
+Domain Name: boxhillcityband.org.au
+Registry Domain ID: e1c56ab22dba4a66a432bfc3bc9fa7cd-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://synergywholesale.com/partner-lookup
+Last Modified: 2025-01-23T01:03:48Z
+Registrar Name: Synergy Wholesale Accreditations Pty Ltd
+Registrar Abuse Contact Email: registry-abuse@nexigen.digital
+Registrar Abuse Contact Phone: +61.383999483
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 82b93581bf4444a5b4d3282cd38f64f8-AU
+Registrant Contact Name: Hans Zhu
+Tech Contact ID: 82b93581bf4444a5b4d3282cd38f64f8-AU
+Tech Contact Name: Hans Zhu
+Name Server: ns1.nameserver.net.au
+Name Server IP: 112.140.176.177
+Name Server IP: 2400:b800:0:1::11
+Name Server: ns2.nameserver.net.au
+Name Server IP: 103.252.154.10
+Name Server IP: 2400:8f80:0:11::107
+Name Server: ns3.nameserver.net.au
+Name Server IP: 2600:3c01::f03c:93ff:fed1:8135
+Name Server IP: 45.79.92.84
+DNSSEC: unsigned
+Registrant: Box Hill City Band
+Registrant ID: OTHER A0005461G
+Eligibility Type: Non-profit Organisation
+>>> Last update of WHOIS database: 2025-03-27T21:37:08Z 

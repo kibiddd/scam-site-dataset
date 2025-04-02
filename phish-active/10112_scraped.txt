@@ -1,0 +1,9 @@
+Warning:  require(/home5/ftgamble/gayarambut.co.id/wp-includes/class-wp-duotone.php): Failed to open stream: No such file or directory in /home5/ftgamble/gayarambut.co.id/wp-settings.php on line 178
+Fatal error:  Uncaught Error: Failed opening required '/home5/ftgamble/gayarambut.co.id/wp-includes/class-wp-duotone.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home5/ftgamble/gayarambut.co.id/wp-settings.php:178
+Stack trace:
+#0 /home5/ftgamble/gayarambut.co.id/wp-config.php(30): require_once()
+#1 /home5/ftgamble/gayarambut.co.id/wp-load.php(50): require_once('/home5/ftgamble...')
+#2 /home5/ftgamble/gayarambut.co.id/wp-blog-header.php(13): require_once('/home5/ftgamble...')
+#3 /home5/ftgamble/gayarambut.co.id/index.php(17): require('/home5/ftgamble...')
+#4 {main}
+thrown in /home5/ftgamble/gayarambut.co.id/wp-settings.php on line 178

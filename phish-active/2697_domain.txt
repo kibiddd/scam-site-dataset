@@ -1,0 +1,34 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+Domain Information: [ドメイン情報]
+[Domain Name]                   ATAGAN.JP
+
+[登録者名]                      サイエンス・グラフィックス株式会社
+[Registrant]                    Science Graphics Co., Ltd.
+
+[Name Server]                   ns1.value-domain.com
+[Name Server]                   ns2.value-domain.com
+[Name Server]                   ns3.value-domain.com
+[Name Server]                   ns4.value-domain.com
+[Name Server]                   ns5.value-domain.com
+[Signing Key]                   
+
+[登録年月日]                    2010/04/07
+[有効期限]                      2025/04/30
+[状態]                          Active
+[最終更新]                      2024/05/01 01:05:04 (JST)
+
+Contact Information: [公開連絡窓口]
+[名前]                          Whois情報公開代行サービス by バリュードメイン
+[Name]                          Whois Privacy Protection Service by VALUE-DOMAIN
+[Email]                         whoisproxy@value-domain.com
+[Web Page]                      https://www.value-domain.com/
+[郵便番号]                      530-0011
+[住所]                          大阪府大阪市北区大深町3-1
+                                グランフロント大阪 タワーB　23階
+[Postal Address]                 
+[電話番号]                      06-6241-6585
+[FAX番号]                       06-6374-0121
+

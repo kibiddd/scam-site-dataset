@@ -1,0 +1,17 @@
+   Domain Name: WE888.NET
+   Registry Domain ID: 2929034833_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.gname.com
+   Registrar URL: http://www.gname.com
+   Updated Date: 2024-10-27T06:32:09Z
+   Creation Date: 2024-10-27T05:13:09Z
+   Registry Expiry Date: 2025-10-27T05:13:09Z
+   Registrar: Gname.com Pte. Ltd.
+   Registrar IANA ID: 1923
+   Registrar Abuse Contact Email: complaint@gname.com
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: BETHANY.NS.CLOUDFLARE.COM
+   Name Server: THEO.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:49:52Z 

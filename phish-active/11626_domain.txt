@@ -1,0 +1,17 @@
+   Domain Name: IGISUBIZO.COM
+   Registry Domain ID: 2803556779_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.afriregister.com
+   Registrar URL: http://www.afriregister.com
+   Updated Date: 2024-08-14T09:35:17Z
+   Creation Date: 2023-08-05T16:21:41Z
+   Registry Expiry Date: 2025-08-05T16:21:41Z
+   Registrar: AFRIREGISTER S.A.
+   Registrar IANA ID: 1381
+   Registrar Abuse Contact Email: abuse@afriregister.com
+   Registrar Abuse Contact Phone: +257.22258363
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS5.MY-CONTROL-PANEL.COM
+   Name Server: NS6.MY-CONTROL-PANEL.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:52:34Z 

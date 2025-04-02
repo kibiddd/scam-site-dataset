@@ -1,0 +1,17 @@
+   Domain Name: CAPSBITRADERS.COM
+   Registry Domain ID: 2740500582_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-11-21T06:50:26Z
+   Creation Date: 2022-11-24T08:10:18Z
+   Registry Expiry Date: 2025-11-24T08:10:18Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS1.NAMECHEAPHOSTING.COM
+   Name Server: DNS2.NAMECHEAPHOSTING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:45:21Z 

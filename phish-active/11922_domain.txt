@@ -1,0 +1,20 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        INSTAGRAM-MY.RU
+nserver:       ns1.timeweb.ru.
+nserver:       ns2.timeweb.ru.
+nserver:       ns3.timeweb.org.
+nserver:       ns4.timeweb.org.
+state:         REGISTERED, DELEGATED, VERIFIED
+person:        Private Person
+registrar:     REGRU-RU
+admin-contact: http://www.reg.ru/whois/admin_contact
+created:       2017-11-15T22:33:03Z
+paid-till:     2025-11-15T22:33:03Z
+free-date:     2025-12-17
+source:        TCI
+
+Last updated on 2025-03-27T14:53:01Z
+

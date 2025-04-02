@@ -1,0 +1,59 @@
+%  (c) 2006-2021 CZ.NIC, z.s.p.o.
+% 
+% Intended use of supplied data and information
+% 
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+% 
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+% 
+% See also a search service at http://www.nic.cz/whois/
+% 
+% 
+% Whoisd Server Version: 3.15.0
+% Timestamp: Wed Mar 26 18:43:33 2025
+
+domain:       ahinsashoes.cz
+registrant:   FORPSI-OQU-S439723
+nsset:        SAVANA_DNS
+registrar:    REG-INTERNET-CZ
+registered:   05.08.2013 02:42:14
+changed:      25.07.2017 09:00:19
+expire:       05.08.2025
+
+contact:      FORPSI-OQU-S439723
+org:          You Unlimited s.r.o.
+name:         Lukáš Klimpera
+address:      Vnější 17
+address:      Praha
+address:      14100
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      25.02.2013 11:09:09
+
+nsset:        SAVANA_DNS
+nserver:      ns1.savana.cz 
+nserver:      ns2.savana.cz 
+nserver:      ns3.savana.cz 
+tech-c:       SAVANA
+registrar:    REG-WEBGLOBE
+created:      01.10.2007 13:33:01
+changed:      11.12.2024 14:17:26
+
+contact:      SAVANA
+org:          Webglobe, s.r.o.
+name:         Giacomo Tognoni
+address:      Pobřežní 620/3
+address:      Praha
+address:      18600
+address:      CZ
+registrar:    REG-WEBGLOBE
+created:      23.11.2007 13:39:41
+changed:      18.09.2024 11:41:04
+
+

@@ -1,0 +1,17 @@
+   Domain Name: HISTORION.NET
+   Registry Domain ID: 162273625_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.spaceship.com
+   Registrar URL: http://www.spaceship.com
+   Updated Date: 2024-04-09T02:30:33Z
+   Creation Date: 2005-05-27T16:35:58Z
+   Registry Expiry Date: 2025-05-27T16:35:58Z
+   Registrar: Spaceship, Inc.
+   Registrar IANA ID: 3862
+   Registrar Abuse Contact Email: abuse@spaceship.com
+   Registrar Abuse Contact Phone: +1.9854014545
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS13.HAWKHOST.COM
+   Name Server: NS14.HAWKHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T01:55:47Z 

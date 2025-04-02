@@ -1,0 +1,30 @@
+Domain Name: fox.ci
+Registry Domain ID: 3486-CoCCA
+Registry WHOIS Server: whois.nic.ci
+Updated Date: 2024-07-26T22:38:00.957Z
+Creation Date: 2014-07-27T14:30:00.0Z
+Registry Expiry Date: 2025-07-27T14:30:00.0Z
+Registrar Registration Expiration Date: 2025-07-27T14:30:00.0Z
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: ncUbh-xR1Ir
+Registrant Name: Redacted | EU Registrar
+Registrant Street: Redacted | EU Registrar
+Registrant Street: Redacted | EU Registrar
+Registrant City: Redacted | EU Registrar
+Registrant Country: CI
+Registrant Phone: Redacted | EU Registrar
+Registrant Email: Redacted | EU Registrar
+Registry Billing ID: gKkw2-e4HlS
+Billing Name: Redacted | EU Registrar
+Billing Street: Redacted | EU Registrar
+Billing City: Redacted | EU Registrar
+Billing Postal Code: Redacted | EU Registrar
+Billing Country: US
+Billing Phone: Redacted | EU Registrar
+Billing Email: Redacted | EU Registrar
+Registrar: Netim
+Name Server: ns1.dreamhost.com
+Name Server: ns2.dreamhost.com
+Name Server: ns3.dreamhost.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2025-03-27T13:46:59.634Z 

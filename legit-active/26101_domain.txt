@@ -1,0 +1,19 @@
+   Domain Name: STAND-UPCOMEDY.COM
+   Registry Domain ID: 306702_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namejuice.com
+   Registrar URL: http://www.namejuice.com
+   Updated Date: 2025-03-21T21:41:05Z
+   Creation Date: 1997-06-22T04:00:00Z
+   Registry Expiry Date: 2026-06-21T04:00:00Z
+   Registrar: BRANDON GRAY INTERNET SERVICES INC. (dba "NameJuice.com")
+   Registrar IANA ID: 636
+   Registrar Abuse Contact Email: abuse@namejuice.com
+   Registrar Abuse Contact Phone: +1.9054152681
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.WPWIZ.CLOUD
+   Name Server: NS2.WPWIZ.CLOUD
+   Name Server: NS3.WPWIZ.CLOUD
+   Name Server: NS4.WPWIZ.CLOUD
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T00:03:50Z 

@@ -1,0 +1,17 @@
+   Domain Name: IGKTEE.COM
+   Registry Domain ID: 2917880746_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gname.com
+   Registrar URL: http://www.gname.com
+   Updated Date: 2024-09-18T12:52:30Z
+   Creation Date: 2024-09-18T12:49:14Z
+   Registry Expiry Date: 2025-09-18T12:49:14Z
+   Registrar: Gname.com Pte. Ltd.
+   Registrar IANA ID: 1923
+   Registrar Abuse Contact Email: complaint@gname.com
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ALBERTO.NS.CLOUDFLARE.COM
+   Name Server: SIMONE.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:46:38Z 

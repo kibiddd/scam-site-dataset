@@ -1,0 +1,17 @@
+   Domain Name: ABGHTRADEFX.COM
+   Registry Domain ID: 2738852517_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.rrpproxy.net
+   Registrar URL: http://www.key-systems.net
+   Updated Date: 2024-11-17T08:09:23Z
+   Creation Date: 2022-11-16T08:58:56Z
+   Registry Expiry Date: 2025-11-16T08:58:56Z
+   Registrar: Key-Systems GmbH
+   Registrar IANA ID: 269
+   Registrar Abuse Contact Email: abuse@key-systems.net
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS15.V-SYS.ORG
+   Name Server: NS16.V-SYS.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:44:51Z 

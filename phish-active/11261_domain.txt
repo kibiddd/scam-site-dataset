@@ -1,0 +1,20 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        HM.RU
+nserver:       ns1.digitalocean.com.
+nserver:       ns2.digitalocean.com.
+nserver:       ns3.digitalocean.com.
+state:         REGISTERED, DELEGATED, UNVERIFIED
+org:           JSC 'Nordtehgroup'
+taxpayer-id:   8602071010
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       1999-08-02T14:39:22Z
+paid-till:     2025-08-31T21:00:00Z
+free-date:     2025-10-02
+source:        TCI
+
+Last updated on 2025-03-27T13:58:01Z
+

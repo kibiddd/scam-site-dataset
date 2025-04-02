@@ -1,0 +1,17 @@
+   Domain Name: CARS-DIRECTORY.NET
+   Registry Domain ID: 150632844_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2025-03-25T23:13:59Z
+   Creation Date: 2005-04-13T06:43:13Z
+   Registry Expiry Date: 2026-04-13T06:43:13Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: KOBE.NS.CLOUDFLARE.COM
+   Name Server: SHARON.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:33:33Z 

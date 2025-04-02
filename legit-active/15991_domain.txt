@@ -1,0 +1,17 @@
+   Domain Name: KOBOTEL.COM
+   Registry Domain ID: 1593039487_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.liquidnetlimited.com
+   Registrar URL: http://www.liquidnetlimited.com
+   Updated Date: 2024-04-17T13:06:04Z
+   Creation Date: 2010-04-16T08:43:11Z
+   Registry Expiry Date: 2025-04-16T08:43:11Z
+   Registrar: LiquidNet Ltd.
+   Registrar IANA ID: 1472
+   Registrar Abuse Contact Email: abuse@liquidnetlimited.com
+   Registrar Abuse Contact Phone: +44-20-3695-1294
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS1.SUPREMECENTER112.COM
+   Name Server: DNS2.SUPREMECENTER112.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:32:17Z 

@@ -1,0 +1,13 @@
+Domain Name: runwalkhb.org.nz
+Registrar URL: https://www.crazydomains.com.au/
+Updated Date: 2024-05-13T08:41:32Z
+Creation Date: 2007-06-18T03:11:25Z
+Original Created: 2007-06-18T03:11:25Z
+Registrar: Dreamscape Networks International Pte Ltd t/a Crazy Domains
+Domain Status: ok https://icann.org/epp#ok
+Name Server: ns1.openhost.co.nz
+Name Server: ns2.openhost.co.nz
+Name Server: ns3.openhost.co.nz
+DNSSEC: unsigned
+URL of the Domain Name Commission Limited Inaccuracy Complaint Form: https://dnc.org.nz/enquiry-form/
+>>> Last update of WHOIS database: 2025-03-28T16:10:27Z 

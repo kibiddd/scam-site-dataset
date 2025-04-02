@@ -1,0 +1,17 @@
+   Domain Name: INSTANCY-CAPITAL.COM
+   Registry Domain ID: 2968226822_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.rrpproxy.net
+   Registrar URL: http://www.key-systems.net
+   Updated Date: 2025-03-19T14:32:17Z
+   Creation Date: 2025-03-19T14:18:48Z
+   Registry Expiry Date: 2026-03-19T14:18:48Z
+   Registrar: Key-Systems GmbH
+   Registrar IANA ID: 269
+   Registrar Abuse Contact Email: abuse@key-systems.net
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.TAOA.COM
+   Name Server: NS2.TAOA.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:46:52Z 

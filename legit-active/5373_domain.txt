@@ -1,0 +1,21 @@
+   Domain Name: BRIGHTSIDEOFTHESUN.COM
+   Registry Domain ID: 676913091_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.registrar.amazon.com
+   Registrar URL: http://registrar.amazon.com
+   Updated Date: 2024-10-16T22:11:23Z
+   Creation Date: 2006-11-19T23:37:24Z
+   Registry Expiry Date: 2025-11-19T23:37:24Z
+   Registrar: Amazon Registrar, Inc.
+   Registrar IANA ID: 468
+   Registrar Abuse Contact Email: trustandsafety@support.aws.com
+   Registrar Abuse Contact Phone: +1.2024422253
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1336.AWSDNS-39.ORG
+   Name Server: NS-147.AWSDNS-18.COM
+   Name Server: NS-1739.AWSDNS-25.CO.UK
+   Name Server: NS-843.AWSDNS-41.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:14:50Z 

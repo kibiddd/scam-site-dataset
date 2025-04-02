@@ -1,0 +1,61 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://web-whois.nic.it                                           *
+*********************************************************************
+
+Domain:             animagemella.it
+Status:             ok
+Signed:             no
+Created:            2000-03-06 00:00:00
+Last Update:        2024-06-13 00:48:16
+Expire Date:        2025-05-28
+
+Registrant
+  Organization:     NIFRA SNC
+  Address:          via dei trattati di maastricht 15, 220
+                    BARLETTA
+                    70051
+                    BA
+                    IT
+  Created:          2008-05-28 17:00:13
+  Last Update:      2010-11-23 15:11:29
+
+Admin Contact
+  Name:             francesco baylon
+  Organization:     francesco baylon
+  Address:          via madonna della croce, 220
+                    BARLETTA
+                    70051
+                    BA
+                    IT
+  Created:          2008-05-28 17:00:14
+  Last Update:      2010-11-23 15:11:29
+
+Technical Contacts
+  Name:             francesco baylon
+  Organization:     francesco baylon
+  Address:          via madonna della croce, 220
+                    BARLETTA
+                    70051
+                    BA
+                    IT
+  Created:          2008-05-28 17:00:14
+  Last Update:      2010-11-23 15:11:29
+
+Registrar
+  Organization:     Aruba s.p.a.
+  Name:             ARUBA-REG
+  Web:              http://www.aruba.it
+  DNSSEC:           yes
+
+
+Nameservers
+  dns.technorail.com
+  dns2.technorail.com
+  dns3.arubadns.net
+  dns4.arubadns.cz
+

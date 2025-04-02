@@ -1,0 +1,48 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T11:56:39-03:00 - 2a09:bac5:c82c:de1::162:75
+
+domain:      justuskennelclub.com.br
+owner:       henrique silva mendon�a
+ownerid:     ***.946.582-**
+country:     BR
+owner-c:     HESME12
+tech-c:      COL264
+nserver:     dns1.uplsys.com.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+nserver:     dns2.uplsys.com.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+nserver:     dns3.uplsys.com.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+nserver:     dns4.uplsys.com.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+created:     20100914 #7320754
+changed:     20220926
+expires:     20250914
+status:      published
+
+nic-hdl-br:  HESME12
+person:      HENRIQUE SILVA MENDON�A
+e-mail:      henrique@justuskennelclub.com.br
+country:     BR
+created:     20100913
+changed:     20160919
+
+nic-hdl-br:  COL264
+person:      CRIADOR ON-LINE LTDA
+e-mail:      heracliowinter@gmail.com
+country:     BR
+created:     20050331
+changed:     20230118
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

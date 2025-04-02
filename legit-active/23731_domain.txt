@@ -1,0 +1,18 @@
+   Domain Name: ZIP-CODES.COM
+   Registry Domain ID: 2109990_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2022-12-16T13:47:00Z
+   Creation Date: 1998-07-20T04:00:00Z
+   Registry Expiry Date: 2028-07-19T04:00:00Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.ZIP-CODES.COM
+   Name Server: NS2.ZIP-CODES.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T22:48:25Z 

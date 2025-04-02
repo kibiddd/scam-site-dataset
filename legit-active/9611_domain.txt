@@ -1,0 +1,19 @@
+   Domain Name: PHOTOGMUSIC.COM
+   Registry Domain ID: 1587700691_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enomdomains.com
+   Updated Date: 2025-02-16T20:15:08Z
+   Creation Date: 2010-03-05T19:06:58Z
+   Registry Expiry Date: 2026-03-05T19:06:58Z
+   Registrar: eNom, LLC
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1164.AWSDNS-17.ORG
+   Name Server: NS-1798.AWSDNS-32.CO.UK
+   Name Server: NS-473.AWSDNS-59.COM
+   Name Server: NS-585.AWSDNS-09.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:12:54Z 

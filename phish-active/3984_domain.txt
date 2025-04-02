@@ -1,0 +1,18 @@
+   Domain Name: BENJIM.COM
+   Registry Domain ID: 2944312756_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gabia.com
+   Registrar URL: http://www.gabia.com
+   Updated Date: 2024-12-22T06:19:08Z
+   Creation Date: 2024-12-22T06:19:07Z
+   Registry Expiry Date: 2025-12-22T06:19:07Z
+   Registrar: Gabia, Inc.
+   Registrar IANA ID: 244
+   Registrar Abuse Contact Email: abuse@gabia.com
+   Registrar Abuse Contact Phone: +82.28293543
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS.GABIA.CO.KR
+   Name Server: NS.GABIA.NET
+   Name Server: NS1.GABIA.CO.KR
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T20:24:53Z 

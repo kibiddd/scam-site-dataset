@@ -1,0 +1,17 @@
+   Domain Name: BELLINGHAMWHATCOM.COM
+   Registry Domain ID: 2881540328_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: www.gname.com/whois
+   Registrar URL: http://www.gname.com
+   Updated Date: 2024-07-02T10:20:22Z
+   Creation Date: 2024-05-15T18:09:59Z
+   Registry Expiry Date: 2025-05-15T18:09:59Z
+   Registrar: Gname 059 Inc
+   Registrar IANA ID: 4051
+   Registrar Abuse Contact Email: ZYS@GNAME.COM
+   Registrar Abuse Contact Phone: +65 31581391
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: BAYAN.NS.CLOUDFLARE.COM
+   Name Server: DAISY.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:32:03Z 

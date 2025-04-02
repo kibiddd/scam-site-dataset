@@ -1,0 +1,65 @@
+Lavalys Everest Ultimate Edition 3.0  –  Techgage
+Articles
+Audio & Media
+Cases & PSUs
+Cooling
+Editorials & Interviews
+Gaming
+Graphics & Displays
+Miscellaneous
+Motherboards
+Mobile
+Networking
+Peripherals
+Processors
+Software
+Storage
+Systems
+Trade Shows
+News
+Forums
+Contact Us
+Search
+Support Us On Patreon
+Social & RSS Feeds
+Latest Videos
+Latest News
+Qualcomm Launches Snapdragon 4 Gen 2 Mobile Platform
+AMD Launches Ryzen PRO 7000 Series Mobile & Desktop Platform
+Intel Launches Sleek Single-Slot Arc Pro A60 Workstation Graphics Card
+NVIDIA Announces Latest Ada Lovelace Additions: GeForce RTX 4060 Ti & RTX 4060
+Maxon Redshift With AMD Radeon GPU Rendering Support Now Available
+Lavalys Everest Ultimate Edition 3.0
+by Rob Williams on July 10, 2006 in Software
+Lavalys have recently announced their latest version of the popular Everest benchmarking program, and have included some notable updates. We take a quick stroll through to see what has been updated and added. Is it worth a buy or upgrade?
+Page 1 – Introduction
+Lavalys has recently released a major upgrade to their Everest product, so we are going to take a quick look through and see what’s new. For the uninitiated, Everest is a leading benchmarking tool among enthusiasts. Beyond it’s few benchmarks though, it’s a tool used to give every inch of info you may need to know about your PC. I first learned about Everest a few years ago, when a friend recommended me use the Report feature. Needless to say, I have been a user since.
+Last year, we took a look at version 2.0, aka Ultimate Edition 2005. That version improved a lot over its predecessor, and the same can be said about 3.0. According to the press release, we will see a lot of the core elements improved. Most notably, we see Intel Core 2 support, a system burn-in test, smart battery information for laptops and a far better looking CPUID panel.
+If you want to know what Everest offers as a whole, be sure to check out our article of 2.0, as nothing has changed dramatically since then. The tools that enthusiast benchmarkers use regularly have not changed since 2.80, which is a good thing. Multiple tests comparing the results from 2.80 to 3.00 gave similar results.
+EVEREST Corporate Edition 3.00 adds integrated remote control, enhanced support for the latest technologies from Intel and AMD as well as the most complete and accurate hardware recognition engine ever.
+LAVAL, CANADA, June 27, 2006  Lavalys Inc., a leader in IT management solutions for both individuals and enterprises, announced today the next evolution of its network audit and IT asset management software with the introduction of EVEREST Corporate Edition (EVEREST CE) version 3.00. This release is available in 34 languages and contains significant enhancements to the company’s flagship product.
+Strong of its new and previously established partnerships with hardware industry leaders Corsair Memory, NVIDIA, Abit, ATI and Matrox amongst others, the company is confident this release of EVEREST CE includes the most comprehensive and accurate network audit engine to date.
+Those partnerships combined with our existing experience in the field not only ensures that EVEREST CE remains ahead of the competition but also add improved capabilities for the product to support new hardware before it hits the public which is definitely a big plus for our users as they can be now more confident than ever that no matter how new their computers are, EVEREST CE will detect all of their components, said Roger Marion, President and Chief Executive Officer. This can be experienced right away since EVEREST CE 3.00 already supports Intel Core 2 Duo, Intel Core 2 Extreme and Intel Xeon 5100 Series processors which are scheduled for release later this summer.
+This release also introduces the new EVEREST Remote Control (EVEREST RC) module which offers a one-click-away solution to access and control any EVEREST enabled machine and its resources from any locationas if you were there. With EVEREST RC, you can easily run programs, manipulate data, print reports, transfer files, troubleshoot, and provide live technical assistance and much more on remote systems. Designed with help desks, network administrators, tech support departments and IT services professionals in mind, EVEREST RC provides the right mix of functionality and freedom to increase global efficiency while decreasing required time and efforts.
+Other new features and enhancements in EVEREST Corporate Edition 3.00 include:
+Wider support for SpeedStep, PowerNow! and CoolnQuiet enabled systems
+Smart Battery information
+CPU diode temperature measurement for the latest AMD and Intel processors
+System Stability Test
+Support for NVIDIA/Corsair Enhanced Performance Profiles
+System Stability Test
+It’s about time! That’s all I have to say about a stability test. This tool allows you to stress test your CPU, Memory and hard drives… all at the touch of a button. It uses the benchmarking tests, such as the CPU PhotoWorxx and FPU Mandel, and repeats them over and over, until you stop it. Generally, a stress test stresses more than just one piece of hardware at a time, and so does this. Each of the tests will overlap each other, to give a more accurate result.
+Once the test is finished, it you want to save your results you can… in the form of a PNG file. Whether this stress test is better than others is yet to be seen, but it’s a fantastic tool regardless. Allowing you to stress three vital components all at once is a great way to ensure system stability. I have to wonder if we will see a graphics test added into the mix soon?
+CPUID
+The CPUID feature has been greatly updated and looks far better than any other out there. Depending on whether you have an AMD or an Intel, the background image will be different. It displays all of the basic information that you will need, including memory timings. Everest grabs information on the program startup, so if you change values while it’s open, it will not automatically update. For instance, I tweaked my memory timings through A64 Tweaker, but CPUID displayed the same info. Once I restarted the entire program, it displayed the values properly.
+While I love the new CPUID, I will still not use it instead of CPU-z. CPU-z contains even more information, but it’s just not as pretty. If Lavalys made CPUID a standalone EXE, I am sure more people would use it.
+Page List:
+Top
+1. Introduction
+2. Disk Bench, Smart Battery, Conclusion
+Next Page >>
+Support our efforts! With ad revenue at an all-time low for written websites, we're relying more than ever on reader support to help us continue putting so much effort into this type of content. You can support us by becoming a Patron, or by using our Amazon shopping affiliate links listed through our articles. Thanks for your support!
+Rob Williams
+Rob founded Techgage in 2005 to be an 'Advocate of the consumer', focusing on fair reviews and keeping people apprised of news in the tech world. Catering to both enthusiasts and businesses alike; from desktop gaming to professional workstations, and all the supporting software.
+Copyright © 2005-2025 Techgage Networks - All Rights Reserved.
+About Us | Advertise | Terms & Conditions | Privacy Policy

@@ -1,0 +1,17 @@
+   Domain Name: HC-HAPPYCASTING.COM
+   Registry Domain ID: 1289302652_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.cronon.net
+   Registrar URL: http://www.cronon.net
+   Updated Date: 2024-10-22T07:15:04Z
+   Creation Date: 2007-10-21T12:35:35Z
+   Registry Expiry Date: 2025-10-21T12:35:35Z
+   Registrar: Cronon GmbH
+   Registrar IANA ID: 141
+   Registrar Abuse Contact Email: abuse-domains@cronon.net
+   Registrar Abuse Contact Phone: +4930398020
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: DOCKS06.RZONE.DE
+   Name Server: SHADES09.RZONE.DE
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:58:02Z 

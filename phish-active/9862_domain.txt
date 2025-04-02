@@ -1,0 +1,19 @@
+   Domain Name: TB-HOSTING.COM
+   Registry Domain ID: 2650826989_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.register.eu
+   Registrar URL: http://www.combell.com
+   Updated Date: 2022-06-10T13:54:58Z
+   Creation Date: 2021-10-28T08:53:33Z
+   Registry Expiry Date: 2025-10-28T08:53:33Z
+   Registrar: Combell NV
+   Registrar IANA ID: 1467
+   Registrar Abuse Contact Email: activation@combell.com
+   Registrar Abuse Contact Phone: +32.92187979
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS3.EUROPEAN-SERVER.COM
+   Name Server: NS4.EUROPEAN-SERVER.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:50:30Z 

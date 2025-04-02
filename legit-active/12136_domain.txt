@@ -1,0 +1,13 @@
+# WHOIS .PK Domains (PKNIC)
+
+    Domain: imperialsoft.com.pk
+    Status: Domain is Registered
+    
+
+    Creation Date: 2001-03-01
+    Expiry Date: 2027-03-01
+    Name Server: dns1.supremepanel.com
+    Name Server: dns2.supremepanel.com
+    Name Server: 
+    Name Server: 
+

@@ -1,0 +1,36 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+Domain Information: [ドメイン情報]
+[Domain Name]                   DGA.JP
+
+[登録者名]                      株式会社スカラコミュニケーションズ
+[Registrant]                    Scala Communications, Inc.
+
+[Name Server]                   dns1.scalagrp.com
+[Name Server]                   dns2.scalagrp.com
+[Name Server]                   dns3.dga.jp
+[Name Server]                   dns4.dga.jp
+[Signing Key]                   
+
+[登録年月日]                    2002/11/04
+[有効期限]                      2025/11/30
+[状態]                          Active
+[最終更新]                      2024/12/01 01:05:04 (JST)
+
+Contact Information: [公開連絡窓口]
+[名前]                          株式会社スカラコミュニケーションズ
+[Name]                          Scala Communications, Inc.
+[Email]                         dom@scala-com.jp
+[Web Page]                       
+[郵便番号]                      150-8510
+[住所]                          東京都渋谷区
+                                渋谷 2-21-1
+                                渋谷ヒカリエ 17F
+[Postal Address]                Shibuya-ku
+                                2-21-1 Shibuya
+                                Shibuya Hikarie 17F
+[電話番号]                      03-6418-3962
+[FAX番号]                       03-6418-3983
+

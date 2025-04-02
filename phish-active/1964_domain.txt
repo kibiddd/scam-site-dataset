@@ -1,0 +1,29 @@
+DOMAIN NAME:                    illb.pl
+registrant type:                individual
+nameservers:                    ns1.aftermarket.pl. [185.253.213.10]
+                                ns2.aftermarket.pl. [185.253.214.10]
+created:                        2025.02.22 13:08:18
+last modified:                  2025.02.22 13:11:02
+renewal date:                   2026.02.22 13:08:18
+
+option:                         no
+
+dnssec:                         Signed
+DS:                             4113 13 1 A898F865FFF97388856F78578680412A4C1283D1
+DS:                             4113 13 2 3A54A15573A50F770886951DC596229AD415E5EAD2852191B2F94B5E40EE498D
+DS:                             4113 13 4 634DFD95476D5E944089DAAD1C3538324CCF2792520B1525215D05E5AFCCF0281BAA9F328F3C8B974CCA475FF498C89C
+
+REGISTRAR:
+Aftermarket.pl Limited
+Chytron, 3, Office 301, P.C.
+1075 Nicosia
+Cypr/Cyprus
+Tel: +357.22761649
+Fax: +357.22767543
+http://www.AfterMarket.pl/contact.php
+domains@dropped.pl
+
+WHOIS database responses:       https://dns.pl/en/whois
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system
+

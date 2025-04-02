@@ -1,0 +1,17 @@
+   Domain Name: AICRYPTOEXM.COM
+   Registry Domain ID: 2842854166_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gname.com
+   Registrar URL: http://www.gname.com
+   Updated Date: 2025-01-04T11:35:33Z
+   Creation Date: 2024-01-03T12:36:17Z
+   Registry Expiry Date: 2026-01-03T12:36:17Z
+   Registrar: Gname.com Pte. Ltd.
+   Registrar IANA ID: 1923
+   Registrar Abuse Contact Email: complaint@gname.com
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ALINA.NS.CLOUDFLARE.COM
+   Name Server: JUSTIN.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:45:06Z 

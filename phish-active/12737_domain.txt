@@ -1,0 +1,20 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        1GB.RU
+nserver:       ns1.1gb.ru. 81.176.228.20
+nserver:       ns2.1gb.ru. 81.177.32.105
+nserver:       ns3.1gb-ru.com.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           Joint Stock Company "In-Solve"
+taxpayer-id:   7728255960
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2002-02-11T21:00:00Z
+paid-till:     2026-02-11T21:00:00Z
+free-date:     2026-03-15
+source:        TCI
+
+Last updated on 2025-03-27T14:53:01Z
+

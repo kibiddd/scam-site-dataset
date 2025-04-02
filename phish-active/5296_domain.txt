@@ -1,0 +1,21 @@
+   Domain Name: CHARRONGAGNON.COM
+   Registry Domain ID: 2611204451_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.squarespace.domains
+   Registrar URL: http://domains2.squarespace.com
+   Updated Date: 2024-05-11T07:19:41Z
+   Creation Date: 2021-05-10T19:02:56Z
+   Registry Expiry Date: 2025-05-10T19:02:56Z
+   Registrar: Squarespace Domains II LLC
+   Registrar IANA ID: 895
+   Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+   Registrar Abuse Contact Phone: +1.6466935324
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-CLOUD-A1.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-A2.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-A3.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-A4.GOOGLEDOMAINS.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 45280 8 2 531FC1152AFEC9D4197A5327B20FB1A1FBE276B78E36DBC1227ED4422FA98876
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:04:51Z 

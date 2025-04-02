@@ -1,0 +1,695 @@
+Election Mapper
+ElectionMapper
+Home
+Riding Intro
+Results
+Map of Results
+Electoral Maps
+About
+Welcome
+Find Election Results
+40th General Election (2008)
+Choose an electoral district: --SELECT--
+Avalon
+Bonavista--Gander--Grand Falls--Windsor
+Humber--St. Barbe--Baie Verte
+Labrador
+Random--Burin--St. George's
+St. John's East
+St. John's South--Mount Pearl
+Cardigan
+Charlottetown
+Egmont
+Malpeque
+Cape Breton--Canso
+Central Nova
+Cumberland--Colchester--Musquodoboit Valley
+Dartmouth--Cole Harbour
+Halifax
+Halifax West
+Kings--Hants
+Sackville--Eastern Shore
+South Shore--St. Margaret's
+Sydney--Victoria
+West Nova
+Acadie--Bathurst
+Beauséjour
+Fredericton
+Fundy Royal
+Madawaska--Restigouche
+Miramichi
+Moncton--Riverview--Dieppe
+New Brunswick Southwest
+Saint John
+Tobique--Mactaquac
+Ajax--Pickering
+Algoma--Manitoulin--Kapuskasing
+Ancaster--Dundas--Flamborough--Westdale
+Barrie
+Beaches--East York
+Bramalea--Gore--Malton
+Brampton West
+Brampton--Springdale
+Brant
+Bruce--Grey--Owen Sound
+Burlington
+Cambridge
+Carleton--Mississippi Mills
+Chatham-Kent--Essex
+Davenport
+Don Valley East
+Don Valley West
+Dufferin--Caledon
+Durham
+Eglinton--Lawrence
+Elgin--Middlesex--London
+Essex
+Etobicoke Centre
+Etobicoke North
+Etobicoke--Lakeshore
+Glengarry--Prescott--Russell
+Guelph
+Haldimand--Norfolk
+Haliburton--Kawartha Lakes--Brock
+Halton
+Hamilton Centre
+Hamilton East--Stoney Creek
+Hamilton Mountain
+Huron--Bruce
+Kenora
+Kingston and the Islands
+Kitchener Centre
+Kitchener--Conestoga
+Kitchener--Waterloo
+Lambton--Kent--Middlesex
+Lanark--Frontenac--Lennox and Addington
+Leeds--Grenville
+London North Centre
+London West
+London--Fanshawe
+Markham--Unionville
+Mississauga East--Cooksville
+Mississauga South
+Mississauga--Brampton South
+Mississauga--Erindale
+Mississauga--Streetsville
+Nepean--Carleton
+Newmarket--Aurora
+Niagara Falls
+Niagara West--Glanbrook
+Nickel Belt
+Nipissing--Timiskaming
+Northumberland--Quinte West
+Oak Ridges--Markham
+Oakville
+Oshawa
+Ottawa Centre
+Ottawa South
+Ottawa West--Nepean
+Ottawa--Orléans
+Ottawa--Vanier
+Oxford
+Parkdale--High Park
+Parry Sound--Muskoka
+Perth--Wellington
+Peterborough
+Pickering--Scarborough East
+Prince Edward--Hastings
+Renfrew--Nipissing--Pembroke
+Richmond Hill
+Sarnia--Lambton
+Sault Ste. Marie
+Scarborough Centre
+Scarborough Southwest
+Scarborough--Agincourt
+Scarborough--Guildwood
+Scarborough--Rouge River
+Simcoe North
+Simcoe--Grey
+St. Catharines
+St. Paul's
+Stormont--Dundas--South Glengarry
+Sudbury
+Thornhill
+Thunder Bay--Rainy River
+Thunder Bay--Superior North
+Timmins--James Bay
+Toronto Centre
+Toronto--Danforth
+Trinity--Spadina
+Vaughan
+Welland
+Wellington--Halton Hills
+Whitby--Oshawa
+Willowdale
+Windsor West
+Windsor--Tecumseh
+York Centre
+York South--Weston
+York West
+York--Simcoe
+Brandon--Souris
+Charleswood--St. James--Assiniboia
+Churchill
+Dauphin--Swan River--Marquette
+Elmwood--Transcona
+Kildonan--St. Paul
+Portage--Lisgar
+Provencher
+Saint Boniface
+Selkirk--Interlake
+Winnipeg Centre
+Winnipeg North
+Winnipeg South
+Winnipeg South Centre
+Battlefords--Lloydminster
+Blackstrap
+Cypress Hills--Grasslands
+Desnethé--Missinippi--Churchill River
+Palliser
+Prince Albert
+Regina--Lumsden--Lake Centre
+Regina--Qu'Appelle
+Saskatoon--Humboldt
+Saskatoon--Rosetown--Biggar
+Saskatoon--Wanuskewin
+Souris--Moose Mountain
+Wascana
+Yorkton--Melville
+Calgary Centre
+Calgary Centre-North
+Calgary East
+Calgary Northeast
+Calgary Southeast
+Calgary Southwest
+Calgary West
+Calgary--Nose Hill
+Crowfoot
+Edmonton Centre
+Edmonton East
+Edmonton--Leduc
+Edmonton--Mill Woods--Beaumont
+Edmonton--Sherwood Park
+Edmonton--Spruce Grove
+Edmonton--St. Albert
+Edmonton--Strathcona
+Fort McMurray--Athabasca
+Lethbridge
+Macleod
+Medicine Hat
+Peace River
+Red Deer
+Vegreville--Wainwright
+Westlock--St. Paul
+Wetaskiwin
+Wild Rose
+Yellowhead
+Abbotsford
+British Columbia Southern Interior
+Burnaby--Douglas
+Burnaby--New Westminster
+Cariboo--Prince George
+Chilliwack--Fraser Canyon
+Delta--Richmond East
+Esquimalt--Juan de Fuca
+Fleetwood--Port Kells
+Kamloops--Thompson--Cariboo
+Kelowna--Lake Country
+Kootenay--Columbia
+Langley
+Nanaimo--Alberni
+Nanaimo--Cowichan
+New Westminster--Coquitlam
+Newton--North Delta
+North Vancouver
+Okanagan--Coquihalla
+Okanagan--Shuswap
+Pitt Meadows--Maple Ridge--Mission
+Port Moody--Westwood--Port Coquitlam
+Prince George--Peace River
+Richmond
+Saanich--Gulf Islands
+Skeena--Bulkley Valley
+South Surrey--White Rock--Cloverdale
+Surrey North
+Vancouver Centre
+Vancouver East
+Vancouver Island North
+Vancouver Kingsway
+Vancouver Quadra
+Vancouver South
+Victoria
+West Vancouver--Sunshine Coast--Sea to Sky
+Yukon
+Western Arctic
+Nunavut
+42nd General Election Standings in the House of Commons
+Total Seats
+BC
+AB
+SK
+MB
+ON
+QC
+NB
+PE
+NS
+NL
+YK
+NT
+NU
+Votes
+Percent
+Party
+184
+17
+4
+1
+7
+80
+40
+10
+4
+11
+7
+1
+1
+1
+6,930,136
+39.47%
+Liberal Party
+99
+10
+29
+10
+5
+33
+12
+5,600,496
+31.89%
+Conservative Party
+44
+14
+1
+3
+2
+8
+16
+3,461,262
+19.71%
+New Democratic Party
+10
+10
+818,652
+4.66%
+Bloc Quebecois
+1
+1
+605,864
+3.45%
+Green Party
+0
+142,943
+0.81%
+Others
+338
+42
+36
+14
+14
+121
+78
+10
+4
+11
+7
+1
+1
+1
+17,559,353
+100.00%
+News
+March 1, 2015: Quebec (2008) is now online. This represents almost 25% of the country's electoral districts.
+October 12, 2014: Today, the Prime Minister announced by-elections in Witby--Oshawa and Yellowhead to take place on November 17. We have got these electoral districts covered for 2008 (Witby--Oshawa, Yellowhead) and 2011 (Witby--Oshawa, Yellowhead).
+May 12, 2014: Yesterday, the Prime Minister announced by-elections in Scarborough--Agincourt, Trinity--Spadina, Fort McMurray--Athabasca, and Macleod to take place on June 30. We have got these electoral districts covered for 2008 (Scarborough--Agincourt, Trinity--Spadina, Fort McMurray--Athabasca, Macleod) and 2011 (Scarborough--Agincourt, Trinity--Spadina, Fort McMurray--Athabasca, Macleod).
+Oct 22, 2013: On Sunday, the Prime Minister announced by-elections in Bourassa, Toronto Centre, Brandon--Souris, and Provencher to take place on November 25. We have got these electoral districts covered for 2008 (Bourassa, Toronto Centre, Brandon--Souris, Provencher) and 2011 (Bourassa, Toronto Centre, Brandon--Souris, Provencher).
+Apr 7, 2013: Today the Prime Minister announced a by-election in Labrador to take place on May 13. We've got this electoral district covered for 2008 and 2011.
+Apr 1, 2013: It took a while, but Ontario (2008) is now online. This represents 1/3 of the country's electoral districts.
+Oct 21, 2012: Today the Prime Minister announced by-elections in Calgary-Centre, Durham, and Victoria to take place on November 26. Once again, we've got these electoral districts covered for 2008 (Calgary-Centre, Durham, Victoria) and 2011 (Calgary-Centre, Durham, Victoria).
+Apr 21, 2012: Google recently announced that it has depreciated and will soon eliminate their Image Charts service. It's a shame considering the charts are simple and easy to produce. Today I was looking at some alternatives that use jquery, and I came across this site that renders some cool pie charts.
+Feb 5, 2012: Today the Prime Minister announced a by-election in Toronto--Danforth to take place on March 19. We've got this electoral district covered for 2008 and 2011.
+Jan 2, 2012: New Brunswick (2008) is now online.
+Dec 31, 2011: Added Nova Scotia for 2008, and fixed a bug that coloured the margin of victory maps wrong when there were multiple independent candidates and one of those candidates won the poll division.
+Dec 27, 2011: Added Manitoba for 2008 and minor CSS adjustments for the maps due to Google slightly changing the map menu styles.
+Dec 9, 2011: Finished adding Saskatchewan for 2008. Some of these prairie ridings are huge and have significant geo-coordinate data. As a result, Google can't handle the mapping of some electoral districts, and the map will not populate with data. I will need to optimize the coordinates in the future in order for them to load and to load faster. Right now I'm focusing on getting the bulk data up and running.
+Oct 20, 2011: By request, I've made maps for BC from the 2011 general election. You can access it by going to the 2008 map and changing the year in the page address. I think I will finish 2008 for the rest of the country before making some tweeks to code performance and continuing with 2011.
+Oct 6, 2011: Now using googleapis.com for map generation over SSL. Google says that this domain will never set cookies and will never read your existing cookies from google.com, increasing security and performance.
+Sep 26, 2011: Finished and added Alberta. Still undecided whether to finish 2008 for the rest of the country or start on 2011 results.
+May 15, 2011: Added a table of the election standings on the home page.
+May 3, 2011: Map with results from the 41st general election has been uploaded.
+Apr 10, 2011: Added a downloads section to the riding intro pages and uploaded raw poll by poll data. I think these pages will be renamed to "riding information" after the election.
+Apr 6, 2011: Linked the Elections Canada paper maps to the navigation, uploaded/linked an about me page, and simplified the electoral district menu above in light of the ongoing election and increased website traffic.
+Mar 24, 2011: Clearly we are about to embark into a federal election. While I've been able to finish maps for the north, NL, PEI, and BC, this website is obviously no where as complete as I'd like it to be. I'd like to still keep the service available for those that will actually use it, so if you're interested in a specific riding that isn't currently available, please .
+Mar 13, 2011: Voter turnout map overlay now available, located in the top right corner of each map, along with Conservative support vs. turnout.
+Feb 22, 2011: Maps and results for BC are now online.
+Feb 12, 2011: The location search box and the map overlay drop down menu have to repositioned to the top of the maps horizontally in order to accomodate Google's map API enhancements.
+Jan 30, 2011: YK, NT, and NU maps are now up. I will start on BC next. If you have any requests for ridings to do first, please  me.
+Jan 29, 2011: PE maps are now up.
+Jan 28, 2011: NL maps are up, as well as an archive of all of Elections Canada's paper maps at http://www.electionmapper.ca/maps/
+Jan 23, 2011: Added results data for the rest of the NL ridings. The geographical representations will come later.
+Jan 16, 2011: Website framework completed, starting off data population with the 2008 40th General Election with the electoral district of Avalon (NL).
+Legal
+The information contained on this website is wholly unofficial, distributed and transmited on an "as is" and "as available" basis, without warranties of any kind, either express or implied, and should not be used as an authoritative source of results of an election event. In the event of a discrepancy between the results posted on this site and the official results from Elections Canada, the latter shall prevail.
+Navigation
+Home
+Riding Intro
+Results
+Map of Results
+Electoral Maps
+About
+Resources
+Past Election Results
+Federal Electoral Districts
+Riding Maps
+Electoral Boundary Shapefiles
+Google Maps API
+Google Charts API
+Built with CodeIgniter MVC
+Hosted by Dave's Network
+Choose a new riding
+-- BC --
+Abbotsford
+British Columbia Southern Interior
+Burnaby--Douglas
+Burnaby--New Westminster
+Cariboo--Prince George
+Chilliwack--Fraser Canyon
+Delta--Richmond East
+Esquimalt--Juan de Fuca
+Fleetwood--Port Kells
+Kamloops--Thompson--Cariboo
+Kelowna--Lake Country
+Kootenay--Columbia
+Langley
+Nanaimo--Alberni
+Nanaimo--Cowichan
+New Westminster--Coquitlam
+Newton--North Delta
+North Vancouver
+Okanagan--Coquihalla
+Okanagan--Shuswap
+Pitt Meadows--Maple Ridge--Mission
+Port Moody--Westwood--Port Coquitlam
+Prince George--Peace River
+Richmond
+Saanich--Gulf Islands
+Skeena--Bulkley Valley
+South Surrey--White Rock--Cloverdale
+Surrey North
+Vancouver Centre
+Vancouver East
+Vancouver Island North
+Vancouver Kingsway
+Vancouver Quadra
+Vancouver South
+Victoria
+West Vancouver--Sunshine Coast--Sea to Sky
+-- AB --
+Calgary Centre
+Calgary Centre-North
+Calgary East
+Calgary Northeast
+Calgary Southeast
+Calgary Southwest
+Calgary West
+Calgary--Nose Hill
+Crowfoot
+Edmonton Centre
+Edmonton East
+Edmonton--Leduc
+Edmonton--Mill Woods--Beaumont
+Edmonton--Sherwood Park
+Edmonton--Spruce Grove
+Edmonton--St. Albert
+Edmonton--Strathcona
+Fort McMurray--Athabasca
+Lethbridge
+Macleod
+Medicine Hat
+Peace River
+Red Deer
+Vegreville--Wainwright
+Westlock--St. Paul
+Wetaskiwin
+Wild Rose
+Yellowhead
+-- SK/MB --
+Battlefords--Lloydminster
+Blackstrap
+Cypress Hills--Grasslands
+Desnethé--Missinippi--Churchill River
+Palliser
+Prince Albert
+Regina--Lumsden--Lake Centre
+Regina--Qu'Appelle
+Saskatoon--Humboldt
+Saskatoon--Rosetown--Biggar
+Saskatoon--Wanuskewin
+Souris--Moose Mountain
+Wascana
+Yorkton--Melville
+Brandon--Souris
+Charleswood--St. James--Assiniboia
+Churchill
+Dauphin--Swan River--Marquette
+Elmwood--Transcona
+Kildonan--St. Paul
+Portage--Lisgar
+Provencher
+Saint Boniface
+Selkirk--Interlake
+Winnipeg Centre
+Winnipeg North
+Winnipeg South
+Winnipeg South Centre
+-- ON --
+Ajax--Pickering
+Algoma--Manitoulin--Kapuskasing
+Ancaster--Dundas--Flamborough--Westdale
+Barrie
+Beaches--East York
+Bramalea--Gore--Malton
+Brampton West
+Brampton--Springdale
+Brant
+Bruce--Grey--Owen Sound
+Burlington
+Cambridge
+Carleton--Mississippi Mills
+Chatham-Kent--Essex
+Davenport
+Don Valley East
+Don Valley West
+Dufferin--Caledon
+Durham
+Eglinton--Lawrence
+Elgin--Middlesex--London
+Essex
+Etobicoke Centre
+Etobicoke North
+Etobicoke--Lakeshore
+Glengarry--Prescott--Russell
+Guelph
+Haldimand--Norfolk
+Haliburton--Kawartha Lakes--Brock
+Halton
+Hamilton Centre
+Hamilton East--Stoney Creek
+Hamilton Mountain
+Huron--Bruce
+Kenora
+Kingston and the Islands
+Kitchener Centre
+Kitchener--Conestoga
+Kitchener--Waterloo
+Lambton--Kent--Middlesex
+Lanark--Frontenac--Lennox and Addington
+Leeds--Grenville
+London North Centre
+London West
+London--Fanshawe
+Markham--Unionville
+Mississauga East--Cooksville
+Mississauga South
+Mississauga--Brampton South
+Mississauga--Erindale
+Mississauga--Streetsville
+Nepean--Carleton
+Newmarket--Aurora
+Niagara Falls
+Niagara West--Glanbrook
+Nickel Belt
+Nipissing--Timiskaming
+Northumberland--Quinte West
+Oak Ridges--Markham
+Oakville
+Oshawa
+Ottawa Centre
+Ottawa South
+Ottawa West--Nepean
+Ottawa--Orléans
+Ottawa--Vanier
+Oxford
+Parkdale--High Park
+Parry Sound--Muskoka
+Perth--Wellington
+Peterborough
+Pickering--Scarborough East
+Prince Edward--Hastings
+Renfrew--Nipissing--Pembroke
+Richmond Hill
+Sarnia--Lambton
+Sault Ste. Marie
+Scarborough Centre
+Scarborough Southwest
+Scarborough--Agincourt
+Scarborough--Guildwood
+Scarborough--Rouge River
+Simcoe North
+Simcoe--Grey
+St. Catharines
+St. Paul's
+Stormont--Dundas--South Glengarry
+Sudbury
+Thornhill
+Thunder Bay--Rainy River
+Thunder Bay--Superior North
+Timmins--James Bay
+Toronto Centre
+Toronto--Danforth
+Trinity--Spadina
+Vaughan
+Welland
+Wellington--Halton Hills
+Whitby--Oshawa
+Willowdale
+Windsor West
+Windsor--Tecumseh
+York Centre
+York South--Weston
+York West
+York--Simcoe
+-- QC --
+Abitibi--Baie-James--Nunavik--Eeyou
+Abitibi--Témiscamingue
+Ahuntsic
+Alfred-Pellan
+Argenteuil--Papineau--Mirabel
+Bas-Richelieu--Nicolet--Bécancour
+Beauce
+Beauharnois--Salaberry
+Beauport--Limoilou
+Berthier--Maskinongé
+Bourassa
+Brome--Missisquoi
+Brossard--La Prairie
+Chambly--Borduas
+Charlesbourg--Haute-Saint-Charles
+Châteauguay--Saint-Constant
+Chicoutimi--Le Fjord
+Compton--Stanstead
+Drummond
+Gaspésie--Îles-de-la-Madeleine
+Gatineau
+Haute-Gaspésie--La Mitis--Matane--Matapédia
+Hochelaga
+Honoré-Mercier
+Hull--Aylmer
+Jeanne-Le Ber
+Joliette
+Jonquière--Alma
+La Pointe-de-l'Île
+Lac-Saint-Louis
+LaSalle--Émard
+Laurentides--Labelle
+Laurier--Sainte-Marie
+Laval
+Laval--Les Îles
+Lévis--Bellechasse
+Longueuil--Pierre-Boucher
+Lotbinière--Chutes-de-la-Chaudière
+Louis-Hébert
+Louis-Saint-Laurent
+Manicouagan
+Marc-Aurèle-Fortin
+Mégantic--L'Érable
+Montcalm
+Montmagny--L'Islet--Kamouraska--Rivière-du-Loup
+Montmorency--Charlevoix--Haute-Côte-Nord
+Mount Royal
+Notre-Dame-de-Grâce--Lachine
+Outremont
+Papineau
+Pierrefonds--Dollard
+Pontiac
+Portneuf--Jacques-Cartier
+Québec
+Repentigny
+Richmond--Arthabaska
+Rimouski-Neigette--Témiscouata--Les Basques
+Rivière-des-Mille-Îles
+Rivière-du-Nord
+Roberval--Lac-Saint-Jean
+Rosemont--La Petite-Patrie
+Saint-Bruno--Saint-Hubert
+Saint-Hyacinthe--Bagot
+Saint-Jean
+Saint-Lambert
+Saint-Laurent--Cartierville
+Saint-Léonard--Saint-Michel
+Saint-Maurice--Champlain
+Shefford
+Sherbrooke
+Terrebonne--Blainville
+Trois-Rivières
+Vaudreuil-Soulanges
+Verchères--Les Patriotes
+Westmount--Ville-Marie
+-- NB/NS/PE/NL --
+Acadie--Bathurst
+Beauséjour
+Fredericton
+Fundy Royal
+Madawaska--Restigouche
+Miramichi
+Moncton--Riverview--Dieppe
+New Brunswick Southwest
+Saint John
+Tobique--Mactaquac
+Cape Breton--Canso
+Central Nova
+Cumberland--Colchester--Musquodoboit Valley
+Dartmouth--Cole Harbour
+Halifax
+Halifax West
+Kings--Hants
+Sackville--Eastern Shore
+South Shore--St. Margaret's
+Sydney--Victoria
+West Nova
+Cardigan
+Charlottetown
+Egmont
+Malpeque
+Avalon
+Bonavista--Gander--Grand Falls--Windsor
+Humber--St. Barbe--Baie Verte
+Labrador
+Random--Burin--St. George's
+St. John's East
+St. John's South--Mount Pearl
+-- YK/NT/NU --
+Yukon
+Western Arctic
+Nunavut
+Copyright ©  2011-2025.

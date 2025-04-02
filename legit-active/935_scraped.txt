@@ -1,0 +1,179 @@
+EUdict
+EU
+dict
+AfrikaansAlbanianArabicArmenianBelarusianBosnianBulgarianCatalanChineseCroatianCzechDanishDutchEnglish (from Eng.)EnglishEsperantoEstonianFinnishFrenchGalicianGeorgianGermanGreekHebrewHungarianIcelandicIndonesianIrishItalianJapanese (Kanji)JapaneseKazakhKoreanKurdishLatinLatvianLithuanianLuxembourgishMacedonianMalayMalteseMongolianNorwegianPolish (from Pol.)PolishPortugueseRomanianRussianSerbian (cyr.)SerbianSinhalaSlovakSlovenianSpanishSwedishTagalogTamilThaiTurkishTurkmenUkrainianUrduVietnamese
+AfrikaansAlbanianBulgarianCatalanCroatianCzechDanishDutchEnglishEsperantoEstonianFinnishGermanGreekHungarianIcelandicIndonesianIrishItalianJapanese (Kanji)JapaneseLatinLatvianLithuanianNorwegianPolishPortugueseRomanianRussianSerbianSlovakSlovenianSpanishSwedishTurkishUkrainian
+Your Recent Searches
+Total number of language pairs: 544
+Total number of translations (in millions): 15.4
+About Eudict
+EUdict (European dictionary) is a collection of online dictionaries for the languages spoken mostly in Europe.            These dictionaries are the result of the work of many authors who worked very hard and finally offered their product free of charge on the internet thus making it easier to all of us to communicate with each other.            Some of the dictionaries have only a few thousand words, others have more than 320,000.            Some of the words may be incorrectly translated or mistyped.
+Options
+There are several ways to use this dictionary.            The most common way is by word input (you must know which language the word is in) but you can also use your browser's search box and bookmarklets (or favelets).
+Look at the complete list of languages: Available language pairs
+There are two Japanese-English (and Japanese-French) dictionaries and one contains Kanji and Kana (Kana in English and French pair due to improved searching).            For the same reason the Chinese dictionary contains traditional and simplified Chinese terms on one side and Pinyin and English terms on the other.
+Esperanto is only partially translated. Please help us improve this site by translating its interface.
+Browser integration (Search plugins)
+Perhaps the best way to enable dictionary search is through integration into the search field of your browser.            To add EUdict alongside Google, Yahoo!, Amazon and other search engines in Mozilla Firefox or Internet Explorer, simply click on link after the title Browser integration, select appropriate language pair and confirm your decision.            And you're ready to go; select EUdict from the drop-down list in search field (Firefox) or address bar (IE), input a word and press Enter.            In Chrome, first click on a language pair and change the search keyword in the field 'Keyword' to a keyword (eg: 'eudict').            Afterwards, you simply type the chosen keyword in the address bar to start the search in the chosen dictionary.
+Bookmarklets
+There is a way to enable word translation from any page: Bookmarklets.
+A bookmarklet is a small JavaScript code stored as a bookmark in you browser.
+Tips and tricks
+If you want to type a character which isn't on your keyboard, simply pick it from a list of special characters.            If you are unable to add a bookmarklet in Mozilla Firefox according to the instructions above, there is another way; right click on a link and select Bookmark this link…            Now you can drag this link from Bookmarks to the Bookmarks Toolbar.
+Instead of clicking the Search button, just press Enter.            Although EUdict can't translate complete sentences, it can translate several words at once if you separate them with spaces or commas.            Sometimes you can find translation results directly from Google by typing: eudict word.            If you are searching for a word in Japanese (Kanji) dictionary and not receiving any results, try without Kana (term in brackets).            If you are searching for a word in the Chinese dictionary and not receiving any results, try without Pinyin (term in brackets).            Disable spellchecking in Firefox by going to Tools → Options → Advanced → Check my spelling as I type.            Why not add a EUdict search form to your web site? Form
+Credits
+My name is Tomislav Kuzmic, I live in Croatia and this site is my personal project.            I am responsible for the concept, design, programming and development.            I do this in my spare time.            To contact me for any reason please send me an email to tkuzmic at gmail dot com.            Let me take this chance to thank all who contributed to the making of these dictionaries and improving the site's quality:
+Goran Igaly – author of the initial English-Croatian database
+Natali Kralj – author of the Dutch-Croatian dictionary
+Jim Breen – author of the Japanese-English dictionary
+Besiki Sisauri – author of the English-Georgian dictionary
+Giorgi Chavchanidze – author of the several Georgian dictionaries
+Authors of the Chinese-English dictionary
+Authors of the French-Japanese dictionary
+Authors of the German-Japanese dictionary
+Jerzy Kazojć – for excellent dictionaries collection
+Rajesh – for help with English-Tamil and German-Tamil dictionary
+Chinese-German dictionary adapted from: "The free Chinese-German dictionary"
+Grazio Falzon – author of the English-Maltese dictionary
+András Tuna – for smart suggestions about improving this site
+Aleksa Pavlešin – author of the Croatian-Ukrainian conversation manual – for allowing EUdict to use partial content of the manual
+Interface translation: Tomislav Kuzmić (Croatian), Vasudevan Tirumurti, Fahim Razick (Tamil), Matti Tapanainen (Finnish), Ebru Bağlan (Turkish), Arsene Ionuț, Cristina Crisan (Romanian), Daiva Macijauskė (Lithuanian), Tetiana M. (Ukrainian), András Tuna (Hungarian), Jakob Lautrup Nysom (Danish), Andre Abdullin, Elena Zvaritch (Russian), Catherine Györvàry (French), Gab M., Klaus Röthig (Portuguese), Marcin Orzełek (Polish), Stefanija Madzoska, Daniel Matrakoski (Macedonian), Selina Lüdecke, P. H. Claus (German), Vangelis Katsoulas (Greek), Roberto Marchesi (Italian), Robin van der Vliet (Esperanto), Reno Rake (Indonesian), Nahuel Rodríguez (Spanish), Gao Pan (Chinese), Hoài Sang Lăng (Vietnamese), Seanán Ó Coistín (Irish), Ajith Kumar (Sinhala)
+EUdict is online since May 9, 2005 and English<>Croatian dictionary on tkuzmic.com since June 16, 2003.
+Recent searches
+Eng>Ara‎Line agencies Eng>Jpkshelving, pigeonholing Por>Enginconveniente Eng>Chidescription, describe, to record Fre>Iceescargot Ser>Grenasilan Eng>Ara‎Limited liability company Eng>Ara‎Limited letter of credit Gre>Engαναστενάζω Pol>Swemoment Swe>Engprofan Eng>Ara‎Limitation of dividend Chi>Eng彰善瘅恶 Eng>Ara‎Life of an obligation Tuk>Polmetodik Eng>Ara‎Life cycle costing Ara>Engدين لم يسدد Eng>Ara‎Lie at the bank, to Chi>Ger刑訊 刑讯 Eng>Ara‎Licence for the sale of Eng>RusCultural conflict Eng>Hunfree expectoration Eng>Ara‎Liberation Eng>Seraccord Cro>Engzabijeni mikropiloti Eng>Crodeffered immediate annuity Eng>Ara‎Liberating receipt Eng>Polcombustible Eng>Ara‎Letting value Eng>Ara‎Letter post
+Insert
+Interface language
+中文
+Hrvatski
+Dansk
+Deutsch
+English
+Esperanto
+Suomi
+Français
+Ελληνικά
+Magyar
+Indonesia
+Gaeilge
+Italiano
+Lietuvių
+Македонски
+Polski
+Portugais
+Română
+Русский
+සිංහල
+Español
+தமிழ்
+Türkçe
+Український
+Tiếng Việt
+Settings
+Dark mode
+Disable Autocomplete
+Translate upon paste
+Select term in search box
+Recent searches
+Speech recognition
+Preferred language
+NONE
+Afrikaans (Suid-Afrika)
+Հայ (Հայաստան)
+Bahasa Indonesia (Indonesia)
+Bahasa Melayu (Malaysia)
+Català (Espanya)
+Čeština (Česká republika)
+Dansk (Danmark)
+Deutsch (Deutschland)
+English (Australia)
+English (Canada)
+English (Ghana)
+English (Great Britain)
+English (India)
+English (Ireland)
+English (Kenya)
+English (New Zealand)
+English (Nigeria)
+English (Philippines)
+English (South Africa)
+English (Tanzania)
+English (United States)
+Español (Argentina)
+Español (Bolivia)
+Español (Chile)
+Español (Colombia)
+Español (Costa Rica)
+Español (Ecuador)
+Español (El Salvador)
+Español (España)
+Español (Estados Unidos)
+Español (Guatemala)
+Español (Honduras)
+Español (México)
+Español (Nicaragua)
+Español (Panamá)
+Español (Paraguay)
+Español (Perú)
+Español (Puerto Rico)
+Español (República Dominicana)
+Español (Uruguay)
+Español (Venezuela)
+Filipino (Pilipinas)
+Français (Canada)
+Français (France)
+Galego (España)
+ქართული (საქართველო)
+Hrvatski (Hrvatska)
+Íslenska (Ísland)
+Italiano (Italia)
+Latviešu (latviešu)
+Lietuvių (Lietuva)
+Magyar (Magyarország)
+Nederlands (Nederland)
+Norsk bokmål (Norge)
+Polski (Polska)
+Português (Brasil)
+Português (Portugal)
+Română (România)
+සිංහල (ශ්‍රී ලංකාව)
+Slovenčina (Slovensko)
+Slovenščina (Slovenija)
+Suomi (Suomi)
+Svenska (Sverige)
+தமிழ் (இந்தியா)
+தமிழ் (சிங்கப்பூர்)
+தமிழ் (இலங்கை)
+தமிழ் (மலேசியா)
+Tiếng Việt (Việt Nam)
+Türkçe (Türkiye)
+اردو (پاکستان)
+اردو (بھارت)
+Ελληνικά (Ελλάδα)
+Български (България)
+Русский (Россия)
+Српски (Србија)
+Українська (Україна)
+עברית (ישראל)
+العربية (إسرائيل)
+العربية (الأردن)
+العربية (الإمارات)
+العربية (البحرين)
+العربية (الجزائر)
+العربية (السعودية)
+العربية (العراق)
+العربية (الكويت)
+العربية (المغرب)
+العربية (تونس)
+العربية (عُمان)
+العربية (فلسطين)
+العربية (قطر)
+العربية (لبنان)
+العربية (مصر)
+ไทย (ประเทศไทย)
+한국어 (대한민국)
+國語 (台灣)
+廣東話 (香港)
+日本語（日本）
+普通話 (香港)
+普通话 (中国大陆)
+© 2025 EUdict.com by Tomislav Kuzmić   Privacy policyThis site uses the EDICT dictionary file (property of the EDRDG), in conformance with the EDRDG's licence.

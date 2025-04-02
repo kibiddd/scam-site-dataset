@@ -1,0 +1,18 @@
+   Domain Name: VETFRIENDS.COM
+   Registry Domain ID: 11690133_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2024-10-02T14:48:51Z
+   Creation Date: 1999-10-26T02:03:01Z
+   Registry Expiry Date: 2025-10-26T02:03:01Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.PEER1.NET
+   Name Server: NS2.PEER1.NET
+   Name Server: NS3.PEER1.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T00:03:21Z 

@@ -1,0 +1,58 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: NODAK.EDU
+
+Registrant:
+	North Dakota University System
+	Vice Chancellor for Institutional Research and Information Technology
+	600 E. Boulevard Ave., Dept. 215
+	Bismarck, ND 58505-0230
+	USA
+
+Administrative Contact:
+	Domain Admin
+	North Dakota University System
+	600 E. Boulevard Ave., Dept. 215
+	Bismarck, ND 58505-0230
+	USA
+	+1.7017773587
+	ndus.domain@ndus.edu
+
+Technical Contact:
+	 
+	North Dakota University System
+	4349 James Ray Drive
+	Grand Forks, ND 58202
+	USA
+	+1.8664576387
+	ndus.dns.tech@ndus.edu
+
+Name Servers:
+	NS2.EXT.NDUS.EDU
+	NS1.NDUS.EDU
+	NS1.EXT.NDUS.EDU
+	NS2.NDUS.EDU
+
+Domain record activated:    15-Jul-1988
+Domain record last updated: 04-Mar-2025
+Domain expires:             31-Jul-2025

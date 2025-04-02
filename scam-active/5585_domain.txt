@@ -1,0 +1,25 @@
+   Domain Name: GARAGEDAYTRADER.COM
+   Registry Domain ID: 2736932974_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.squarespace.domains
+   Registrar URL: http://squarespace.domains
+   Updated Date: 2024-10-23T00:14:52Z
+   Creation Date: 2022-11-06T21:55:40Z
+   Registry Expiry Date: 2025-11-06T21:55:40Z
+   Registrar: Squarespace Domains LLC
+   Registrar IANA ID: 3827
+   Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+   Registrar Abuse Contact Phone: 1-646-693-5324
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: DNS1.P01.NSONE.NET
+   Name Server: DNS2.P01.NSONE.NET
+   Name Server: DNS3.P01.NSONE.NET
+   Name Server: DNS4.P01.NSONE.NET
+   Name Server: NS01.SQUARESPACEDNS.COM
+   Name Server: NS02.SQUARESPACEDNS.COM
+   Name Server: NS03.SQUARESPACEDNS.COM
+   Name Server: NS04.SQUARESPACEDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:46:38Z 

@@ -1,0 +1,19 @@
+   Domain Name: GAIAONLINE.COM
+   Registry Domain ID: 83110177_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enomdomains.com
+   Updated Date: 2024-12-30T07:37:02Z
+   Creation Date: 2002-01-28T21:18:46Z
+   Registry Expiry Date: 2026-01-28T21:18:46Z
+   Registrar: eNom, LLC
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1387.AWSDNS-45.ORG
+   Name Server: NS-1723.AWSDNS-23.CO.UK
+   Name Server: NS-454.AWSDNS-56.COM
+   Name Server: NS-521.AWSDNS-01.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T17:01:38Z 

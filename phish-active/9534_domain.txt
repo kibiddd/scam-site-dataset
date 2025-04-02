@@ -1,0 +1,22 @@
+   Domain Name: GARENA.COM
+   Registry Domain ID: 30783551_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.godaddy.com
+   Registrar URL: http://www.godaddy.com
+   Updated Date: 2024-12-10T14:42:33Z
+   Creation Date: 2000-07-03T12:13:41Z
+   Registry Expiry Date: 2026-07-03T12:13:41Z
+   Registrar: GoDaddy.com, LLC
+   Registrar IANA ID: 146
+   Registrar Abuse Contact Email: abuse@godaddy.com
+   Registrar Abuse Contact Phone: 480-624-2505
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1362.AWSDNS-42.ORG
+   Name Server: NS-1720.AWSDNS-23.CO.UK
+   Name Server: NS-91.AWSDNS-11.COM
+   Name Server: NS-949.AWSDNS-54.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T12:53:00Z 

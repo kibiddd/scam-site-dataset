@@ -1,0 +1,70 @@
+%  (c) 2006-2021 CZ.NIC, z.s.p.o.
+% 
+% Intended use of supplied data and information
+% 
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+% 
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+% 
+% See also a search service at http://www.nic.cz/whois/
+% 
+% 
+% Whoisd Server Version: 3.15.0
+% Timestamp: Fri Mar 28 02:56:21 2025
+
+domain:       simpleplan.cz
+registrant:   SB:RBORDAS1616-STATION.CZ
+admin-c:      HOLAKOVSKY-STATION.CZ
+nsset:        NS01.STATION.CZ
+registrar:    REG-GRANSY
+registered:   07.08.2007 12:25:00
+changed:      18.02.2012 22:39:16
+expire:       07.08.2025
+
+contact:      SB:RBORDAS1616-STATION.CZ
+name:         Robert Bordas
+address:      Gromesova 22
+address:      Brno
+address:      62100
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      23.06.2006 22:05:00
+changed:      15.05.2018 21:32:00
+
+contact:      HOLAKOVSKY-STATION.CZ
+name:         Jiří Holakovský
+address:      Velflíkova 12/1417
+address:      Praha 6
+address:      160 00
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      23.08.2005 11:55:00
+changed:      15.05.2018 21:32:00
+
+nsset:        NS01.STATION.CZ
+nserver:      ns2.internetserver.cz (217.16.185.221)
+nserver:      ns3.dns-station.net 
+nserver:      ns.internetserver.cz (95.179.136.180)
+tech-c:       GRANSY
+registrar:    REG-GRANSY
+created:      01.10.2007 16:10:01
+changed:      11.12.2024 15:06:29
+
+contact:      GRANSY
+org:          Gransy s.r.o.
+name:         Jan Horák
+address:      Bořivojova 878/35
+address:      Praha 3
+address:      130 00
+address:      CZ
+registrar:    REG-MOJEID
+created:      23.08.2004 17:35:00
+changed:      15.05.2018 21:32:00
+
+

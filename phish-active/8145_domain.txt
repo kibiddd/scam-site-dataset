@@ -1,0 +1,19 @@
+   Domain Name: ESPACE-CLIENT.NET
+   Registry Domain ID: 1749550793_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.ovh.com
+   Registrar URL: http://www.ovh.com
+   Updated Date: 2024-10-01T14:00:35Z
+   Creation Date: 2012-10-03T06:33:13Z
+   Registry Expiry Date: 2025-10-03T06:33:13Z
+   Registrar: OVH sas
+   Registrar IANA ID: 433
+   Registrar Abuse Contact Email: abuse@ovh.net
+   Registrar Abuse Contact Phone: +33.972101007
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS12.OVH.NET
+   Name Server: NS12.OVH.NET
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 53260 8 2 A261C57EDB949AA860D012E2E2357B74C00B92429613AEA3C4D88D7087CB8B8D
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:15:52Z 

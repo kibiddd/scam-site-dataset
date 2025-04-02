@@ -1,0 +1,23 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+Domain Information: [ドメイン情報]
+a. [ドメイン名]                 LIMOUSINEBUS.CO.JP
+e. [そしきめい]                 とうきょうくうこうこうつうかぶしきがいしゃ
+f. [組織名]                     東京空港交通株式会社
+g. [Organization]               AIRPORT TRANSPORT SERVICE CO,LTD.
+k. [組織種別]                   株式会社
+l. [Organization Type]          CO
+m. [登録担当者]                 NO494JP
+n. [技術連絡担当者]             KK1960JP
+p. [ネームサーバ]               fjkdns11.alpha-prm.jp
+p. [ネームサーバ]               fjkdns12.alpha-prm.jp
+p. [ネームサーバ]               fjkdns13.alpha-prm.jp
+s. [署名鍵]                     
+[状態]                          Connected (2025/12/31)
+[ロック状態]                    AgentChangeLocked
+[登録年月日]                    1998/12/02
+[接続年月日]                    1999/04/13
+[最終更新]                      2025/01/01 01:01:39 (JST)
+

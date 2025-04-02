@@ -1,0 +1,24 @@
+   Domain Name: LIVEMINT.COM
+   Registry Domain ID: 689560820_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.godaddy.com
+   Registrar URL: http://www.godaddy.com
+   Updated Date: 2024-07-19T12:28:35Z
+   Creation Date: 2006-11-29T10:35:06Z
+   Registry Expiry Date: 2025-11-29T10:35:06Z
+   Registrar: GoDaddy.com, LLC
+   Registrar IANA ID: 146
+   Registrar Abuse Contact Email: abuse@godaddy.com
+   Registrar Abuse Contact Phone: 480-624-2505
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: A1-232.AKAM.NET
+   Name Server: A16-67.AKAM.NET
+   Name Server: A18-64.AKAM.NET
+   Name Server: A20-65.AKAM.NET
+   Name Server: A7-66.AKAM.NET
+   Name Server: A9-67.AKAM.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T15:57:26Z 

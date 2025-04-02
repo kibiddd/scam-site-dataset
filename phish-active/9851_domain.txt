@@ -1,0 +1,19 @@
+   Domain Name: FORMACIONCIS.COM
+   Registry Domain ID: 2344042681_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.ionos.com
+   Registrar URL: http://www.ionos.com
+   Updated Date: 2024-12-18T08:09:05Z
+   Creation Date: 2018-12-17T10:01:30Z
+   Registry Expiry Date: 2025-12-17T10:01:30Z
+   Registrar: IONOS SE
+   Registrar IANA ID: 83
+   Registrar Abuse Contact Email: abuse@ionos.com
+   Registrar Abuse Contact Phone: +1.6105601459
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1024.UI-DNS.BIZ
+   Name Server: NS1050.UI-DNS.DE
+   Name Server: NS1068.UI-DNS.COM
+   Name Server: NS1069.UI-DNS.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:50:16Z 

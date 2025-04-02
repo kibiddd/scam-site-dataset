@@ -1,0 +1,21 @@
+   Domain Name: TXODDS.COM
+   Registry Domain ID: 1593173792_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2025-02-16T07:08:32Z
+   Creation Date: 2010-04-17T11:16:27Z
+   Registry Expiry Date: 2030-04-17T11:16:27Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS10.DNSMADEEASY.COM
+   Name Server: NS11.DNSMADEEASY.COM
+   Name Server: NS12.DNSMADEEASY.COM
+   Name Server: NS13.DNSMADEEASY.COM
+   Name Server: NS14.DNSMADEEASY.COM
+   Name Server: NS15.DNSMADEEASY.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:30:46Z 

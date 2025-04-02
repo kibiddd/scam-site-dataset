@@ -1,0 +1,106 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        ebay.fr
+status:                        ACTIVE
+eppstatus:                     clientUpdateProhibited
+eppstatus:                     clientTransferProhibited
+eppstatus:                     clientDeleteProhibited
+hold:                          NO
+holder-c:                      EMG170-FRNIC
+admin-c:                       EMG169-FRNIC
+tech-c:                        MC239-FRNIC
+registrar:                     MARKMONITOR Inc.
+Expiry Date:                   2025-08-19T20:12:46Z
+created:                       2008-05-06T17:05:50Z
+last-update:                   2024-07-23T09:25:21.495475Z
+source:                        FRNIC
+
+nserver:                       dns1.p06.nsone.net
+nserver:                       dns2.p06.nsone.net
+nserver:                       dns3.p06.nsone.net
+nserver:                       dns4.p06.nsone.net
+nserver:                       ns01.ebaydns.com
+nserver:                       ns02.ebaydns.com
+nserver:                       ns03.ebaydns.com
+source:                        FRNIC
+
+registrar:                     MARKMONITOR Inc.
+address:                       2150 S. Bonito Way, Suite 150
+address:                       ID 83642 MERIDIAN
+country:                       US
+phone:                         +1.2083895740
+fax-no:                        +1.2083895771
+e-mail:                        registry.admin@markmonitor.com
+website:                       http://www.markmonitor.com
+anonymous:                     No
+registered:                    2002-01-07T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       EMG170-FRNIC
+type:                          ORGANIZATION
+contact:                       eBay Marketplaces GmbH
+address:                       Helvetiastrasse 15/17
+address:                       CH-3005 Bern
+country:                       CH
+phone:                         +1.41313590590
+e-mail:                        hostmaster@ebay.com
+registrar:                     MARKMONITOR Inc.
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2018-03-23T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       EMG169-FRNIC
+type:                          ORGANIZATION
+contact:                       eBay Marketplaces GmbH
+address:                       Helvetiastrasse 15/17
+address:                       CH-3005 Bern
+country:                       CH
+phone:                         +1.41313590590
+e-mail:                        hostmaster@ebay.com
+registrar:                     MARKMONITOR Inc.
+changed:                       2023-12-15T18:40:10.173162Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2018-03-22T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       MC239-FRNIC
+type:                          ORGANIZATION
+contact:                       MARKMONITOR CCOPS
+address:                       2150 S Bonito Way, Suite 150
+address:                       83642 Meridian
+country:                       US
+phone:                         +01.2083895740
+e-mail:                        ccops@markmonitor.com
+registrar:                     MARKMONITOR Inc.
+changed:                       2015-02-05T15:45:20Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-03-27T22:48:33.599463Z 

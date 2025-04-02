@@ -1,0 +1,20 @@
+   Domain Name: ITSSSL.COM
+   Registry Domain ID: 174129591_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.directnic.com
+   Registrar URL: http://www.directnic.com
+   Updated Date: 2025-02-23T03:48:35Z
+   Creation Date: 2005-06-23T17:00:10Z
+   Registry Expiry Date: 2025-06-23T17:00:10Z
+   Registrar: DNC Holdings, Inc.
+   Registrar IANA ID: 291
+   Registrar Abuse Contact Email: abuse@directnic.com
+   Registrar Abuse Contact Phone: +1.5043550081
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS61.CLOUDNS.NET
+   Name Server: NS62.CLOUDNS.COM
+   Name Server: NS63.CLOUDNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:54:35Z 

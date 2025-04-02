@@ -1,0 +1,17 @@
+   Domain Name: CODECHAY.COM
+   Registry Domain ID: 2866030654_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.hostinger.com
+   Registrar URL: http://www.hostinger.com
+   Updated Date: 2025-03-23T08:00:54Z
+   Creation Date: 2024-03-23T02:04:04Z
+   Registry Expiry Date: 2026-03-23T02:04:04Z
+   Registrar: HOSTINGER operations, UAB
+   Registrar IANA ID: 1636
+   Registrar Abuse Contact Email: abuse-tracker@hostinger.com
+   Registrar Abuse Contact Phone: +37064503378
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DNS-EXPIRED.COM
+   Name Server: NS2.DNS-EXPIRED.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:09:21Z 

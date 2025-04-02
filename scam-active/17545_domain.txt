@@ -1,0 +1,17 @@
+   Domain Name: WALMAROMRS.COM
+   Registry Domain ID: 2911815732_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.metaregistrar.com
+   Registrar URL: http://www.metaregistrar.com
+   Updated Date: 2025-02-15T11:25:45Z
+   Creation Date: 2024-08-28T11:51:53Z
+   Registry Expiry Date: 2025-08-28T11:51:53Z
+   Registrar: Metaregistrar BV
+   Registrar IANA ID: 2288
+   Registrar Abuse Contact Email: abuse@metaregistrar.com
+   Registrar Abuse Contact Phone: +31.858885692
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: A5.SHARE-DNS.COM
+   Name Server: B5.SHARE-DNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:49:52Z 

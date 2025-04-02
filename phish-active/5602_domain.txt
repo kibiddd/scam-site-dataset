@@ -1,0 +1,23 @@
+%%
+%% This is the NIC Chile Whois server (whois.nic.cl).
+%%
+%% Rights restricted by copyright.
+%% See https://www.nic.cl/normativa/politica-publicacion-de-datos-cl.pdf
+%%
+
+Domain name: claudiorojas.cl
+Registrant name: CLAUDIO ENRIQUE ROJAS PALMA
+Registrant organisation: 
+Registrar name: NIC Chile
+Registrar URL: https://www.nic.cl
+Creation date: 2011-03-31 18:51:49 CLST
+Expiration date: 2030-04-30 15:51:04 CLST
+Name server: ns1.creattiva.cl
+Name server: ns2.creattiva.cl
+Name server: ns3.creattiva.cl
+Name server: ns4.creattiva.cl
+
+%%
+%% For communication with domain contacts please use website.
+%% See https://www.nic.cl/registry/Whois.do?d=claudiorojas.cl
+%%

@@ -1,0 +1,17 @@
+   Domain Name: XM-CHFX.COM
+   Registry Domain ID: 2734972445_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.55hl.com
+   Registrar URL: http://www.55hl.com
+   Updated Date: 2024-07-30T07:53:35Z
+   Creation Date: 2022-10-28T12:11:49Z
+   Registry Expiry Date: 2025-10-28T12:11:49Z
+   Registrar: Jiangsu Bangning Science & technology Co. Ltd.
+   Registrar IANA ID: 1469
+   Registrar Abuse Contact Email: abuse@55hl.com
+   Registrar Abuse Contact Phone: +86.02586883421
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS3.4CUN.COM
+   Name Server: NS4.4CUN.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:50:08Z 

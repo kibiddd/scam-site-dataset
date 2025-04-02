@@ -1,0 +1,60 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: HBS.EDU
+
+Registrant:
+	Harvard Business School
+	Shad Hall 109
+	Soldiers Field Rd
+	Boston, MA 02163
+	USA
+
+Administrative Contact:
+	Jeffrey Lee
+	Harvard Business School
+	Shad Hall 109
+	Soldiers Field Rd.
+	Boston, MA 02163
+	USA
+	+1.6174956949
+	jlee@hbs.edu
+
+Technical Contact:
+	Jeffrey Lee
+	Harvard Business School
+	Shad Hall 109
+	Soldiers Field Rd.
+	Boston, MA 02163
+	USA
+	+1.6174956949
+	jlee@hbs.edu
+
+Name Servers:
+	NS3-38.AZURE-DNS.ORG
+	NS4-38.AZURE-DNS.INFO
+	NS2-38.AZURE-DNS.NET
+	NS1-38.AZURE-DNS.COM
+
+Domain record activated:    25-Aug-1995
+Domain record last updated: 17-Dec-2024
+Domain expires:             31-Jul-2025

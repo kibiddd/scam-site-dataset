@@ -1,0 +1,308 @@
+AirNav: KMCI - Kansas City International Airport
+Airports
+Navaids
+Airspace Fixes
+Aviation Fuel
+Hotels
+AIRBOSS
+iPhone App
+My AirNav
+1412 users online
+KMCI
+Kansas City International AirportKansas City, Missouri, USA
+GOING TO KANSAS CITY?
+Reserve a Hotel Room
+Where will you pickup your Hertz vehicle?
+• Hertz location serving airline terminal
+• Hertz location serving airline terminal
+FAA INFORMATION EFFECTIVE 20 MARCH 2025
+Location
+FAA Identifier: MCI
+Lat/Long: 39-17-51.4000N 094-42-50.0000W39-17.856667N 094-42.833333W39.2976111,-94.7138889(estimated)
+Elevation: 1026.9 ft. / 313.0 m (surveyed)
+Variation: 02E (2015)
+From city: 15 miles NW of KANSAS CITY, MO
+Time zone: UTC -5 (UTC -6 during Standard Time)
+Zip code: 64153
+Airport Operations
+Airport use: Open to the public
+Activation date: 05/1956
+Control tower: yes
+ARTCC: KANSAS CITY CENTER
+FSS: COLUMBIA FLIGHT SERVICE STATION
+NOTAMs facility: MCI (NOTAM-D service available)
+Attendance: CONTINUOUS
+Wind indicator: lighted
+Segmented circle: no
+Beacon: white-green (lighted land airport)Operates sunset to sunrise.
+Fire and rescue: ARFF index C
+International operations: customs landing rights airport
+Airport Communications
+UNICOM: 122.95
+WX ASOS: PHONE 816-601-1486
+INTERNATIONAL GROUND: 121.8 121.65
+INTERNATIONAL TOWER: 128.2 254.25 125.75
+KANSAS CITY APPROACH: 120.95 318.1
+KANSAS CITY DEPARTURE: 123.95 ;010-190 124.7 ;191-009 284.7 ;191-009 318.1 ;010-190
+CLEARANCE DELIVERY: 135.7
+BRAYMER STAR: 120.95 318.1
+CHIEF DP: 124.7 284.7
+CLASS B: 118.4 ;EAST OF RWY 01/19 118.9 ;S OF A LINE FROM LWC ARPT TO 124.7 ;WEST OF RWY 01/19 294.7 ;EAST OF RWY 01-19 294.7 ;S OF A LINE FROM LWC ARPT TO 318.1 ;WEST OF RWY 01/19
+D-ATIS: 128.375
+EMERG: 121.5 243.0
+JHAWK STAR: 120.95 318.1
+LAKES DP: 123.95 318.1
+RACER DP: 123.95 ;BUTLER/SPRINGFIELD TRANSITIO 124.7 ;DOSOA TRANSITION 284.7 ;DOSOA TRANSITION 318.1 ;BUTLER/SPRINGFIELD TRANSITION
+ROYAL DP: 123.95 ;ARENZ/BODYN TRANSITION 124.7 ;TONCE TRANSITION 284.7 ;TONCE TRANSITION 318.1 ;ARENZ/BODYN TRANSITION
+TIFTO DP: 124.7 284.7
+TYGER STAR: 120.95 318.1
+WILDCAT DP: 124.7 284.7
+WX ASOS at MKC (12 nm SE): 120.75 (816-329-2843)
+WX AWOS-3T at GPH (19 nm E): 120.275 (816-407-3399)
+ASSC IN USE. OPERATE TRANSPONDERS WITH ALTITUDE REPORTING MODE AND ADS-B (IF EQUIPPED) ENABLED ON ALL AIRPORT SURFACES.
+Nearby radio navigation aids
+VOR radial/distance  VOR name  Freq  Var
+MCIr050/1.3KANSAS CITY VORTAC113.2505E
+ANXr287/29.8NAPOLEON VORTAC115.1507E
+NDB name  Hdg/Dist  Freq  Var  ID
+AMAZON162/36.323304EAZN .- --.. -.
+Airport Services
+Fuel available: 100LL JET-A
+Parking: tiedowns
+Airframe service: NONE
+Powerplant service: NONE
+Bottled oxygen: NONE
+Bulk oxygen: NONE
+Runway Information
+Runway 1L/19R
+Dimensions: 10801 x 150 ft. / 3292 x 46 m
+Surface: concrete/grooved, in excellent condition
+Weight bearing capacity: Single wheel: 120.0Double wheel: 250.0Double tandem: 524.0Dual double tandem: 450.0
+Runway edge lights: high intensity
+RUNWAY 1L  RUNWAY 19R
+Latitude: 39-17.600048N39-19.333993N
+Longitude: 094-43.759055W094-43.246392W
+Elevation: 1014.4 ft.979.6 ft.
+Traffic pattern: leftright
+Runway heading: 011 magnetic, 013 true191 magnetic, 193 true
+Declared distances: TORA:10801 TODA:10801 ASDA:10801 LDA:10801TORA:10801 TODA:10801 ASDA:10801 LDA:10801
+Markings: precision, in good conditionprecision, in good condition
+Visual slope indicator: 4-light PAPI on left (3.00 degrees glide path)4-light PAPI on right (3.00 degrees glide path)
+RVR equipment: touchdown, midfield, rollouttouchdown, midfield, rollout
+Approach lights: MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lightsALSF2: standard 2,400 foot high intensity approach lighting system with centerline sequenced flashers (category II or III)
+Centerline lights: yesyes
+Touchdown point: yes, lightedyes, lighted
+Instrument approach: ILS/DMEILS/DME
+Runway 9/27
+Dimensions: 9501 x 150 ft. / 2896 x 46 m
+Surface: asphalt/grooved, in good condition
+Weight bearing capacity: Single wheel: 120.0Double wheel: 250.0Double tandem: 465.0Dual double tandem: 260.0
+Runway edge lights: high intensity
+RUNWAY 9  RUNWAY 27
+Latitude: 39-17.451650N39-17.284527N
+Longitude: 094-43.595618W094-41.593297W
+Elevation: 1015.3 ft.1026.9 ft.
+Traffic pattern: leftright
+Runway heading: 094 magnetic, 096 true274 magnetic, 276 true
+Declared distances: TORA:9501 TODA:9501 ASDA:9501 LDA:9501TORA:9501 TODA:9501 ASDA:9501 LDA:9501
+Markings: precision, in good conditionprecision, in good condition
+Visual slope indicator: 4-light PAPI on left (3.00 degrees glide path)
+RVR equipment: touchdown, rollouttouchdown, rollout
+Approach lights: MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lightsMALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights: no
+Touchdown point: yes, no lightsyes, no lights
+Instrument approach: ILS/DMEILS/DME
+Runway 1R/19L
+Dimensions: 9500 x 150 ft. / 2896 x 46 m
+Surface: concrete/grooved, in excellent condition
+Weight bearing capacity: Single wheel: 120.0Double wheel: 250.0Double tandem: 550.0Dual double tandem: 450.0
+Runway edge lights: high intensity
+RUNWAY 1R  RUNWAY 19L
+Latitude: 39-16.887235N39-18.412282N
+Longitude: 094-42.539892W094-42.088710W
+Elevation: 1017.2 ft.978.5 ft.
+Traffic pattern: leftleft
+Runway heading: 011 magnetic, 013 true191 magnetic, 193 true
+Declared distances: TORA:9500 TODA:9500 ASDA:9500 LDA:9500TORA:9500 TODA:9500 ASDA:9500 LDA:9500
+Markings: precision, in good conditionprecision, in good condition
+Visual slope indicator: 4-light PAPI on right (3.00 degrees glide path)
+RVR equipment: touchdown, midfield, rollouttouchdown, midfield, rollout
+Approach lights: ALSF2: standard 2,400 foot high intensity approach lighting system with centerline sequenced flashers (category II or III)MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Centerline lights: yesyes
+Touchdown point: yes, lightedyes, lighted
+Instrument approach: ILS/DMEILS/DME
+Airport Ownership and Management from official FAA records
+Ownership: Publicly-owned
+Owner: CITY OF KANSAS CITY601 BRASILIA; PO BOX 20047KANSAS CITY, MO 64141Phone 816-243-3100
+Manager: MR. LUKE MAWHIRTERP.O. BOX 20047KANSAS CITY, MO 64195Phone 816-243-5248
+Additional Remarks
+A39-01L/19R PCR VALUE: 1106/R/D/W/T
+A39-09/27 PCR VALUE: 646/F/B/X/T
+A39-01R/19L PCR VALUE: 1107/R/B/W/T
+- WATERFOWL ON AND INVOF ARPT.
+- PPR TO PARK AT TRML GATES CTC ARPT OPN 816-835-4315
+- WHEN USING HIGH-SPEED EXITS C4 & C6 CONT TIL FIRST PARL TWY, THEN USE EXTREME CARE WHEN TURNING IN EXCESS OF 90 DEGREES.
+- NO ACFT PARKING ON POSTAL APRON.
+- DESIGN GROUP V AND VI ACFT RQR AN ARPT ESCORT ON TWY DELTA BTWN TWYS JULIET & C9.
+- TWY B1 BTN TWY B AND FEDEX APN COCKPIT OVER CNTRLN STEERING RQRD
+- TWY C2 BTN TWY C3 AND TWY C1 WINGSPAN RESTRICTION OF 118 FT.
+- TXL W, N1, N3, M1, M3, S1, S3, D1, & D3 WINGSPAN RESTRICTION OF 118 FT.
+- N RAMP CTL FREQ: 128.975
+- S RAMP CTL FREQ: 130.825
+- TWY B2 CLSD TO ACFT WINGSPAN MORE THAN 135FT.
+- WINDSHEAR ALERT SYSTEM ON ARPT.
+- NOISE ABATEMENT PROCEDURES IN EFFECT 2200-0600 WITH LANDING ON RYS 01L & 19L; TAKEOFFS ON RYS 01R & 19R.
+- MIL ACFT MAY BE CHARGED RAMP/PARKING FEES.
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 20 March 2025 at 0901Z to 17 April 2025 at 0900z.
+STARs - Standard Terminal Arrivals
+BRAYMER EIGHT **CHANGED**
+2 pages:
+[1] [2] (345KB)
+JHAWK EIGHT **CHANGED**
+download (221KB)
+JSONN FOUR (RNAV)
+2 pages:
+[1] [2] (308KB)
+JSONN FOUR (RNAV), CONT.2
+download (307KB)
+MHOMS THREE (RNAV)
+2 pages:
+[1] [2] (297KB)
+MHOMS THREE (RNAV), CONT.2
+download (304KB)
+RUDDH THREE (RNAV)
+2 pages:
+[1] [2] (325KB)
+RUDDH THREE (RNAV), CONT.2
+download (298KB)
+TYGER SEVEN **CHANGED**
+2 pages:
+[1] [2] (290KB)
+WUTNG THREE (RNAV)
+2 pages:
+[1] [2] (301KB)
+WUTNG THREE (RNAV), CONT.2
+download (311KB)
+IAPs - Instrument Approach Procedures
+ILS OR LOC RWY 01L
+download (392KB)
+ILS OR LOC RWY 01R
+download (416KB)
+ILS OR LOC RWY 09
+download (349KB)
+ILS OR LOC RWY 19L
+download (388KB)
+ILS OR LOC RWY 19R
+download (399KB)
+ILS OR LOC RWY 27
+download (391KB)
+ILS RWY 01R (SA CAT I)
+download (386KB)
+ILS RWY 19R (SA CAT I)
+download (370KB)
+ILS RWY 01R (CAT II - III)
+download (396KB)
+ILS RWY 19R (CAT II - III)
+download (383KB)
+RNAV (RNP) Z RWY 01L
+download (265KB)
+RNAV (RNP) Z RWY 01R
+download (268KB)
+RNAV (RNP) Z RWY 09
+download (247KB)
+RNAV (RNP) Z RWY 19L
+download (263KB)
+RNAV (RNP) Z RWY 19R
+download (264KB)
+RNAV (RNP) Z RWY 27
+download (262KB)
+RNAV (GPS) Y RWY 01L
+download (277KB)
+RNAV (GPS) Y RWY 01R
+download (283KB)
+RNAV (GPS) Y RWY 09
+download (242KB)
+RNAV (GPS) Y RWY 19L
+download (266KB)
+RNAV (GPS) Y RWY 19R
+download (276KB)
+RNAV (GPS) Y RWY 27
+download (254KB)
+Departure Procedures
+CHIEF NINE
+download (156KB)
+LAKES FIVE
+download (211KB)
+RACER EIGHT
+download (207KB)
+ROYAL TWO
+download (188KB)
+TIFTO EIGHT
+download (135KB)
+WILDCAT SIX
+download (179KB)
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (158KB)
+Other nearby airports with instrument procedures:
+KFLV - Sherman Army Airfield (10 nm NW)
+KMKC - Kansas City Downtown Airport-Wheeler Field (12 nm SE)
+KGPH - Midwest National Air Center Airport (19 nm E)
+3EX - Excelsior Springs Memorial Airport (24 nm E)
+KLXT - Kansas City/Lee's Summit Regional Airport (26 nm SE)
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+$4.23
+$5.31
+Road maps at:
+MapQuest
+Bing
+Google
+Aerial photo
+WARNING: Photo may not be current or correct
+Photo by Gregory White
+Photo taken 30-Apr-2008
+Do you have a better or more recent aerial photo of Kansas City International Airport that you would like to share?  If so, please send us your photo.
+Sectional chart
+Airport distance calculator
+Flying to Kansas City International Airport?
+Find the distance to fly.
+From
+to KMCI
+Sunrise and sunset
+Times for 25-Mar-2025
+Local(UTC-5) Zulu(UTC)
+Morning civil twilight06:4911:49
+Sunrise07:1512:15
+Sunset19:3400:34
+Evening civil twilight20:0101:01
+Current date and time
+Zulu (UTC)  25-Mar-2025 23:51:06
+Local (UTC-5)  25-Mar-2025 18:51:06
+METAR
+KMCI 252253Z 03012KT 10SM SCT110 BKN200 17/01 A3013 RMK AO2 SLP204 T01670011
+KMKC 12nm SE 252254Z 36009G17KT 10SM CLR 17/M01 A3013 RMK AO2 SLP203 T01721006
+KGPH 19nm E 252335Z AUTO 03006KT 10SM OVC085 16/00 A3016 RMK AO2
+TAF
+KMCI 251720Z 2518/2618 33010G19KT P6SM SCT150 BKN200 FM260100 VRB04KT P6SM SCT150
+KMKC 12nm SE 251903Z 2519/2618 33009G18KT P6SM SCT150 SCT250 FM260000 VRB04KT P6SM SCT150
+NOTAMs
+Click for the latest NOTAMs
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+FBO, Fuel Providers, and Aircraft Ground Support
+Business Name   Contact
+Services / Description  Fuel Prices Comments
+Signature Aviation
+816-243-6440[web site][email]
+Aviation fuel, Aircraft parking (ramp or tiedown), Passenger terminal and lounge, Aircraft sales / leasing / brokerage, Pilot supplies, Courtesy transportation, ...
+More info about Signature Aviation
+independent100LL Jet AFS $8.14 $8.46  Updated 20-Mar-2025
+1 read write
+FS=Full service
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Kansas City International Airport, you should consider listing it here.  To start the listing process, click on the button below
+Other Pages about Kansas City International Airport
+www.flykci.com/KCI.cfm
+Copyright © AirNav, LLC. All rights reserved.
+Privacy Policy
+Contact

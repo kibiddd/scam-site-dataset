@@ -1,0 +1,27 @@
+Domain Name: taiwantrade.com.tw
+   Domain Status: clientUpdateProhibited,clientDeleteProhibited,clientTransferProhibited
+   Registrant:
+      中華民國對外貿易發展協會
+      Taiwan External Trade Development Council
+      dnsadmin@taitra.org.tw
+      TW
+      (Redacted for privacy)
+
+   Administrative Contact:
+      (Redacted for privacy)
+
+   Technical Contact:
+      (Redacted for privacy)
+
+   Record expires on 2025-12-29 00:00:00 (UTC+8)
+   Record created on 1999-11-19 08:55:37 (UTC+8)
+
+   Domain servers in listed order:
+      ns-1752.awsdns-27.co.uk     
+      ns-1022.awsdns-63.net       
+      ns-1396.awsdns-46.org       
+      ns-44.awsdns-05.com         
+
+Registration Service Provider: FET
+Registration Service URL: https://emanager.aptg.com.tw
+Registrar Abuse Contact Email: eburs@fareastone.com.tw

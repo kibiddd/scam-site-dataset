@@ -1,0 +1,42 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T21:22:37-03:00 - 2a09:bac5:c82c:188c::272:e7
+
+domain:      ibmec.br
+owner:       Grupo Ibmec Educacional S.A.
+ownerid:     04.298.309/0001-60
+responsible: Carlos Alberto Guerra Filgueiras
+country:     BR
+owner-c:     TIEST8
+tech-c:      YDCTE
+nserver:     ns-1376.awsdns-44.org
+nsstat:      20250320 AA
+nslastaa:    20250320
+nserver:     ns-1807.awsdns-33.co.uk
+nsstat:      20250320 AA
+nslastaa:    20250320
+created:     19951031 #4438
+changed:     20210415
+status:      published
+
+nic-hdl-br:  TIEST8
+person:      TI Estacio
+e-mail:      webmaster@estacio.br
+country:     BR
+created:     20131014
+changed:     20231208
+
+nic-hdl-br:  YDCTE
+person:      YDUQS Contato Tecnico
+e-mail:      webmaster@yduqs.com.br
+country:     BR
+created:     20210415
+changed:     20210415
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

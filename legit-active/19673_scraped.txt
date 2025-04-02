@@ -1,0 +1,47 @@
+Arizona AI & Emerging Technology | Meetup Skip to contentArizona AI & Emerging TechnologyPhoenix, AZ, US3,488 members · Public groupOrganized by Pranil Kanderi and 3 othersShare:Join this groupAboutEventsMembersPhotosDiscussionsMoreJoin this groupWhat we’re aboutThe AZ AI & Emerging Tech Meetup is a free group that is committed to providing a platform for people to learn about and discuss Artificial Intelligence (AI) and other emerging technologies.
+If you are interested in AI, we encourage you to join the meetup.
+Here are some of the topics that we have discussed in the past:
+Generative AI security
+Natural language processing
+Machine learning
+Deep learning
+Artificial intelligence ethics
+The AZ Emerging Tech Meetup is a great way to learn about artificial intelligence from experts in the field. The group is also a great way to meet other people who are interested in AI.
+We hope to see you at our next Meetup!
+Please review our Code of Conduct if you plan to attend.Upcoming events (3)See allThu, Apr 17, 2025, 6:00 PM MSTUsing AI to Speed Run Game Development1951@SkySong, Scottsdale, AZExplore the potential of AI in rapid game development. Discover how cutting-edge AI tools can be used to create fun, complete 8-bit games in a matter of minutes.
+Luis Montes will demonstrate the techniques he uses to accelerate game creation, showing how AI can bring game ideas to life quickly. During the presentation, he'll build a game from scratch, right before your eyes, showcasing the practical application of these tools.
+By the end of this session, you'll gain valuable insights into using AI for game prototyping and development, giving you the knowledge to create your own 8-bit games. Don't miss this opportunity to see AI-powered game creation in action.
+Speaker: Luis Montes (CIO of Mindset Medical)
+Event Details:
+Location: 1951 @ Skysong
+Time: 5:30 PM - 7:30 PM - talk will begin at 6:00pm!
+Free Parking: Easily available on street or library (free after 5pm)
+Food: We will have Pizza, and water, but nothing fancy!
+LT54 attendees+49AttendThu, May 15, 2025, 6:00 PM MSTCTRL+ALT+H﻿UMAN: Reimagining the AI Experience1951@SkySong, Scottsdale, AZPRESENTATION OVERVIEW
+Exploring how we can shape the next era of AI by putting humans at the center. Through hands-on exploration, we’ll discuss how to make AI more accessible, improve the human-AI experience, and ensure people remain in control of the technology shaping our future
+Speaker: Danny Robles
+Event Details:
+Location: 1951@Skysong @ Scottsdale, AZ
+Time: 5:30 PM - 7:30 PM - talk will begin at 6:00pm!
+Free Parking: Easily available (free)
+Food: Pizza and Drinks
+DR38 attendees+33AttendThu, Jun 19, 2025, 6:00 PM MSTMining the Job Market: Using LLMs to Extract the Most In-Demand Skills1951@SkySong, Scottsdale, AZDiscover which technologies are most in-demand across today's job market through the demonstration of an innovative application of AI to analyze job listings.
+PRESENTATION OVERVIEW
+Our speaker will demonstrate how Google Gemini can extract valuable insights from job postings, featuring:
+A live Python notebook demo showing the extraction process
+Current technology trends revealed through this analysis
+WHO SHOULD ATTEND
+Job seekers looking to align their skills with market demands
+Professionals interested in practical LLM applications
+Anyone curious about technology trends in the current job market
+TAKEAWAYS
+Understanding of how LLMs can extract structured data from text
+Ideas for applying similar approaches to your own career planning
+Join us to see AI in action while gaining valuable insights about the skills that will advance your career in today's technology-driven job market!
+Speaker: Andrea Heidlberg
+Event Details:
+Location: 1951@Skysong @ Scottsdale, AZ
+Time: 5:30 PM - 7:30 PM - talk will begin at 6:00pm!
+Free Parking: Easily available (free)
+Food: Pizza and Drinks
+BW5 attendeesAttendPast events (128)See allThu, Mar 20, 2025, 6:00 PM MSTAll About AI AgentsThis event has passedSK89 attendees+84OrganizersPranil Kanderi and 3 othersMessageMembers (3,488)See allVSSHSDPGroup linksFind us also atTwitterLinkedInRelated topicsEmerging TechnologyDeep LearningMachine LearningArtificial Intelligence Machine Learning RoboticsArtificial IntelligenceArtificial Intelligence ApplicationsMachine Learning with PythonEdge ComputingMobile and Edge ComputingComputer VisionNatural Language ProcessingData ScienceData AnalyticsPredictive AnalyticsArtificial Intelligence ProgrammingCreate your own Meetup group.Get StartedStart a new groupYour AccountSign upLog inHelpBecome an AffiliateDiscoverGroupsCalendarTopicsCitiesOnline EventsLocal GuidesMake FriendsMeetupAboutBlogMeetup ProCareersAppsPodcastFollow us© 2025 MeetupTerms of ServicePrivacy PolicyCookie PolicyLicense AttributionHelp

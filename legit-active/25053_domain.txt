@@ -1,0 +1,17 @@
+   Domain Name: MEGAUPLOAD123.COM
+   Registry Domain ID: 2930041899_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.yoursrs.com
+   Registrar URL: http://www.realtimeregister.com
+   Updated Date: 2024-12-29T15:13:10Z
+   Creation Date: 2024-10-30T15:10:07Z
+   Registry Expiry Date: 2025-10-30T15:10:07Z
+   Registrar: Realtime Register B.V.
+   Registrar IANA ID: 839
+   Registrar Abuse Contact Email: rtr-security-threats@realtimeregister.com
+   Registrar Abuse Contact Phone: +31.384530759
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: DEMI.NS.CLOUDFLARE.COM
+   Name Server: NORM.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T00:00:04Z 

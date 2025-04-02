@@ -1,0 +1,59 @@
+query : gokams.or.kr
+
+
+# KOREAN(UTF8)
+
+도메인이름                  : gokams.or.kr
+등록인                      : 재단법인예술경영지원센터
+등록인 주소                 : 서울특별시 종로구 대학로 57 &nbsp;
+등록인 우편번호             : 03082
+책임자                      : 재단법인예술경영지원센터
+책임자 전자우편             : webmaster@gokams.or.kr
+책임자 전화번호             : +82.27082202
+등록일                      : 2006. 02. 24.
+최근 정보 변경일            : 2025. 02. 10.
+사용 종료일                 : 2030. 02. 24.
+정보공개여부                : Y
+등록대행자                  : (주)가비아(http://www.gabia.co.kr)
+DNSSEC                      : 미서명
+
+1차 네임서버 정보
+   호스트이름               : ns.gabia.co.kr
+   IP 주소                  : 43.201.170.100
+
+2차 네임서버 정보
+   호스트이름               : ns1.gabia.co.kr
+   IP 주소                  : 20.200.205.248
+   호스트이름               : ns.gabia.net
+
+네임서버 이름이 .kr이 아닌 경우는 IP주소가 보이지 않습니다.
+
+
+# ENGLISH
+
+Domain Name                 : gokams.or.kr
+Registrant                  : Korea Arts Management Service
+Registrant Address          : 12F, 57, Daehak-ro, Jongno-gu, Seoul, &nbsp;
+Registrant Zip Code         : 03082
+Administrative Contact(AC)  : Korea Arts Management Service
+AC E-Mail                   : webmaster@gokams.or.kr
+AC Phone Number             : +82.27082202
+Registered Date             : 2006. 02. 24.
+Last Updated Date           : 2025. 02. 10.
+Expiration Date             : 2030. 02. 24.
+Publishes                   : Y
+Authorized Agency           : Gabia, Inc.(http://www.gabia.co.kr)
+DNSSEC                      : unsigned
+
+Primary Name Server
+   Host Name                : ns.gabia.co.kr
+   IP Address               : 43.201.170.100
+
+Secondary Name Server
+   Host Name                : ns1.gabia.co.kr
+   IP Address               : 20.200.205.248
+   Host Name                : ns.gabia.net
+
+
+- KISA/KRNIC WHOIS Service -
+

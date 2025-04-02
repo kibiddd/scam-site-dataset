@@ -1,0 +1,19 @@
+   Domain Name: SONGSTERR.COM
+   Registry Domain ID: 1379068253_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.name.com
+   Registrar URL: http://www.name.com
+   Updated Date: 2024-12-23T17:46:44Z
+   Creation Date: 2008-01-14T22:38:28Z
+   Registry Expiry Date: 2026-01-14T22:38:28Z
+   Registrar: Name106, Inc.
+   Registrar IANA ID: 1040
+   Registrar Abuse Contact Email: abuse@name.com
+   Registrar Abuse Contact Phone: +1.7203101849
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1093.AWSDNS-08.ORG
+   Name Server: NS-160.AWSDNS-20.COM
+   Name Server: NS-1693.AWSDNS-19.CO.UK
+   Name Server: NS-519.AWSDNS-00.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:20:08Z 

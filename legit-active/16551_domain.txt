@@ -1,0 +1,57 @@
+query : 11st.co.kr
+
+
+# KOREAN(UTF8)
+
+도메인이름                  : 11st.co.kr
+등록인                      : 십일번가 주식회사
+등록인 주소                 : 경기도 광명시 신기로 20(일직동) &nbsp;
+등록인 우편번호             : 14345
+책임자                      : 십일번가 주식회사
+책임자 전자우편             : domain@11stcorp.com
+책임자 전화번호             : +82.215990110
+등록일                      : 2007. 01. 12.
+최근 정보 변경일            : 2024. 09. 30.
+사용 종료일                 : 2026. 01. 12.
+정보공개여부                : Y
+등록대행자                  : (주)가비아(http://www.gabia.co.kr)
+DNSSEC                      : 미서명
+
+1차 네임서버 정보
+   호스트이름               : ns-1392.awsdns-46.org
+
+2차 네임서버 정보
+   호스트이름               : ns-836.awsdns-40.net
+   호스트이름               : ns-1610.awsdns-09.co.uk
+   호스트이름               : ns-445.awsdns-55.com
+
+네임서버 이름이 .kr이 아닌 경우는 IP주소가 보이지 않습니다.
+
+
+# ENGLISH
+
+Domain Name                 : 11st.co.kr
+Registrant                  : Eleven Street Co.,Ltd.
+Registrant Address          : 20, Singi-ro, Gwangmyeong-si, Gyeonggi-do, Republic of Korea, &nbsp;
+Registrant Zip Code         : 14345
+Administrative Contact(AC)  : Eleven Street Co.,Ltd.
+AC E-Mail                   : domain@11stcorp.com
+AC Phone Number             : +82.215990110
+Registered Date             : 2007. 01. 12.
+Last Updated Date           : 2024. 09. 30.
+Expiration Date             : 2026. 01. 12.
+Publishes                   : Y
+Authorized Agency           : Gabia, Inc.(http://www.gabia.co.kr)
+DNSSEC                      : unsigned
+
+Primary Name Server
+   Host Name                : ns-1392.awsdns-46.org
+
+Secondary Name Server
+   Host Name                : ns-836.awsdns-40.net
+   Host Name                : ns-1610.awsdns-09.co.uk
+   Host Name                : ns-445.awsdns-55.com
+
+
+- KISA/KRNIC WHOIS Service -
+

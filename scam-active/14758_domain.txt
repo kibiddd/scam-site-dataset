@@ -1,0 +1,17 @@
+   Domain Name: SIDEFXPRODUCTIONS.NET
+   Registry Domain ID: 2724316080_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.scip.es
+   Registrar URL: http://www.dondominio.com
+   Updated Date: 2024-08-11T09:10:10Z
+   Creation Date: 2022-09-09T19:24:02Z
+   Registry Expiry Date: 2025-09-09T19:24:02Z
+   Registrar: Soluciones Corporativas IP, SL
+   Registrar IANA ID: 1383
+   Registrar Abuse Contact Email: abuse@scip.es
+   Registrar Abuse Contact Phone: 34871986387
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.DONDOMINIO.COM
+   Name Server: NS2.DONDOMINIO.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:49:08Z 

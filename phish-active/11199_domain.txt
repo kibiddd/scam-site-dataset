@@ -1,0 +1,50 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T10:59:33-03:00 - 2a09:bac5:c82e:1032::19d:29e
+
+domain:      lojaintegrada.com.br
+owner:       VTEX Brasil Tecnologia para E-commerce LTDA
+ownerid:     05.314.972/0001-74
+responsible: GERALDO DO CARMO THOMAZ JUNIOR
+country:     BR
+owner-c:     GCJ22
+tech-c:      LITPS1
+nserver:     ns-928.awsdns-52.net
+nsstat:      20250327 AA
+nslastaa:    20250327
+nserver:     ns-178.awsdns-22.com
+nsstat:      20250327 AA
+nslastaa:    20250327
+nserver:     ns-1385.awsdns-45.org
+nsstat:      20250327 AA
+nslastaa:    20250327
+nserver:     ns-1938.awsdns-50.co.uk
+nsstat:      20250327 AA
+nslastaa:    20250327
+saci:        yes
+created:     20120207 #9429565
+changed:     20240306
+expires:     20290207
+status:      published
+
+nic-hdl-br:  GCJ22
+person:      Geraldo do Carmo Thomaz Jr.
+e-mail:      geraldo@vtex.com.br
+country:     BR
+created:     20000817
+changed:     20230915
+
+nic-hdl-br:  LITPS1
+person:      LOJA INTEGRADA TECNOLOGIA PARA SOFTWARES
+e-mail:      acesso@lojaintegrada.com.br
+country:     BR
+created:     20210429
+changed:     20210429
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

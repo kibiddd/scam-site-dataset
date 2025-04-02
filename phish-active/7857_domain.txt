@@ -1,0 +1,24 @@
+Domain Name: SITEBEAT.SITE
+Registry Domain ID: D92240778-CNIC
+Registrar WHOIS Server: whois.crazydomains.com
+Registrar URL: http://crazydomains.com
+Updated Date: 2025-01-11T01:55:26.0Z
+Creation Date: 2019-01-30T03:27:49.0Z
+Registry Expiry Date: 2026-01-30T23:59:59.0Z
+Registrar: Dreamscape Networks International Pte Ltd
+Registrar IANA ID: 1291
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: Dreamscape Networks International Pte Ltd
+Registrant State/Province: Singapore
+Registrant Country: SG
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NAMES1.DS.NETWORK
+Name Server: NAMES2.DS.NETWORK
+DNSSEC: signedDelegation
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@dreamscapenetworks.com
+Registrar Abuse Contact Phone: +65.69147880
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T11:14:17.0Z 

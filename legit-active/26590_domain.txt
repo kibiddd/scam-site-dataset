@@ -1,0 +1,76 @@
+Domain Name: ebay.ca
+Registry Domain ID: D724002-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2024-09-13T09:30:52Z
+Creation Date: 2000-10-28T01:05:40Z
+Registry Expiry Date: 2025-10-15T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 16324145-CIRA
+Registrant Name: eBay Canada Ltd.
+Registrant Organization:
+Registrant Street: 2 St. Clair Avenue East Suite 701
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M4T2T5
+Registrant Country: CA
+Registrant Phone: +1.4169611970
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: hostmaster@ebay.com
+Registry Admin ID: 16324146-CIRA
+Admin Name: Olga Yaguez
+Admin Organization:
+Admin Street: 2 St. Clair Avenue East Suite 701
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M4T2T5
+Admin Country: CA
+Admin Phone: +1.4169611970
+Admin Phone Ext:
+Admin Fax: +1.4169470866
+Admin Fax Ext:
+Admin Email: hostmaster@ebay.com
+Registry Tech ID: 16324147-CIRA
+Tech Name: Matt Serlin
+Tech Organization: MarkMonitor, Inc.
+Tech Street: Domain Provisioning, 10400 Overland Rd. PMB 155
+Tech City: Boise
+Tech State/Province: ID
+Tech Postal Code: 83709
+Tech Country: US
+Tech Phone: +1.2083895740
+Tech Phone Ext:
+Tech Fax: +1.2083895771
+Tech Fax Ext:
+Tech Email: ccops@markmonitor.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: dns1.p06.nsone.net
+Name Server: dns2.p06.nsone.net
+Name Server: dns3.p06.nsone.net
+Name Server: dns4.p06.nsone.net
+Name Server: ns01.ebaydns.com
+Name Server: ns02.ebaydns.com
+Name Server: ns03.ebaydns.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T00:05:52Z 

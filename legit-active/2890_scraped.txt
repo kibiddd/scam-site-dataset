@@ -1,0 +1,12 @@
+BrightScope Beacon Login
+You must be logged in to access that page.
+Sign In
+Username
+Password
+Forgot?
+Sign In
+Need help signing in?
+Your browser is out of date, and will not be compatible with future Beacon updates.
+Please update to the latest version of Internet Explorer using the following link:
+Update Internet
+Explorer

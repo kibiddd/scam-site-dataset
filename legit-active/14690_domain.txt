@@ -1,0 +1,18 @@
+   Domain Name: POLICYPUBLICATIONS.COM
+   Registry Domain ID: 16074330_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enomdomains.com
+   Updated Date: 2024-12-19T10:26:51Z
+   Creation Date: 1999-12-26T22:36:59Z
+   Registry Expiry Date: 2025-12-26T22:36:59Z
+   Registrar: eNom, LLC
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS1.UK2.NET
+   Name Server: DNS2.UK2.NET
+   Name Server: DNS3.UK2.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:59:52Z 

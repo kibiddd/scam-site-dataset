@@ -1,0 +1,12 @@
+Domain Name: autosswaipawa.co.nz
+Registrar URL: https://www.openhost.co.nz/
+Updated Date: 2024-11-20T02:22:45Z
+Creation Date: 2014-10-06T02:16:14Z
+Original Created: 2014-10-06T02:16:14Z
+Registrar: Freeparking T/A Domain Agent
+Domain Status: ok https://icann.org/epp#ok
+Name Server: ns1.secureparkme.com
+Name Server: ns2.secureparkme.com
+DNSSEC: unsigned
+URL of the Domain Name Commission Limited Inaccuracy Complaint Form: https://dnc.org.nz/enquiry-form/
+>>> Last update of WHOIS database: 2025-03-26T20:20:23Z 

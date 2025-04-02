@@ -1,0 +1,26 @@
+Living Code
+Living Code
+About
+Contact
+Archive
+Tags
+Living Code is Dethe's blog for talking about code, life, and all the rest.Black Lives Matter. Defund the police.
+On the web:
+Dethe Elza â¢
+Jul 20, 2020 â¢ Less than a minute read
+Housekeeping
+Alright, Iâm getting tired of trying to read (and write) what ought to be blog posts in long Twitter threads, so Iâm dusting off my old blog. Also retiring my roll-your-own blogging tool which was basically a poorly coded version of Jekyll anyway (in my defence, Jekyll didnât exist when I first wrote it). I did spend some time trying to bring the old beast forward into Python 3 idioms, but it was clear I was falling into my old trap of working on my blogging software instead of actually blogging. At least it was written in Markdown, to transitioning to Jekyll, while not perfectly straightforward, wasnât too bad.
+I will be tweaking the CSS a bit here and there, and fixing broken links if I find them, but basically the old content, such as it is, is here for archival purposes only. I have a lot of ideas of things to write about, in my usual mishmash of politics, programming, poetry, etc. so hopefully I can not stop playing with the code and start writing.
+Read  â
+Dethe Elza â¢
+Jan 23, 2016 â¢ Less than a minute read
+Human Contact
+A poem inspired by this video on Contact Improvisation:
+Read  â
+Dethe Elza â¢
+Sep 1, 2015 â¢ 4 min read
+Introduction to Tales from The Library
+When the zombies came, we were ready for them. Well, kind of ready. My friends and I were in the SCA, the Society for Creative Anachronism, and we all had broadswords, and Eddie had a crossbow. We took over St. Monadnockâs, the local high school, right away because it had an auto body shop, a wood shop, a metal shop, an industrial scale kitchen, and letâs face it, it was built like a prison, so we could defend it. Theyâd even been turning the roof into a green space with an organic garden.
+Read  â
+â¹ Newer
+Older âº

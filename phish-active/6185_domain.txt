@@ -1,0 +1,41 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T20:15:31-03:00 - 2a09:bac5:c82c:dcd::160:5c
+
+domain:      cristinamambrini.com.br
+owner:       cristina mambrini santos moreira
+ownerid:     ***.495.937-**
+country:     BR
+owner-c:     CMSMO40
+tech-c:      CMSMO40
+nserver:     ns1.dominios.uol.com.br
+nsstat:      20250322 AA
+nslastaa:    20250322
+nserver:     ns2.dominios.uol.com.br
+nsstat:      20250322 AA
+nslastaa:    20250322
+nserver:     ns3.dominios.uol.com.br
+nsstat:      20250322 AA
+nslastaa:    20250322
+saci:        yes
+created:     20191106 #20330485
+changed:     20240812
+expires:     20251106
+status:      published
+provider:    UOLHOST (22)
+
+nic-hdl-br:  CMSMO40
+person:      cristina mambrini santos moreira
+e-mail:      cmambrini@uol.com.br
+country:     BR
+created:     20191106
+changed:     20191106
+provider:    UOLHOST (22)
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

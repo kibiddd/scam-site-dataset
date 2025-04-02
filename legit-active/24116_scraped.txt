@@ -1,0 +1,273 @@
+Property Types | Microsoft Learn
+Skip to main content
+This browser is no longer supported.
+Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.
+Download Microsoft Edge
+More info about Internet Explorer and Microsoft Edge
+Table of contents
+Exit focus mode
+Read in English
+Add
+Table of contents
+Read in English
+Add
+Add to plan
+Share via
+Facebook
+x.com
+LinkedIn
+Email
+Print
+Table of contents
+Property Types
+Article
+10/17/2014
+In this article
+The following examples show how to define primitive properties (including enumeration properties) and class properties.
+Note   In the .NET Framework, value types such as Boolean, Byte, Char, Double, Enum, Intnn, and so on map to primitive types in languages that target the common language runtime. For details, see the documentation for your programming language.
+Although String is a reference type, it is included among primitive types in this discussion because the syntax for accessing String properties in ASP.NET pages is identical to that for primitive types.
+The type of a class property is a reference type.
+Primitive Properties
+The following example defines a primitive property named Number.
+// The private data member for the Number property.
+private int number = 0;
+//The description attribute contains a brief description of
+//the property that is displayed
+//below the property browser when the user clicks on a
+//property.
+//
+[Description("A nonnegative integer")]
+//The Number property that maps to the field number.
+//
+public int Number{
+//The accessor methods perform other program logic
+//in addition to setting or returning the property.
+//
+get {
+if (number < 0) return 0;
+return number;
+}
+set {
+if (value < 0) number = 0;
+else number = value;
+}
+}
+[Visual Basic]
+' The private data member for the Number property.
+Private _number As Integer = 0
+'The description attribute contains a brief description of
+'the property that is displayed
+'below the property browser when the user clicks on a
+'property.
+'
+<Description("A nonnegative integer")> _
+Public Property Number() As Integer
+'The Number property that maps to the field number.
+'
+'The accessor methods perform other program logic
+'in addition to setting or returning the property.
+'
+Get
+If _number < 0 Then
+Return 0
+End If
+Return _number
+End Get
+Set
+If value < 0 Then
+_number = 0
+Else
+_number = value
+End If
+End Set
+End Property
+The ASP.NET syntax for declaratively setting a primitive (non-enumeration) property is shown in the following example, which sets the Text property on an instance of the System.Web.UI.WebControls.Button control.
+<asp:Button Text = "MyButton" runat = server/>
+The ASP.NET page parser converts the supplied string to the type of the property. In this example no conversion is needed because the Text property is of type String.
+Enumeration Properties
+When the property is an enumeration type, the defining syntax is the same as that for other primitive property types; however, the page syntax for setting the property is different. The following code fragment defines an enumeration named Position.
+// The Position enumeration.
+public enum Position
+{
+Forward = 0,
+Mid = 1,
+Defence = 2,
+Goalee = 3,
+}
+[Visual Basic]
+' The Position enumeration.
+Public Enum Position
+Forward = 0
+Mid = 1
+Defence = 2
+Goalee = 3
+End Enum
+The following code fragment shows a control (SoccerPlayer) that exposes a property of type Position.
+public class SoccerPlayer : Control
+{
+private Position position;
+...
+// PlayerPosition is an enumeration property whose
+// type is the Position enumeration.
+[Description("The position of the player on the field.")]
+public Position PlayerPosition
+{
+get
+{
+return position;
+}
+set
+{
+position = value;
+}
+}
+...
+}
+[Visual Basic]
+Public Class SoccerPlayer
+Inherits Control
+Private _position As Position
+...
+' PlayerPosition is an enumeration property whose
+' type is the Position enumeration.
+<Description("The position of the player on the field.")> _
+Public Property PlayerPosition() As Position
+Get
+Return _position
+End Get
+Set
+_position = value
+End Set
+End Property
+...
+End Class
+The ASP.NET syntax for declaratively setting an enumeration property is shown in the following example, which sets the TextMode property on an instance of the System.Web.UI.WebControls.TextBox control.
+<asp:TextBox TextMode = "MultiLine" runat = server/>
+The ASP.NET page parser converts the supplied string to the appropriate enumeration value, in this case TextBoxMode.MultiLine.
+If a property is an enumeration type, its values are displayed in a drop-down list when a user clicks on it in the property browser of a visual designer such as Visual Studio .NET.
+Class Properties
+If class A has a property whose type is class B, then the properties of B (if any) are called subproperties of A.
+The following code fragment defines a class named Address that exposes four properties, each of type String.
+// The Address class.
+public class Address {
+private string street = null;
+private string city = null;
+private string state = null;
+private string zip = null;
+// The Street property.
+public string Street {get{...} set{...}}
+// The City property.
+public string City {get{...} set{...}}
+// The State property.
+public string State {get{...} set{...}}
+// The Zip property.
+public string Zip {get{...} set{...}}
+}
+[Visual Basic]
+' The Address class.
+Public Class Address
+Private _street As String = Nothing
+Private _city As String = Nothing
+Private _state As String = Nothing
+Private _zip As String = Nothing
+' The Street property.
+Public Property Street() As String
+Get
+Return ""
+End Get
+Set
+_street = value
+End Set
+End Property
+' The City property.
+Public Property City() As String
+Get
+Return ""
+End Get
+Set
+_city = value
+End Set
+End Property
+' The State property.
+Public Property State() As String
+Get
+Return ""
+End Get
+Set
+_state = value
+End Set
+End Property
+' The Zip property.
+Public Property Zip() As String
+Get
+Return ""
+End Get
+Set
+_zip = value
+End Set
+End Property
+End Class
+The following code fragment defines a control named SoccerPlayer that exposes a property whose type is the class Address.
+public class SoccerPlayer : Control
+{
+private Address address = new Address();
+// PlayerAddress is complex property whose
+// type is the class Address. Address has four
+// properties, Street, City, State, and Zip. These become
+// subproperties of SoccerPlayer.
+public Address PlayerAddress
+{
+get
+{
+return address;
+}
+// Note that the set accessor is not defined.
+// The get accessor provides a handle to a PlayerAddress
+// instance that can be used to set a subproperty such as
+// PlayerAddress.Street.
+}
+}
+[Visual Basic]
+Public Class SoccerPlayer
+Inherits Control
+Private address As New Address()
+' PlayerAddress is complex property whose
+' type is the class Address. Address has four
+' properties, Street, City, State, and Zip. These become
+' subproperties of SoccerPlayer.
+Public ReadOnly Property PlayerAddress() As Address
+Get
+Return address
+End Get
+' Note that the set accessor is not defined.
+' The get accessor provides a handle to a PlayerAddress
+' instance that can be used to set a subproperty such as
+' PlayerAddress.Street.
+End Property
+End Class
+ASP.NET has a special syntax for setting subproperties. The following example declaratively sets the Font.Color and Font.Size subproperties on the System.Web.UI.WebControls.Button control. The hyphen (-) denotes a subproperty.
+<asp:Button Font-Color="red" Font-Size="3" runat=server/>
+In a designer such as Visual Studio .NET, a class property can be expanded to show the subproperties.
+ASP.NET also allows a nested syntax for properties, whereby properties can be declared as child elements within a control's tags. To enable this syntax, a control must be marked as ParseChildrenAttribute(true). For details, see Using ParseChildrenAttribute. System.Web.UI.WebControl is marked as ParseChildrenAttribute(true). Controls that derive from WebControl inherit its default parsing logic.
+Note   The properties defined in the examples here are not persisted during round trips to the client. To define properties that are persisted, you must use a control's ViewState property as described in Maintaining State in a Control.
+See Also
+Custom Property Sample
+Additional resources
+Your Privacy Choices
+Theme
+Light
+Dark
+High contrast
+Previous Versions
+Blog
+ContributePrivacyTerms of UseTrademarks© Microsoft 2025
+Additional resources
+In this article
+Your Privacy Choices
+Theme
+Light
+Dark
+High contrast
+Previous Versions
+Blog
+ContributePrivacyTerms of UseTrademarks© Microsoft 2025

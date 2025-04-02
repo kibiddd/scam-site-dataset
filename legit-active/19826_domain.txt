@@ -1,0 +1,18 @@
+   Domain Name: EXACTEDITIONS.COM
+   Registry Domain ID: 145383502_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.netistrar.com
+   Registrar URL: http://www.netistrar.com
+   Updated Date: 2019-03-04T22:46:13Z
+   Creation Date: 2005-03-07T14:55:09Z
+   Registry Expiry Date: 2027-03-07T14:55:09Z
+   Registrar: Netistrar Limited
+   Registrar IANA ID: 1755
+   Registrar Abuse Contact Email: abuse@netistrar.com
+   Registrar Abuse Contact Phone: +44.1283617808
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-163.AWSDNS-20.COM
+   Name Server: NS-1932.AWSDNS-49.CO.UK
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:52:22Z 

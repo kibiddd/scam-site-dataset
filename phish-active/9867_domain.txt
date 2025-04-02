@@ -1,0 +1,22 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        LIFAN-CAR.RU
+nserver:       ns3-l2.nic.ru.
+nserver:       ns4-cloud.nic.ru.
+nserver:       ns4-l2.nic.ru.
+nserver:       ns8-cloud.nic.ru.
+nserver:       ns8-l2.nic.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           LLC "Lifan Motors Rus"
+taxpayer-id:   7743827435
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2007-05-09T20:00:00Z
+paid-till:     2025-05-09T21:00:00Z
+free-date:     2025-06-10
+source:        TCI
+
+Last updated on 2025-03-27T13:48:01Z
+

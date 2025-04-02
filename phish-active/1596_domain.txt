@@ -1,0 +1,11 @@
+Domain Name: yingken.cn
+ROID: 20241007s10001s61443064-cn
+Domain Status: ok
+Registrant: 张玉春
+Registrant Contact Email: wugong002a@gmail.com
+Sponsoring Registrar: 阿里云计算有限公司（万网）
+Name Server: paloma.ns.cloudflare.com
+Name Server: karl.ns.cloudflare.com
+Registration Time: 2024-10-07 10:04:39
+Expiration Time: 2025-10-07 10:04:39
+DNSSEC: unsigned

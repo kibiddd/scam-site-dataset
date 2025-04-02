@@ -1,0 +1,4 @@
+PHP MySQL support not enabled
+PHP MySQL support not enabled
+We were unable to use the MySQL database because the MySQL extension for PHP is not installed. Check your PHP.ini to see how you can enable it.
+For more help, see the Installation and upgrading handbook. If you are unsure what these terms mean you should probably contact your hosting provider.

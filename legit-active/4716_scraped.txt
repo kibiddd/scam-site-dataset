@@ -1,0 +1,181 @@
+XML data feeds - Current Conditions - NOAA's National Weather Service
+Toggle navigation
+HOME
+FORECAST
+Local
+Graphical
+Aviation
+Marine
+Rivers and Lakes
+Hurricanes
+Severe Weather
+Fire Weather
+Sunrise/Sunset
+Long Range Forecasts
+Climate Prediction
+Space Weather
+PAST WEATHER
+Past Weather
+Heating/Cooling Days
+Monthly Temperatures
+Records
+Astronomical Data
+SAFETY
+Tsunamis
+Floods
+Beach Hazards
+Wildfire
+Cold
+Tornadoes
+Fog
+Air Quality
+Heat
+Hurricanes
+Lightning
+Safe Boating
+Rip Currents
+Thunderstorms
+Space Weather
+Sun (Ultraviolet Radiation)
+Wind
+Drought
+Winter Weather
+INFORMATION
+Wireless Emergency Alerts
+Weather-Ready Nation
+Brochures
+Cooperative Observers
+Daily Briefing
+Damage/Fatality/Injury Statistics
+Forecast Models
+GIS Data Portal
+NOAA Weather Radio
+Publications
+SKYWARN Storm Spotters
+StormReady
+TsunamiReady
+Service Change Notices
+EDUCATION
+Be A Force of Nature
+NWS Education Home
+NEWS
+NWS News
+Events
+Pubs/Brochures/Booklets
+NWS Media Contacts
+SEARCH
+Search For
+NWS
+All NOAA
+ABOUT
+About NWS
+Organization
+Strategic Plan
+For NWS Employees
+International
+National Centers
+Careers
+Contact Us
+Glossary
+Social Media
+XML Feeds of Current Weather Conditions
+This page provides access to observed current weather conditions for about 1,800 locations across the United States
+and US Territories. Two file formats designed for computer to computer data transfer are provided. RSS and XML lists
+are provided to aid the automated dissemination of this information. More information on RSS and
+XML formats/feeds. Comments and feedback are welcome. There is
+additional information about this offering via this
+Product Description Document.
+Select a State or Territory to locate XML weather observations feeds available:
+- Select a State -
+Alaska
+Alabama
+Arkansas
+American Samoa
+Arizona
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Guam
+Hawaii
+Iowa
+Idaho
+Illinois
+Indiana
+Kansas
+Kentucky
+Louisiana
+Massachusetts
+Maryland
+Maine
+Michigan
+Minnesota
+Missouri
+Mississippi
+Montana
+North Carolina
+North Dakota
+Nebraska
+New Hampshire
+New Jersey
+New Mexico
+Nevada
+New York
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Puerto Rico
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Virginia
+Virgin Islands
+Vermont
+Washington
+Wisconsin
+West Virginia
+Wyoming
+An index list of all available stations is available in XML (900kb):
+Zip files containing all XML or RSS files are available:
+All current RSS files (4052688 bytes)
+All current XML files (5138691 bytes)
+These files are updated hourly.
+About RSS
+RSS is an XML based document format for syndicating news and other timely news-like information. It provides headlines,
+URLs to the source document and brief description information in an easy to understand and use format. RSS based
+"News Readers" and "News Aggregators" allow the display of RSS headlines on workstation desktops.
+Software libraries exist to read the RSS format and present RSS headlines on webpages and other online applications.
+These NWS supplied RSS documents use the RSS 2.0 format. Each RSS item links to the html/web documents described above.
+Additional technical information is available from the following non-US Government website:
+RSS 2.0 Specification
+A non-US Government maintained list of RSS readers, aggregators and related software:
+RSS Software
+Comments on this service are welcome.
+About XML
+NWS offers hourly weather observations formatted with xml tags to aid in the parsing of the information by automated
+programs used to populate databases, display information on webpages or other similar applications. This format is not
+to be confused with RSS and cannot be read by RSS readers and aggregators. These files present more detailed
+information than the RSS feeds in strings friendly for parsing. Both the RSS and XML feeds offer URLs to icon images.
+Additionally, a list of what phrases may appear in the <weather> XML tag and suggested
+icons is available. To access these feeds, select a state and then the last XML link in the column.
+US Dept of Commerce
+National Oceanic and Atmospheric Administration
+National Weather Service
+1325 East West Highway
+Silver Spring, MD 20910
+Comments? Questions? Please Contact Us.
+Disclaimer
+Information Quality
+Help
+Glossary
+Privacy Policy
+Freedom of Information Act (FOIA)
+About Us
+Career Opportunities

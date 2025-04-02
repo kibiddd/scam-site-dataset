@@ -1,0 +1,70 @@
+Domain Name: qmisales.ca
+Registry Domain ID: D913289-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: webnames.ca
+Updated Date: 2025-02-06T16:01:44Z
+Creation Date: 2009-06-04T19:59:00Z
+Registry Expiry Date: 2025-06-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email: abuse@webnames.ca
+Registrar Abuse Contact Phone: +1.8662217878
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 29351493-CIRA
+Registrant Name: MÃ©diaQMI Inc.
+Registrant Organization: MédiaQMI Inc.
+Registrant Street: 612 Rue Saint-Jacques
+Registrant City: Montreal
+Registrant State/Province: QC
+Registrant Postal Code: H3C4M8
+Registrant Country: CA
+Registrant Phone: +1.5143801999
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: dnsadmin@quebecormedia.com
+Registry Admin ID: 29351253-CIRA
+Admin Name: DNSAdmin DNSAdmin
+Admin Organization: MédiaQMI Inc.
+Admin Street: 612 Rue Saint-Jacques
+Admin City: Montreal
+Admin State/Province: QC
+Admin Postal Code: H3C4M8
+Admin Country: CA
+Admin Phone: +1.5143801999
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: dnsadmin@quebecormedia.com
+Registry Tech ID: 29351320-CIRA
+Tech Name: DNSAdmin DNSAdmin
+Tech Organization: MédiaQMI Inc.
+Tech Street: 612 Rue Saint-Jacques
+Tech City: Montreal
+Tech State/Province: QC
+Tech Postal Code: H3C4M8
+Tech Country: CA
+Tech Phone: +1.5143801999
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: dnsadmin@quebecormedia.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.webnames.ca
+Name Server: ns2.webnames.ca
+Name Server: ns3.webnames.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T15:56:38Z 

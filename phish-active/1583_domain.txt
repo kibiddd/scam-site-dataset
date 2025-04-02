@@ -1,0 +1,19 @@
+   Domain Name: CREATORLINK.NET
+   Registry Domain ID: 1853310523_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.hosting.kr
+   Registrar URL: http://HOSTING.KR
+   Updated Date: 2024-06-26T02:05:11Z
+   Creation Date: 2014-04-04T02:17:28Z
+   Registry Expiry Date: 2026-04-04T02:17:28Z
+   Registrar: Megazone Corp., dba HOSTING.KR
+   Registrar IANA ID: 1489
+   Registrar Abuse Contact Email: abuse@hosting.kr
+   Registrar Abuse Contact Phone: +82.216447378
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-CLOUD-A1.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-A2.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-A3.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-A4.GOOGLEDOMAINS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:42:53Z 

@@ -1,0 +1,27 @@
+Domain Name: blogspot.tw
+   Domain Status: clientUpdateProhibited,clientTransferProhibited,clientDeleteProhibited
+   Registrant:
+      
+      Google LLC
+      dns-admin@google.com
+      US
+      (Redacted for privacy)
+
+   Administrative Contact:
+      (Redacted for privacy)
+
+   Technical Contact:
+      (Redacted for privacy)
+
+   Record expires on 2026-02-09 08:06:19 (UTC+8)
+   Record created on 2011-02-09 08:06:19 (UTC+8)
+
+   Domain servers in listed order:
+      ns2.google.com     
+      ns4.google.com     
+      ns3.google.com     
+      ns1.google.com     
+
+Registration Service Provider: Markmonitor, Inc.
+Registration Service URL: http://www.markmonitor.com/
+Provided by Registry Services, LLC. Registry Gateway Services

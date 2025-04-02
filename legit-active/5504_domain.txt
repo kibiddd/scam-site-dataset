@@ -1,0 +1,55 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: ARTIC.EDU
+
+Registrant:
+	The Art Institute of Chicago
+	111 S. Michigan Ave.
+	Chicago, IL 60603
+	USA
+
+Administrative Contact:
+	Network Services
+	The Art Institute Of Chicago
+	111 S. Michigan Ave.
+	Chicago, IL 60603
+	USA
+	+1.3126296543
+	domain-admin@artic.edu
+
+Technical Contact:
+	Network Services
+	The Art Institute of Chicago
+	111 S. Michigan Ave.
+	Chicago, IL 60603
+	USA
+	+1.3126296543
+	domain-admin@artic.edu
+
+Name Servers:
+	NS1.ARTIC.EDU
+	NS2.ARTIC.EDU
+
+Domain record activated:    29-Jun-1994
+Domain record last updated: 01-Jul-2022
+Domain expires:             31-Jul-2025

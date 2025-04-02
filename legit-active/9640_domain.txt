@@ -1,0 +1,25 @@
+Domain Name: martinique.com.au
+Registry Domain ID: e563a363203749a3a215c1dfa1196b63-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.instra.com/en/about-us/contact-us
+Last Modified: 2024-04-22T04:31:06Z
+Registrar Name: Domain Directors Pty Ltd trading as Instra
+Registrar Abuse Contact Email: abuse@key-systems.net
+Registrar Abuse Contact Phone: +49.68949396850
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 6e5348b1dae349348108e798de356713-AU
+Registrant Contact Name: Ken Earl
+Tech Contact ID: c488693861614e36ba45ad927595b1fd-AU
+Tech Contact Name: Ken Earl
+Name Server: ns2.aphosting.com.au
+Name Server IP: 27.50.88.49
+Name Server: ns1.aphosting.com.au
+Name Server IP: 27.50.88.49
+DNSSEC: unsigned
+Registrant: CEKA GROUP PTY LTD
+Registrant ID: ABN 14159831928
+Eligibility Type: Company
+Eligibility ID: ABN 14159831928
+>>> Last update of WHOIS database: 2025-03-28T16:13:18Z 

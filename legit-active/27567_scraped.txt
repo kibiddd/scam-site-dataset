@@ -1,0 +1,369 @@
+ï»¿
+Interactive Circle of Fifths User's Guide
+Introduction
+The Interactive Circle of Fifths
+("the Circle" for short) is a tool designed to help musicians to:
+figure out the key of a piece of music
+easily transpose music to a different key
+compose new music
+understand key signatures, scales, and modes
+The concept of the circle of fifths is not a new one (see this
+Wikipedia article
+for more information), but there is more to this simple, yet profound structure
+than the traditional diagram can easily convey. The Interactive Circle of Fifths
+goes beyond the limitations of a static diagram without sacrificing clarity
+and simplicity. This User's Guide will help you get the most out of the Circle,
+while introducing some basic music theory concepts. However, this is not intended
+to take the place of an introductory music theory course. If you're new to
+music theory, you may find some of the terminology unfamiliar. In this case,
+you are encouraged to use the excellent resources available on the Internet
+(including Wikipedia) to learn more.
+Using the Circle Offline: You can easily download a copy of the Circle to use
+when you don't have an Internet connection:
+If you use Internet Explorer or Opera:  Use the Save As... command in the
+browser's File menu, and save as type "Web Archive, single file (*.mht)". Once
+the web archive file is saved on your local machine, you can open it anytime.
+If you use Safari:  Use the Save As... command in the browser's File menu,
+and save as format "Web Archive". Once the web archive file is saved on your local
+machine, you can open it anytime.
+If you use Firefox:  As of this writing, Firefox doesn't yet support a "Web Archive"
+option like the other browsers, and its "Web Page, complete" option doesn't work with the Circle.
+However, you can use IE or Safari to create the web archive, as described above.
+Basic Use
+The Circle starts out with the key of C Major selected. To choose
+a different tonic, click an item in the Tonic table with your mouse. Likewise, to
+choose a different mode, click in the Mode table. To save a lot of clicking,
+you can also rotate the Circle clockwise by dragging upwards in either table,
+and counter-clockwise by dragging downwards.
+The white rows in the Tonic table correspond to the fifteen classic Major
+key signatures that we learn about in music class, from C (seven sharps) through
+C (seven flats). The gray rows are more rarely used, and are included here for
+completeness. (When's the last time you heard a tune in E Phrygian?)
+Note on Minor Keys: The Mode table contains the entry "N. Minor / Aeolian".
+This refers to the natural minor scale, which consists of the same notes as the Aeolian mode.
+Unfortunately, in actual practice, music in the minor mode is rarely pure Aeolian.
+Instead, it typically uses a major V chord rather than the minor one called for by the
+Aeolian mode. It will also often include the ascending melodic minor scale. The details
+are beyond the scope of this Guide, but you should at least be aware of these
+complications so you're not surprised when you come across them in music.
+To make matters worse, you may encounter the term "minor" in a number of different contexts:
+Harmonic minor, ascending and descending melodic minor, relative
+minor, and parallel minor. In this Guide, the term "minor mode"
+always refers to the natural minor in its pure Aeolian form, since this is the only
+one that fits entirely into the structure of the circle of fifths.
+As you can see, the Circle is made up of three concentric rings. The large middle
+ring, the Note Ring, shows the names of all of the notes in the 12-tone chromatic
+scale. The seven notes in the key you have selected (that is, diatonic to the
+key) have a white background, and the other five notes have a gray background.
+The innermost ring, the Degree Ring, gives, in Roman numerals, the scale degrees
+of the seven notes highlighted in the Note Ring. (The degree of a note is just its position
+in the scale, but this becomes very important when we work with chord progressions.)
+You'll also see a black arrow pointing out the tonic of the selected key.
+The outermost ring, the Chord Ring, shows you what type of three-note chord,
+or triad, is rooted at each of the seven notes in the selected key. For
+example, in C Major, the triad rooted at D (that is, D-F-A) is a minor chord, but
+in G Major, the triad rooted at D (D-F-A) is instead a major chord.
+Example 1:
+Start with the Circle in its starting position, with C Major selected. The Note Ring shows
+that the notes F, C, G, D, A, E, B are diatonic to C Major. (That is, C Major
+has no sharps or flats in its key signature.) Put them in alphabetical order, and you
+have the scale C, D, E, F, G, A, B.
+The Degree Ring indicates the tonic (C) with a black arrow, and
+also shows, for instance, that G is the fifth, or dominant of this key (more on
+degrees later). The Chord Ring shows that in C Major, F, C, and G are major chords, D, A, and E are
+minor chords, and B is a diminished chord.
+Example 2:
+Now click G in the Tonic table, immediately above C. The circle rotates clockwise one position,
+and the Degree Ring now points to G as the tonic. Notice that F has dropped off one end of the
+Note Ring, and F has been highlighted at the other end. This is an important lesson about the
+Circle: When you rotate it (whether by Tonic or Mode), you are simply taking a note at one end of the Note
+Ring and sharpening it (clockwise rotation) or flattening it (counterclockwise
+rotation). The other six notes remain the same. This means that the closer two keys are on the circle, the more notes they have in common.
+It also tells you, if you're searching for a key with more sharps, go clockwise; if you're looking
+for more flats, go counterclockwise. (Using the Tonic and Mode tables, remember that flat is down and sharp
+is up...just as in music.)
+Example 3:
+Now use the Tonic and Mode tables to select C Lydian. Notice that we've gone down one spot on the
+Tonic table and up one spot on the Mode table, and the Circle looks almost the same as it did in
+Example 2: The Note and Chord Rings are the same, but the Degree Ring
+has changed. C is now the tonic, and the other degrees have changed accordingly.
+From this, we can gather that changing modes is very much like changing from one tonic to another,
+and in fact, if we offset a change in tonic with an opposite change in mode, the new key
+will have the same notes as the old key (the keys are enharmonic).
+Analyzing a Chord Progression
+Analyzing a chord progression has two basic steps: Figuring out what key to use, and
+then figuring out the degrees of the chords.
+Example 1:
+The chords for the Eagles tune "Take It Easy" are as follows:
+GDCGDCGEmCG
+AmCEmCGCGAmCG
+(For simplicity, these examples show the chords for an entire song at once, omitting the
+relationship of the chord progression to the rhythmic and dynamic structure of the song:
+bar, verse, chorus, etc. This does not mean that you should ignore that relationship
+when you do your own analysis.)
+The first step is figuring out the key. Select the Major mode and rotate the circle
+until you find a position where all of these notes are highlighted in white in the
+Note Ring and have the right type of chord (major or minor) in the Chord Ring.
+In particular, make sure that both A and E are within the blue Minor section of the Chord
+Ring. You'll
+find that there's only one choice that fits: G Major.
+Note: It may seem as if we cheated a bit at the outset. How did we know to choose the Major
+mode, when we haven't figured out the key yet? Well, we actually could have started
+with any mode; the point of the first step is just to get the Note and Chord Rings
+in the right position. As we saw earlier, the selected mode only affects the Degree
+Ring, not the Note and Chord Rings. It's in the second step, where we figure out the
+chord degrees, that mode becomes important.
+(That said, most popular music is in the Major mode, so it makes a good first choice.)
+The second step is to figure out the degrees of the chords. Translate
+these chords into their degrees by looking at the Degree Ring. The result should be:
+IVIVIVIVIviIVI
+iiIVviIVIIVIiiIVI
+This is a classic chord progression. It begins and ends with the tonic (I, or G),
+and the three most common chords are the tonic, the dominant (V, in this case D) and
+the subdominant (IV, which is C). This strongly indicates that G Major is indeed
+the key of this song.
+Example 2:
+Now let's look at the chords from the R.E.M. song "Losing My Religion":
+AmEmAmEmAmEmDmGFAmDmAmG
+This tune uses many of the same chords as "Take It Easy", but there are two new ones: F and Dm.
+If you still have the Circle positioned for Example 1 (G Major), then everything looks good
+except for these two new chords. Instead of F, you currently have F, and the D you have is Major, not Minor.
+Examine the Circle and you'll see that rotating it one step counter-clockwise will solve
+both of these problems. F will be replaced by F and D Major will become D Minor. Am and Em will be unaffected
+by this rotation. Go ahead and use the Tonic table to rotate counter-clockwise from G Major
+to C Major.
+Now it's time for the second step, figuring out the degrees. When we're done, we see a problem:
+viiiiviiiiviiiiiiVIVviiiviV
+This doesn't make much sense; secondary "color" chords (ii, iii, vi) are the most frequent,
+and—most important—the tonic (I) is not used at all. This strongly implies that, even
+though all of the chords fit the key we've chosen, we have the wrong mode, because the
+tonic is the chord you will hear as the harmonic "center" of the progression. In other words,
+even though we've found that all of the chords are in C Major, you simply won't hear
+the tune as C Major.
+Now, if we eliminate the Major mode, there are six other modes this tune could be using. As we
+try each mode, we can offset the change to the Mode table with the opposite change to the
+Tonic table so as to leave the circle position unchanged. (That is, we will get a key that
+is enharmonic with C Major.) For example, we could go down a step to the Mixolydian mode,
+and up a step to G. This is all very well, but rather than spending the time to try out each of the modes in turn,
+we can use our knowledge of popular music and guess that if this tune isn't in the Major mode,
+then it's most likely Minor.
+From C Major, move the Mode table down three spaces to
+get to the Minor mode. To maintain the Circle's position, you then need to move the Tonic table
+up three spaces, from C to A. This tells us that A Minor is the relative minor of C Major.
+After this change, all our chords still fit, but now the degrees of the progression look much better:
+ivivivivVIIVIiiviVII
+Now we see several places where the dominant (v) or subdominant (iv) resolves to (is followed by)
+the tonic (i). We can also see that the most common chord is i, followed by v and iv. In addition,
+the tune begins with the tonic. These are all very strong indications that "Losing My Religion" is in
+the key of A Minor. (In fact, it's a bit unusual in that it is not only minor but pure Aeolian; it does
+not use any accidental chords, particularly the major V chord which is characteristic of songs that use the
+natural minor scale. See the Note on Minor Keys, above, for more on this.)
+Note:
+So far, we have looked at two very simple examples, but most music is considerably more complex.
+Progressions will often contain accidental chords that are outside the key,
+and tunes may modulate from one key to another: It's common for an intro,
+chorus, or bridge to be in a different key from the rest of the song, because this generates
+the tension that makes for exciting music. If all but one or two chords in a progression seem to fit a key,
+you are probably dealing with accidentals, and you should go with the key indicated by the majority
+of the chords. If, on the other hand,
+the first part of a progression fits in one key, but you're having trouble with the rest,
+assume it's modulating, and try analyzing each section separately. (Keep in mind that modulation
+often moves between keys that are adjacent on the Circle, because of their close harmonic
+relationship.)
+Example 3:
+This example is a bit more complex than the first two. The verse of The Beatles' "She Loves You"
+consists of these chords:
+GEm7BmDGEm7BmDGGmaj7G6Em7CmD
+The first thing to notice is that we now need to deal with chords that are not simple triads:
+Em7, Gmaj7, and G6. This won't be a problem in finding the key, because each of these chords is based on a triad
+we've already encountered. For
+our purposes, we can deal with Em7 as if it were Em, and we can treat both Gmaj7 and G6 the same as G.
+(This is a slight oversimplification, as will be explained in the Note at the end of this example.)
+Note: If the discussion of chords in the preceding paragraph baffled you, this would be an excellent
+time to read up a bit on chord construction. There are many excellent resources on the Web,
+including several "chord finders" that will break down any chord—no matter how obscure—into
+its component notes.
+To find the key of this piece, set the Circle back to the Major mode (always a good starting point) and find a tonic that
+has all of the chords (or in this case, their basic triads). You'll find that G Major has all of these chords
+except for Cm. This is our first example of an accidental (or non-diatonic) chord, and as mentioned above,
+this one accidental won't stop us from choosing G Major. Let's look at the degrees, to verify that we have the right mode:
+Ivi7iiiVIvi7iiiVIImaj7I6vi7ivV
+Take note of how we've written the "special" chords, for example vi7 for Em7 and Imaj7 for Gmaj7.
+This is just a matter of adding the special suffix to the basic names we've already been using. On the other hand,
+the Cm chord is simply shown as iv, because it is the minor chord of the 4th degree of G Major.
+But aside from questions of notation, this progression looks good: The tonic is prevalent (including
+the extensions Imaj7 and I6) and there are several occurrences of the classic V-I cadence. This confirms that
+the verse of "She Loves You" is in G Major.
+Note: As mentioned above, it's an oversimplification to say that we can just
+treat Gmaj7 as if it were a G Major chord. There are actually two different types of seventh
+chords built on the major triad: The major seventh chord (e.g. Gmaj7) and the dominant seventh
+chord (e.g. G7). This is important because these two chords each contain a different seventh note,
+and so they can't both appear in the same key.
+To understand this, start with major triads. Take a look at the Chord Ring, and you'll see that any major
+triad appears in three major keys; for example, the G Major triad appears in the keys
+C Major, G Major, and D Major. Now look at the seventh chords based on that triad.
+Gmaj7 consists of the notes G, B, D, and F. Using the Circle, you can see that these notes
+occur in only two out of the three keys: G Major and D Major. G7 (the dominant seventh) consists of
+G, B, D, and F, and only the remaining key, C Major, has all of these notes.
+Generalizing from this example, you now have a handy rule you can apply any time you encounter
+a dominant seventh chord in a piece of music: The root of the dominant seventh (in this case, G)
+will be the dominant (V) of the major key to which it belongs (in this case, C Major). In fact,
+this is why the chord is called the "dominant" seventh.
+(What about music in modes other than Major? It's easy: You'll find that no matter what mode
+you use, when you look at the three notes in the red Major segment of the Chord Ring, the dominant
+seventh is always the most clockwise of the three, closest to the blue Minor segment.)
+By the way, this kind of complication doesn't apply to minor seventh chords: They are
+built on the minor triad, and they appear in all three keys where that minor triad occurs. So for our
+purposes, you can treat minor sevenths the same as minor triads.
+Transposing Music
+There are many times when you'll find it necessary to transpose a piece of music from one
+key to another. For example, your vocalist might not be comfortable in the register of a certain
+song, or you might have a tune composed on the piano that is too difficult to play on the guitar.
+The Circle makes transposition simple by building on the analysis techniques you've already learned.
+Example:
+Refer back to Example 3 in the previous section, where we analyzed the verse of The Beatles' "She Loves You".
+We determined that it's in G Major, and that the progression is:
+Ivi7iiiVIvi7iiiVIImaj7I6vi7ivV
+Let's say you need to transpose this song up a whole step,
+from G Major to A Major. Simply set the Circle to A Major, and use the Degree Ring to translate
+these degrees into notes. (This is the opposite of the way you used the Degree Ring during the
+analysis process.)
+Here is the result:
+A
+Fm7
+Cm
+E
+A
+Fm7
+Cm
+E
+A
+Amaj7
+A6
+Fm7
+Dm
+E
+That was pretty easy, and if the new key doesn't work for you, you can simply repeat the process:
+Change the Circle position again and re-translate the degrees into chords.	As you practice with the
+Circle, you'll start to memorize its layout, and you'll find that you can easily transpose without
+needing to write anything down. However, the most important part is to accurately analyze the key
+of the music in the first place, or your transposition won't come out right.
+Note:
+In this example, we transposed a piece with an accidental chord (Cm) by simply treating it
+as a iv rather than a IV. But what if you have an accidental where the root is itself non-diatonic?
+For instance, imagine for a moment that "She Loves You" contained a Bmaj7 chord. You would
+look for its degree on the Circle and find that B isn't in G Major. The closest match is
+B, which is the third degree of G Major. In this situation, we would describe B as the flatted third
+of G Major, and write the chord as IIImaj7.
+Transposing to A Major, we find that the third of A Major is C,
+and a flatted C is of course C. Therefore, our
+IIImaj7 chord becomes Cmaj7.
+We can confirm that this is correct by noting that C is one full step up from
+B, matching the rest of our tranposition.
+Composing Music
+The idea for a new song often begins with a few chords that sound good together. Maybe the
+line of a melody starts to take shape. Now you want to take this promising beginning and turn it
+into a complete tune. Is this where you run into trouble? Do you find yourself trying other chords at random,
+hoping to build a good chorus, bridge, or intro? When you find a chord that works, do you wonder why
+that chord was the "right" one? You can overcome these difficulties—and more—by
+figuring out the key of your new song and understanding its structure. The Interactive Circle of Fifths
+will help you through this process.
+Example:
+You've got the beginnings of a song using the chords D, G, and Em, and you're looking for ways to
+expand on this start. What you need to do is figure out is what key your tune will use, because
+this will determine the chords that will sound right together. Given only three chords,
+there will be a number of possibilities, and you'll have to experiment a bit to find the one that
+matches what you're hearing.
+Let's assume for the sake of this example that you're writing popular music, and you'd like to focus
+on the Major and Minor modes. (This is not to discourage you from trying other modes, as they can add
+a great distinctive feel to your music, but be aware that the harmonic "rules" of the other modes
+are trickier, and well worth further study.) Using the Circle, you'll find that D, G, and Em
+occur in D Major, G Major, B Minor, and E Minor. These are all candidates for your song, but we
+need to narrow down the choices. As in
+analyzing a chord progression, the next step is to use the Circle to find the degrees of the chords:
+DGEm
+D MajorIIVii
+G MajorVIvi
+B MinorIIIVIiv
+E MinorVIIIIIi
+B Minor and E Minor don't look promising, since two out of our three chords would be secondary
+or "color" chords, and only the Em chord would be prominent. D Major and G Major are both
+strong candidates though, since you'll be using the tonic and either the dominant (V) or
+subdominant (IV). We need to choose one, so let's use the Circle to find all of the chords
+in D Major and G Major:
+IiiiiiIVVviviiÂ°
+D MajorDEmFmGABmCÂ°
+G MajorGAmBmCDEmFÂ°
+Note:
+Take a moment to notice the similarities and differences between these two keys. They
+are only one step apart on the Circle, so they have six out of seven notes in common.
+(Remember that when we move one step counter-clockwise, we flatten the note at the far end.
+In this case, C becomes C.) And of course they are both major keys, so they share the
+same harmonic structure. However, when you look at them from the point of view of
+individual chords, even the chords they have in common (Bm, D, Em, G) play very different
+roles in each key. The other common notes (A and F) produce completely different
+chords. This shows the importance of choosing the right key when creating your chord progression.
+Now that we have all of the chords for each key, try some of these additional chords and see
+if they fit the song that is taking shape. In particular, try to work A or C into your progression.
+A is the V of D Major, so if it sounds good, work with D Major. If C sounds good, then continue
+with G Major, where it's the IV.
+Remember the earlier Note on major seventh and dominant seventh chords? These unique chords
+can be very useful for finding the key. Referring to the Circle, you'll see that the major
+chords in a major key are the I, IV, and V chords. The seventh of the V chord is a dominant
+seventh, and the other two are major sevenths. For our example, here are the chords:
+IVmaj7Imaj7V7
+D MajorGmaj7Dmaj7A7
+G MajorCmaj7Gmaj7D7
+Notice that we have two D seventh chords to choose from. This is handy, because you
+can try both flavors to see how they feel with your tune. If one works, that will tell you the
+key. Failing that, Cmaj7 and A7 will serve the same purpose.
+Of course, there's much more to writing a song than just knowing what key you're using. But knowing the
+key—and understanding its structure—will provide a framework for the process of composition. Knowing
+the key means you know the notes and chords that are diatonic, and how they relate to each other.
+And when you go beyond the diatonic with accidentals and modulation, understanding the structure of
+the key will help you do it effectively. There's much more to learn about this topic, and you're
+encouraged to delve further into composition in general, and chord progressions in particular, with
+the Circle as a handy tool on your journey.
+Reading Key Signatures
+Recognizing key signatures is crucial to reading music, and the Circle makes it easy.
+A key signature is simply the pattern of sharps or flats shown on the musical staff to
+indicate the key of the music.
+Example:
+As described under Basic Use,
+rotating the Circle counter-clockwise adds flats, and rotating it clockwise adds sharps.
+To interpret this key signature, set the Circle to C Major (no sharps or flats) and then
+move down the Tonic table, rotating the circle counter-clockwise until three flats are highlighted.
+The result is the key of E Major, where A, B, and E are flat.
+Note that a key signature alone doesn't tell you what mode the music is in; in this example,
+the song could just as easily be in C Minor, the relative minor of E Major. Since they are enharmonic,
+they have the same flat notes. For modes other than Major, either your sheet music may tell you the mode
+explicitly, or you can use the chord progression analysis techniques described above to determine the key.
+Understanding Scales
+We've covered keys, notes, and chords fairly extensively, but what about scales? A scale is made up of
+the seven notes in a particular key, in alphabetical order. It is usually played with the tonic
+at the beginning and end, making a total of eight notes, or one octave.
+Example 1: Set the Circle to F Major, and simply play the highlighted notes in alphabetical order.
+You should hear the familiar "do-re-mi" pattern of a major scale:
+F
+G
+A
+B
+C
+D
+E
+F
+Example 2: Now try the same thing with F Minor (natural minor), and you'll hear the difference:
+F
+G
+A
+B
+CD
+E
+F
+There are many other types of scales (harmonic minor, pentatonic, etc.) but for the ones
+that match the seven "modern" musical modes, the Circle will provide a quick reference to
+the notes that make up the scale.
+Many thanks to Michael Hagerth, whose invaluable feedback
+and assistance greatly improved the quality of this Guide.
+Copyright 2007 Rand Scullard. All Rights Reserved.
+Problems?Questions?Comments?Please email the author!

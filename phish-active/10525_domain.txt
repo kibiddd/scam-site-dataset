@@ -1,0 +1,68 @@
+Domain Name: gowc.us
+Registry Domain ID: D17016181-US
+Registrar WHOIS Server:
+Registrar URL: whois.biz
+Updated Date: 2025-01-10T21:03:16Z
+Creation Date: 2008-06-18T15:13:51Z
+Registry Expiry Date: 2028-06-17T23:59:59Z
+Registrar: Network Solutions, LLC
+Registrar IANA ID: 2
+Registrar Abuse Contact Email: abuse@web.com
+Registrar Abuse Contact Phone: +1.8003337680
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C6DD19FD21E894912A7106E60DD095C3C-NSR
+Registrant Name: Westmoreland County
+Registrant Organization: Westmoreland County
+Registrant Street: 2 N MAIN ST
+Registrant Street:
+Registrant Street:
+Registrant City: GREENSBURG
+Registrant State/Province: PA
+Registrant Postal Code: 15601-2405
+Registrant Country: US
+Registrant Phone: +1.7248303166
+Registrant Phone Ext:
+Registrant Fax: +1.8886429675
+Registrant Fax Ext:
+Registrant Email: rsvesnik@westmorelandcountypa.gov
+Registrant Application Purpose: P5
+Registrant Nexus Category: C21
+Registry Admin ID: C6DD19FD21E894912A7106E60DD095C3C-NSR
+Admin Name: Westmoreland County
+Admin Organization: Westmoreland County
+Admin Street: 2 N MAIN ST
+Admin Street:
+Admin Street:
+Admin City: GREENSBURG
+Admin State/Province: PA
+Admin Postal Code: 15601-2405
+Admin Country: US
+Admin Phone: +1.7248303166
+Admin Phone Ext:
+Admin Fax: +1.8886429675
+Admin Fax Ext:
+Admin Email: rsvesnik@westmorelandcountypa.gov
+Admin Application Purpose: P5
+Admin Nexus Category: C21
+Registry Tech ID: C6DD19FD21E894912A7106E60DD095C3C-NSR
+Tech Name: Westmoreland County
+Tech Organization: Westmoreland County
+Tech Street: 2 N MAIN ST
+Tech Street:
+Tech Street:
+Tech City: GREENSBURG
+Tech State/Province: PA
+Tech Postal Code: 15601-2405
+Tech Country: US
+Tech Phone: +1.7248303166
+Tech Phone Ext:
+Tech Fax: +1.8886429675
+Tech Fax Ext:
+Tech Email: rsvesnik@westmorelandcountypa.gov
+Tech Application Purpose: P5
+Tech Nexus Category: C21
+Name Server: naomi.ns.cloudflare.com
+Name Server: denver.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T13:56:46Z 

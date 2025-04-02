@@ -1,0 +1,53 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T21:24:19-03:00 - 2a09:bac5:c82c:db9::15e:9a
+
+domain:      desafioserasaexperian.com.br
+owner:       SERASA S.A
+ownerid:     62.173.620/0001-80
+responsible: Luana Batista
+country:     BR
+owner-c:     SEADO7
+tech-c:      SSSIN2
+nserver:     ns-1510.awsdns-60.org
+nsstat:      20250326 AA
+nslastaa:    20250326
+nserver:     ns-1576.awsdns-05.co.uk
+nsstat:      20250326 AA
+nslastaa:    20250326
+nserver:     ns-550.awsdns-04.net
+nsstat:      20250326 AA
+nslastaa:    20250326
+nserver:     ns-71.awsdns-08.com
+nsstat:      20250326 AA
+nslastaa:    20250326
+dsrecord:    64657 ECDSA-SHA-256 0C56DFAC72A06667A3762EF20109266F16F83AA8811DF1BCF3116027CD16D879
+dsstatus:    20250326 DSOK
+dslastok:    20250326
+saci:        yes
+created:     20200928 #21792394
+changed:     20240504
+expires:     20280928
+status:      published
+
+nic-hdl-br:  SEADO7
+person:      SerasaExperian Adm de Dom�nios
+e-mail:      comunicacoesregistrobr@br.experian.com
+country:     BR
+created:     20090701
+changed:     20210706
+
+nic-hdl-br:  SSSIN2
+person:      Serasa Seguranca de Sistemas - Internet
+e-mail:      ssinternet@br.experian.com
+country:     BR
+created:     20090630
+changed:     20190701
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

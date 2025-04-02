@@ -1,0 +1,44 @@
+
+% The data in the Whois database are provided by RNIDS
+% for information purposes only and to assist persons in obtaining
+% information about or related to a domain name registration record. 
+% Data in the database are created by registrants and we do not guarantee 
+% their accuracy. We reserve the right to remove access 
+% for entities abusing the data, without notice.
+% All timestamps are given in Serbian local time. 
+%
+Domain name: almex.rs
+Domain status: Active https://www.rnids.rs/en/domain-name-status-codes#Active
+Registration date: 03.04.2008 14:50:36
+Modification date: 27.03.2024 11:25:17
+Expiration date: 03.04.2025 14:50:36
+Confirmed: 03.04.2008 14:50:36
+Registrar: Astra Telekom d.o.o.
+
+
+Registrant: Almex d.o.o.
+Address: Jabučki put b.b., Pančevo, Serbia
+Postal Code: 26000
+ID Number: 08325316
+Tax ID: 100958453
+
+Administrative contact: ASTRA telekom doo
+Address: Omladinskih brigada 21., Beograd, Serbia
+Postal Code: 11070
+ID Number: 20833378
+Tax ID: 107597046
+
+Technical contact: MADNET d.o.o.
+Address: Dr Žarka Fogaraša 37, Pančevo, Serbia
+Postal Code: 26000
+ID Number: 2803986860005
+Tax ID: 
+
+
+DNS: ns7.astratelekom.com - 185.118.171.11
+DNS: ns8.astratelekom.com - 93.92.248.25
+
+
+DNSSEC signed: no
+
+Whois Timestamp: 26.03.2025 18:45:07

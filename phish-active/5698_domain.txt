@@ -1,0 +1,21 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+Domain Information: [ドメイン情報]
+a. [ドメイン名]                 CLUETRAIN.CO.JP
+e. [そしきめい]                 かぶしきがいしゃくるーとれいん
+f. [組織名]                     株式会社クルートレイン
+g. [Organization]               Cluetrain Corporation
+k. [組織種別]                   株式会社
+l. [Organization Type]          Corporation
+m. [登録担当者]                 SY7697JP
+n. [技術連絡担当者]             SY7698JP
+p. [ネームサーバ]               ns3.sphere.ad.jp
+p. [ネームサーバ]               ns4.sphere.ad.jp
+s. [署名鍵]                     
+[状態]                          Connected (2025/10/31)
+[登録年月日]                    2008/10/07
+[接続年月日]                    2008/10/07
+[最終更新]                      2024/11/01 01:03:52 (JST)
+

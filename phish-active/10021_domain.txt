@@ -1,0 +1,18 @@
+   Domain Name: STUDENTDOCTOR.NET
+   Registry Domain ID: 9129850_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.cloudflare.com
+   Registrar URL: http://www.cloudflare.com
+   Updated Date: 2024-12-25T04:42:11Z
+   Creation Date: 1999-08-15T20:47:42Z
+   Registry Expiry Date: 2034-08-15T20:47:28Z
+   Registrar: Cloudflare, Inc.
+   Registrar IANA ID: 1910
+   Registrar Abuse Contact Email: registrar-abuse@cloudflare.com
+   Registrar Abuse Contact Phone: +1.6503198930
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: GABE.NS.CLOUDFLARE.COM
+   Name Server: SUE.NS.CLOUDFLARE.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 2371 13 2 5E00E87FCB8FE3C6D880DA7BF504BCAEECFB5A03B10C8C17F6F8BFBBBA6B7DA7
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:51:00Z 

@@ -1,0 +1,62 @@
+Domain:                       amazonreality.sk
+Created:                      2013-07-01
+Valid Until:                  2025-07-01
+Updated:                      2024-06-28
+Domain Status:                ok
+Nameserver:                   ns1.sixnet.sk
+Nameserver:                   ns2.sixnet.sk
+Nameserver:                   ns3.sixnet.sk
+Nameserver:                   ns4.sixnet.sk
+
+Domain registrant:            AMAZ-0008
+Name:                         AMAZON REAL STUDIO s.r.o.
+Organization:                 AMAZON REAL STUDIO s.r.o.
+Organization ID:              45484571
+Phone:                        +421.557287533
+Email:                        stefan.macak@sixnet.sk
+Street:                       Námestie Osloboditeľov 20
+City:                         Košice
+Postal Code:                  04001
+Country Code:                 SK
+Authorised Registrar:         SIXN-0003
+Created:                      2017-09-01
+Updated:                      2019-09-13
+
+Registrar:                    SIXN-0003
+Name:                         SIXNET internet technologies s.r.o.
+Organization:                 SIXNET internet technologies s.r.o.
+Organization ID:              52548856
+Phone:                        +421.557287533
+Email:                        stefan.macak@sixnet.sk
+Street:                       Dúhová 40
+City:                         Košice
+Postal Code:                  04001
+Country Code:                 SK
+Created:                      2019-08-23
+Updated:                      2025-03-25
+
+Administrative Contact:       AMAZ-0008
+Name:                         AMAZON REAL STUDIO s.r.o.
+Organization:                 AMAZON REAL STUDIO s.r.o.
+Organization ID:              45484571
+Phone:                        +421.557287533
+Email:                        stefan.macak@sixnet.sk
+Street:                       Námestie Osloboditeľov 20
+City:                         Košice
+Postal Code:                  04001
+Country Code:                 SK
+Created:                      2017-09-01
+Updated:                      2019-09-13
+
+Technical Contact:            AMAZ-0008
+Name:                         AMAZON REAL STUDIO s.r.o.
+Organization:                 AMAZON REAL STUDIO s.r.o.
+Organization ID:              45484571
+Phone:                        +421.557287533
+Email:                        stefan.macak@sixnet.sk
+Street:                       Námestie Osloboditeľov 20
+City:                         Košice
+Postal Code:                  04001
+Country Code:                 SK
+Created:                      2017-09-01
+Updated:                      2019-09-13

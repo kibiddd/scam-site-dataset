@@ -1,0 +1,72 @@
+Domain Name: consulmuseum.ca
+Registry Domain ID: 1019426-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: ca.godaddy.com
+Updated Date: 2025-02-17T14:16:22Z
+Creation Date: 2011-02-16T04:54:49Z
+Registry Expiry Date: 2026-02-16T04:54:49Z
+Registrar: Go Daddy Domains Canada, Inc
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: autoRenewPeriod https://icann.org/epp#autoRenewPeriod
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 108650323-CIRA
+Registrant Name: Susan Pridmore
+Registrant Organization: Consul Museum Incorporated
+Registrant Street: PO Box 144
+Registrant City: Consul
+Registrant State/Province: SK
+Registrant Postal Code: S0N0P0
+Registrant Country: CA
+Registrant Phone: +1.3062994493
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: consulmuseum@gmail.com
+Registry Admin ID: 108650325-CIRA
+Admin Name: Jean Jones
+Admin Organization: Consul Museum Incorporated
+Admin Street: PO Box 144
+Admin City: Consul
+Admin State/Province: SK
+Admin Postal Code: S0N0P0
+Admin Country: CA
+Admin Phone: +1.3062994926
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: consulmuseum@gmail.com
+Registry Tech ID: 108650438-CIRA
+Tech Name: Susan Pridmore
+Tech Organization: Consul Museum Incorporated
+Tech Street: PO Box 144
+Tech City: Consul
+Tech State/Province: SK
+Tech Postal Code: S0N0P0
+Tech Country: CA
+Tech Phone: +1.3062994493
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: consulmuseum@gmail.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns05.domaincontrol.com
+Name Server: ns06.domaincontrol.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T23:11:40Z 

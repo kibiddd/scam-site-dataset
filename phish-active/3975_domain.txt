@@ -1,0 +1,17 @@
+   Domain Name: BENDASRULMAN.COM
+   Registry Domain ID: 1371009385_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.isimtescil.net
+   Registrar URL: http://www.isimtescil.net
+   Updated Date: 2024-09-06T07:36:06Z
+   Creation Date: 2008-01-04T12:24:35Z
+   Registry Expiry Date: 2029-01-04T12:24:35Z
+   Registrar: Isimtescil Bilisim A.S.
+   Registrar IANA ID: 3826
+   Registrar Abuse Contact Email: abuse@isimtescil.net
+   Registrar Abuse Contact Phone: +90.8502000444
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.NATROHOST.COM
+   Name Server: NS2.NATROHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T20:24:53Z 

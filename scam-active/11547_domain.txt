@@ -1,0 +1,18 @@
+   Domain Name: NICKYSHOP.COM
+   Registry Domain ID: 1560082062_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.onlinenic.com
+   Registrar URL: http://www.onlinenic.com
+   Updated Date: 2023-05-26T05:00:33Z
+   Creation Date: 2009-06-23T06:40:56Z
+   Registry Expiry Date: 2025-06-23T06:40:56Z
+   Registrar: OnlineNIC, Inc.
+   Registrar IANA ID: 82
+   Registrar Abuse Contact Email: abuse@onlinenic.com
+   Registrar Abuse Contact Phone: +1 833-678-1173
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: SULFUR.BTECHCLOUD.COM
+   Name Server: SULFUR2.BTECHCLOUD.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:48:07Z 

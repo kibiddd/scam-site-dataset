@@ -1,0 +1,72 @@
+Domain Name: incab.us
+Registry Domain ID: D48528830-US
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: whois.godaddy.com
+Updated Date: 2025-02-23T13:04:31Z
+Creation Date: 2015-02-18T12:07:22Z
+Registry Expiry Date: 2026-02-17T23:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: C2FC8B30A22184525AE49D15A72ADABC9-NSR
+Registrant Name: Incabus Registry
+Registrant Organization: Incabus Systems AB
+Registrant Street: Textilgatan 43
+Registrant Street:
+Registrant Street:
+Registrant City: Stockholm
+Registrant State/Province:
+Registrant Postal Code: 120 30
+Registrant Country: se
+Registrant Phone: +46.855696460
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: registry@incabus.com
+Registrant Application Purpose: P1
+Registrant Nexus Category: C11
+Registry Admin ID: CAAA47E208FF14849AFEF853933892224-NSR
+Admin Name: Incabus Registry
+Admin Organization: Incabus Systems AB
+Admin Street: Textilgatan 43
+Admin Street:
+Admin Street:
+Admin City: Stockholm
+Admin State/Province:
+Admin Postal Code: 120 30
+Admin Country: se
+Admin Phone: +46.855696460
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: registry@incabus.com
+Admin Application Purpose: P1
+Admin Nexus Category: C11
+Registry Tech ID: C28DF8BF2D6AB469A87D99D206F9F5EF5-NSR
+Tech Name: Incabus Registry
+Tech Organization: Incabus Systems AB
+Tech Street: Textilgatan 43
+Tech Street:
+Tech Street:
+Tech City: Stockholm
+Tech State/Province:
+Tech Postal Code: 120 30
+Tech Country: se
+Tech Phone: +46.855696460
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: registry@incabus.com
+Tech Application Purpose: P1
+Tech Nexus Category: C11
+Name Server: ns2.incabus.net
+Name Server: ns3.incabus.net
+Name Server: ns1.incabus.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T14:53:11Z 

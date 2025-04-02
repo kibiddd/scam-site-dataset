@@ -1,0 +1,17 @@
+   Domain Name: FAYDALARINELER.COM
+   Registry Domain ID: 1711750597_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.ihs.com.tr
+   Registrar URL: http://www.ihs.com.tr
+   Updated Date: 2024-03-18T09:04:04Z
+   Creation Date: 2012-04-06T21:01:23Z
+   Registry Expiry Date: 2025-04-06T21:01:23Z
+   Registrar: IHS Telekom, Inc.
+   Registrar IANA ID: 1091
+   Registrar Abuse Contact Email: abuse@ihs.com.tr
+   Registrar Abuse Contact Phone: +902165460056
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.IHSCP.COM
+   Name Server: NS2.IHSCP.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:17:52Z 

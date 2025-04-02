@@ -1,0 +1,17 @@
+   Domain Name: GREENSPUN.COM
+   Registry Domain ID: 1770849_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.register.com
+   Registrar URL: http://www.register.com
+   Updated Date: 2023-08-24T08:10:16Z
+   Creation Date: 1996-09-24T04:00:00Z
+   Registry Expiry Date: 2026-09-23T04:00:00Z
+   Registrar: Register.com, Inc.
+   Registrar IANA ID: 9
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS101.REGISTER.COM
+   Name Server: DNS102.REGISTER.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:16:20Z 

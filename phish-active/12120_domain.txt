@@ -1,0 +1,18 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        ITALPROJECT.RU
+nserver:       ns1.peterhost.ru.
+nserver:       ns2.peterhost.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+person:        Private Person
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2007-09-17T20:00:00Z
+paid-till:     2025-09-17T21:00:00Z
+free-date:     2025-10-19
+source:        TCI
+
+Last updated on 2025-03-27T14:53:01Z
+

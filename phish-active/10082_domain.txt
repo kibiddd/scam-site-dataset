@@ -1,0 +1,20 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'game-pc-mm.ir'
+
+
+domain:		game-pc-mm.ir
+ascii:		game-pc-mm.ir
+remarks:	The information about this domain is hidden by the domain holder
+nserver:	dns1.mizbanfadns.net
+nserver:	dns2.mizbanfadns.net
+nserver:	dns3.mizbanfadns.net
+nserver:	dns4.mizbanfadns.net
+source:		IRNIC
+

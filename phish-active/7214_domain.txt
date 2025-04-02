@@ -1,0 +1,84 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        droitucp.fr
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      ANO00-FRNIC
+admin-c:                       ANO00-FRNIC
+tech-c:                        K6635-FRNIC
+registrar:                     RANXPLORER
+Expiry Date:                   2025-06-08T17:32:00.423474Z
+created:                       2023-06-08T17:32:00.437463Z
+last-update:                   2023-06-23T17:26:28.292225Z
+source:                        FRNIC
+
+nserver:                       ns1.o2switch.net
+nserver:                       ns2.o2switch.net
+source:                        FRNIC
+
+registrar:                     RANXPLORER
+address:                       78 RUE D ALEMBERT
+address:                       38000 GRENOBLE
+country:                       FR
+phone:                         +33.458000007
+e-mail:                        contact@kifdom.com
+website:                       https://www.kifdom.com/faq.php
+anonymous:                     No
+registered:                    2014-12-22T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       ANO00-FRNIC
+type:                          PERSON
+contact:                       Ano Nymous
+registrar:                     RANXPLORER
+changed:                       2025-03-21T10:36:15.567419Z
+anonymous:                     YES
+remarks:                       -------------- WARNING --------------
+remarks:                       While the registrar knows him/her,
+remarks:                       this person chose to restrict access
+remarks:                       to his/her personal data. So PLEASE,
+remarks:                       don't send emails to Ano Nymous. This
+remarks:                       address is bogus and there is no hope
+remarks:                       of a reply.
+remarks:                       -------------- WARNING --------------
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       K6635-FRNIC
+type:                          ORGANIZATION
+contact:                       RANXPLORER
+address:                       RANXPLORER
+address:                       78 rue d'alembert
+address:                       38000 Grenoble
+country:                       FR
+phone:                         +33.458000007
+e-mail:                        contact@kifcorp.fr
+registrar:                     RANXPLORER
+changed:                       2025-03-26T15:10:04.57232Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRY
+eligdate:                      2021-08-10T00:00:00Z
+reachstatus:                   ok
+reachmedia:                    phone
+reachsource:                   REGISTRY
+reachdate:                     2021-08-10T00:00:00Z
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-03-27T00:27:11.382813Z 

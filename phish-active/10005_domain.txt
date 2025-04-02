@@ -1,0 +1,17 @@
+   Domain Name: FUNDOCU.COM
+   Registry Domain ID: 2235884291_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enomdomains.com
+   Updated Date: 2025-03-05T00:12:04Z
+   Creation Date: 2018-03-05T21:02:16Z
+   Registry Expiry Date: 2026-03-05T21:02:16Z
+   Registrar: eNom, LLC
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS.REDUNDA.COM
+   Name Server: NS2.REDUNDA.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:51:00Z 

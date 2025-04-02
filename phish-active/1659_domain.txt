@@ -1,0 +1,19 @@
+   Domain Name: CROSTRACKER.COM
+   Registry Domain ID: 1276495745_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.ionos.com
+   Registrar URL: http://www.ionos.com
+   Updated Date: 2024-10-16T07:02:45Z
+   Creation Date: 2007-10-15T05:01:14Z
+   Registry Expiry Date: 2025-10-15T05:01:14Z
+   Registrar: IONOS SE
+   Registrar IANA ID: 83
+   Registrar Abuse Contact Email: abuse@ionos.com
+   Registrar Abuse Contact Phone: +1.6105601459
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1039.UI-DNS.BIZ
+   Name Server: NS1039.UI-DNS.COM
+   Name Server: NS1039.UI-DNS.DE
+   Name Server: NS1039.UI-DNS.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:43:07Z 

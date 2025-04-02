@@ -1,0 +1,19 @@
+   Domain Name: WRITEWORK.COM
+   Registry Domain ID: 75616445_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domainsite.com
+   Registrar URL: http://www.name.com
+   Updated Date: 2024-07-11T00:25:04Z
+   Creation Date: 2001-08-02T15:27:40Z
+   Registry Expiry Date: 2025-08-02T15:27:40Z
+   Registrar: DomainSite, Inc.
+   Registrar IANA ID: 466
+   Registrar Abuse Contact Email: abuse@name.com
+   Registrar Abuse Contact Phone: +1.7203101849
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1329.AWSDNS-38.ORG
+   Name Server: NS-1864.AWSDNS-41.CO.UK
+   Name Server: NS-509.AWSDNS-63.COM
+   Name Server: NS-611.AWSDNS-12.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:55:20Z 

@@ -1,0 +1,17 @@
+   Domain Name: ARIANA-POSHESH.COM
+   Registry Domain ID: 1839932702_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.webnic.cc
+   Registrar URL: http://www.webnic.cc
+   Updated Date: 2024-12-14T12:18:25Z
+   Creation Date: 2013-12-21T09:56:53Z
+   Registry Expiry Date: 2025-12-21T09:56:53Z
+   Registrar: Web Commerce Communications Limited dba WebNic.cc
+   Registrar IANA ID: 460
+   Registrar Abuse Contact Email: compliance_abuse@webnic.cc
+   Registrar Abuse Contact Phone: +60.189836788
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: IRNS1.NETAFRAZ.COM
+   Name Server: IRNS2.NETAFRAZ.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T20:19:03Z 

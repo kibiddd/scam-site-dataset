@@ -1,0 +1,17 @@
+   Domain Name: CARJPN.COM
+   Registry Domain ID: 2803053906_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.discount-domain.com
+   Registrar URL: http://gmo.jp
+   Updated Date: 2024-07-22T13:30:17Z
+   Creation Date: 2023-08-03T11:50:53Z
+   Registry Expiry Date: 2025-08-03T11:50:53Z
+   Registrar: GMO Internet Group, Inc. d/b/a Onamae.com
+   Registrar IANA ID: 49
+   Registrar Abuse Contact Email: abuse@gmo.jp
+   Registrar Abuse Contact Phone: +81.337709199
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: DNS1.ONAMAE.COM
+   Name Server: DNS2.ONAMAE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:02:22Z 

@@ -1,0 +1,17 @@
+   Domain Name: DESTAQUEDEHOJE.COM
+   Registry Domain ID: 2864267115_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.hostinger.com
+   Registrar URL: http://www.hostinger.com
+   Updated Date: 2025-03-17T07:46:52Z
+   Creation Date: 2024-03-16T21:38:46Z
+   Registry Expiry Date: 2026-03-16T21:38:46Z
+   Registrar: HOSTINGER operations, UAB
+   Registrar IANA ID: 1636
+   Registrar Abuse Contact Email: abuse-tracker@hostinger.com
+   Registrar Abuse Contact Phone: +37064503378
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DNS-EXPIRED.COM
+   Name Server: NS2.DNS-EXPIRED.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:24:11Z 

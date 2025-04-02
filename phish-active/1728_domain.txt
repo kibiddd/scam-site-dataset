@@ -1,0 +1,20 @@
+   Domain Name: MOSELAYMDSERVER.COM
+   Registry Domain ID: 2916509749_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.porkbun.com
+   Registrar URL: http://porkbun.com
+   Updated Date: 2024-09-13T16:35:03Z
+   Creation Date: 2024-09-13T16:35:03Z
+   Registry Expiry Date: 2025-09-13T16:35:03Z
+   Registrar: Porkbun LLC
+   Registrar IANA ID: 1861
+   Registrar Abuse Contact Email: abuse@porkbun.com
+   Registrar Abuse Contact Phone: 5038508351
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: CURITIBA.NS.PORKBUN.COM
+   Name Server: FORTALEZA.NS.PORKBUN.COM
+   Name Server: MACEIO.NS.PORKBUN.COM
+   Name Server: SALVADOR.NS.PORKBUN.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:43:36Z 

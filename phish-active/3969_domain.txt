@@ -1,0 +1,84 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        followme.fr
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      PAS200-FRNIC
+admin-c:                       OVH5-FRNIC
+tech-c:                        OVH5-FRNIC
+registrar:                     OVH
+Expiry Date:                   2025-09-20T09:12:38Z
+created:                       2013-09-20T09:12:38Z
+last-update:                   2024-10-31T23:07:52.689302Z
+source:                        FRNIC
+
+nserver:                       dns106.ovh.net
+nserver:                       ns106.ovh.net
+source:                        FRNIC
+
+key1-tag:                      46951
+key1-algo:                     8 [RSASHA256]
+key1-dgst-t:                   2 [SHA256]
+key1-dgst:                     4A6BC5FA16F7F579438897EAEE8F173C022F0C577451C863C4685A96A77F3ACD
+source:                        FRNIC
+
+registrar:                     OVH
+address:                       2 Rue Kellermann
+address:                       59100 ROUBAIX
+country:                       FR
+phone:                         +33.899701761
+fax-no:                        +33.320200958
+e-mail:                        support@ovh.net
+website:                       http://www.ovh.com
+anonymous:                     No
+registered:                    1999-10-18T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       OVH5-FRNIC
+type:                          ORGANIZATION
+contact:                       OVH NET
+address:                       OVH
+address:                       140, quai du Sartel
+address:                       59100 Roubaix
+country:                       FR
+phone:                         +33.899701761
+e-mail:                        tech@ovh.net
+registrar:                     OVH
+changed:                       2025-03-26T20:22:47.565287Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       PAS200-FRNIC
+type:                          ORGANIZATION
+contact:                       PRO-ART SOLUTIONS
+address:                       PRO-ART SOLUTIONS
+address:                       36, rue du Laurençon
+address:                       77600 Conches
+country:                       FR
+phone:                         +33.698889876
+e-mail:                        ej33sqb1pqe1f8g2aa5p@p.o-w-o.info
+registrar:                     OVH
+changed:                       2018-06-08T19:30:28Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-03-26T20:25:00.155201Z 

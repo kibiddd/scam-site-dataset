@@ -1,0 +1,10 @@
+Domain Name: gob.pe
+Sponsoring Registrar: PE Top Level Domain Admin
+Domain Status: ok
+Registrant Name: RED CIENTIFICA PERUANA
+Admin Name: RED CIENTIFICA PERUANA
+Admin Email: acf@amauta.rcp.net.pe
+Name Server: pe1.dnsnode.net
+Name Server: quipu.rcp.net.pe
+Name Server: pch.rcp.pe
+>>> Last update of WHOIS database: 2025-03-27T00:24:25.598Z 

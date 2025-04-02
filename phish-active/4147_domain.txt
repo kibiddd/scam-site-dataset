@@ -1,0 +1,51 @@
+% Domain Information over Whois protocol
+% 
+% Whoisd Server Version: 3.9.0
+% Timestamp: Wed Mar 26 21:19:23 2025
+
+domain:       blogspot.mk
+registrant:   UNET-R11
+admin-c:      UNET-C12
+nsset:        UNET-NS1058
+registrar:    UNET-REG
+registered:   23.09.2011 14:00:00
+changed:      29.08.2014 13:10:29
+expire:       23.09.2025
+
+contact:      UNET-R11
+org:          Google LLC
+name:         Google LLC
+address:      Amphiteatre Parkway 1600
+address:      Mountain View
+address:      94043
+address:      US
+phone:        +1.6502530000
+fax-no:       +1.6502530000
+e-mail:       ccops@markmonitor.com
+registrar:    UNET-REG
+created:      25.03.2014 11:48:02
+changed:      29.09.2021 16:26:23
+
+contact:      UNET-C12
+name:         MarkMonitor Inc..
+address:      3540 East Longwing Lane Suite 300
+address:      Meridian
+address:      83646
+address:      US
+phone:        +1.2083895740
+e-mail:       ccops@markmonitor.com
+registrar:    UNET-REG
+created:      25.03.2014 11:48:00
+changed:      18.11.2024 22:26:24
+
+nsset:        UNET-NS1058
+nserver:      ns1.google.com 
+nserver:      ns2.google.com 
+nserver:      ns3.google.com 
+nserver:      ns4.google.com 
+tech-c:       UNET-C12
+registrar:    UNET-REG
+created:      29.08.2014 13:09:45
+changed:      21.08.2015 12:32:45
+
+

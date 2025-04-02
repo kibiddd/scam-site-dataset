@@ -1,0 +1,26 @@
+DOMAIN NAME:                    proppk.pl
+registrant type:                organization
+nameservers:                    dns.home.pl. [217.160.80.244][2001:8d8:fe:53:6870::1]
+                                dns2.home.pl. [217.160.81.248][2001:8d8:fe:53:6870::2]
+                                dns3.home.pl. [185.132.34.251][2607:f1c0:fe:53:185:132:34:251]
+created:                        2018.05.07 00:50:38
+last modified:                  2024.04.17 11:40:17
+renewal date:                   2025.05.07 00:50:38
+
+option:                         no
+
+dnssec:                         Unsigned
+
+REGISTRAR:
+home.pl S.A.
+ul. Zbożowa 4
+70-653 Szczecin
+Polska/Poland
+Tel: +48.914325555
+Tel: +48.504502500
+https://home.pl/kontakt
+
+WHOIS database responses:       https://dns.pl/en/whois
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system
+

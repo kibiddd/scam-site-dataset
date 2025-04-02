@@ -1,0 +1,17 @@
+   Domain Name: GEORGIASTATESPORTS.COM
+   Registry Domain ID: 88769450_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2022-07-12T16:16:18Z
+   Creation Date: 2002-07-26T15:05:05Z
+   Registry Expiry Date: 2027-07-26T15:05:05Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS.RACKSPACE.COM
+   Name Server: NS2.RACKSPACE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:20:21Z 

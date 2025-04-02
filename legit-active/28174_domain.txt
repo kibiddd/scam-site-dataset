@@ -1,0 +1,60 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: NJIT.EDU
+
+Registrant:
+	New Jersey Institute of Technology
+	323 Dr. Martin Luther King Boulevard
+	323 Martin Luther King Boulevard
+	Newark, NJ 07102
+	USA
+
+Administrative Contact:
+	Hemal Shah
+	New Jersey Institute of Technology
+	UCN - 2604 GITC
+	323 Martin Luther King Boulevard
+	Newark, NJ 07102
+	USA
+	+1.9735966592
+	hemal@njit.edu
+
+Technical Contact:
+	Frank Aversa
+	New Jersey Institute of Technology
+	CST/Networks - 2605 GITC
+	323 Dr. Martin Luther King Boulevard
+	Newark, NJ 07102
+	USA
+	+1.9735965682
+	frank.g.aversa@njit.edu
+
+Name Servers:
+	NS5.NJIT.EDU
+	DNS1.NJIT.EDU
+	NS4.NJIT.EDU
+	DNS2.NJIT.EDU
+
+Domain record activated:    06-Jun-1987
+Domain record last updated: 04-Jan-2024
+Domain expires:             31-Jul-2025

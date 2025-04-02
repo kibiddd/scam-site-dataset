@@ -1,0 +1,17 @@
+   Domain Name: TIGERDROPPINGS.COM
+   Registry Domain ID: 75989992_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.webhero.com
+   Registrar URL: http://webhero.com
+   Updated Date: 2024-08-12T17:34:43Z
+   Creation Date: 2001-08-13T17:15:41Z
+   Registry Expiry Date: 2025-08-13T17:15:41Z
+   Registrar: Webhero, Inc.
+   Registrar IANA ID: 112
+   Registrar Abuse Contact Email: abuse@webhero.com
+   Registrar Abuse Contact Phone: 405-753-9300
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS.MEDIA3.NET
+   Name Server: NS2.MEDIA3.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T17:01:23Z 

@@ -1,0 +1,25 @@
+Domain Name: nyse.tw
+   Domain Status: clientDeleteProhibited,clientTransferProhibited
+   Registrant:
+      
+      kan
+      ecvb8548@gmail.com
+      TW
+      (Redacted for privacy)
+
+   Administrative Contact:
+      (Redacted for privacy)
+
+   Technical Contact:
+      (Redacted for privacy)
+
+   Record expires on 2027-08-06 14:03:44 (UTC+8)
+   Record created on 2024-08-06 14:03:44 (UTC+8)
+
+   Domain servers in listed order:
+      corey.ns.cloudflare.com      
+      fatima.ns.cloudflare.com     
+
+Registration Service Provider: CCNET
+Registration Service URL: http://itn.tw
+Registrar Abuse Contact Email: abuse-n6Hrjn@itn.tw

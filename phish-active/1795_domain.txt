@@ -1,0 +1,18 @@
+   Domain Name: AKIRA24.COM
+   Registry Domain ID: 2909825386_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.onlinenic.com
+   Registrar URL: http://www.onlinenic.com
+   Updated Date: 2025-03-23T08:05:52Z
+   Creation Date: 2024-08-21T13:59:05Z
+   Registry Expiry Date: 2025-08-21T13:59:05Z
+   Registrar: OnlineNIC, Inc.
+   Registrar IANA ID: 82
+   Registrar Abuse Contact Email: abuse@onlinenic.com
+   Registrar Abuse Contact Phone: +1 833-678-1173
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.HOSTER.KZ
+   Name Server: NS2.HOSTER.KZ
+   Name Server: NS3.HOSTER.KZ
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:43:51Z 

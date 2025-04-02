@@ -1,0 +1,20 @@
+   Domain Name: GAMASUTRA.COM
+   Registry Domain ID: 1622218_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.safenames.net
+   Registrar URL: http://www.safenames.net
+   Updated Date: 2024-02-29T06:00:52Z
+   Creation Date: 1997-04-10T04:00:00Z
+   Registry Expiry Date: 2025-04-11T04:00:00Z
+   Registrar: SafeNames Ltd.
+   Registrar IANA ID: 447
+   Registrar Abuse Contact Email: abuse@safenames.net
+   Registrar Abuse Contact Phone: +44.1908200022
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.UBMDNS.COM
+   Name Server: NS2.UBMDNS.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 2371 13 2 AA8E1CCDD4CCC324F26939F7903BE95D3EFFD7424312285736201FD69A42FD72
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T23:56:14Z 

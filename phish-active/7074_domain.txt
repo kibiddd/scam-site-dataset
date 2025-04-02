@@ -1,0 +1,17 @@
+   Domain Name: DOCTORFA.COM
+   Registry Domain ID: 1732085947_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.joker.com
+   Registrar URL: http://www.joker.com
+   Updated Date: 2024-05-21T16:41:16Z
+   Creation Date: 2012-07-06T16:44:42Z
+   Registry Expiry Date: 2025-07-06T16:44:42Z
+   Registrar: CSL Computer Service Langenbach GmbH d/b/a joker.com
+   Registrar IANA ID: 113
+   Registrar Abuse Contact Email: abuse@joker.com
+   Registrar Abuse Contact Phone: +49.21186767447
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS28.NETAFROOZ.COM
+   Name Server: NS29.NETAFROOZ.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:26:10Z 

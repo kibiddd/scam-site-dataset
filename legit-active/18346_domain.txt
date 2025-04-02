@@ -1,0 +1,17 @@
+   Domain Name: SUZIELEBLANC.COM
+   Registry Domain ID: 133207647_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.whc.ca
+   Registrar URL: http://whc.ca
+   Updated Date: 2024-07-27T10:30:40Z
+   Creation Date: 2004-10-19T17:29:54Z
+   Registry Expiry Date: 2025-10-19T17:29:54Z
+   Registrar: WHC Online Solutions Inc.
+   Registrar IANA ID: 938
+   Registrar Abuse Contact Email: regcompliance@whc.ca
+   Registrar Abuse Contact Phone: +1.5145042113
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.ODEDI214890.MYWHC.CA
+   Name Server: NS2.ODEDI214890.MYWHC.CA
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:31:54Z 

@@ -1,0 +1,37 @@
+
+domain.............: radiorock.fi
+status.............: Registered
+created............: 7.7.2011 00:00:00
+expires............: 7.7.2025 18:05:46
+available..........: 7.8.2025 18:05:46
+modified...........: 19.6.2018 09:50:04
+holder transfer....: 29.8.2014 20:59:20
+RegistryLock.......: no
+
+Nameservers
+
+nserver............: ns-1099.awsdns-09.org [OK]
+nserver............: ns-587.awsdns-09.net [OK]
+nserver............: ns-209.awsdns-26.com [OK]
+nserver............: ns-1850.awsdns-39.co.uk [OK]
+
+DNSSEC
+
+dnssec.............: no
+
+Holder
+
+name...............: Sanoma Media Finland Oy / Nelonen
+register number....: 1515901-4
+address............: PL 16
+postal.............: 00089
+city...............: Sanoma
+country............: Finland
+phone..............: 
+holder email.......: 
+
+Registrar
+
+registrar..........: Sanoma Oyj
+
+>>> Last update of WHOIS database: 28.3.2025 17:00:30 (EET) 

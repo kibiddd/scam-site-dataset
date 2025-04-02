@@ -1,0 +1,32 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+Domain Information: [ドメイン情報]
+[Domain Name]                   UNOEXCHANGE.JP
+
+[登録者名]                      Web Commerce Communications Limited
+[Registrant]                    Web Commerce Communications Limited
+
+[Name Server]                   a.share-dns.com
+[Name Server]                   b.share-dns.net
+[Signing Key]                   
+
+[登録年月日]                    2024/10/10
+[有効期限]                      2025/10/31
+[状態]                          Active
+[ロック状態]                    DomainTransferLocked
+[ロック状態]                    AgentChangeLocked
+[最終更新]                      2024/10/10 13:16:59 (JST)
+
+Contact Information: [公開連絡窓口]
+[名前]                          Web Commerce Communications Limited
+[Name]                          Web Commerce Communications Limited
+[Email]                         support@webnic.cc
+[Web Page]                       
+[郵便番号]                      1600023
+[住所]                          東京都3-9-3 Nishishinjuku, Shinjuku-ku, Tokyo
+[Postal Address]                3-9-3 Nishishinjuku, Shinjuku-ku, Tokyo
+[電話番号]                      +603.89966788
+[FAX番号]                       
+

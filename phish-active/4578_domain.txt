@@ -1,0 +1,25 @@
+Domain name: bouwiedoehetzelf.nl
+Status:      active
+
+Registrar:
+   Registrar.eu
+   Hofplein 20
+   3032AC Rotterdam
+   Netherlands
+
+Abuse Contact:
+   +31.104482297
+   abuse@registrar.eu
+
+DNSSEC:      no
+
+Domain nameservers:
+   ns3.snel.com
+   ns2.snel.com
+   ns1.snel.com
+
+Creation Date: 2017-05-11
+
+Updated Date: 2024-07-24
+
+Record maintained by: SIDN BV

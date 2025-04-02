@@ -1,0 +1,19 @@
+   Domain Name: DEKORCASA.COM
+   Registry Domain ID: 1752836048_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.scip.es
+   Registrar URL: http://www.dondominio.com
+   Updated Date: 2021-10-19T09:37:24Z
+   Creation Date: 2012-10-17T17:25:13Z
+   Registry Expiry Date: 2031-10-17T17:25:13Z
+   Registrar: Soluciones Corporativas IP, SL
+   Registrar IANA ID: 1383
+   Registrar Abuse Contact Email: abuse@scip.es
+   Registrar Abuse Contact Phone: 34871986387
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1045.UI-DNS.BIZ
+   Name Server: NS1045.UI-DNS.COM
+   Name Server: NS1045.UI-DNS.DE
+   Name Server: NS1045.UI-DNS.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:23:55Z 

@@ -1,0 +1,25 @@
+Domain Name: nana.tw
+   Domain Status: clientTransferProhibited
+   Registrant:
+      
+      Finology AMC
+      finologyassetmanagementcenter@gmail.com
+      IN
+      (Redacted for privacy)
+
+   Administrative Contact:
+      (Redacted for privacy)
+
+   Technical Contact:
+      (Redacted for privacy)
+
+   Record expires on 2025-07-27 18:36:08 (UTC+8)
+   Record created on 2024-07-27 18:36:08 (UTC+8)
+
+   Domain servers in listed order:
+      margo.ns.cloudflare.com     
+      piper.ns.cloudflare.com     
+
+Registration Service Provider: GNAME.COM
+Registration Service URL: https://www.gname.com/
+Registrar Abuse Contact Email: complaint@gname.com

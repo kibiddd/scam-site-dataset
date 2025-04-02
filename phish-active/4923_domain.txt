@@ -1,0 +1,103 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        ayomi.fr
+status:                        ACTIVE
+status:                        autoRenewPeriod
+eppstatus:                     active
+hold:                          NO
+holder-c:                      II2385-FRNIC
+admin-c:                       IA5028-FRNIC
+tech-c:                        OVH5-FRNIC
+registrar:                     OVH
+Expiry Date:                   2026-03-23T17:11:37Z
+created:                       2018-03-23T17:11:37Z
+last-update:                   2025-03-23T17:21:41.445095Z
+source:                        FRNIC
+
+nserver:                       dns107.ovh.net
+nserver:                       ns107.ovh.net
+source:                        FRNIC
+
+key1-tag:                      6581
+key1-algo:                     8 [RSASHA256]
+key1-dgst-t:                   2 [SHA256]
+key1-dgst:                     6708F296CF7E9F0EDB706127177F8992064969EFF829F1F76D9642D5295A256C
+source:                        FRNIC
+
+registrar:                     OVH
+address:                       2 Rue Kellermann
+address:                       59100 ROUBAIX
+country:                       FR
+phone:                         +33.899701761
+fax-no:                        +33.320200958
+e-mail:                        support@ovh.net
+website:                       http://www.ovh.com
+anonymous:                     No
+registered:                    1999-10-18T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       II2385-FRNIC
+type:                          ORGANIZATION
+contact:                       ICCI (HOOLDERS - IPOOME)
+address:                       ICCI (HOOLDERS - IPOOME)
+address:                       1 rue d'hauteville, 1er etage, Batiment A, code 9278)
+address:                       75010 Paris
+country:                       FR
+phone:                         +33.650512381
+e-mail:                        dsi@hoolders.com
+registrar:                     OVH
+changed:                       2019-03-07T11:39:12Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       OVH5-FRNIC
+type:                          ORGANIZATION
+contact:                       OVH NET
+address:                       OVH
+address:                       140, quai du Sartel
+address:                       59100 Roubaix
+country:                       FR
+phone:                         +33.899701761
+e-mail:                        tech@ovh.net
+registrar:                     OVH
+changed:                       2025-03-26T22:50:58.557686Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       IA5028-FRNIC
+type:                          ORGANIZATION
+contact:                       IPOOME - AYOMI
+address:                       IPOOME - AYOMI
+address:                       1 rue d'hauteville 1er etageBatiment A
+address:                       75010 Paris
+country:                       FR
+phone:                         +33.650512381
+e-mail:                        hca2j18jdkvkekfhd79h@f.o-w-o.info
+registrar:                     OVH
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-03-26T23:01:40.869499Z 

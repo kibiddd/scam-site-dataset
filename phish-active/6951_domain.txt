@@ -1,0 +1,15 @@
+Domain Name: sixinai.cn
+ROID: 20231119s10001s55413490-cn
+Domain Status: ok
+Registrant: 上海拾升文化传播有限公司
+Registrant Contact Email: 870709494@qq.com
+Sponsoring Registrar: 四川域趣网络科技有限公司
+Name Server: ns4.myhostadmin.net
+Name Server: ns1.myhostadmin.net
+Name Server: ns2.myhostadmin.net
+Name Server: ns3.myhostadmin.net
+Name Server: ns5.myhostadmin.net
+Name Server: ns6.myhostadmin.net
+Registration Time: 2023-11-19 21:54:21
+Expiration Time: 2025-11-19 21:54:21
+DNSSEC: unsigned

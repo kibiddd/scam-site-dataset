@@ -1,0 +1,17 @@
+   Domain Name: OUTSIDERFOLKART.COM
+   Registry Domain ID: 136155300_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-11-04T15:12:50Z
+   Creation Date: 2004-11-29T15:17:39Z
+   Registry Expiry Date: 2025-11-29T15:17:39Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS51.1AND1.COM
+   Name Server: NS52.1AND1.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T15:01:06Z 

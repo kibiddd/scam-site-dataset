@@ -1,0 +1,44 @@
+% By looking up information in the domain registration directory
+% service, you confirm that you accept the terms and conditions of the
+% service:
+% https://www.norid.no/en/domeneoppslag/vilkar/
+%
+% Norid AS holds the copyright to the lookup service, content,
+% layout and the underlying collections of information used in the
+% service (cf. the Act on Intellectual Property of May 2, 1961, No.
+% 2). Any commercial use of information from the service, including
+% targeted marketing, is prohibited. Using information from the domain
+% registration directory service in violation of the terms and
+% conditions may result in legal prosecution.
+%
+% The whois service at port 43 is intended to contribute to resolving
+% technical problems where individual domains threaten the
+% functionality, security and stability of other domains or the
+% internet as an infrastructure. It does not give any information
+% about who the holder of a domain is. To find information about a
+% domain holder, please visit our website:
+% https://www.norid.no/en/domeneoppslag/
+
+Domain Information
+
+NORID Handle...............: DEK1545D-NORID
+Domain Name................: dekorogskilt.no
+Registrar Handle...........: REG42-NORID
+Tech-c Handle..............: DH38R-NORID
+Name Server Handle.........: NSHY11H-NORID
+Name Server Handle.........: NSHY46H-NORID
+Name Server Handle.........: NSHY81H-NORID
+DNSSEC.....................: Signed
+DS Key Tag     1...........: 56786
+Algorithm      1...........: 15
+Digest Type    1...........: 2
+Digest         1...........: d4990d81b4c6ec19e2609232875db74e7d8ffcfdeb5432c4cd91cd97f7ad12f0
+DS Key Tag     2...........: 56786
+Algorithm      2...........: 15
+Digest Type    2...........: 4
+Digest         2...........: 2a105d7d114716fa67f5570bfd0994e6674c43440c50f873fcc7a8605c1c406fa2237843cb979c8fa90c23b3fef79fe4
+
+Additional information:
+Created:         2019-02-18
+Last updated:    2024-12-08
+

@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        campingdelacourt.fr
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      CMDL71-FRNIC
+admin-c:                       CMDL141-FRNIC
+tech-c:                        OVH5-FRNIC
+registrar:                     OVH
+Expiry Date:                   2026-05-21T07:23:22Z
+created:                       2015-05-21T07:23:22Z
+last-update:                   2023-06-05T15:49:12.628326Z
+source:                        FRNIC
+
+nserver:                       dns200.anycast.me
+nserver:                       ns200.anycast.me
+source:                        FRNIC
+
+registrar:                     OVH
+address:                       2 Rue Kellermann
+address:                       59100 ROUBAIX
+country:                       FR
+phone:                         +33.899701761
+fax-no:                        +33.320200958
+e-mail:                        support@ovh.net
+website:                       http://www.ovh.com
+anonymous:                     No
+registered:                    1999-10-18T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       CMDL71-FRNIC
+type:                          ORGANIZATION
+contact:                       Camping Municipal de la court
+address:                       Camping Municipal de la court
+address:                       54 rue des moulins
+address:                       85680 La Guérinière
+country:                       FR
+phone:                         +33.251395138
+e-mail:                        compta@la-gueriniere.fr
+registrar:                     OVH
+changed:                       2020-05-05T05:36:33Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       OVH5-FRNIC
+type:                          ORGANIZATION
+contact:                       OVH NET
+address:                       OVH
+address:                       140, quai du Sartel
+address:                       59100 Roubaix
+country:                       FR
+phone:                         +33.899701761
+e-mail:                        tech@ovh.net
+registrar:                     OVH
+changed:                       2025-03-26T22:50:58.557686Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       CMDL141-FRNIC
+type:                          ORGANIZATION
+contact:                       Camping Municipal de la court
+address:                       Camping Municipal de la court
+address:                       54 rue des moulins
+address:                       85680 La Gueriniere
+country:                       FR
+phone:                         +33.251395138
+e-mail:                        5asratxpwsa5lklgfy1e@v.o-w-o.info
+registrar:                     OVH
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-03-26T23:01:53.08492Z 

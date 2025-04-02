@@ -1,0 +1,17 @@
+   Domain Name: HIFIESCORTS.COM
+   Registry Domain ID: 2885032670_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.name.com
+   Registrar URL: http://www.name.com
+   Updated Date: 2024-05-29T07:17:18Z
+   Creation Date: 2024-05-27T10:23:47Z
+   Registry Expiry Date: 2025-05-27T10:23:47Z
+   Registrar: Name.com, Inc.
+   Registrar IANA ID: 625
+   Registrar Abuse Contact Email: abuse@name.com
+   Registrar Abuse Contact Phone: 7202492374
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.HIFIESCORTS.COM
+   Name Server: NS2.HIFIESCORTS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:32:32Z 

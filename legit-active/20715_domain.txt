@@ -1,0 +1,70 @@
+Domain Name: nfb.ca
+Registry Domain ID: D20529-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webdomaine.ca
+Updated Date: 2025-02-27T01:05:16Z
+Creation Date: 2000-11-06T14:50:00Z
+Registry Expiry Date: 2031-08-25T04:00:00Z
+Registrar: A.R.C. Informatique Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: mona@arcinfo.qc.ca
+Registrar Abuse Contact Phone: +1.4185459224
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R27314-CIRA
+Registrant Name: National Film Board of Canada / Office national du film du Canada
+Registrant Organization: National Film Board of Canada / Office national du film du Canada
+Registrant Street: 1501 rue de Bleury
+Registrant City: Montreal
+Registrant State/Province: QC
+Registrant Postal Code: H3A0H3
+Registrant Country: CA
+Registrant Phone: +1.5148206850
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: b.gervasi@nfb.ca
+Registry Admin ID: C926675-CIRA
+Admin Name: Mr Bruno Gervasi
+Admin Organization: National Film Board of Canada
+Admin Street: 1501 rue de Bleury
+Admin City: Montreal
+Admin State/Province: QC
+Admin Postal Code: H3A0H3
+Admin Country: CA
+Admin Phone: +1.5148206850
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: dnsmaster@nfb.ca
+Registry Tech ID: 81474433-CIRA
+Tech Name: Marco Girouard
+Tech Organization: National Film Board of Canada
+Tech Street: 1501 rue De Bleury
+Tech City: Montreal
+Tech State/Province: QC
+Tech Postal Code: H3A0H3
+Tech Country: CA
+Tech Phone: +1.5149924020
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: m.girouard@nfb.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns4.nfb.ca
+Name Server: ns5.nfb.ca
+Name Server: ns6.nfb.ca
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T21:56:34Z 

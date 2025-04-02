@@ -1,0 +1,1433 @@
+Index to Catalogue of Lattices
+A Catalogue of Lattices
+This data-base of lattices is a joint project of
+Gabriele
+Nebe, RWTH Aachen university
+(nebe(AT)math.rwth-aachen.de)
+and
+Neil
+Sloane.
+(njasloane(AT)gmail.com).
+Our aim is to give information about all the interesting
+lattices in "low" dimensions
+(and to provide them with a "home page"!).
+The data-base now contains about 160,000 lattices!
+Tables:
+densest packings,
+modular lattices,
+extremal strongly modular lattices,
+unimodular lattices.
+External Tables:
+kissing numbers
+maintained by Henry Cohn
+Classifications:
+Single class genera of integral lattices,
+Bravais lattices,
+Brandt-Intrau ternary forms,
+Gordon Nipp's tables of
+quaternary and
+quinary forms,
+Niemeier lattices,
+Borcherds's lists of 25-dim lattices,
+strongly perfect lattices,
+perfect lattices,
+laminated lattices.
+Lattices in :
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+and
+higher,
+dimensions.
+Root lattices:
+root lattices or
+weight lattices, more precisely
+An lattices,
+An* lattices,
+Dn lattices,
+Dn* lattices,
+E6, E7, E8 lattices and their duals,
+Documentation and Skripts
+abbreviations,
+change library file in html format to standard format,
+change standard format to GAP format,
+change standard format to MACSYMA format,
+change standard format to MAGMA format,
+change standard format to MAPLE format,
+change standard format to PARI format,
+links
+Keywords:
+tables,
+lattices,
+quadratic forms,
+lattice packings,
+lattice coverings,
+An lattices,
+An* lattices,
+anabasic lattice,
+Barnes-Wall lattices,
+binary quadratic forms,
+body-centered cubic lattice,
+Borcherds's lists of 25-dim lattices,
+Brandt-Intrau ternary forms,
+Bravais lattices,
+Coxeter-Todd lattice,
+crystallographic lattices,
+densest packings,
+Dn lattices,
+Dn* lattices,
+E6, E7, E8 lattices and their duals,
+Eisenstein lattices,
+Elkies-Shioda lattices,
+face-centered cubic lattice,
+Hurwitzian lattices,
+isodual lattices,
+William Jagy: ternary forms that are spinor regular but not regular,
+Kleinian lattices,
+Kschischang-Pasupathy lattices,
+laminated lattices,
+Leech lattice,
+mean-centered cubic lattice,
+modular lattices,
+extremal strongly modular lattices,
+Mordell-Weil lattices,
+Niemeier lattices,
+Gordon Nipp's tables of
+quaternary and
+quinary forms,
+perfect lattices,
+Quebbemann lattices,
+Rao-Reddy code,
+root lattices,
+SPLAG,
+ternary quadratic forms,
+unimodular lattices,
+Single class genera of integral lattices,
+weight lattices,
+lattices in
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+and
+higher,
+dimensions,
+Remarks
+For the format and for various programs
+to convert to other formats, see ABBREVIATIONS.
+A gzipped file containing all the .std files can
+be downloaded
+here
+(about 1 meg).
+Warning! Not all the entries have been checked!
+Most lattices can be described in many different ways, e.g. the
+face-centered cubic lattice can be described using three
+coordinates, as D3, or using four coordinates, as A3.
+Our policy is that different definitions (or scales) for
+the same lattice should be in different files.  Inside any
+particular file everything should be on the same scale and
+should be consistent. The determinant given should be the determinant
+of the Gram matrix given in the file, and so on.
+Contributions of new lattices or additional information
+about the given lattices will be welcomed.
+Usually a star (*) denotes a dual lattice --
+but in the file names "*" is replaced by an "s";
+and in the two tables below "*" indicates a nonlattice packing
+that is better than any lattice presently known.
+As a general reference for the subject covered in this catalogue see
+SPLAG
+Note that the theta series of many of these lattices
+can be found in NJAS's
+On-Line Encyclopedia of Integer Sequences.
+The sequence 1, 6, 12, 8, 6, 24, 24, ... for example
+is the theta series of the simple cubic lattice.
+The data-base has also benefitted from contributions or suggestions from
+the following friends:
+Richard Borcherds (R.E.Borcherds(AT)pmms.cam.ac.uk),
+John Conway (conway(AT)math.princeton.edu),
+Will Jagy (jagy(AT)msri.org),
+Irving Kaplansky (kap(AT)msri.org),
+Gordon Nipp (gnipp(AT)calstatela.edu),
+Richard Parker (richard(AT)ukonline.co.uk),
+Eric Rains (rains(AT)research.att.com),
+Alexander Schiemann (aschi(AT)math.uni-sb.de),
+Bernd Souvignier (bernd(AT)maths.usyd.edu.au),
+Allan Steel (allan(AT)maths.su.oz.au).
+A Table of the Densest Packings
+Presently Known
+(In a separate file)
+A Table of Strongly Perfect Lattices
+(In a separate file)
+A Table of Perfect Lattices
+(In a separate file)
+Unimodular Lattices, Including A Table of the Best Such Lattices
+(In a separate file)
+Modular Lattices, Including A Table of the Best Such Lattices
+(In a separate file)
+The known Extremal Strongly Modular Lattices up to Dimension 48
+(In a separate file)
+Named Lattices
+The Coxeter-Todd lattice K12
+Leech lattice
+Leech lattice as a Hurwitzian lattice
+Barnes-Wall lattices BW4 = D4,
+BW4' = D4*,
+BW8 = E8,
+BW8' = E8_code,
+BW16 = LAMBDA16,
+BW16 as a Hurwitzian lattice,
+the odd 16-dim Barnes-Wall lattice,
+BW32,
+BW32 as a Hurwitzian lattice
+Quebbemann lattices Q32,
+Q32'
+Mordell-Weil lattice MW44,
+Mordell-Weil lattice MW64
+Root Lattices and Dual (or Weight) Lattices
+The A_n lattices:
+A1,
+A2,
+A3,
+A4,
+A5,
+A6,
+A7,
+A8,
+A9,
+A10,
+A11,
+A12,
+A13,
+A14,
+A15,
+A16,
+A17,
+A18,
+A19,
+A20,
+A21,
+A22,
+A23,
+A24
+The A_n* lattices:
+A1*,
+A2*,
+A3*,
+A4*,
+A5*,
+A6*,
+A7*,
+A8*,
+A9*,
+A10*,
+A11*,
+A12*,
+A13*,
+A14*,
+A15*,
+A16*,
+A17*,
+A18*,
+A19*,
+A20*,
+A21*,
+A22*,
+A23*,
+A24*
+The D_n lattices:
+D1,
+D2,
+D3,
+D4,
+D5,
+D6,
+D7,
+D8,
+D9,
+D10,
+D11,
+D12,
+D13,
+D14,
+D15,
+D16,
+D17,
+D18,
+D19,
+D20,
+D21,
+D22,
+D23,
+D24
+The D_n* lattices:
+D2*,
+D3*,
+D4*,
+D5*,
+D6*,
+D7*,
+D8*,
+D9*,
+D10*,
+D11*,
+D12*,
+D13*,
+D14*,
+D15*,
+D16*,
+D17*,
+D18*,
+D19*,
+D20*,
+D21*,
+D22*,
+D23*,
+D24*
+The E_n lattices and their duals:
+E6,
+E6*,
+E7,
+E7a (a second version of E7),
+E7*,
+E8,
+E8 as a Hurwitzian lattice.
+For other versions of E6, E6*, E7, E7* and E8 see under
+6,
+7 and
+8 dimensional lattices below.
+Laminated Lattices
+Reference: SPLAG Chap. 6.
+LAMBDA1 = A1,
+LAMBDA2 = A2,
+LAMBDA3 = D3,
+LAMBDA4 = D4,
+LAMBDA5 = D5,
+LAMBDA6 = E6,
+LAMBDA7 = E7,
+LAMBDA8 = E8,
+LAMBDA9,
+LAMBDA10,
+LAMBDA11_MAX,
+LAMBDA11_MIN,
+LAMBDA12_MAX,
+LAMBDA12_MID,
+LAMBDA12_MIN,
+LAMBDA13_MAX,
+LAMBDA13_MID,
+LAMBDA13_MIN,
+LAMBDA14,
+LAMBDA15,
+LAMBDA16 = BW16,
+LAMBDA17,
+LAMBDA18,
+LAMBDA19,
+LAMBDA20,
+LAMBDA21,
+LAMBDA22,
+LAMBDA23,
+LAMBDA24 (The Leech lattice)
+LAMBDA25,
+LAMBDA26,
+LAMBDA27,
+LAMBDA28
+LAMBDA29,
+LAMBDA30,
+LAMBDA31
+The table also contains many integral laminated lattices, including
+these from the paper
+W.Plesken, M.Pohst, Constructing integral lattices with prescribed minimum II,
+Math. Comp. Vol 60 (1993), pp. 817-825:
+LAMBDA14.2,
+LAMBDA14.3,
+LAMBDA14.4,
+LAMBDA15.2,
+LAMBDA15.3,
+LAMBDA15.4,
+LAMBDA16.2,
+LAMBDA16.3,
+LAMBDA16.4,
+LAMBDA17.2,
+LAMBDA17.3,
+LAMBDA17.4,
+LAMBDA18.2,
+LAMBDA18.3,
+The KAPPA_n Lattices
+Reference: SPLAG Chap. 6.
+KAPPA7,
+KAPPA7*,
+KAPPA8,
+KAPPA8*,
+KAPPA9,
+KAPPA9*,
+KAPPA10,
+KAPPA10*,
+KAPPA10a,
+KAPPA10a*,
+KAPPA11,
+KAPPA11*,
+KAPPA12 = K12 (The Coxeter-Todd lattice),
+KAPPA13,
+KAPPA13*
+KAPPA14,
+KAPPA15,
+KAPPA16,
+KAPPA17,
+KAPPA18,
+KAPPA19,
+KAPPA20,
+The table also contains the following "integral Kappa's"
+from the paper
+W.Plesken, M.Pohst, Constructing integral lattices with prescribed minimum II,
+Math. Comp. Vol 60 (1993), pp. 817-825:
+KAPPA8.2,
+KAPPA9.2,
+KAPPA14.2,
+KAPPA15.2,
+KAPPA16.2,
+KAPPA16.3,
+KAPPA17.2
+Kleinian Lattices
+That is, lattices over Z[(1+sqrt(-7))/2].
+L20
+1-Dimensional Lattices
+The integer lattice Z, or (equivalently)
+the root lattice A1
+2-Dimensional Lattices
+The root lattices A2,
+A2*,
+D2,
+D2*.
+The last two are equivalent to the
+simple square lattice Z2
+3-Dimensional Lattices
+Face-centered cubic lattice as
+D3 or
+as A3
+Body-centered cubic lattice
+as D3* or
+as A3*
+"Mean-centered cuboidal" lattice,
+the densest isodual lattice in 3 dimensions
+The single class genera of integral lattices
+G.L. Watson classified all genera of integral lattices that consist of a single
+isometry class. These hand computations have been automatized and completed by D. Lorch
+Single-Class Genera of Positive Integral Lattices
+The ascii files
+Single class genera
+contain the list of Gram matrices of the lattices, where the lower left
+entries of the symmetric Gram matrix are given.
+A MAGMA program to read these file is available
+here
+The 14 Bravais lattices
+We give both the classical holotype (the smallest determinant
+of any classically integral lattice of the type) and
+the even holotype (the smallest determinant
+of any even lattice of the type):
+cubic P (the simple cubic lattice),
+cubic P (even),
+cubic I,
+cubic I (even),
+cubic F,
+cubic F (even),
+hexagonal P,
+hexagonal P (even),
+tetragonal P,
+tetragonal P (even),
+tetragonal I,
+tetragonal I (even),
+trigonal (or rhombohedral) R,
+trigonal (or rhombohedral) R (even),
+digonal (or orthorhombic) P,
+digonal (or orthorhombic) P (even),
+digonal (or orthorhombic) C,
+digonal (or orthorhombic) C (even),
+digonal (or orthorhombic) I,
+digonal (or orthorhombic) I (even),
+digonal (or orthorhombic) F,
+digonal (or orthorhombic) F (even),
+monoclinic P,
+monoclinic P (even),
+monoclinic C,
+monoclinic C (even),
+triclinic P,
+triclinic P (even),
+The Brandt-Intrau tables of primitive positive-definite
+odd ternary quadratic forms
+and
+even ternary quadratic forms
+of discriminants up to -1000,
+as recomputed by Alexander Schiemann.
+William C. Jagy,
+Table of integer coefficient positive
+ternary quadratic forms that are spinor regular but are not regular.
+4-Dimensional Lattices
+The root lattices D4,
+F4 (the same lattice as D4),
+D4*,
+A4,
+A4*
+D4 as a Hurwitzian lattice
+The 4-D simple cubic lattice
+4-d dual extremal lattices:
+det 5.5,
+det 11.11,
+4-d modular lattices:
+5-modular,
+strongly 6-modular in "-" genus,
+strongly 6-modular in "+" genus,
+7-modular,
+11-modular,
+strongly 14-modular,
+strongly 15-modular in genus "-",
+strongly 15-modular even lattice E(15)
+in genus "+",
+strongly 15-modular odd associate O(15)
+of previous lattice ,
+21-modular lattice
+23-modular lattice
+Gordon Nipp's table
+of 74,000 reduced regular primitive positive-definite
+quaternary quadratic forms of discriminants up through 1732.
+5-Dimensional Lattices
+The lattices (A5)+2,
+P5.2 = (A5)+3
+The root lattices D5,
+D5*,
+A5,
+A5*
+Gordon Nipp's table
+of 48,000 reduced regular primitive positive-definite
+quinary quadratic forms of discriminants up through 513.
+6-Dimensional Lattices
+The root lattices A6 = P6.7,
+A6*,
+D6 = P6.3,
+D6*,
+E6 = P6.1,
+another version of E6,
+E6* = P6.2
+The other perfect lattices in six dimensions:
+P6.4 = A6,2,
+P6.5 = A6 sup (2),
+P6.6 = A6,1
+Other 6-dimensional lattices:
+M6,2 = Q_6(4)^{+2} = F_15,
+the unique indecomposable lattice of det 8,
+Some modular lattices:
+a 3-modular lattice of minimal norm 2,
+a 7-modular lattice of minimal norm 3, O(7),
+a strongly 8-modular lattice of minimal norm 4,
+an 11-modular lattice of minimal norm 4 (in the "-" genus),
+an 11-modular lattice of minimal norm 4 (in the "+" genus),
+a strongly 14-modular lattice of minimal norm 4,
+a 23-modular lattice of minimal norm 7
+7-Dimensional Lattices
+See also under perfect lattices above.
+The root lattices A7,
+A7*,
+D7,
+D7*,
+E7,
+another version of E7,
+a third version of E7,
+E7*,
+another version of E7*
+The lattices KAPPA7,
+KAPPA7*
+8-Dimensional Lattices
+The root lattices A8,
+A8*,
+D8,
+D8*,
+E8,
+another version of the root lattice E8
+The coding theory version of E8
+- this and the root lattice version of E8 are the two 8-dim. Barnes-Wall lattices.
+E8 as a Hurwitzian lattice
+The lattices KAPPA8,
+KAPPA8*,
+KAPPA8.2
+Dual extremal  lattices
+det 6.6,
+det 10.10,
+Other integral lattices:
+A2 tensor D4,
+H4,
+(A2 X A4)*,
+M8,3,
+odd 5-modular lattice O(5),
+odd 6-modular lattice O(6),
+extremal 11-modular lattice in genus "-"
+extremal 11-modular lattice in genus "+"
+extremal strongly 14-modular lattice in genus "+"
+extremal strongly 15-modular lattice in genus "+"
+extremal strongly 15-modular lattice in genus "+"
+See
+Jacques Martinet's home page
+for a list of the known perfect lattices in 8 dimensions.
+8-Dim. isodual lattice from Bring curve
+9-Dimensional Lattices
+The laminated lattice LAMBDA9
+The lattices KAPPA9,
+KAPPA9*,
+KAPPA9.2
+The root lattices D9,
+D9*,
+A9,
+A9*
+10-Dimensional Lattices
+The laminated lattice LAMBDA10
+The lattices KAPPA10,
+KAPPA10*
+The lattice KAPPA10',
+KAPPA10'*
+The shorter Coxeter-Todd lattice
+The lattices (C6 x SU(4,2)):C2,
+C2 x S6,
+A10^(2),
+A10^(3)
+A 2-modular lattice,
+a 4-modular lattice (Q10),
+a 5-modular lattice in the "-" genus.,
+a 5-modular lattice in the "+" genus.
+The root lattices D10,
+D10*,
+A10,
+A10*
+11-Dimensional Lattices
+The laminated lattices
+LAMBDA11_MAX,
+LAMBDA11_MIN
+The lattices KAPPA11,
+KAPPA11*
+A lattice without a basis
+of minimal vectors
+The root lattices D11,
+D11*,
+A11,
+A11*
+dim11kis240min10det35831808,
+dim11kis308min8det2809856,
+dim11kis408min4det1152,
+dim11kis422min4det1024,
+12-Dimensional Lattices
+The Coxeter-Todd lattice K12
+The laminated lattices
+LAMBDA12_MAX,
+LAMBDA12_MID,
+LAMBDA12_MIN
+Lattices from the maximal finite subgroups of GL(12,Q) [see
+G. Nebe, W. Plesken, Finite rational matrix groups. AMS-Memoir No. 556, vol. 116 (1995)]:
+C6.PSU(4,3).(C2 x C2),
+((3+^(1+2):SL(2,3)) x SL(2,3)).C2,
+(C2 x D10 x A5):C2,
+(SL(2,5) Y SL(2,3)).C2,
+A2xM6,2,
+(C2 x C3.Alt6).(C2 x C2),
+(PSL(2,7) x D8):C2,
+(PSL(2,7) x D8):C2,
+A2xA6,
+A2 x A6^(2)
+Dual extremal  lattices
+det 5.5a,
+det 5.5b,
+det 11.11a,
+det 11.11b,
+The unimodular lattice D12+
+The complete list of even 3-modular lattices in 12 dimensions:
+The Coxeter-Todd lattice K12 as a modular
+lattice,
+A1^6.sqrt(3)A1^6,
+A2^3.sqrt(3)A2^3,
+A3^2.sqrt(3)A3^2,
+A6.sqrt(3)A6,
+D6.sqrt(D6),
+E6.sqrt(3)E6,
+G2.A5.sqrt(3)A5,
+G2^2.D4.sqrt(3)D4,
+G2^6
+An extremal 5-modular lattice.
+An extremal strongly 6-modular lattice.
+The odd Coxeter-Todd lattice
+Lift ternary Golay code to Z9 and
+apply Construction A;
+a different lift of the same code
+The root lattices D12,
+D12*,
+A12,
+A12*
+an odd extremal 5-modular lattice constructed by Xiaolu Hou and
+Frederique Oggier
+dim12modular5Group57600,
+An even 11-modular lattice of minimum 6
+dim12kis462min8det5619712,
+13-Dimensional Lattices
+The laminated lattices
+LAMBDA13_MAX,
+LAMBDA13_MID,
+LAMBDA13_MIN
+The lattices KAPPA13,
+KAPPA13*
+The lattices C2 x L(3,3):C2 =  Q'_13(4)^{+2},
+C2 x PSL(2,25):C2 = Q_13(2)^{+2}
+The root lattices D13,
+D13*,
+A13,
+A13*
+dim13kis526min8det14601600,
+dim13kis672min8det11239424,
+dim13kis720min8det10616832,
+14-Dimensional Lattices
+The laminated lattice LAMBDA14
+The unimodular lattice E7^2+
+The extremal 14-dimensional 7-modular lattice
+A 14-dimensional even 11-modular lattice of minimum 6
+A 14-dimensional even 11-modular lattice of minimum 6
+A 14-dimensional odd 11-modular lattice of minimum 7
+A 14-dimensional odd 11-modular lattice of minimum 7
+Lattices from the maximal finite subgroups of GL(14,Q) [see
+G. Nebe, W. Plesken, Finite rational matrix groups. AMS-Memoir No. 556, vol. 116 (1995)]:
+LAMBDA14.2,
+LAMBDA14.3,
+LAMBDA14.4,
+KAPPA14,
+KAPPA14.2
+The lattices C2 x G(2,3),
+(SU(3,3) x C4).C2,
+A2 x E7,
+C2 x S7,
+C2 x S8,
+M14,2,
+M14,3,
+M14,6
+The root lattices D14,
+D14*,
+A14,
+A14*
+dim14kis486min36,
+dim14kis522min28,
+dim14kis552min16det488175316992,
+dim14kis552min24,
+dim14kis630min14det75614212800,
+dim14kis654min12det8197085952,
+dim14kis774min8det25021632,
+15-Dimensional Lattices
+The laminated lattice LAMBDA15
+The lattices
+LAMBDA15.2,
+LAMBDA15.3,
+LAMBDA15.4,
+KAPPA15,
+KAPPA15.2
+Lattices from the maximal finite subgroups of GL(15,Q) [see
+G. Nebe, W. Plesken, Finite rational matrix groups. AMS-Memoir No. 556, vol. 116 (1995)]:
+Lambda2(E6),
+C2 x Sp(6,2),
+Lambda2(A6)
+The unimodular lattice A15+
+The root lattices D15,
+D15*,
+A15,
+A15*
+dim15kis1890min4det768,
+16-Dimensional Lattices
+Laminated lattice LAMBDA16 = Barnes-Wall BW16,
+another version of BW16;
+BW16 as a Hurwitzian lattice;
+the odd Barnes-Wall lattice;
+Overlattice of the  Barnes-Wall lattice of minimum 3;
+strongly perfect sublattice of the  Barnes-Wall lattice;
+The lattices
+LAMBDA16.2,
+LAMBDA16.3,
+LAMBDA16.4,
+KAPPA16,
+KAPPA16.2,
+KAPPA16.3
+Lattices from the maximal finite subgroups of GL(16,Q) [see
+G. Nebe, W. Plesken, Finite rational matrix groups. AMS-Memoir No. 556, vol. 116 (1995)]:
+The lattices (SL(2,9) Y SL(2,9)).(C2 x C2),
+E8 x A2,
+((Sp(4,3) x C3) Y SL(2,3)).C2,
+(((SL(2,5) Y SL(2,5)):C2) x D10):C2,
+C2 x (S5 x S5):C2,
+C2.A10,
+A4 x F4,
+(SL(2,5) Y (D8 Y Q8).A5).C2,
+A2xH4,
+(SL(2,5) Y SL(2,9)):C2,
+(C2 x Alt6).(C2 x C2),
+(SL(2,5) Y ((SL(2,3) x C3).C2)).C2,
+D120.(C4 x C2),
+(SL(2,7) Y C2.S3).C2,
+C2 x S3 x PGL(2,7),
+(C2.Alt7 Y C2.S3).C2,
+(SL(2,7) Y C2.S3).C2,
+D120.C2,
+D120.C2.b,
+A16^(3)
+Root lattices A16,
+A16*,
+D16,
+D16*
+Dual extremal  lattices
+det 6.6a,
+det 6.6b,
+det 10.10a,
+det 10.10b,
+det 10.10c,
+det 10.10d,
+det 10.10e,
+det 10.10f,
+det 10.10g,
+An extremal 16-dimensional 7-modular lattice
+An optimal 16-dimensional 11-modular lattice (minimum 8)
+dim16kis2400min6det390625,
+17-Dimensional Lattices
+Laminated lattice LAMBDA17
+The lattices
+LAMBDA17.2,
+LAMBDA17.3,
+LAMBDA17.4,
+KAPPA17,
+KAPPA17.2
+The eight lattices associated with the group C2 x L(2,16):C4,
+namely
+Q_17(6),
+Q_17(6)^{+2},
+Q_17(6)^{+3},
+Q_17(6)^{+6},
+Q'_17(6),
+Q'_17(6)^{+2},
+Q'_17(6)^{+3},
+Q'_17(6)^{+6}
+Root lattices A17,
+A17*,
+D17,
+D17*
+dim17kis2210min56,
+dim17kis2632min8det109051904,
+dim17kis3360min8det67108864,
+dim17kis3780min4det480,
+dim17kis3942min4det448,
+18-Dimensional Lattices
+Laminated lattice LAMBDA18
+The lattices
+LAMBDA18.2,
+LAMBDA18.3,
+KAPPA18
+Lattices from the maximal finite subgroups of GL(18,Q) [see
+G. Nebe, W. Plesken, Finite rational matrix groups. AMS-Memoir No. 556, vol. 116 (1995)]:
+(C2 x Sp(4,4)).C2,
+(C2 x 3^(1+4):Sp(4,3)).C2,
+(C2 x Alt5 x Alt5).(C2 x C2),
+(C2 x C3.Alt6).(C2 x C2),
+A2xA9,
+(C2 x PSL(2,7) x PSL(2,7)).(C2 x C2),
+M18,2,
+M18,4,
+A18^(5)
+Root lattices A18,
+A18*,
+D18,
+D18*
+dim18kis3176min20det2500T,
+dim18kis3872min8det134217728,
+dim18kis3874min8det134217728,
+dim18kis4168min8det134217728,
+dim18kis5016min4det399,
+dim18kis5802min4det304,
+dim18kis5820min4det300,
+19-Dimensional Lattices
+Laminated lattice LAMBDA19
+The lattice KAPPA19
+Root lattices A19,
+A19*,
+D19,
+D19*
+dim19kis5320min8det234881024,
+dim19kis5414min8det201326592,
+dim19kis8292min4det208,
+dim19kis8634min4det192,
+dim19kis9480min4det160,
+20-Dimensional Lattices
+Lattices from the maximal finite subgroups of GL(20,Q) [see
+G. Nebe, W. Plesken, Finite rational matrix groups. AMS-Memoir No. 556, vol. 116 (1995)]:
+(SU(5,2) x SL(2,3)).C2,
+C2.M12.C2,
+(D8 x S6).C2,
+F4 x A5,
+(C2 x SU(4,2)).C2,
+(SU(4,2) x C6).C2,
+C2 x 5^(1+2):GL(25),
+A4 x A5,
+(C2.PSL(3,4)).(C2 x C2),
+C2.M22.C2,
+C2 x S7,
+(C2 x PSL(3,4)).(C2 x S3),
+C2 x S8,
+(PSL(2,11) x D12).C2,
+(PSL(2,11) x D12).C2,
+(SL(2,11) Y SL(2,3)).C2,
+A2 x A10,
+C2 x S3 x PGL(2,11),
+C2 x S3 x PGL(2,11),
+M20,3
+Dual extremal  lattices
+det 2.2a,
+det 2.2b,
+det 3.3,
+det 5.5a,
+det 5.5b,
+det 11.11,
+Kleinian lattice L20 with group 2.M22.2
+Hurwitzian lattice L5(P^5)
+Hurwitzian lattice R20
+Cyclo-quaternionic lattice L_20,4
+Cyclo-quaternionic lattice
+A_11.otimes(3).A_2
+Laminated lattice LAMBDA20
+The lattice KAPPA20
+The three extremal 2-modular lattices:
+(SU(5,2) x SL(2,3)).C2,
+C2.M12.C2,
+HS20
+One example of an  extremal 5-modular lattice:
+Aut5mod20,
+there are many (I have constructed 72) such lattices.
+Root lattices A20,
+A20*,
+D20,
+D20*
+dim20kis05164min8det536870912,
+dim20kis12540min4det121,
+dim20kis13062min4det112,
+dim20kis13482min4det105,
+dim20kis14130min4det96,
+dim20kis15120min4det84,
+dim20kis15540min4det80,
+21-Dimensional Lattices
+Lattices from the maximal finite subgroups of GL(21,Q) [see
+G. Nebe, W. Plesken, Finite rational matrix groups. AMS-Memoir No. 556, vol. 116 (1995)]:
+Lambda2(E7),
+(C2 x PSU(4,3)).D8,
+C2 x Sp(6,2),
+(C2 x PSU(3.5)).S3,
+C2 x S7
+Laminated lattice LAMBDA21
+KAPPA21
+Root lattices A21,
+A21*,
+D21,
+D21*
+22-Dimensional Lattices
+Lattices from the maximal finite subgroups of GL(22,Q) [see
+G. Nebe, W. Plesken, Finite rational matrix groups. AMS-Memoir No. 556, vol. 116 (1995)]:
+(C2 x PSU(6,2)).S3,
+A2 x A11,
+(C2 x HS).C2,
+(C2 x Mc).C2,
+hA22^(2),
+hA22^(3),
+A22^(4),
+A22^(6)
+Laminated lattice LAMBDA22
+O22
+M22
+Root lattices A22,
+A22*,
+D22,
+D22*
+Extremal 3-modular lattice of minimum 4
+23-Dimensional Lattices
+The shorter Leech lattice O23
+The lattice Q_23(6)^{+2}
+Laminated lattice LAMBDA23
+M23
+Root lattices A23,
+A23*,
+D23,
+D23*
+24-Dimensional Lattices
+Leech lattice LAMBDA24;
+another version of Leech;
+Leech lattice as a Hurwitzian lattice;
+the odd Leech lattice
+The Niemeier Lattices (see SPLAG Table 16.1).
+Here are the 23 Niemeier lattices, labeled by their root system:
+D24,
+D16_E8,
+3E8,
+A24,
+2D12,
+A17_E7,
+D10_2E7,
+A15_D9,
+3D8,
+2A12,
+A11_D7_E6,
+4E6,
+2A9_D6,
+4D6,
+3A8,
+2A7_2D5,
+4A6,
+4A5_D4,
+6D4,
+6A4,
+8A3,
+12A2,
+24A1
+Hurwitzian lattices L6(P^6),
+J24,
+R24
+Cyclo-quaternionic (extremal 3-modular)
+lattice C((5+sqrt(13))/2)L_24,2
+An optimal 11-modular
+lattice (4+sqrt(5)) x Leech
+Lattices from the maximal finite subgroups of GL(24,Q) [see
+G. Nebe,  Finite subgroups of GL(24,Q). Exp. Math. Vol. 5, Number 3 (1996), 163-195]:
+(((SL(2,5) Y SL(2,5)):C2) x Alt5).C2,
+(C6.PSU(4,3).C2 Y SL(2,3)).C2,
+((C2 x C3.Alt6).C2 Y SL(2,3)).C2,
+(Sp(4,3) x 3^(1+2):SL(2,3)).C2,
+F4xE6,
+(C3.S6 x D8).C2,
+(C6.PSL(3,4).C2 Y D8).C2,
+((SL(2,3) Y C4).C2 x PSU(3,3)).C2,
+(C2.J2 Y SL(2,5)):C2,
+(SL(2,5) Y (D8 Y Q8).A5).C2,
+(((SL(2,5) Y SL(2,5)):C2) x A5):C2,
+W(F4) x S5,
+(SL(2,5) Y (C2 x 3^(1+2)).GL(2,3)).C2,
+S3 x (SL(2,5) Y SL(2,3)).C2,
+(PSL(2,7) x W(F4)).C2,
+(PSL(2,7) x W(F4)).C2,
+F4 x A6,
+W(F4) x PGL(2,7),
+(SL(2,13) Y SL(2,3)).C2,
+(SL(2,7) x PSL(2,7)).C2,
+C6.Alt7:C2,
+(C3.M10 x SL(2,3)).C2,
+(Alt5 x ((C3 x D8).C2)).C2,
+(C3.M10 x D8).C2,
+S3 x ((PSL(2,7) x D8).C2),
+S3 x ((PSL(2,7) x D8).C2),
+((C2 x PSL(3,3)).C2 x C3).C2,
+A2 x A12,
+(C2 x D78).C12,
+A4 x E6,
+(C2 x C3.PGL(2,9) x D10).C2,
+S3 x (C2 x D10 x A5).C2,
+(C2 x PSU(4,2)).C2,
+SL(2,7) Y (C2.S4),
+(SL(2,7) Y Q16).C2,
+A4xA6,
+C2 x S5 x PGL(2,7),
+(SL(2,11) Y SL(2,3)).C2,
+C2 x PSL(2,11):C2
+Root lattices A24,
+A24*,
+D24,
+D24*
+13-modular lattice constructed by Xiaolu Hou
+21-modular lattice constructed by Xiaolu Hou
+25-Dimensional Lattices
+Laminated lattice LAMBDA25
+R. E. Borcherds's list of 25-Dim.
+unimodular lattices; also two explicit examples, with kissing numbers
+2 and 92.
+R. E. Borcherds's list of
+even 25 -dimensional lattices of determinant 2.
+Lattices from the maximal finite subgroups of GL(25,Q) [see
+G. Nebe,  Finite subgroups of GL(n,Q) for 25 <= n <= 31.  Comm. Algebra 24 (7) (1996), 2341-2397]:
+A5 tilde(otimes) A5,
+C2xPSL(2,49):2
+The root lattice D25
+26-Dimensional Lattices
+Bachoc's 13-dimensional Eisenstein lattice,
+Laminated lattice LAMBDA26
+The Conway-Borcherds unimodular lattices S26
+and T26
+Lattices from the maximal finite subgroups of GL(26,Q)
+[See
+G. Nebe,  Finite subgroups of GL(n,Q) for 25 <= n <= 31.  Comm. Algebra 24 (7) (1996), 2341-2397.]
+L4(3):2,
+S6(3)C3.2,
+S4(5):2,
+L2(25):2^2,
+L2(25):2,
+L2(25):2
+27-Dimensional Lattices
+Laminated lattice LAMBDA27
+Borcherds's unimodular lattice T27 with
+minimal norm 3.
+Another unimodular lattice with min norm 3
+Lattices from the maximal finite subgroups of GL(27,Q) [see
+G. Nebe,  Finite subgroups of GL(n,Q) for 25 <= n <= 31.  Comm. Algebra 24 (7) (1996), 2341-2397]:
+S9,
+L3(3):2
+28-Dimensional Lattices
+Bachoc's 14-dimensional Eisenstein lattice,
+Hurwitzian lattice L7(P^7)
+Hurwitzian lattice L7(P^3)
+Hurwitzian lattice L7(P)
+Hurwitzian lattice LL28
+Hurwitzian lattice R28
+Hurwitzian lattice R28'
+Hurwitzian lattice R28''
+A unimodular lattice with min norm 3
+Lattices from the maximal finite subgroups of GL(28,Q) [see
+G. Nebe,  Finite subgroups of GL(n,Q) for 25 <= n <= 31.  Comm. Algebra 24 (7) (1996), 2341-2397]:
+Sp6(3)C3.2,
+2.J2YSL(2,3).2,
+O8+(2):S3,
+Sz(8):3YC4,
+J2.2,
+G2(3)xS3.2,
+U3(3)(Q8C4).S3.2,
+U3(5):2,
+S8,
+J2:2,
+SL2(13)YSL2(3).2,
+L2(13)S3.2
+Dual extremal  lattice
+det 3.3,
+Laminated lattice LAMBDA28
+Extremal 2-modular lattice of minimum 4
+Extremal 5-modular lattice of minimum 8
+29-Dimensional Lattices
+Laminated lattice LAMBDA29
+An extremal unimodular lattice in dimension 29
+Another unimodular lattice with min norm 3
+30-Dimensional Lattices
+Lattices from the maximal finite subgroups of GL(30,Q) [see
+G. Nebe,  Finite subgroups of GL(n,Q) for 25 <= n <= 31.  Comm. Algebra 24 (7) (1996), 2341-2397]:
+U4(2):2,
+3.U4(3).2^2,
+U4(2)3^1+2:SL2(3).2,
+3.Alt6.2^2,
+3.L3(4).2^2,
+3.S7,
+M30,2,
+hat(A)30^(4),
+hat(A)30^(8)
+Laminated lattice LAMBDA30
+A 30-dim. section of Quebbemann lattice Q32
+31-Dimensional Lattices
+Lattices from the maximal finite subgroups of GL(31,Q) [see
+G. Nebe,  Finite subgroups of GL(n,Q) for 25 <= n <= 31.  Comm. Algebra 24 (7) (1996), 2341-2397]:
+L2(32):5,
+L3(5):2
+Laminated lattice LAMBDA31
+A 31-dim. section of the Quebbemann lattice Q32
+An extremal unimodular lattice in dimension 31
+32-Dimensional Lattices
+Barnes-Wall BW32,
+BW32 as a Hurwitzian lattice
+Quebbemann lattices Q32,
+Q32'
+Bachoc's 8-dimensional Hurwitzian lattice,
+Bachoc's 16-dimensional Eisenstein lattice,
+Cyclo-quaternionic lattices
+C((5+sqrt(17))/2)L_32,2,
+L_32,2,
+L_32,6
+32-dimensional even unimodular lattices
+These have not yet been classified, and perhaps never will be.
+However, the
+mass
+(the sum of reciprocals of orders of automorphism groups)
+of all inequivalent 32 dimensional even unimodular lattices having any prescribed
+root system has been determined by Oliver King (king(AT)math.berkeley.edu). (Root systems which aren't listed have mass zero.)
+The 15 Koch-Venkov extremal 32-dimensional unimodular lattices:
+LAMBDA(RM)=BW32,
+LAMBDA(QR),
+LAMBDA(G),
+LAMBDA(F),
+LAMBDA(U),
+LAMBDA(C1),
+LAMBDA(C2),
+LAMBDA(C3),
+LAMBDA(C4),
+LAMBDA(C5),
+LAMBDA(G1),
+LAMBDA(G2),
+LAMBDA(G3),
+LAMBDA(G4),
+LAMBDA(S3)
+Extremal 2-modular lattices
+Quebbemann Q32
+Quebbemann Q32'
+Bachoc B32
+Cyclo-quaternionic CQ32
+A new lattice U32
+Hurwitzian lattices: The 8 indecomposable P-modular (and real-unimodular) lattices
+LL32
+LL32'
+LL32''
+Barnes-Wall BW32
+L8(P)
+L8(P^2)
+L8(P^4)
+L8(P^8)
+Hurwitzian lattices: The 15 indecomposable hermitian unimodular lattices
+of rank 8 (and real determinant 2^16)
+MxE8
+D8(1+i)
+D8(1-w)
+D4(1+i)^2
+S1^2
+MxD8
+D3(1+i) + Mx_wU5
+D2(1+i) + M x D6
+D4(1-w)^2
+MxA8
+D2(1+i)^4
+MxD4^2
+D3(1-w) + MxA5
+MxA4^2
+D1(1+i)^8
+Lattices of the maximal finite subgroups of GL(32,Q) containing
+a maximal finite quaternionic matrix group as listed in
+G. Nebe: Finite quaternionic matrix groups,
+Representation Theory 2, 106-223 (1998)
+BW32
+SL2(5)^4:S4.2a
+SL2(5)^4:S4.2b
+4.L3(4).2^2a
+4.L3(4).2^2b
+SL2(17)SS3.2a
+SL2(17)SS3.2b
+2.Alt7 2.Alt7.2^2
+2.Alt7 SL2(3)C3.2 .2
+Sp4(3)Sp4(3):2 C3.2
+SL2(5)2^1+6.O6-(2).2
+SL2(9).2 2^1+4.Alt_5.2
+SL2(5) Sp4(3)C3.2 .2
+SL2(17)SS3.2
+SL2(7) 2.Alt7.2
+SL2(9) D10 SL2(5).2
+SL2(7) SL2(3)C3.2 .2
+SL2(7) SL2(3)C3.2 .2
+SL2(3)C4.2 SL2(7).2
+SL2(7) SL2(9).2
+SL2(9) SL2(5).2
+SL2(5)SL2(5):2 C3D8.2 .2a
+SL2(5)SL2(5):2 C3D8.2 .2b
+C15:C4 F4.2
+2^1+4Alt5 SL2(5) D10.2
+SL2(5)D10 SL2(3)C3.2 .2
+SL2(5) C5D24.2
+SL2(3) C5D24.2 .2
+SL2(5) C5Q24.2
+SL2(3) C5Q24.2 .2
+33-Dimensional Lattices
+Unimodular lattice with min norm 3
+Another unimodular lattice with min norm 3
+34-Dimensional Lattices
+Unimodular lattice with min norm 3
+Another unimodular lattice with min norm 3
+Bachoc's 17-dimensional Eisenstein lattice,
+35-Dimensional Lattices
+Unimodular lattice with min norm 3
+36-Dimensional Lattices
+Harada's odd unimodular lattice with long shadow,
+Bachoc's 9-dimensional Hurwitzian lattice,
+Kschischang-Pasupathy lattice KP36
+Cyclo-quaternionic lattice L_36,4
+Cyclo-quaternionic lattice L_36,4sup1
+Cyclo-quaternionic lattice L_36,4sup2
+Unimodular lattice Sp4(4)D8.4 with min norm 4
+Another unimodular lattice with min norm 4
+Delta1
+Delta2
+Delta3
+Delta4
+Delta5
+The five 3-modular lattices obtained by tripling CoxeterTodd
+3-modular lattice from Sp4(4)
+Lattices listed in
+G. Nebe: Finite quaternionic matrix groups,
+Representation Theory 2, 106-223 (1998):
+SL2(19)SL2(3).2
+related 2-modular lattices
+SL2(19).2
+SL2(19)C3
+U3(3)U3(3):2.2
+37-Dimensional Lattices
+Harada's odd unimodular lattice with long shadow,
+38-dimensional Lattices
+Extremal unimodular 38-dim. lattice
+39-dimensional Lattices
+Extremal unimodular 39-dim. lattice
+40-dimensional Lattices
+Lattices of the maximal finite subgroups of GL(40,Q) containing
+a maximal finite quaternionic matrix group as listed in
+G. Nebe: Finite quaternionic matrix groups,
+Representation Theory 2, 106-223 (1998):
+U3(5):3C3.2
+5^1+2:SL2(5).2 SL2(5).2
+SL2(11) 2^1+4.Alt5 .2
+U5(2) 2^1+4.Alt5 .2 ,
+Extremal even unimodular 40-dim. lattice
+2.U4(2)SL2(3).2
+SL2(11)C12.2.2
+SL2(11)SL2(3).2
+SL2(19)SS3.2
+2.Alt7SS3.2
+2.Alt7SS3
+2.U4(3).4SS3.2
+F4S6.2
+L2(11) SL2(3) S3 .2
+2.M12.2 GL2(3)
+Further 40-dimensional lattices
+Bachoc's 10-dimensional Hurwitzian lattice,
+Extremal odd unimodular 40-dim. lattice,
+Extremal 3-modular 40-dim. lattice
+related to M22
+Higher-dimensional Lattices
+An extremal unimodular lattice in dimension 42
+Another
+An extremal unimodular lattice in dimension 43
+Bachoc's 11-dimensional Hurwitzian lattice
+Mordell-Weil 44-dim. lattice MW44
+Cyclo-quaternionic 44-dim. lattice hat(A)_22^(2).otimes(3).A_2
+An extremal 44-dim. unimodular lattice
+An extremal 45-dim. unimodular lattice
+An extremal unimodular 46-dim. lattice
+An extremal unimodular 47-dim. lattice
+The extremal unimodular 48-dim.
+lattice P_48p
+The extremal unimodular 48-dim.
+lattice P_48q
+The extremal unimodular 48-dim.
+cyclo-quaternionic lattice P_48n
+The extremal unimodular 48-dim.
+lattice P_48m
+a 5-modular lattice of minimum 12 obtained from P_48n
+a 11-modular lattice of minimum 18 obtained from P_48n
+An extremal 2-modular lattice obtained from P_48n
+An extremal 2-modular 48-dim. lattice
+Bachoc's 12-dimensional Hurwitzian lattice
+Turyns construction applied to extremal 5-modular lattice of dimension 16 yields a 5-modular lattice of dimension 48 with minimum 12
+A 3-modular 48-dim. lattice of minimum 8
+An extremal unimodular 52-dim. lattice
+An extremal unimodular 54-dim. lattice
+Cyclo-quaternionic 56-dim. lattices
+L_56,2^(7)(M)
+L_56,2(M)
+L_56,2(tilde(M))
+An extremal unimodular 56-dim. lattice
+An extremal 60-dim. unimodular lattice
+Another extremal 60-dim. unimodular lattice (probably equivalent to the above)
+Cyclo-quaternionic 64-dim. lattices
+L8,2.otimes.L_32,2
+C(p3).L8,2.otimes.L_32,2
+Mordell-Weil 64-dim. lattice MW64
+Extremal unimodular 64-dim. lattice
+The sandwiched Barnes-Wall lattice
+a sandwiched Barnes-Wall lattice
+a sandwiched Barnes-Wall lattice
+a sandwiched Barnes-Wall lattice
+An extremal 68-dim. unimodular lattice
+Another extremal 68-dim. unimodular lattice (probably equivalent to the above)
+An extremal unimodular 72-dim.
+lattice
+Cyclo-quaternionic 72-dim. lattice
+L24,2.otimes.L_24,2
+Fi1,
+Fi2:
+Two 78-dim. lattices invariant under the Fischer group,
+constructed by
+Bernd Schroeder
+Extremal unimodular 80-dim. lattice L80
+related to M22
+Extremal unimodular 80-dim. lattice M80 related to M22
+Shimada's 86-dimensional lattice
+Richard Parker's 105-dim. lattice obtained from A9
+Thompson-Smith 248-dimensional lattice
+Other Links Related to Lattices
+Richard Borcherds' table of positive definite lattices.
+Jacques Martinet's home page.
+Peter Scholl,
+Sphere Packing Database
+(for packings of finitely many spheres).
+ABBREVIATIONS
+See also our home pages:
+Gabriele Nebe
+and
+Neil Sloane.

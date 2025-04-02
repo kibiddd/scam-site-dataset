@@ -1,0 +1,19 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        GRANDAUDIT.RU
+nserver:       ns1.beget.com.
+nserver:       ns2.beget.com.
+state:         REGISTERED, DELEGATED, UNVERIFIED
+org:           Grand-Audit Ltd.
+taxpayer-id:   7710392161
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2005-05-23T20:00:00Z
+paid-till:     2025-05-23T21:00:00Z
+free-date:     2025-06-24
+source:        TCI
+
+Last updated on 2025-03-27T13:53:01Z
+

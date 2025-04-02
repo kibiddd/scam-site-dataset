@@ -1,0 +1,17 @@
+   Domain Name: ARTICLESONWINE.COM
+   Registry Domain ID: 90460934_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.name.com
+   Registrar URL: http://www.name.com
+   Updated Date: 2024-08-21T16:35:37Z
+   Creation Date: 2002-09-20T11:16:23Z
+   Registry Expiry Date: 2025-09-20T11:17:34Z
+   Registrar: Name.com, Inc.
+   Registrar IANA ID: 625
+   Registrar Abuse Contact Email: abuse@name.com
+   Registrar Abuse Contact Phone: 7202492374
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: CNS47.HOSTGATOR.COM
+   Name Server: CNS48.HOSTGATOR.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T23:57:46Z 

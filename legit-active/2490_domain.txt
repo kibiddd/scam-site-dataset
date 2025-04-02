@@ -1,0 +1,17 @@
+   Domain Name: THEURBANDAILY.COM
+   Registry Domain ID: 1343329659_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2024-09-28T06:39:19Z
+   Creation Date: 2007-11-27T22:14:30Z
+   Registry Expiry Date: 2025-11-27T22:14:30Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.WORDPRESS.COM
+   Name Server: NS2.WORDPRESS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T23:59:18Z 

@@ -1,0 +1,14 @@
+Domain Name: crimewatchpatrols.co.nz
+Registrar URL: https://sitename.co.nz/
+Updated Date: 2025-02-11T19:05:28Z
+Creation Date: 2011-02-28T01:38:29Z
+Original Created: 2011-02-28T01:38:29Z
+Registrar: Sitetech Solutions Ltd T/A SiteName
+Domain Status: ok https://icann.org/epp#ok
+Name Server: ns1.myhost.nz
+Name Server: ns2.myhost.nz
+Name Server: ns3.myhost.nz
+Name Server: ns4.myhost.nz
+DNSSEC: unsigned
+URL of the Domain Name Commission Limited Inaccuracy Complaint Form: https://dnc.org.nz/enquiry-form/
+>>> Last update of WHOIS database: 2025-03-26T23:15:18Z 

@@ -1,0 +1,35 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T20:04:01-03:00 - 2a09:bac5:c82c:2446::39d:67
+
+domain:      cezarinidesenhista.com.br
+owner:       Fidel Cezarini
+ownerid:     ***.400.486-**
+country:     BR
+owner-c:     ASM378
+tech-c:      ASM378
+nserver:     ns656.hostgator.com.br
+nsstat:      20250323 AA
+nslastaa:    20250323
+nserver:     ns657.hostgator.com.br
+nsstat:      20250323 AA
+nslastaa:    20250323
+created:     20090107 #5171177
+changed:     20250131
+expires:     20260107
+status:      published
+
+nic-hdl-br:  ASM378
+person:      Alexandre Soares Martins
+e-mail:      tricotando@gmail.com
+country:     BR
+created:     20040327
+changed:     20200525
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

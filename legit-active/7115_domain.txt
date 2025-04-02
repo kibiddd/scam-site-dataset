@@ -1,0 +1,17 @@
+   Domain Name: GENT-FAMILY.COM
+   Registry Domain ID: 134979193_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namespro.ca
+   Registrar URL: http://www.namespro.ca
+   Updated Date: 2024-11-10T20:30:05Z
+   Creation Date: 2004-11-13T18:52:38Z
+   Registry Expiry Date: 2025-11-13T18:52:38Z
+   Registrar: Namespro Solutions Inc.
+   Registrar IANA ID: 1895
+   Registrar Abuse Contact Email: abuse@namespro.ca
+   Registrar Abuse Contact Phone: 16046818007
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: SLNS1.NAMESPRO.CA
+   Name Server: SLNS2.NAMESPRO.CA
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:22:38Z 

@@ -1,0 +1,27 @@
+Domain Name: SQUARE.SITE
+Registry Domain ID: D92911523-CNIC
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL:
+Updated Date: 2025-03-10T15:22:24.0Z
+Creation Date: 2019-02-05T14:02:28.0Z
+Registry Expiry Date: 2031-02-05T23:59:59.0Z
+Registrar: MarkMonitor, Inc (TLDs)
+Registrar IANA ID: 292
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrant Organization: Block, Inc.
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS-810.AWSDNS-37.NET
+Name Server: NS-1816.AWSDNS-35.CO.UK
+Name Server: NS-311.AWSDNS-38.COM
+Name Server: NS-1248.AWSDNS-28.ORG
+DNSSEC: unsigned
+Registrar Abuse Contact Email: ccops@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T13:56:23.0Z 

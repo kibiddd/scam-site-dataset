@@ -1,0 +1,37 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T20:11:18-03:00 - 2a09:bac5:c82e:188c::272:bb
+
+domain:      consertolar.com.br
+owner:       jorge osvaldo dos santos melo
+ownerid:     ***.170.640-**
+country:     BR
+owner-c:     JODSM4
+tech-c:      JODSM4
+nserver:     ns282.hostgator.com.br
+nsstat:      20250324 AA
+nslastaa:    20250324
+nserver:     ns283.hostgator.com.br
+nsstat:      20250324 AA
+nslastaa:    20250324
+saci:        yes
+created:     20170603 #17052067
+changed:     20240506
+expires:     20250603
+status:      published
+provider:    NEWFOLD (43)
+
+nic-hdl-br:  JODSM4
+person:      jorge osvaldo dos santos melo
+e-mail:      zcomtec@gmail.com
+country:     BR
+created:     20110805
+changed:     20200521
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

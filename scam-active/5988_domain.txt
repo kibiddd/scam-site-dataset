@@ -1,0 +1,25 @@
+Domain Name: PTZPKY.SHOP
+Registry Domain ID: DO11486897-GMO
+Registrar WHOIS Server: iwhois.webnic.cc
+Registrar URL: https://www.webnic.cc/
+Updated Date: 2024-09-09T02:38:34.0Z
+Creation Date: 2024-08-02T04:13:56.0Z
+Registry Expiry Date: 2025-08-02T23:59:59.0Z
+Registrar: Web Commerce Communication Ltd.
+Registrar IANA ID: 460
+Registrar Abuse Contact Email: compliance_abuse@webnic.cc
+Registrar Abuse Contact Phone: +603.89966788
+Domain Status: ok https://icann.org/epp#ok
+Registrant State/Province: Wilayah Persekutuan
+Registrant Country: MY
+Registrant Email:
+Admin Email:
+Tech Email:
+Name Server: FREEDNS1.REGISTRAR-SERVERS.COM
+Name Server: FREEDNS2.REGISTRAR-SERVERS.COM
+Name Server: FREEDNS3.REGISTRAR-SERVERS.COM
+Name Server: FREEDNS4.REGISTRAR-SERVERS.COM
+Name Server: FREEDNS5.REGISTRAR-SERVERS.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:46:54.0Z 

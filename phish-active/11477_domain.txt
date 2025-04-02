@@ -1,0 +1,23 @@
+Domain Name: huntingfieldlodge.com.au
+Registry Domain ID: f676a530de5246a49b3348daac1f10c4-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.crazydomains.com.au/contact/
+Last Modified: 2025-02-18T01:10:22Z
+Registrar Name: Web Address Registration Pty Ltd
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Reseller Name: 
+Status: ok https://identitydigital.au/get-au/whois-status-codes#ok
+Registrant Contact ID: 029dad376bfe4feea3648ec04bc48928-AU
+Registrant Contact Name: Mel Waller
+Tech Contact ID: 029dad376bfe4feea3648ec04bc48928-AU
+Tech Contact Name: Mel Waller
+Name Server: ns1.webcity.com.au
+Name Server IP: 203.17.36.33
+Name Server: ns2.webcity.com.au
+Name Server IP: 203.17.36.4
+DNSSEC: unsigned
+Registrant: The Trustee for WALLER FAMILY TRUST
+Registrant ID: ABN 29705083884
+Eligibility Type: Registered Business
+>>> Last update of WHOIS database: 2025-03-27T14:51:53Z 

@@ -1,0 +1,73 @@
+Domain Name: paradiselakeresort.ca
+Registry Domain ID: D608245-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: ca.godaddy.com
+Updated Date: 2023-09-07T17:33:03Z
+Creation Date: 2007-09-06T19:54:42Z
+Registry Expiry Date: 2025-09-06T04:00:00Z
+Registrar: Go Daddy Domains Canada, Inc
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 76301419-CIRA
+Registrant Name: Denis Martell
+Registrant Organization: Denis Martell
+Registrant Street: 2843 Trillium Place
+Registrant City: North Vancouver
+Registrant State/Province: BC
+Registrant Postal Code: V7H1J3
+Registrant Country: CA
+Registrant Phone: +1.6049295676
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: denismartell@gmail.com
+Registry Admin ID: 76301439-CIRA
+Admin Name: Denis Martell
+Admin Organization: Denis Martell
+Admin Street: 2843 Trillium Street
+Admin City: North Vancouver
+Admin State/Province: BC
+Admin Postal Code: V7H1J3
+Admin Country: CA
+Admin Phone: +1.6049295676
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: denismartell@gmail.com
+Registry Tech ID: 76301434-CIRA
+Tech Name: Glen Morris
+Tech Organization: OCW
+Tech Street: 158 Victoria Street
+Tech City: Kamloops
+Tech State/Province: BC
+Tech Postal Code: V2C1Z7
+Tech Country: CA
+Tech Phone: +1.2503763858
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: domains@ocis.net
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.a2hosting.com
+Name Server: ns2.a2hosting.com
+Name Server: ns3.a2hosting.com
+Name Server: ns4.a2hosting.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T03:10:15Z 

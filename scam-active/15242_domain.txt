@@ -1,0 +1,17 @@
+   Domain Name: TECHNOVAXD.COM
+   Registry Domain ID: 2945877092_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.metaregistrar.com
+   Registrar URL: http://www.metaregistrar.com
+   Updated Date: 2024-12-29T12:45:19Z
+   Creation Date: 2024-12-28T13:14:45Z
+   Registry Expiry Date: 2025-12-28T13:14:45Z
+   Registrar: Metaregistrar BV
+   Registrar IANA ID: 2288
+   Registrar Abuse Contact Email: abuse@metaregistrar.com
+   Registrar Abuse Contact Phone: +31.858885692
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: AMIR.NS.CLOUDFLARE.COM
+   Name Server: CARRERA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:49:08Z 

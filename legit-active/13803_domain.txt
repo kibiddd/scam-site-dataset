@@ -1,0 +1,18 @@
+   Domain Name: ARTABUS.COM
+   Registry Domain ID: 83166916_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.cloudflare.com
+   Registrar URL: http://www.cloudflare.com
+   Updated Date: 2024-08-27T17:30:50Z
+   Creation Date: 2002-01-30T11:36:19Z
+   Registry Expiry Date: 2033-01-30T11:36:19Z
+   Registrar: Cloudflare, Inc.
+   Registrar IANA ID: 1910
+   Registrar Abuse Contact Email: registrar-abuse@cloudflare.com
+   Registrar Abuse Contact Phone: +1.6503198930
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DAMON.NS.CLOUDFLARE.COM
+   Name Server: KAMI.NS.CLOUDFLARE.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 2371 13 2 AFAA7F4E1AAE564DE6776EB44AF7173DC8A55BCF15FE0E8DDF3FD27D36F7F243
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:56:36Z 

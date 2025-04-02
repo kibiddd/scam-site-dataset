@@ -1,0 +1,2 @@
+Domain: hubschmid.de
+Status: connect

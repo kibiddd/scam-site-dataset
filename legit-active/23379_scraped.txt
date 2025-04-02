@@ -1,0 +1,126 @@
+Thomas A. Funkhouser - Home Page
+Thomas Funkhouser
+David M. Siegel Professor of Computer Science, Emeritus
+Princeton University
+How to Reach Me:
+funk@cs.princeton.edu
+Princeton Computer Vision Group
+Princeton Computer Graphics Group
+Department of Computer Science
+Princeton University
+Note: I am not taking new students
+Recent Publications (here is a full list of publications):
+Zihao Xiao, Longlong Jing, Shangxuan Wu, Alex Zihao Zhu, Jingwei Ji, Chiyu Max Jiang, Wei-Chih Hung, Thomas Funkhouser, Weicheng Kuo, Anelia Angelova, Yin Zhou, Shiwei Sheng,
+3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation,
+European Conference on Computer Vision (ECCV), (arXiv:2401.02402 [cs.CV], September 2024.
+Yushi Lan, Feitong Tan, Di Qiu, Qiangeng Xu, Kyle Genova, Zeng Huang, Sean Fanello, Rohit Pandey, Thomas Funkhouser, Chen Change Loy, Yinda Zhang,
+Gaussian3Diff: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing,
+European Conference on Computer Vision (ECCV), (arXiv:2312.03763 [cs.CV]), September 2024.
+Christian Diller, Thomas Funkhouser, Angela Dai,
+FutureHuman3D: Forecasting Complex Long-Term 3D Human Behavior from Video Observations,
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), (arXiv:2211.14309 [cs.CV]), June 2024.
+Jimmy Wu, Rika Antonova, Adam Kan, Marion Lepert, Andy Zeng, Shuran Song, Jeannette Bohg, Szymon Rusinkiewicz, Thomas Funkhouser,
+TidyBot: Personalized Robot Assistance with Large Language Models,
+Intelligent Robotics and Systems (IROS), (arXiv 2305.05658 [cs.RO]), October 2023.
+Fangyin Wei, Thomas Funkhouser, Szymon Rusinkiewicz,
+Clutter Detection and Removal in 3D Scenes with View-Consistent Inpainting,
+International Conference on Computer Vision (ICCV), (arXiv 2304.03763 [cs.CV]), October 2023.
+Hong-Xing Yu, Michelle Guo, Alireza Fathi, Yen-Yu Chang, Eric Ryan Chan, Ruohan Gao, Thomas Funkhouser, Jiajun Wu,
+Learning Object-Centric Neural Scattering Functions for Free-viewpoint Relighting and Scene Composition,
+Transactions on Machine Learning Research (TMLR), June 2023 (arXiv 2303.06138 [cs.CV]).
+Songyou Peng, Kyle Genova, Chiyu "Max" Jiang, Andrea Tagliasachi, Marc Pollefeys, Thomas Funkhouser,
+OpenScene: 3D Scene Understanding with Open Vocabularies,
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2023 (arXiv 2211.15564 [cs.CV]).
+Xiaoshuai Zhang, Abhijit Kundu, Thomas Funkhouser, Leonidas Guibas, Hao Su, Kyle Genova,
+Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervision,
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2023 (arXiv 2303.03361 [cs.CV]).
+Zhiqin Chen, Thomas Funkhouser, Peter Hedman, Andrea Tagliasacchi,
+MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures,,
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2023 (arXiv 2208.00277 [cs.GR]).
+Guandao Yang, Sagie Benaim, Varun Jampani, Kyle Genova, Jonathan T. Barron, Thomas Funkhouser, Bharath Hariharan, Serge Belongie,
+Polynomial Neural Fields for Subband Decomposition and Manipulation,
+Neural Information Processing Systems (NeurIPS), November 2022.
+Jimmy Wu, Xingyuan Sun, Andy Zeng, Shuran Song, Szymon Rusinkiewicz, Thomas Funkhouser,
+Learning Pneumatic Non-Prehensile Manipulation with a Mobile Blower,
+IEEE Robotics and Automation Letters (RA-L), also in  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), October 2022 (arXiv 2204.02390 [cs.RO]).
+Zhiqin Chen, Andrea Tagliasacchi, Thomas Funkhouser, Hao Zhang,
+Neural Dual Contouring,
+ACM Transactions on Graphics (Proc. SIGGRAPH), August 2022 (arXiv 2202.01999 [cs.CV]).
+Abhijit Kundu, Kyle Genova, Xiaoqi Yin, Alireza Fathi, Caroline Pantofaru, Leonidas Guibas, Andrea Tagliasacchi, Frank Dellaert, Thomas Funkhouser,
+Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation,
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2022 (arXiv 2205.04334 [cs.CV]).
+Konstantinos Rematas, Andrew Liu, Pratul P. Srinivasan, Jonathan T. Barron, Andrea Tagliasacchi, Thomas Funkhouser, and Vittorio Ferrari,
+Urban Radiance Fields,
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2022 (arXiv 2111.14643 [cs.CV]).
+Mehdi S. M. Sajjadi, Henning Meyer, Etienne Pot, Urs Bergmann, Klaus Greff, Noha Radwan, Suhani Vora, Mario Lucic, Daniel Duckworth, Alexey Dosovitskiy, Jakob Uszkoreit, Thomas Funkhouser, Andrea Tagliasacchi,
+Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations,
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2022 (arXiv 2111.13152 [cs.CV]).
+Christian Diller, Thomas Funkhouser, and Angela Dai,
+Forecasting Characteristic 3D Poses of Human Actions,
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2022 (arXiv 2011.15079 [cs.CV]).
+Boyang Deng, Charles R. Qi, Mahyar Najibi, Thomas Funkhouser, Yin Zhou, Dragomir Anguelov,
+Revisiting 3D Object Detection From an Egocentric Perspective,
+Neural Information Processing Systems (NeurIPS), December 2021
+(arXiv 2112.07787 [cs.CV]).
+Kyle Genova, Xiaoqi Yin, Abhijit Kundu, Caroline Pantofaru, Forrester Cole, Avneesh Sud, Brian Brewington, Brian Shucker, and Thomas Funkhouser,
+Learning 3D Semantic Segmentation with only 2D Image Supervision,
+International Conference on 3D Vision (3DV), oral, December 2021
+(arXiv 2110.11325 [cs.CV]).
+Zhang Chen, Yinda Zhang, Kyle Genova, Sean Fanello, Sofien Bouaziz, Christian Haene, Ruofei Du, Cem Keskin, Thomas Funkhouser, and Danhang Tang,
+Multiresolution Deep Implicit Functions for 3D Shape Representation,
+International Conference on Computer Vision (ICCV), October 2021 (arXiv 2109.05591 [cs.CV]).
+Yunze Liu, Qingnan Fan, Shanghang Zhang, Hao Dong, Thomas Funkhouser, Li Yi,
+Contrastive Multimodal Fusion with TupleInfoNCE,
+International Conference on Computer Vision (ICCV), October 2021 (arXiv 2107.02575 [cs.CV]).
+Li Yi, Boqing Gong, and Thomas Funkhouser,
+Complete & Label: A Domain Adaption Approach to Semantic Segmentation of LIDAR Point Clouds,
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2021
+(arXiv 2007.08488 [cs.CV]).
+Qianqian Wang, Zhicheng Wang, Kyle Genova, Pratul Srinivasan, Howard Zhou, Jonathan T. Barron, Ricardo Martin-Brualla, Noah Snavely, and Thomas Funkhouser,
+IBRNet: Learning Multi-View Image-Based Rendering,
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2021
+(arXiv 2102.13090 [cs.CV]).
+Siyan Dong, Qingnan Fan, He Wang, Ji Shi, Li Yi, Thomas Funkhouser, Baoquan Chen, and Leonidas Guibas,
+Robust Neural Routing Through Space Partitions for Camera Relocalization in Dynamic Indoor Environments,
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), oral presentation, June 2021
+(arXiv 2012.04746 [cs.CV]).
+Jimmy Wu, Xingyuan Sun, Andy Zeng, Shuran Song, Szymon Rusinkiewicz, and Thomas Funkhouser,
+Spatial Intention Maps for Multi-Agent Mobile Manipulation,
+IEEE International Conference on Robotics and Automation (ICRA), June 2021 (arXiv 2103.12710 [cs.RO]).
+Recent Professional Activities (here is a full list of activities):
+Technical Awards Chair, ACM SIGGRAPH, 2019 - present
+Papers chair, ACM SIGGRAPH, 2009
+Advisory board, ACM SIGGRAPH, 2008, A2009, 2011, 2015, 2022
+Papers sort, ACM SIGGRAPH, 2008, 2009, 2013, 2014, 2015, 2017
+Papers committee, ACM SIGGRAPH, 1997, 1998, 2001, 2003, 2004, 2006, 2007, 2008, A2008, 2009, 2011, 2013, 2022
+Papers chair, EUROGRAPHICS Symposium on Geometry Processing (SGP), 2014
+Papers committee, EUROGRAPHICS Symposium on Geometry Processing (SGP), 2007, 2008, 2010, 2011, 2014, 2015, 2016
+Member, Technical Awards Committee, ACM SIGGRAPH, 2017 - 2018
+Area chair, ICCV, 2021
+Area chair, CVPR, 2020
+Recent Graduate Students and Postdocs:
+Fangyin Wei (Fifth year, co-advised with Szymon Rusinkiewicz)
+Jimmy Wu (Fifth year, co-advised with Szymon Rusinkiewicz)
+Manolis Savva (Postdoc 2016-2018: Assistant Professor at Simon Fraser University)
+Angel Chang (Postdoc 2016-2018: Assistant Professor at Simon Fraser University)
+Sid Chaudhuri (Postdoc 2011-2104: Assistant Professor at IIT Bombay)
+Yaron Lipman (Postdoc 2008-2011: Associate Professor at Weizmann Institute)
+Jian Sun (Postdoc, 2009-1010: Associate Professor at Tsinghua)
+Daniel Aliaga (Postdoc, 2002-2003: Associate Professor at Purdue)
+Kyle Genova (Ph.D. 2021: Google)
+Andy Zeng (Ph.D. 2019: Google)
+Maciej Halber (Ph.D. 2019: Dolby)
+Elena Sizikova (Ph.D. 2019: Faculty Fellow at NYU)
+Shuran Song (Ph.D. 2018: Assistant Professor at Columbia University)
+Yinda Zhang (Ph.D. 2018: Google)
+Fisher Yu (Ph.D. 2018: Assistant Professor at ETH Zurich)
+Tianqian Liu (Ph.D. 2015: Google)
+Aleksey Boyko (Ph.D. 2015: Google)
+Xiaobai Chen (Ph.D. 2014: Citadel)
+Vladimir Kim (Ph.D. 2013: Adobe Research Labs)
+Alex Golovinskiy (Ph.D. 2010: Google)
+Paul Calamia (Ph.D. 2009: MIT Lincoln Laboratory)
+Phil Shilane (Ph.D. 2008: Dell EMC)
+Misha Kazhdan (Ph.D. 2004: Full Professor at John Hopkins)
+Patrick Min (Ph.D. 2004: Freelance)
+Rudro Samanta (Ph.D. 2002: Pixar)

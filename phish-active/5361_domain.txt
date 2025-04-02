@@ -1,0 +1,17 @@
+   Domain Name: CHEESECAKEDREAMATIONS.COM
+   Registry Domain ID: 454091308_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois-service.virtualcloud.co
+   Registrar URL: http://sav.com
+   Updated Date: 2024-12-18T12:43:15Z
+   Creation Date: 2006-05-19T04:34:30Z
+   Registry Expiry Date: 2025-05-19T04:34:30Z
+   Registrar: Sav.com, LLC
+   Registrar IANA ID: 609
+   Registrar Abuse Contact Email: abuse-contact@sav.com
+   Registrar Abuse Contact Phone: +1.8885808790
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: LUNLUN.NS.GIANTPANDA.COM
+   Name Server: YANGYANG.NS.GIANTPANDA.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:04:51Z 

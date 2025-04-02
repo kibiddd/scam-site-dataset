@@ -1,0 +1,101 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        evydence-bijoux.fr
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      EB37047-FRNIC
+admin-c:                       LG38996-FRNIC
+tech-c:                        OVH5-FRNIC
+registrar:                     OVH
+Expiry Date:                   2025-09-14T22:12:27Z
+created:                       2017-10-11T10:12:41Z
+last-update:                   2024-07-06T10:23:45.177932Z
+source:                        FRNIC
+
+nserver:                       dns20.ovh.net
+nserver:                       ns20.ovh.net
+source:                        FRNIC
+
+key1-tag:                      55532
+key1-algo:                     8 [RSASHA256]
+key1-dgst-t:                   2 [SHA256]
+key1-dgst:                     5FE875A506F7062D2DC4BB3EC969D3DB2FE772CB487E47FA3FB80E40C1413287
+source:                        FRNIC
+
+registrar:                     OVH
+address:                       2 Rue Kellermann
+address:                       59100 ROUBAIX
+country:                       FR
+phone:                         +33.899701761
+fax-no:                        +33.320200958
+e-mail:                        support@ovh.net
+website:                       http://www.ovh.com
+anonymous:                     No
+registered:                    1999-10-18T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       OVH5-FRNIC
+type:                          ORGANIZATION
+contact:                       OVH NET
+address:                       OVH
+address:                       140, quai du Sartel
+address:                       59100 Roubaix
+country:                       FR
+phone:                         +33.899701761
+e-mail:                        tech@ovh.net
+registrar:                     OVH
+changed:                       2025-03-27T11:14:18.944907Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       LG38996-FRNIC
+type:                          ORGANIZATION
+contact:                       LIAISON GRAPHIQUE
+address:                       LIAISON GRAPHIQUE
+address:                       42 Rue FALQUE
+address:                       13006 Marseille
+country:                       FR
+phone:                         +33.662081348
+e-mail:                        0r4zjcqpnme684u013nr@e.o-w-o.info
+registrar:                     OVH
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       EB37047-FRNIC
+type:                          ORGANIZATION
+contact:                       EVYDENCE BIJOUX
+address:                       EVYDENCE BIJOUX
+address:                       2 cours Pierre Puget
+address:                       13006 Marseille
+country:                       FR
+phone:                         +33.488860593
+e-mail:                        mehkgiq0syrwpa6epuyb@b.o-w-o.info
+registrar:                     OVH
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-03-27T11:16:47.509649Z 

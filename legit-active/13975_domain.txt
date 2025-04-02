@@ -1,0 +1,59 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: OSU.EDU
+
+Registrant:
+	The Ohio State University
+	450 W. 10th Ave
+	Columbus, OH 43210
+	USA
+
+Administrative Contact:
+	Domain Admin
+	The Ohio State University
+	320 West 8th Ave
+	Columbus, OH 43201-2331
+	USA
+	+1.6146884357
+	hostmaster@osu.edu
+
+Technical Contact:
+	 
+	The Ohio State University
+	320 West 8th Ave
+	Columbus, OH 43201-2331
+	USA
+	+1.6146884357
+	hostmaster@osu.edu
+
+Name Servers:
+	NS4.NET.OHIO-STATE.EDU
+	NS5.NET.OHIO-STATE.EDU
+	NS7.OAR.NET
+	NS4.OAR.NET
+	NS5.OAR.NET
+	NS6.OAR.NET
+
+Domain record activated:    06-Oct-1989
+Domain record last updated: 13-May-2024
+Domain expires:             31-Jul-2025

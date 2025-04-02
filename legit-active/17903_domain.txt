@@ -1,0 +1,12 @@
+Domain Name: moria.co.nz
+Registrar URL: https://www.discountdomains.co.nz
+Updated Date: 2024-10-16T00:11:09Z
+Creation Date: 2003-08-31T02:29:33Z
+Original Created: 2003-08-31T02:29:33Z
+Registrar: Freeparking Limited t/a DiscountDomains
+Domain Status: ok https://icann.org/epp#ok
+Name Server: ns1.moria.co.nz
+Name Server: ns2.moria.co.nz
+DNSSEC: unsigned
+URL of the Domain Name Commission Limited Inaccuracy Complaint Form: https://dnc.org.nz/enquiry-form/
+>>> Last update of WHOIS database: 2025-03-27T18:40:54Z 

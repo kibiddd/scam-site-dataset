@@ -1,0 +1,17 @@
+   Domain Name: CAPITALWEALTHFINANCE.NET
+   Registry Domain ID: 2743570477_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.pananames.com
+   Registrar URL: http://www.pananames.com
+   Updated Date: 2024-12-11T20:19:12Z
+   Creation Date: 2022-12-09T17:48:31Z
+   Registry Expiry Date: 2025-12-09T17:48:31Z
+   Registrar: URL Solutions, Inc.
+   Registrar IANA ID: 1449
+   Registrar Abuse Contact Email: abuse@pananames.com
+   Registrar Abuse Contact Phone: +1.9727369998
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1CP12.PANAMASERVER.COM
+   Name Server: NS2CP12.PANAMASERVER.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:45:21Z 

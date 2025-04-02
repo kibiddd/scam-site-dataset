@@ -1,0 +1,104 @@
+Shapiro-Wilk test - wikidoc
+Shapiro-Wilk test
+Jump to navigation
+Jump to search
+WikiDoc Resources for Shapiro-Wilk test
+Articles
+Most recent articles on Shapiro-Wilk test
+Most cited articles on Shapiro-Wilk test
+Review articles on Shapiro-Wilk test
+Articles on Shapiro-Wilk test in N Eng J Med, Lancet, BMJ
+Media
+Powerpoint slides on Shapiro-Wilk test
+Images of Shapiro-Wilk test
+Photos of Shapiro-Wilk test
+Podcasts & MP3s on Shapiro-Wilk test
+Videos on Shapiro-Wilk test
+Evidence Based Medicine
+Cochrane Collaboration on Shapiro-Wilk test
+Bandolier on Shapiro-Wilk test
+TRIP on Shapiro-Wilk test
+Clinical Trials
+Ongoing Trials on Shapiro-Wilk test at Clinical Trials.gov
+Trial results on Shapiro-Wilk test
+Clinical Trials on Shapiro-Wilk test at Google
+Guidelines / Policies / Govt
+US National Guidelines Clearinghouse on Shapiro-Wilk test
+NICE Guidance on Shapiro-Wilk test
+NHS PRODIGY Guidance
+FDA on Shapiro-Wilk test
+CDC on Shapiro-Wilk test
+Books
+Books on Shapiro-Wilk test
+News
+Shapiro-Wilk test in the news
+Be alerted to news on Shapiro-Wilk test
+News trends on Shapiro-Wilk test
+Commentary
+Blogs on Shapiro-Wilk test
+Definitions
+Definitions of Shapiro-Wilk test
+Patient Resources / Community
+Patient resources on Shapiro-Wilk test
+Discussion groups on Shapiro-Wilk test
+Patient Handouts on Shapiro-Wilk test
+Directions to Hospitals Treating Shapiro-Wilk test
+Risk calculators and risk factors for Shapiro-Wilk test
+Healthcare Provider Resources
+Symptoms of Shapiro-Wilk test
+Causes & Risk Factors for Shapiro-Wilk test
+Diagnostic studies for Shapiro-Wilk test
+Treatment of Shapiro-Wilk test
+Continuing Medical Education (CME)
+CME Programs on Shapiro-Wilk test
+International
+Shapiro-Wilk test en Espanol
+Shapiro-Wilk test en Francais
+Business
+Shapiro-Wilk test in the Marketplace
+Patents on Shapiro-Wilk test
+Experimental / Informatics
+List of terms related to Shapiro-Wilk test
+Overview
+In statistics, the Shapiro-Wilk test tests the null hypothesis that a sample x1, ..., xn came from a normally distributed population. It was published in 1965 by Samuel Shapiro and Martin Wilk.
+The test statistic is
+<math>W = {\left(\sum_{i=1}^n a_i x_{(i)}\right)^2 \over \sum_{i=1}^n (x_i-\overline{x})^2}</math>
+where
+x(i) (with parentheses enclosing the subscript index i) is the ith order statistic, i.e., the ith-smallest number in the sample;
+<math>\overline{x}=(x_1+\cdots+x_n)/n\,</math> is the sample mean;
+the constants ai are given by
+<math>(a_1,\dots,a_n) = {m^\top V^{-1} \over (m^\top V^{-1}V^{-1}m)^{1/2}}</math>
+where
+<math>m = (m_1,\dots,m_n)^\top\,</math>
+and m1, ..., mn are the expected values of the order statistics of independent and identically-distributed random variables sampled from the standard normal distribution, and V is the covariance matrix of those order statistics.
+The user may reject the null hypothesis if W is too small.
+See also
+Anderson-Darling test
+Kolmogorov-Smirnov test
+Smirnov-Cramér-von-Mises test
+References
+Shapiro, S. S. and Wilk, M. B. (1965). "An analysis of variance test for normality (complete samples)", Biometrika, 52, 3 and 4, pages 591-611. [1]
+Algorithm AS R94 (Shapiro Wilk) FORTRAN code
+Shapiro-Wilk Normality Test in CRAN
+C code in CRAN (look for swilk.c)
+Template:WikiDoc Sources
+Retrieved from "https://www.wikidoc.org/index.php?title=Shapiro-Wilk_test&oldid=688606"
+Category: Statistical tests
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.OK
+Navigation menu
+Personal tools
+Log inRequest account
+Namespaces
+PageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Tools
+What links hereRelated changesSpecial pagesPrintable versionPermanent linkPage information
+This page was last edited 16:01, 20 August 2012 by wikidoc user WikiBot. Based on work by Brian Blank.
+Content is available under Creative Commons Attribution/Share-Alike License unless otherwise noted; All rights reserved on Board Review content.
+Privacy policy
+About wikidoc
+Disclaimers

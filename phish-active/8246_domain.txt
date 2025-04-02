@@ -1,0 +1,37 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T08:16:42-03:00 - 2a09:bac5:c82e:dcd::160:12e
+
+domain:      evouz.com.br
+owner:       Leandro Alves Fronza
+ownerid:     04.130.023/0001-71
+responsible: Leandro Alves Fronza
+country:     BR
+owner-c:     PLF38
+tech-c:      PLF38
+nserver:     ns1.sitecommerce.com.br
+nsstat:      20250325 AA
+nslastaa:    20250325
+nserver:     ns2.sitecommerce.com.br
+nsstat:      20250325 AA
+nslastaa:    20250325
+saci:        yes
+created:     20140106 #12408917
+changed:     20250124
+expires:     20270106
+status:      published
+
+nic-hdl-br:  PLF38
+person:      Paulo Luiz da Silva Filho
+e-mail:      info@sitecommerce.net
+country:     BR
+created:     20020315
+changed:     20250203
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

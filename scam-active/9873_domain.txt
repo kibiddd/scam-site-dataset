@@ -1,0 +1,56 @@
+Domain Name: metakings.ai
+Registry Domain ID: 9542160599c34fdeb8ebe8de2dbebc31-DONUTS
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: https://www.namecheap.com/
+Updated Date: 2024-03-06T15:28:55Z
+Creation Date: 2021-11-16T01:57:42Z
+Registry Expiry Date: 2025-11-16T01:57:42Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 9e20594f8c88412f865c952f7efc01f8-DONUTS
+Registrant Name: Redacted for Privacy
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant Street: Kalkofnsvegur 2
+Registrant City: Reykjavik
+Registrant State/Province: Capital Region
+Registrant Postal Code: 101
+Registrant Country: IS
+Registrant Phone: +354.4212434
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: e7f3838eddf841719e69a6fed2d31f09.protect@withheldforprivacy.com
+Registry Admin ID: c30291b981b9402ebb899707ac63e4b2-DONUTS
+Admin Name: Redacted for Privacy
+Admin Organization: Privacy service provided by Withheld for Privacy ehf
+Admin Street: Kalkofnsvegur 2
+Admin City: Reykjavik
+Admin State/Province: Capital Region
+Admin Postal Code: 101
+Admin Country: IS
+Admin Phone: +354.4212434
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: e7f3838eddf841719e69a6fed2d31f09.protect@withheldforprivacy.com
+Registry Tech ID: 1b00686db2734dd587db377a53ffb857-DONUTS
+Tech Name: Redacted for Privacy
+Tech Organization: Privacy service provided by Withheld for Privacy ehf
+Tech Street: Kalkofnsvegur 2
+Tech City: Reykjavik
+Tech State/Province: Capital Region
+Tech Postal Code: 101
+Tech Country: IS
+Tech Phone: +354.4212434
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: e7f3838eddf841719e69a6fed2d31f09.protect@withheldforprivacy.com
+Name Server: kellen.ns.cloudflare.com
+Name Server: alexandra.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:47:51Z 

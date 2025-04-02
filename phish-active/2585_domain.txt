@@ -1,0 +1,36 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T17:18:31-03:00 - 2a09:bac5:c82e:dcd::160:61
+
+domain:      arquetipoprojetos.com.br
+owner:       ARQUETIPO PROJETOS E ASSESSORIA LTDA
+ownerid:     42.782.649/0001-51
+responsible: ARNALDO DE MEIRA CARVALHO
+country:     BR
+owner-c:     ARMCA5
+tech-c:      ARMCA5
+nserver:     ns1.dns-secure.net
+nsstat:      20250323 AA
+nslastaa:    20250323
+nserver:     ns2.dns-secure.net
+nsstat:      20250323 AA
+nslastaa:    20250323
+created:     20070603 #3609671
+changed:     20240604
+expires:     20290603
+status:      published
+
+nic-hdl-br:  ARMCA5
+person:      arnaldo de meira carvalho
+e-mail:      arnaldocarvalho3@gmail.com
+country:     BR
+created:     20070502
+changed:     20220420
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

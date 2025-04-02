@@ -1,0 +1,55 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: NEBO.EDU
+
+Registrant:
+	Nebo School District
+	350 S Main St
+	Spanish Fork, UT 84660
+	USA
+
+Administrative Contact:
+	Reese Brunson
+	Nebo School District
+	350 S Main St
+	Spanish Fork, UT 84660
+	USA
+	+1.180135474021404
+	nsadmin@nebo.edu
+
+Technical Contact:
+	Don Remy
+	Nebo School District
+	350 S Main St
+	Spanish Fork, UT 84660
+	USA
+	+1.180135474021409
+	engineering@nebo.edu
+
+Name Servers:
+	NS.NEBO.EDU
+	NS2.NEBO.EDU
+
+Domain record activated:    09-Apr-1992
+Domain record last updated: 04-Jun-2024
+Domain expires:             31-Jul-2027

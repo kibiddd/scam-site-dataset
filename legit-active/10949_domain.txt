@@ -1,0 +1,55 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: ANTIOCHNE.EDU
+
+Registrant:
+	Antioch University New England
+	40 Avon St
+	Keene, NH 03431-3516
+	USA
+
+Administrative Contact:
+	Bruce Rogers
+	Antioch University
+	900 Dayton Street
+	Yellow Springs, OH 54387
+	USA
+	+1.9377691338
+	techdirect@antioch.edu
+
+Technical Contact:
+	Bruce Rogers
+	Antioch University
+	900 Dayton Street
+	Yellow Springs, OH 45387
+	USA
+	+1.9377691338
+	techdirect@antioch.edu
+
+Name Servers:
+	NS2.OAR.NET
+	NS1.OAR.NET
+
+Domain record activated:    29-Jun-1994
+Domain record last updated: 29-Jul-2024
+Domain expires:             31-Jul-2025

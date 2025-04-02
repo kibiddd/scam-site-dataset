@@ -1,0 +1,28 @@
+Domain Name: nickelodeon.com.au
+Registry Domain ID: 03b0a5ec744e48f2811eb63c4443f6c0-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://whois-webform.markmonitor.com/whois/
+Last Modified: 2024-06-27T23:15:32Z
+Registrar Name: MarkMonitor Corporate Services Inc
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Reseller Name: 
+Status: clientDeleteProhibited https://identitydigital.au/get-au/whois-status-codes#clientDeleteProhibited
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 2d6abfe61258489f93cdddf8036577a7-AU
+Registrant Contact Name: Domain Admin
+Tech Contact ID: 2d6abfe61258489f93cdddf8036577a7-AU
+Tech Contact Name: Domain Admin
+Name Server: dns1.p09.nsone.net
+Name Server: dns2.p09.nsone.net
+Name Server: dns3.p09.nsone.net
+Name Server: dns4.p09.nsone.net
+Name Server: ns0004.secondary.cloudflare.com
+Name Server: ns0243.secondary.cloudflare.com
+DNSSEC: unsigned
+Registrant: Viacom International Inc.
+Eligibility Type: Trademark Owner
+Eligibility Name: nickelodeon
+Eligibility ID: TM 861712
+>>> Last update of WHOIS database: 2025-03-28T00:00:55Z 

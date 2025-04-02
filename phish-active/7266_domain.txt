@@ -1,0 +1,36 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T08:11:25-03:00 - 2a09:bac5:c82c:1032::19d:1a8
+
+domain:      dubversao.com.br
+owner:       Marcia Lanzilotte
+ownerid:     ***.373.497-**
+country:     BR
+owner-c:     MALAN599
+tech-c:      MALAN599
+nserver:     chelsea.ns.cloudflare.com
+nsstat:      20250325 AA
+nslastaa:    20250325
+nserver:     tanner.ns.cloudflare.com
+nsstat:      20250325 AA
+nslastaa:    20250325
+saci:        yes
+created:     20241112 #28741357
+changed:     20241113
+expires:     20251112
+status:      published
+
+nic-hdl-br:  MALAN599
+person:      Marcia Lanzilotte
+e-mail:      marcialanzilotte1@gmail.com
+country:     BR
+created:     20241111
+changed:     20250212
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

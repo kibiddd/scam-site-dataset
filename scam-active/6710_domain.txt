@@ -1,0 +1,17 @@
+   Domain Name: INTLCOINTRADES.COM
+   Registry Domain ID: 2898161813_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.discount-domain.com
+   Registrar URL: http://gmo.jp
+   Updated Date: 2024-10-16T16:23:08Z
+   Creation Date: 2024-07-10T21:14:52Z
+   Registry Expiry Date: 2025-07-10T21:14:52Z
+   Registrar: GMO Internet Group, Inc. d/b/a Onamae.com
+   Registrar IANA ID: 49
+   Registrar Abuse Contact Email: abuse@gmo.jp
+   Registrar Abuse Contact Phone: +81.337709199
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS10.NETLIGHTSYSTEMS.COM
+   Name Server: NS9.NETLIGHTSYSTEMS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:46:52Z 

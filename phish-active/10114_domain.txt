@@ -1,0 +1,18 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        GAZIPASHA.RU
+nserver:       ns1.beget.com.
+nserver:       ns2.beget.com.
+state:         REGISTERED, DELEGATED, VERIFIED
+person:        Private Person
+registrar:     REGTIME-RU
+admin-contact: https://whois.webnames.ru
+created:       2019-06-20T08:10:03Z
+paid-till:     2025-06-20T08:10:03Z
+free-date:     2025-07-21
+source:        TCI
+
+Last updated on 2025-03-27T13:48:01Z
+

@@ -1,0 +1,17 @@
+   Domain Name: IBI-POWER.COM
+   Registry Domain ID: 2819687130_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: who.planethoster.net
+   Registrar URL: http://www.planethoster.com
+   Updated Date: 2024-09-16T13:53:41Z
+   Creation Date: 2023-10-06T13:32:29Z
+   Registry Expiry Date: 2025-10-06T13:32:29Z
+   Registrar: PlanetHoster Inc.
+   Registrar IANA ID: 2476
+   Registrar Abuse Contact Email: abuse@planethoster.info
+   Registrar Abuse Contact Phone: 15148021644
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: HYBRID733-1.FR.NS.PLANETHOSTER.NET
+   Name Server: HYBRID733.FR.NS.PLANETHOSTER.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:51:49Z 

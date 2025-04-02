@@ -1,0 +1,30 @@
+Domain name: kralencadeau.nl
+Status:      active
+
+Reseller:
+   Mijndomein Hosting BV
+   Albert Einsteinweg 4
+   8218NH Lelystad
+   Netherlands
+
+Registrar:
+   Metaregistrar B.V.
+   Noothoven van Goorstraat 11 e
+   2806RA Gouda
+   Netherlands
+
+Abuse Contact:
+   +31.858885692
+   abuse@metaregistrar.com
+
+DNSSEC:      yes
+
+Domain nameservers:
+   nsn1.mijndomein.nl
+   nsn2.mijndomein.nl
+
+Creation Date: 2021-01-13
+
+Updated Date: 2024-10-09
+
+Record maintained by: SIDN BV

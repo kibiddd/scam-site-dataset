@@ -1,0 +1,17 @@
+   Domain Name: MORMONWIKI.COM
+   Registry Domain ID: 131180732_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.dynadot.com
+   Registrar URL: http://www.dynadot.com
+   Updated Date: 2024-09-12T09:05:26Z
+   Creation Date: 2004-09-28T00:21:54Z
+   Registry Expiry Date: 2025-09-28T00:21:54Z
+   Registrar: Dynadot Inc
+   Registrar IANA ID: 472
+   Registrar Abuse Contact Email: abuse@dynadot.com
+   Registrar Abuse Contact Phone: +16502620100
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: FAY.NS.CLOUDFLARE.COM
+   Name Server: JAY.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T17:01:08Z 

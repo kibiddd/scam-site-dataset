@@ -1,0 +1,17 @@
+   Domain Name: PRISMIAD.NET
+   Registry Domain ID: 30842828_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-06-04T15:41:34Z
+   Creation Date: 2000-07-04T15:41:02Z
+   Registry Expiry Date: 2025-07-04T15:41:02Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS1.REGISTRAR-SERVERS.COM
+   Name Server: DNS2.REGISTRAR-SERVERS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:43:22Z 

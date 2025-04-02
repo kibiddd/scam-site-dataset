@@ -1,0 +1,23 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        LABIRINT.RU
+nserver:       ns1.labirint.ru. 194.84.83.150
+nserver:       ns2.labirint.ru. 194.84.120.182
+nserver:       ns4-cloud.nic.ru.
+nserver:       ns4-l2.nic.ru.
+nserver:       ns8-cloud.nic.ru.
+nserver:       ns8-l2.nic.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           OOO Upravljajushchaja kompanija Labirint
+taxpayer-id:   7728701678
+registrar:     RD-RU
+admin-contact: https://cp.mastername.ru/domain_feedback/
+created:       1996-10-20T12:01:18Z
+paid-till:     2025-10-31T21:00:00Z
+free-date:     2025-12-02
+source:        TCI
+
+Last updated on 2025-03-27T21:33:01Z
+

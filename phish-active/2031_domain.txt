@@ -1,0 +1,17 @@
+   Domain Name: ALWALAATOURS.COM
+   Registry Domain ID: 2374038236_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-03-27T16:46:29Z
+   Creation Date: 2019-03-28T14:57:59Z
+   Registry Expiry Date: 2025-03-28T14:57:59Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.SITE5.COM
+   Name Server: NS2.SITE5.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:45:06Z 

@@ -1,0 +1,35 @@
+** Domain Name: erisambalaj.com.tr
+Domain Status: Active
+Frozen Status: -
+Transfer Status: The domain is LOCKED to transfer. 
+
+** Registrant:
+   Eriş Ambalaj Sanayi ve Ticaret Ltd.Şti.
+   Hidden upon user request
+   Hidden upon user request
+   Hidden upon user request
+   Hidden upon user request
+
+
+** Registrar:
+NIC Handle		: ogv40
+Organization Name	: ODTÜ GELİŞTİRME VAKFI BİLGİ TEKNOLOJİLERİ SAN. VE TİC. A.Ş.
+Address			: ÜNİVERSİTELER MAH. İHSAN DOĞRAMACI BLV.
+			  ARGE VE EĞİTİM MERKEZİ NO:13 ÇANKAYA
+			  06800 Ankara Türkiye
+Phone			: 90-312-9881106-
+Fax			: - 
+
+
+** Domain Servers:
+ns1.ihsdnsx31.com
+ns2.ihsdnsx31.com
+
+
+** Additional Info:
+Created on..............: 2007-Oct-31.
+Expires on..............: 2028-Oct-30.
+
+
+** Whois Server:
+Last Update Time: 2025-03-27T14:04:31+03:00

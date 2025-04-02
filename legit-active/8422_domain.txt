@@ -1,0 +1,17 @@
+   Domain Name: SARAPESASHES.COM
+   Registry Domain ID: 233276343_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-09-18T08:17:18Z
+   Creation Date: 2005-10-18T02:01:02Z
+   Registry Expiry Date: 2025-10-18T02:01:02Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: CNS345.HOSTGATOR.COM
+   Name Server: CNS346.HOSTGATOR.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:08:53Z 

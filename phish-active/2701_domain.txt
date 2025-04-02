@@ -1,0 +1,52 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://web-whois.nic.it                                           *
+*********************************************************************
+
+Domain:             atccn3.it
+Status:             ok
+Signed:             no
+Created:            2015-01-08 12:22:55
+Last Update:        2024-05-05 00:51:27
+Expire Date:        2025-04-19
+
+Registrant
+  Organization:     AMBITO TERRITORIALE DI CACCIA CN3 ROERO
+  Address:          VIA CARMAGNOLA 5
+                    CARAMAGNA PIEMONTE
+                    12030
+                    CN
+                    IT
+  Created:          2023-04-17 11:17:45
+  Last Update:      2023-04-17 11:17:45
+
+Admin Contact
+  Name:             MARCO FISSOLO
+  Organization:     AMBITO TERRITORIALE DI CACCIA CN3 ROERO
+  Address:          VIA CARMAGNOLA 5
+                    CARAMAGNA PIEMONTE
+                    12030
+                    CN
+                    IT
+  Created:          2023-04-17 11:17:45
+  Last Update:      2023-04-17 11:17:45
+
+Technical Contacts
+  Name:             hidden
+  Organization:     hidden
+
+Registrar
+  Organization:     I.S.I. Line S.r.l.
+  Name:             ISILINE-REG
+  Web:              http://www.isiline.it/
+  DNSSEC:           no
+
+
+Nameservers
+  ns.isiline.it
+  secondary.isiline.it
+

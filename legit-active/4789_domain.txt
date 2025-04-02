@@ -1,0 +1,72 @@
+Domain Name: ualberta.ca
+Registry Domain ID: D4475-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.easydns.ca
+Updated Date: 2024-05-16T20:26:27Z
+Creation Date: 2000-10-04T19:39:17Z
+Registry Expiry Date: 2032-12-20T05:00:00Z
+Registrar: easyDNS Technologies Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@easydns.com
+Registrar Abuse Contact Phone: +1.4165358672
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 18613831-CIRA
+Registrant Name: University of Alberta
+Registrant Organization: University of Alberta
+Registrant Street: 77 University Campus
+Registrant City: Edmonton
+Registrant State/Province: AB
+Registrant Postal Code: T6G2R3
+Registrant Country: CA
+Registrant Phone: +1.7804928000
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: dnsmaster@ualberta.ca
+Registry Admin ID: 26922500-CIRA
+Admin Name: University of Alberta
+Admin Organization: University of Alberta
+Admin Street: 77 University Campus
+Admin City: Edmonton
+Admin State/Province: AB
+Admin Postal Code: T6G2R3
+Admin Country: CA
+Admin Phone: +1.7804928000
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: dnsmaster@ualberta.ca
+Registry Tech ID: 26922501-CIRA
+Tech Name: University of Alberta
+Tech Organization: University of Alberta
+Tech Street: 77 University Campus
+Tech City: Edmonton
+Tech State/Province: AB
+Tech Postal Code: T6G2R3
+Tech Country: CA
+Tech Phone: +1.7804928000
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: dnsmaster@ualberta.ca
+Registry Billing ID: 77753450-CIRA
+Billing Name: University of Alberta
+Billing Organization: University of Alberta
+Billing Street: 77 University Campus
+Billing City: Edmonton
+Billing State/Province: AB
+Billing Postal Code: T6G2R3
+Billing Country: CA
+Billing Phone: +1.7804928000
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email: dnsmaster@ualberta.ca
+Name Server: name.ualberta.ca
+Name Server: nom.ualberta.ca
+Name Server: ns1.d-zone.ca
+Name Server: ns2.d-zone.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T03:11:11Z 

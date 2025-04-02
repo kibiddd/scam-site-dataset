@@ -1,0 +1,2 @@
+Domain: postbank.de
+Status: connect

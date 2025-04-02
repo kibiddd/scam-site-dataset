@@ -1,0 +1,42 @@
+%  
+%  TZNIC WHOIS data and services are subject to the Terms of Use
+%  available at: https://www.tznic.or.tz/Whois_tou.pdf
+% 
+%  You may also use our WHOIS Web service available at:
+%  https://whois.tznic.or.tz/whois
+% 
+% 
+% Whoisd Server Version: 3.10.2
+% Timestamp: Wed Mar 26 23:19:20 2025
+
+domain:       ascom.co.tz
+registrant:   C-REG-14023-KILIHOST
+admin-c:      C-ADM-14023-KILIHOST
+nsset:        NSSET-14023-R-REG-KILIHOST
+registrar:    REG-KILIHOST
+registered:   19.01.2021 08:39:26
+changed:      16.06.2023 22:03:50
+expire:       19.01.2026
+
+contact:      C-REG-14023-KILIHOST
+registrar:    REG-KILIHOST
+created:      19.01.2021 08:39:24
+
+contact:      C-ADM-14023-KILIHOST
+registrar:    REG-KILIHOST
+created:      19.01.2021 08:39:24
+
+nsset:        NSSET-14023-R-REG-KILIHOST
+nserver:      ns1.ascom.co.tz (203.161.55.10)
+nserver:      ns2.ascom.co.tz (203.161.55.10)
+tech-c:       MNT-APTUS
+registrar:    REG-KILIHOST
+created:      16.06.2023 22:03:49
+changed:      30.10.2024 20:56:45
+
+contact:      MNT-APTUS
+registrar:    REG-APTUS
+created:      19.08.2010 22:05:20
+changed:      25.05.2020 23:05:03
+
+

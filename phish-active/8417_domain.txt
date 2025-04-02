@@ -1,0 +1,17 @@
+   Domain Name: WHCSERVERBOX.COM
+   Registry Domain ID: 2881103079_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.yoursrs.com
+   Registrar URL: http://www.realtimeregister.com
+   Updated Date: 2024-10-27T06:31:34Z
+   Creation Date: 2024-05-14T04:43:11Z
+   Registry Expiry Date: 2025-05-14T04:43:11Z
+   Registrar: Realtime Register B.V.
+   Registrar IANA ID: 839
+   Registrar Abuse Contact Email: rtr-security-threats@realtimeregister.com
+   Registrar Abuse Contact Phone: +31.384530759
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: N1.XUNDNS.COM
+   Name Server: N2.XUNDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:17:08Z 

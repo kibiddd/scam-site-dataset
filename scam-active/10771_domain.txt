@@ -1,0 +1,18 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        NEFTBAZAMAKSOILSANDGAS.RU
+nserver:       galilea.ns.cloudflare.com.
+nserver:       garrett.ns.cloudflare.com.
+state:         REGISTERED, DELEGATED, UNVERIFIED
+person:        Private Person
+registrar:     OPENPROV-RU
+admin-contact: https://www.openprovider.ru/products/domain-registration/whois/ 
+created:       2023-01-28T11:33:15Z
+paid-till:     2026-01-28T11:33:15Z
+free-date:     2026-02-28
+source:        TCI
+
+Last updated on 2025-03-26T15:48:01Z
+

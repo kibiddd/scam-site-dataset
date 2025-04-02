@@ -1,0 +1,19 @@
+   Domain Name: BIGBAUER.COM
+   Registry Domain ID: 38058595_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.ionos.com
+   Registrar URL: http://www.ionos.com
+   Updated Date: 2024-10-20T07:24:42Z
+   Creation Date: 2000-10-19T15:38:26Z
+   Registry Expiry Date: 2025-10-19T15:38:26Z
+   Registrar: IONOS SE
+   Registrar IANA ID: 83
+   Registrar Abuse Contact Email: abuse@ionos.com
+   Registrar Abuse Contact Phone: +1.6105601459
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1034.UI-DNS.DE
+   Name Server: NS1059.UI-DNS.ORG
+   Name Server: NS1066.UI-DNS.COM
+   Name Server: NS1123.UI-DNS.BIZ
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T22:55:34Z 

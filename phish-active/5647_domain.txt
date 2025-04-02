@@ -1,0 +1,17 @@
+   Domain Name: CAIXABANKPC.COM
+   Registry Domain ID: 2367247111_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.eurodns.com
+   Registrar URL: http://www.EuroDNS.com
+   Updated Date: 2025-02-12T20:45:47Z
+   Creation Date: 2019-03-08T10:52:56Z
+   Registry Expiry Date: 2027-03-08T10:52:56Z
+   Registrar: EuroDNS S.A.
+   Registrar IANA ID: 1052
+   Registrar Abuse Contact Email: legalservices@eurodns.com
+   Registrar Abuse Contact Phone: +352.27220150
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NSCD1.ITNOW.ES
+   Name Server: NSCD2.ITNOW.ES
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:08:51Z 

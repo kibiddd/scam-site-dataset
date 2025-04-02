@@ -1,0 +1,12 @@
+Domain Name: cityrovers.co.nz
+Registrar URL: https://www.freeparking.co.nz
+Updated Date: 2023-01-20T20:43:27Z
+Creation Date: 2001-09-14T06:43:05Z
+Original Created: 2001-09-14T06:43:05Z
+Registrar: Freeparking Limited
+Domain Status: ok https://icann.org/epp#ok
+Name Server: ns.freeparking.co.nz
+Name Server: ns2.freeparking.co.nz
+DNSSEC: unsigned
+URL of the Domain Name Commission Limited Inaccuracy Complaint Form: https://dnc.org.nz/enquiry-form/
+>>> Last update of WHOIS database: 2025-03-27T23:57:52Z 

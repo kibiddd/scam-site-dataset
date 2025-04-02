@@ -1,0 +1,35 @@
+% La información a la que estás accediendo se provee exclusivamente para
+% fines relacionados con operaciones sobre nombres de dominios y DNS,
+% quedando absolutamente prohibido su uso para otros fines.
+%
+% La DIRECCIÓN NACIONAL DEL REGISTRO DE DOMINIOS DE INTERNET es depositaria
+% de la información que los usuarios declaran con la sola finalidad de
+% registrar nombres de dominio en ‘.ar’, para ser publicada en el sitio web
+% de NIC Argentina.
+%
+% La información personal que consta en la base de datos generada a partir
+% del sistema de registro de nombres de dominios se encuentra amparada por
+% la Ley N° 25326 “Protección de Datos Personales” y el Decreto
+% Reglamentario 1558/01.
+
+domain:		hijosdeluiszuqueli.com.ar
+registrant:	20244110666
+registrar:	nicar
+registered:	2009-10-16 00:00:00
+changed:	2024-10-05 04:35:49.177233
+expire:		2025-10-16 00:00:00
+
+contact:	20244110666
+name:		LENTINI LEONARDO DARIO
+registrar:	nicar
+created:	2013-08-29 00:00:00
+changed:	2025-02-12 12:01:22.709207
+
+nserver:	ns2.towebs.com ()
+nserver:	ns3.towebs.com ()
+nserver:	ns1.towebs.com ()
+nserver:	ns4.towebs.com ()
+registrar:	nicar
+created:	2016-06-30 22:49:13.126835
+
+

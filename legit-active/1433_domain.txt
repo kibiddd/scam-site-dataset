@@ -1,0 +1,19 @@
+   Domain Name: MAGNETMAGAZINE.COM
+   Registry Domain ID: 1750328_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2021-06-27T08:01:40Z
+   Creation Date: 1997-08-27T04:00:00Z
+   Registry Expiry Date: 2026-08-26T04:00:00Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-US.1AND1-DNS.COM
+   Name Server: NS-US.1AND1-DNS.DE
+   Name Server: NS-US.1AND1-DNS.ORG
+   Name Server: NS-US.1AND1-DNS.US
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:58:51Z 

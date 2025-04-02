@@ -1,0 +1,19 @@
+   Domain Name: WENDAG.COM
+   Registry Domain ID: 531386715_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-06-26T04:39:35Z
+   Creation Date: 2006-07-25T14:33:07Z
+   Registry Expiry Date: 2025-07-25T14:33:07Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.DNS-H.COM
+   Name Server: NS1.HOST-H.NET
+   Name Server: NS2.HOST-H.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:13:39Z 

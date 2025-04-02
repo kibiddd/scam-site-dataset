@@ -1,0 +1,38 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T08:14:20-03:00 - 2a09:bac5:c82c:188c::272:64
+
+domain:      emerencianno.com.br
+owner:       TPRADO SERVI�OS
+ownerid:     34.841.662/0001-06
+responsible: THIAGO PRADO
+country:     BR
+owner-c:     THPRA185
+tech-c:      THPRA185
+nserver:     ns1014.hostgator.com.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+nserver:     ns1015.hostgator.com.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+saci:        yes
+created:     20240827 #28374327
+changed:     20240827
+expires:     20250827
+status:      published
+provider:    NEWFOLD (43)
+
+nic-hdl-br:  THPRA185
+person:      THIAGO PRADO
+e-mail:      tprado@tprado.com.br
+country:     BR
+created:     20231005
+changed:     20240505
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

@@ -1,0 +1,20 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        HABRAHABR.RU
+nserver:       ns1.habradns.net.
+nserver:       ns2.habradns.net.
+nserver:       ns3.habradns.net.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           Habr Blockchain Publishing LTD
+taxpayer-id:   -
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2006-04-17T20:00:00Z
+paid-till:     2026-04-17T21:00:00Z
+free-date:     2026-05-19
+source:        TCI
+
+Last updated on 2025-03-28T03:18:01Z
+

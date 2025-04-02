@@ -1,0 +1,85 @@
+%  (c) 2006-2021 CZ.NIC, z.s.p.o.
+% 
+% Intended use of supplied data and information
+% 
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+% 
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+% 
+% See also a search service at http://www.nic.cz/whois/
+% 
+% 
+% Whoisd Server Version: 3.15.0
+% Timestamp: Fri Mar 28 00:57:36 2025
+
+domain:       cuni.cz
+registrant:   SB:CUNI
+admin-c:      VH14
+nsset:        NSS:CUNI:2
+keyset:       AUTO-4QJY7YG1H9NTYRY7XKQB8W1DS
+registrar:    REG-INTERNET-CZ
+registered:   10.03.1996 01:00:00
+changed:      31.12.2024 22:13:40
+expire:       10.10.2025
+
+contact:      SB:CUNI
+org:          Univerzita Karlova
+name:         Vladimír Horák
+address:      Ovocný trh 560/5
+address:      Praha 1
+address:      116 36
+address:      CZ
+phone:        +420.224491235
+fax-no:       +420.224491588
+e-mail:       hostmaster@cuni.cz
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+changed:      19.01.2022 14:48:04
+
+contact:      VH14
+name:         Vladimir Horak
+address:      Seydlerova 2150/5
+address:      Praha 5
+address:      158 00
+address:      CZ
+phone:        +420.224491235
+fax-no:       +420.224491594
+e-mail:       vhor@cuni.cz
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+changed:      10.06.2021 12:06:03
+
+nsset:        NSS:CUNI:2
+nserver:      cuce.ruk.cuni.cz (195.113.0.8, 2001:718:1e03:1::8)
+nserver:      david.ruk.cuni.cz (78.128.213.242, 2001:718:1203:502::2)
+nserver:      golias.ruk.cuni.cz (195.113.0.2, 2001:718:1e03:1::2)
+nserver:      nsa.ces.net 
+tech-c:       SB:CUNI
+tech-c:       VH14
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 02:00:00
+changed:      11.12.2024 09:49:06
+
+keyset:       AUTO-4QJY7YG1H9NTYRY7XKQB8W1DS
+dnskey:       257 3 13 CRfC63IEp1cb9ALSIHYAFosTvel5Pr7I0KRXgcNMw9JbBO0mba2hBtB+82IdFwOa48PnBNoMl3rZohtZLxy07g==
+tech-c:       CZNIC-AKM
+registrar:    REG-CZNIC
+created:      31.12.2024 22:13:40
+
+contact:      CZNIC-AKM
+org:          CZ.NIC, z.s.p.o.
+name:         CZ.NIC, z.s.p.o.
+address:      Milesovska 1136/5
+address:      Praha 3
+address:      13000
+address:      CZ
+registrar:    REG-CZNIC
+created:      12.08.2024 15:02:38
+
+

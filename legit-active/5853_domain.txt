@@ -1,0 +1,22 @@
+Domain Name: cameronjane.com.au
+Registry Domain ID: 38206a8281844b02aed995c4f9706490-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://elb.www.netregistry.com.au/contact-us/
+Last Modified: 2024-11-19T22:27:16Z
+Registrar Name: Melbourne IT
+Registrar Abuse Contact Email: abuse@webcentral.com.au
+Registrar Abuse Contact Phone: +61.279080901
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 92149c4093a24fee908da3ab3c3e3bc6-AU
+Registrant Contact Name: Cameron Thomas
+Tech Contact ID: b787b8c4fb3848cbb478dd02e4cb0071-AU
+Tech Contact Name: Cameron Thomas
+Name Server: ns1.syd6.hostyourservices.net
+Name Server: ns2.syd6.hostyourservices.net
+DNSSEC: unsigned
+Registrant: CAMERON JANE MAKE-UP DESIGN PTY LTD
+Registrant ID: ABN 65142395622
+Eligibility Type: Company
+>>> Last update of WHOIS database: 2025-03-28T03:17:07Z 

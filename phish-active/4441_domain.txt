@@ -1,0 +1,20 @@
+Domain Name: bluestone.ma
+Updated Date: 2025-02-21T11:38:30Z
+Creation Date: 2017-02-23T11:18:03Z
+Registry Expiry Date: 2026-02-23T11:18:03Z
+Registrar Registration Expiration Date: 2026-02-23T11:18:03Z
+Registrar: ARCANES TECHNOLOGIES
+Registrar Street Address: Technopark, Rte Nouaceur, angle RS114 et CT1029, RDC - Bureau 143bis Casablanca 20153
+Registrar Email: support@heberjahiz.com
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Name: Kamal Belghmi
+Admin Name: Kamal Belghmi
+Admin Email: kbelghmi12@gmail.com
+Admin Phone: +212.661327434
+Tech Name: Kamal Belghmi
+Tech Email: kbelghmi12@gmail.com
+Tech Phone: +212.661327434
+Name Server: dmns1.heberjahiz.com
+Name Server: dmns2.heberjahiz.com
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T22:57:30.385Z 

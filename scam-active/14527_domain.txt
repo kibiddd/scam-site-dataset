@@ -1,0 +1,17 @@
+   Domain Name: HUANGCHAOMUYE.COM
+   Registry Domain ID: 2952638144_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.metaregistrar.com
+   Registrar URL: http://www.metaregistrar.com
+   Updated Date: 2025-03-23T04:11:58Z
+   Creation Date: 2025-01-21T19:34:03Z
+   Registry Expiry Date: 2026-01-21T19:34:03Z
+   Registrar: Metaregistrar BV
+   Registrar IANA ID: 2288
+   Registrar Abuse Contact Email: abuse@metaregistrar.com
+   Registrar Abuse Contact Phone: +31.858885692
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: N1.XUNDNS.COM
+   Name Server: N2.XUNDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:48:52Z 

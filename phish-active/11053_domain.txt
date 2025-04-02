@@ -1,0 +1,67 @@
+Domain Name: 0fees.us
+Registry Domain ID: D44573780-US
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2025-02-21T05:34:46Z
+Creation Date: 2014-03-19T10:19:50Z
+Registry Expiry Date: 2026-03-18T23:59:59Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: CDC880045D5284C6CA077AA7E60FC7758-NSR
+Registrant Name: Administrator Administrator
+Registrant Organization: iFastNet LTD
+Registrant Street: Bulman House, Regent Centre,
+Registrant Street: Gosforth,
+Registrant Street:
+Registrant City: Newcastle upon Tyne
+Registrant State/Province: Tyne and Wear
+Registrant Postal Code: NE3 3LS
+Registrant Country: GB
+Registrant Phone: +44.7714013940
+Registrant Phone Ext:
+Registrant Fax: +44.7602846681
+Registrant Fax Ext:
+Registrant Email: abuse@byethost.org
+Registrant Application Purpose: P1
+Registrant Nexus Category: C11
+Registry Admin ID: C73890B1311B2421F9BC2821D029F0E69-NSR
+Admin Name: Administrator Administrator
+Admin Organization: iFastNet LTD
+Admin Street: Bulman House, Regent Centre,
+Admin Street: Gosforth,
+Admin Street:
+Admin City: Newcastle upon Tyne
+Admin State/Province: Tyne and Wear
+Admin Postal Code: NE3 3LS
+Admin Country: GB
+Admin Phone: +44.7714013940
+Admin Phone Ext:
+Admin Fax: +44.7602846681
+Admin Fax Ext:
+Admin Email: abuse@byethost.org
+Registry Tech ID: CB77D2BB2BE8C4C0499C12DE629BF1829-NSR
+Tech Name: Administrator Administrator
+Tech Organization: iFastNet LTD
+Tech Street: Bulman House, Regent Centre,
+Tech Street: Gosforth,
+Tech Street:
+Tech City: Newcastle upon Tyne
+Tech State/Province: Tyne and Wear
+Tech Postal Code: NE3 3LS
+Tech Country: GB
+Tech Phone: +44.7714013940
+Tech Phone Ext:
+Tech Fax: +44.7602846681
+Tech Fax Ext:
+Tech Email: abuse@byethost.org
+Name Server: ns1.byet.org
+Name Server: ns2.byet.org
+Name Server: ns3.byet.org
+Name Server: ns4.byet.org
+Name Server: ns5.byet.org
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T13:58:29Z 

@@ -1,0 +1,55 @@
+Pedigree: Isabelle d' ANGOULEME
+The PEDIGREE of
+Isabelle d' ANGOULEME
+HM George I's 15-Great Grandmother.       HRE Ferdinand I's 10-Great Aunt.       HRE Charles VI's 14-Great Grandmother.       U.S. President [T. ROOSEVELT]'s 21-Great Grandmother.       PM Churchill's 22-Great Grandmother.       Lady Diana's 23-Great Grandmother.       HRH Albert II's 21-Great Grandmother.       `Red Baron' Richthofen's 19-Great Grandmother.       Poss. Agnes Harris's 13-Great Aunt.       `Osawatomie' Brown's 26-Great Aunt.
+Husband/Partner:
+Geoffroi (III) de RANCON (Comte) de TAILLEBOURG
+Child:
+Geoffroi (IV) de RANCON
+____________________________________________________________________________
+/-- Geoffrey (Geoffroi) I TAILLEFER   +==&=>   [ 255 ,C,pt,&]
+/-- Fulk (Foulques) TAILLEFER  (1030? - 1087?)
+/  \-- Petronille (Petronel) d' ARCHIAC   +====>   [ 1]
+/-- William III TAILLEFER  (1065? - 1119)
+/  \-- Condoha (Condor Cundo) de VOGENA   +====>   [ 255 ,gc,t,&]
+/-- Wulgrin II TAILLEFER  (? - 1140)
+| \ /-- Amanieu de BENAUGES & St. Macaire   +====>   [ 9]
+| \-- Vidapont (Vitapont Vitapoy Corlieu) de BENAUGES
+/    / OR: prob. not Condoha de VOGENA   +====>   [ 255 ,gc,t,&]
+/-- William IV (VI; TAILLEFER) of ANGOULEME
+| \  /-- Roger (III) `the Poitevin' de MONTGOMERY   +====>   [ 255 ,gc,t,&]
+| |  /   / or: Robert (q.v. : Roger's brother)
+| | /-- Adelbert III de MONTGOMERY  (1079? - ?)
+| | | \ / (skip this generation?)
+| | /  \-- Almodis (Countess) de la MARCHE   +==&=>   [ 255 ,c,ptm,&]
+| \-- Ponce (Pontia Ponse) de MONTGOMERY  (1109? - ?)
+/    / OR: Ponce [alt ped]   +==&=>   [ 255 ,gc,tm,&]
+- Isabelle d' ANGOULEME
+\    /-- Ebles (Ebels) I (Vicomte) de TURENNE   +==&=>   [ 255 ,C,mY,&]
+|   /-- William (Vicomte) de TURENNE  (? - 1037?)
+|   | \ / or: poss. not Archambaud de COMBORN (William's brother)
+|   /  \-- Beatrice of NORMANDY   +====>   [ 255 ,gc,t,&]
+|  /-- Boson (Boso) I (Viscount) de TURENNE
+|  /  \-- Matilda
+| /-- Raymond I (Vicomte) de TURENNE  (1080? - 1137?)
+| | \ /-- Bernard de TERRASSON   +====>   [ 2]
+| | | /   / or: Pierre (Count) de TERRASSON
+| | \-- Gerberge (Comtor) de TERRASSON  (1055? - 1103?)
+| /   \-- Petronille de la RIVIERE
+\-- Marguerite de TURENNE  (1120? - 1201?)
+\  /-- Geoffrey II (I; Count) de (la) PERCHE   +====>   [ 255 ,gc,tm,&]
+| /-- Routrou `the Great' (II; I; Comte) de PERCHE
+| | \ / (skip this generation?)
+| /  \-- Beatrice de MONTDIDIER (de ROUCY)   +==&=>   [ 255 ,Hg,&]
+\-- Matilda (Maud Mathilde) de (la) PERCHE
+\ / OR: Marguerite de la PERCHE   +==&=>   [ 255 ,Hg,&]
+| /-- Henry I BEAUCLERC (King) of ENGLAND   +==&=>   [ 255 ,WH,&]
+\-- Matilda FitzHENRY  (1086? - 1120)   (skip?)
+\-- poss.  Amice de GUADER   +====>   [ 1]
+Her Grandchildren:
+Eleonore de RANCON
+;     Assalide de RANCON
+;     Geoffroy V de RANCON
+;     Aimable de RANCON
+;     (Miss) de RANCON
+[ Start ]FabPed Genealogy Vers. 102   ©   Jamie, 1997-2022

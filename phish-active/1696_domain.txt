@@ -1,0 +1,36 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T14:43:35-03:00 - 2a09:bac5:3806:1f19::319:58
+
+domain:      aguamineralimperatriz.com.br
+owner:       Jan Envasadora de Aguas Minerais
+ownerid:     02.293.893/0001-36
+responsible: Norberto Baracuhy Junior
+country:     BR
+owner-c:     MAVAL5
+tech-c:      MAVAL5
+nserver:     ns1.grupojan.com.br
+nsstat:      20250325 AA
+nslastaa:    20250325
+nserver:     server.grupojan.com.br
+nsstat:      20250325 AA
+nslastaa:    20250325
+created:     20050505 #2138732
+changed:     20250211
+expires:     20250505
+status:      published
+
+nic-hdl-br:  MAVAL5
+person:      Mateus Valgas
+e-mail:      mateus.fpolis@gmail.com
+country:     BR
+created:     20060915
+changed:     20250208
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

@@ -1,0 +1,22 @@
+   Domain Name: MOBILEBURN.COM
+   Registry Domain ID: 89365837_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.uniregistrar.com
+   Registrar URL: http://www.uniregistry.com
+   Updated Date: 2024-06-16T04:54:21Z
+   Creation Date: 2002-08-15T14:49:15Z
+   Registry Expiry Date: 2027-08-15T14:49:15Z
+   Registrar: GoDaddy Online Services Cayman Islands Ltd.
+   Registrar IANA ID: 1659
+   Registrar Abuse Contact Email: abuse@uniregistry.com
+   Registrar Abuse Contact Phone: +1 4805058800
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1200.AWSDNS-22.ORG
+   Name Server: NS-1670.AWSDNS-16.CO.UK
+   Name Server: NS-337.AWSDNS-42.COM
+   Name Server: NS-688.AWSDNS-22.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T01:59:04Z 

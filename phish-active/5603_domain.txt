@@ -1,0 +1,22 @@
+Domain Name: cldc.net.au
+Registry Domain ID: 69330efa522a498ea2b5fcee53acf94d-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.crazydomains.com.au/contact/
+Last Modified: 2023-10-09T21:19:15Z
+Registrar Name: Web Address Registration Pty Ltd
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 431f5fd1d2654c6e8c39fd48b11e6389-AU
+Registrant Contact Name: Kerry O'Neill
+Tech Contact ID: 5e3159c8ab5e45cca11b3d228d6ff665-AU
+Tech Contact Name: Kerry O'Neill
+Name Server: ns1.dnspackage.com
+Name Server: ns2.dnspackage.com
+DNSSEC: unsigned
+Registrant: HUNTER, CHADD
+Registrant ID: ABN 39233253853
+Eligibility Type: Sole Trader
+>>> Last update of WHOIS database: 2025-03-26T23:08:08Z 

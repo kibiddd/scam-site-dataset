@@ -1,0 +1,112 @@
+Label.Image Property (System.Windows.Forms) | Microsoft Learn
+Skip to main contentSkip to in-page navigation
+This browser is no longer supported.
+Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.
+Download Microsoft Edge
+More info about Internet Explorer and Microsoft Edge
+Table of contents
+Exit focus mode
+Language
+Read in English
+Add
+Table of contents
+Read in English
+Add
+Add to plan
+Edit
+Share via
+Facebook
+x.com
+LinkedIn
+Email
+Print
+Table of contents
+Label.Image Property
+Reference
+Feedback
+Definition
+Namespace:
+System.Windows.Forms
+Assembly:System.Windows.Forms.dll
+Source:Label.cs
+Source:Label.cs
+Source:Label.cs
+Important
+Some information relates to prerelease product that may be substantially modified before itâs released. Microsoft makes no warranties, express or implied, with respect to the information provided here.
+Gets or sets the image that is displayed on a Label.
+public:
+property System::Drawing::Image ^ Image { System::Drawing::Image ^ get(); void set(System::Drawing::Image ^ value); };
+public System.Drawing.Image Image { get; set; }
+public System.Drawing.Image? Image { get; set; }
+member this.Image : System.Drawing.Image with get, set
+Public Property Image As Image
+Property Value
+Image
+An Image displayed on the Label. The default is null.
+Examples
+The following code example demonstrates how to create a Label and then to display an Image behind the Label. First, the example creates a Label and then creates an Image based on a disk file. Next, the Size property is initialized to contain the Image. Finally, the Image property is initialized to the Image.
+public:
+void CreateMyLabel()
+{
+// Create a new label and create a bitmap.
+Label^ label1 = gcnew Label;
+Image^ image1 = Image::FromFile( "c:\\MyImage.bmp" );
+// Set the size of the label to accommodate the bitmap size.
+label1->Size = System::Drawing::Size( image1->Width, image1->Height );
+// Initialize the label control's Image property.
+label1->Image = image1;
+// ...Code to add the control to the form...
+}
+public void CreateMyLabel()
+{
+// Create a new label and create a bitmap.
+Label label1 = new Label();
+Image image1 = Image.FromFile("c:\\MyImage.bmp");
+// Set the size of the label to accommodate the bitmap size.
+label1.Size = new Size(image1.Width, image1.Height);
+// Initialize the label control's Image property.
+label1.Image = image1;
+// ...Code to add the control to the form...
+}
+Private Sub CreateMyLabel()
+' Create a new label and bitmap.
+Dim Label1 As New Label()
+Dim Image1 As Image
+Image1 = Image.FromFile("c:\\MyImage.bmp")
+' Set the size of the label to accommodate the bitmap size.
+Label1.Size = Image1.Size
+' Initialize the label control's Image property.
+Label1.Image = Image1
+' ...Code to add the control to the form...
+End Sub
+Remarks
+The Image property cannot be used at the same time as the ImageList and ImageIndex properties. When the Image property is used to display an image, the ImageList and ImageIndex properties are automatically set to their default settings.
+Applies to
+See also
+Image
+ImageAlign
+ImageList
+ImageIndex
+Collaborate with us on GitHub
+The source for this content can be found on GitHub, where you can also create and review issues and pull requests. For more information, see our contributor guide.
+.NET
+Open a documentation issue
+Provide product feedback
+Your Privacy Choices
+Theme
+Light
+Dark
+High contrast
+Previous Versions
+Blog
+ContributePrivacyTerms of UseTrademarks© Microsoft 2025
+Additional resources
+In this article
+Your Privacy Choices
+Theme
+Light
+Dark
+High contrast
+Previous Versions
+Blog
+ContributePrivacyTerms of UseTrademarks© Microsoft 2025

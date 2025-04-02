@@ -1,0 +1,37 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T11:52:29-03:00 - 2a09:bac5:c82c:2446::39d:63
+
+domain:      ibdcivil.org.br
+owner:       INSTITUTO BRASILEIRO DE DIREITO CIVIL - IBDCIVIL
+ownerid:     17.158.632/0001-80
+responsible: Gustavo Tepedino
+country:     BR
+owner-c:     IBDCI5
+tech-c:      IBDCI5
+nserver:     ns1.digibakery.com
+nsstat:      20250327 AA
+nslastaa:    20250327
+nserver:     ns2.digibakery.com
+nsstat:      20250327 AA
+nslastaa:    20250327
+saci:        yes
+created:     20121130 #10737850
+changed:     20241219
+expires:     20261130
+status:      published
+
+nic-hdl-br:  IBDCI5
+person:      INSTITUTO BRASILEIRO DE DIREITO CIVIL
+e-mail:      ibdcivil@ibdcivil.org.br
+country:     BR
+created:     20190122
+changed:     20220606
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

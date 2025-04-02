@@ -1,0 +1,59 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        odns.fr
+status:                        ACTIVE
+eppstatus:                     clientTransferProhibited
+hold:                          NO
+holder-c:                      O2798-FRNIC
+admin-c:                       O2798-FRNIC
+tech-c:                        O2798-FRNIC
+registrar:                     SCALEWAY
+Expiry Date:                   2032-09-23T07:52:30Z
+created:                       2014-09-23T07:52:30Z
+last-update:                   2022-12-30T07:33:31.336114Z
+source:                        FRNIC
+
+nserver:                       ns1.o2switch.net
+nserver:                       ns2.o2switch.net
+source:                        FRNIC
+
+registrar:                     SCALEWAY
+address:                       8, rue de la ville l'Eveque
+address:                       75008 PARIS
+country:                       FR
+phone:                         +33.184130069
+fax-no:                        +33.173502901
+e-mail:                        frnic-admin@free.org
+website:                       https://www.bookmyname.com
+anonymous:                     No
+registered:                    1999-03-29T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       O2798-FRNIC
+type:                          ORGANIZATION
+contact:                       O2SWITCH
+address:                       Chemin des Pardiaux
+address:                       63000 CLERMONT FERRAND
+country:                       FR
+phone:                         +33.444446040
+fax-no:                        +33.444446041
+e-mail:                        dns-nospam@o2switch.fr
+registrar:                     SCALEWAY
+changed:                       2022-09-18T10:04:59Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-03-26T23:03:54.303603Z 

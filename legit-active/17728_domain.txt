@@ -1,0 +1,24 @@
+Domain Name: miranda-toastmasters.org.au
+Registry Domain ID: 77f86397760a4502b55edf5a8c8295f3-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://elb.www.netregistry.com.au/contact-us/
+Last Modified: 2024-04-22T12:39:13Z
+Registrar Name: Melbourne IT
+Registrar Abuse Contact Email: abuse@webcentral.com.au
+Registrar Abuse Contact Phone: +61.279080901
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: d27accee494a44b5b2253b56862bdc64-AU
+Registrant Contact Name: Mike Smith
+Tech Contact ID: faae3d38c911423fa688cd52d1ad2a3b-AU
+Tech Contact Name: Mike Smith
+Name Server: ns7.dnadigital.com.au
+Name Server IP: 204.10.39.242
+Name Server: ns8.dnadigital.com.au
+Name Server IP: 204.10.39.243
+DNSSEC: unsigned
+Registrant: Miranda Toastmasters Club
+Registrant ID: ABN 55781324166
+Eligibility Type: Non-profit Organisation
+>>> Last update of WHOIS database: 2025-03-27T18:40:13Z 

@@ -1,0 +1,17 @@
+   Domain Name: KONGMINGZHI.COM
+   Registry Domain ID: 2820931812_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.dnspod.cn
+   Registrar URL: http://www.dnspod.cn
+   Updated Date: 2024-09-26T17:55:36Z
+   Creation Date: 2023-10-11T13:32:35Z
+   Registry Expiry Date: 2025-10-11T13:32:35Z
+   Registrar: DNSPod, Inc.
+   Registrar IANA ID: 1697
+   Registrar Abuse Contact Email: abuse@dnspod.com
+   Registrar Abuse Contact Phone: +86.4009100100
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: OFFSIDE.DNSPOD.NET
+   Name Server: REMOVE.DNSPOD.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:25:41Z 

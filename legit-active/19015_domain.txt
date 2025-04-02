@@ -1,0 +1,22 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        IVI.RU
+nserver:       ns3.ivi.ru. 91.233.219.219
+nserver:       ns3-l2.nic.ru.
+nserver:       ns4-cloud.nic.ru.
+nserver:       ns4.ivi.ru. 91.233.219.218
+nserver:       ns8-cloud.nic.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           LLC "Ivi.ru"
+taxpayer-id:   7723624187
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2003-11-30T21:00:00Z
+paid-till:     2025-11-30T21:00:00Z
+free-date:     2026-01-01
+source:        TCI
+
+Last updated on 2025-03-27T21:33:01Z
+

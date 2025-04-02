@@ -1,0 +1,19 @@
+   Domain Name: BEREL.COM
+   Registry Domain ID: 77259851_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.akky.mx
+   Registrar URL: http://www.akky.mx
+   Updated Date: 2024-07-26T23:38:08Z
+   Creation Date: 2001-09-13T18:10:29Z
+   Registry Expiry Date: 2027-09-13T18:10:29Z
+   Registrar: Akky Online Solutions, S.A. de C.V.
+   Registrar IANA ID: 1705
+   Registrar Abuse Contact Email: abuso@akky.mx
+   Registrar Abuse Contact Phone: +52 (01) 81 8864-2625
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1-38.AZURE-DNS.COM
+   Name Server: NS2-38.AZURE-DNS.NET
+   Name Server: NS3-38.AZURE-DNS.ORG
+   Name Server: NS4-38.AZURE-DNS.INFO
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T20:24:53Z 

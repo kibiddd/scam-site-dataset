@@ -1,0 +1,18 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        DEISTVYI.RU
+nserver:       ns1.beget.ru.
+nserver:       ns2.beget.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+person:        Private Person
+registrar:     BEGET-RU
+admin-contact: whois.beget.com
+created:       2007-12-22T21:00:00Z
+paid-till:     2025-12-22T21:00:00Z
+free-date:     2026-01-23
+source:        TCI
+
+Last updated on 2025-03-27T00:23:01Z
+

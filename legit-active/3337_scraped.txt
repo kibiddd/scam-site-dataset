@@ -1,0 +1,21 @@
+Cassiodorus' Web
+Cassiodorus' Web
+Open source, Open data.
+You will find here my work of the past decade or so. From about 2017 to the present, I have been working with North Carolina's elementary school data, and also the state's voter registration data. There are also some older odds and ends I hope you will find interesting. I am a data scientist by way of physics and pharmaceuticals, but not a statistician. I do descriptive statistics, not model building.
+The data from the North Carolina Department of Public Instruction, NCDPI, is primarily in the extensive "disaggregated data" files (if any of you are from the Triangle, you probably know the Irregardless Cafe - my hypothesis is that "disaggregated" was coined over a well-oiled luncheon there). I have included links to these and other data files in the reports in the NCDPI section.
+My interest lies primarily in the demonstrably unuseful extension of standardized tests to the ranking of schools, and obstacles to opportunity equity for minority students. I have also looked closely at the Chapel Hill-Carrboro elementary schools, and I present observations concerning the deficits in opportunity equity to be found there.
+NCDPI Disaggregated Data Studies
+2020
+For the great enemy of the truth is very often not the lie - deliberate, contrived, and dishonest - but the myth - persistent, persuasive, and unrealistic. Too often we hold fast to the cliches of our forebears. We subject all facts to a prefabricated set of interpretations. We enjoy the comfort of opinion without the discomfort of thought.John F. Kennedy, Yale University Commencement (June 11, 1962)
+CLIWOC Repurposed
+2009
+Christopher Marlowefor the 21st CenturyDuke University OLLI Class Notes
+2011
+"I never did repent for doing good"A Companion toShakespeare's The Merchant of Venice
+2009
+Writing and Reading theDeclaration of IndependenceAn Eighteenth-Century Point of View
+2011
+David Hopp
+Durham North Carolina
+cassiodorus at hotmail dot com
+updated 30may2022 17:40

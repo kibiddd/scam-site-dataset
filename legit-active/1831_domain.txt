@@ -1,0 +1,17 @@
+   Domain Name: AVELEYMAN.COM
+   Registry Domain ID: 93599894_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-12-03T02:21:14Z
+   Creation Date: 2003-01-02T18:33:58Z
+   Registry Expiry Date: 2026-01-02T18:33:58Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: CDNS1.INTERSERVER.NET
+   Name Server: CDNS2.INTERSERVER.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:31:54Z 

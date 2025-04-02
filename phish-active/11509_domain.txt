@@ -1,0 +1,36 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T11:52:07-03:00 - 2a09:bac5:c82e:166e::23c:bf
+
+domain:      hypersystem.com.br
+owner:       Samuel Le�o Nunes
+ownerid:     ***.918.850-**
+country:     BR
+owner-c:     SALNU6
+tech-c:      SALNU6
+nserver:     ns1.dns-parking.com
+nsstat:      20250323 AA
+nslastaa:    20250323
+nserver:     ns2.dns-parking.com
+nsstat:      20250323 AA
+nslastaa:    20250323
+saci:        yes
+created:     20150512 #14161426
+changed:     20240527
+expires:     20250512
+status:      published
+
+nic-hdl-br:  SALNU6
+person:      Samuel Le�o Nunes
+e-mail:      sleaonunes@gmail.com
+country:     BR
+created:     20140510
+changed:     20231010
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

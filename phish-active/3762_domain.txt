@@ -1,0 +1,20 @@
+   Domain Name: BYETHOST11.COM
+   Registry Domain ID: 167134238_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-05-09T06:14:20Z
+   Creation Date: 2005-06-08T01:10:25Z
+   Registry Expiry Date: 2025-06-08T01:10:25Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.BYET.ORG
+   Name Server: NS2.BYET.ORG
+   Name Server: NS3.BYET.ORG
+   Name Server: NS4.BYET.ORG
+   Name Server: NS5.BYET.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T20:24:07Z 

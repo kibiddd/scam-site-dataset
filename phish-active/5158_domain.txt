@@ -1,0 +1,47 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T20:03:55-03:00 - 2a09:bac5:c82c:188c::272:d4
+
+domain:      cdhnovaiguacu.com.br
+owner:       Joel Subelza VargasPereira parady
+ownerid:     32.186.600/0001-82
+responsible: Joel Subelza VargasPereira parady
+country:     BR
+owner-c:     JSVPA3
+tech-c:      JSVPA4
+nserver:     dns1.servinhost.com
+nsstat:      20250325 AA
+nslastaa:    20250325
+nserver:     dns2.servinhost.com
+nsstat:      20250325 AA
+nslastaa:    20250325
+saci:        yes
+created:     20240219 #27481628
+changed:     20250207
+expires:     20260219
+status:      published
+provider:    GODADDY (86)
+
+nic-hdl-br:  JSVPA3
+person:      Joel Subelza VargasPereira parady
+e-mail:      angelsubelza@gmail.com
+country:     BR
+created:     20240219
+changed:     20240219
+provider:    GODADDY (86)
+
+nic-hdl-br:  JSVPA4
+person:      Joel Subelza VargasPereira parady
+e-mail:      angelsubelza@gmail.com
+country:     BR
+created:     20240219
+changed:     20240219
+provider:    GODADDY (86)
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

@@ -1,0 +1,58 @@
+Stations for Lima, Ohio
+Stations for Lima, Ohio
+DisplayChannelDigitalChannel Call Sign NetworkNickname Hours Notes
+WLIOLIMA, OH
+08-18.3 WLIONBC NBC"NBC Lima"
+08-28.4 WLIOFOX FOX"Fox Lima" 01a-11p
+08-28.4 WLIOFOX MyN"My TV Lima" 11p-01a
+W25FI-DMAPLEWOOD, OH
+16-125.3 WPTD-HD PBS"Think TV 16"
+16-225.4 Again PBS Encore"Think TV Again"
+16-325.5 Life PBS Encore"Think TV Life"
+16-425.6 OH-WO Ohio Channel"Think TV Ohio"
+16-525.7 Kids PBS Kids 24/7
+WFND-LDFINDLAY, OH
+19-119.3 WFND Sports"BCSN Sports-1"
+WBGU-TVBOWLING GREEN, OH
+27-122.3 WBGUDT1 PBS"WBGU TV"
+27-222.4 WBGUDT2 Ohio Channel"WBGU Encore" 10p-11a
+27-222.4 WBGUDT2 PBS Kids Local"WBGU Kids" 11a-10p
+27-322.5 WBGUDT3 Create"WBGU Create"
+27-722.7 WBGUDT7 VoiceCorps
+WAMS-CDMINSTER/NEW BREMEN, OH
+35-129.5 WOHLABC ABC"ABC Lima"
+WOHL-CDLIMA, OH
+35-115.5 WOHLABC ABC"ABC Lima"
+WPNM-CDLEIPSIC, OH
+35-127.5 WOHLABC ABC"ABC Lima"
+WAMS-CDMINSTER/NEW BREMEN, OH
+35-229.6 WOHLCBS CBS"CBS Lima"
+WOHL-CDLIMA, OH
+35-215.6 WOHLCBS CBS"CBS Lima"
+WPNM-CDLEIPSIC, OH
+35-227.6 WOHLCBS CBS"CBS Lima"
+WNHO-LDDefiance, OH
+44-135.1 WLMA Religious"WTLW-44"
+WOHW-LDLIMA, OH
+44-126.1 WLMA Religious"WTLW-44"
+WLMALIMA, OH
+44-14.1 WLMA Religious"WTLW-44"
+WTLW-CDLIMA, OH
+44-117.1 WLMA Religious"WTLW-44"
+WNHO-LDDefiance, OH
+44-235.2 WOSN Sports"WOSN"
+WOHW-LDLIMA, OH
+44-226.2 WOSN Sports"WOSN"
+WLMALIMA, OH
+44-24.2 WOSN Sports"WOSN"
+WTLW-CDLIMA, OH
+44-217.2 WOSN Sports"WOSN"
+W25FI-DMAPLEWOOD, OH
+45-525.8 Comet Comet TV
+Copyright © RabbitEars.info 2008-2025
+Proudly hosted by Silica Broadband.
+Member of the Worldwide TV-FM DX Association.
+(Load: 6.28)
+Disclaimer: Though every attempt is made, accuracy cannot be guaranteed.  RabbitEars reserves the right to delist
+any station, ownership group, network, or other entity noted on RabbitEars at any time and for any reason.
+"The measure of a life is a measure of love and respect..." - Rush "The Garden"

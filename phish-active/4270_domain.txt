@@ -1,0 +1,59 @@
+Domain Name: bhosting.ng
+Registry Domain ID: 1647794-NIRA
+Registrar URL: https://www.smartweb.com.ng
+Updated Date: 2024-11-13T16:02:58Z
+Creation Date: 2020-10-08T10:28:23Z
+Registry Expiry Date: 2025-10-08T10:28:23Z
+Registrar Registration Expiration Date: 2025-10-08T10:28:23Z
+Domain Status: active https://icann.org/epp#active
+Registrar: smartweb
+Registrar IANA ID: 24062013
+Registrar Address: #72 Murtala Muhammad Way Opp VIO Office
+Jos, Plateau State
+Registrar Country: NG
+Registrar Abuse Contact Email: ticket@smartweb.com.ng
+Registrar Abuse Contact Phone: 070090009000
+Registry Registrant ID: 1647792-NIRA
+Registrant Name: Joseph Ebata
+Registrant Organization: Bervidson Group
+Registrant Street: 3B Hakeem Dickson Road, Lekki
+Registrant City: Lagos
+Registrant State/Province: --Select--
+Registrant Postal Code: 100001
+Registrant Country: NG
+Registrant Phone: +0 8033434776
+Registrant Email: joeosa@yahoo.com
+Registry Admin ID: 1647793-NIRA
+Admin Name: Joseph Ebata
+Admin Organization: 
+Admin Street: 3B Hakeem Dickson Road, Lekki
+Admin City: Lagos
+Admin State/Province: --Select--
+Admin Postal Code: 100001
+Admin Country: NG
+Admin Phone: +0 8033434776
+Admin Email: joeosa@yahoo.com
+Registry Tech ID: 1647793-NIRA
+Tech Name: Joseph Ebata
+Tech Organization: 
+Tech Street: 3B Hakeem Dickson Road, Lekki
+Tech City: Lagos
+Tech State/Province: --Select--
+Tech Postal Code: 100001
+Tech Country: NG
+Tech Phone: +0 8033434776
+Tech Email: joeosa@yahoo.com
+Registry Billing ID: 1647793-NIRA
+Billing Name: Joseph Ebata
+Billing Organization: 
+Billing Street: 3B Hakeem Dickson Road, Lekki
+Billing City: Lagos
+Billing State/Province: --Select--
+Billing Postal Code: 100001
+Billing Country: NG
+Billing Phone: +0 8033434776
+Billing Email: joeosa@yahoo.com
+Name Server: ns2.bhostingsolution.com
+Name Server: ns1.bhostingsolution.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2025-03-26T22:55:48.748Z 

@@ -1,0 +1,17 @@
+   Domain Name: ESPORTS-COMPASS.COM
+   Registry Domain ID: 2432813443_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.cronon.net
+   Registrar URL: http://www.cronon.net
+   Updated Date: 2024-09-14T07:10:09Z
+   Creation Date: 2019-09-13T09:29:34Z
+   Registry Expiry Date: 2025-09-13T09:29:34Z
+   Registrar: Cronon GmbH
+   Registrar IANA ID: 141
+   Registrar Abuse Contact Email: abuse-domains@cronon.net
+   Registrar Abuse Contact Phone: +4930398020
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: DOCKS02.RZONE.DE
+   Name Server: SHADES02.RZONE.DE
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:15:52Z 

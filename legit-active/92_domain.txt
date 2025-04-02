@@ -1,0 +1,111 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        societegenerale.fr
+status:                        ACTIVE
+eppstatus:                     serverUpdateProhibited
+eppstatus:                     serverTransferProhibited
+eppstatus:                     serverDeleteProhibited
+eppstatus:                     serverRecoverProhibited
+hold:                          NO
+holder-c:                      SG14877-FRNIC
+admin-c:                       SD17153-FRNIC
+tech-c:                        MIDT9-FRNIC
+tech-c:                        SD17153-FRNIC
+registrar:                     CSC CORPORATE DOMAINS INC.
+Expiry Date:                   2025-10-16T09:42:02Z
+created:                       1999-09-09T22:00:00Z
+last-update:                   2024-10-17T05:16:09.411507Z
+source:                        FRNIC
+
+nserver:                       tigdns01.socgen.com
+nserver:                       tigdns02.socgen.com
+nserver:                       tigdns05.socgen.com
+nserver:                       tigdns06.socgen.com
+source:                        FRNIC
+
+registrar:                     CSC CORPORATE DOMAINS INC.
+address:                       251 Little Falls Drive
+address:                       DE 19808 WILMINGTON
+country:                       US
+phone:                         +1.3026365400
+fax-no:                        +1.3026365454
+e-mail:                        tldsupport@cscglobal.com
+website:                       https://www.cscdigitalbrand.services
+anonymous:                     No
+registered:                    2006-10-16T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       MIDT9-FRNIC
+type:                          PERSON
+contact:                       Melbourne It Dbs Tech
+address:                       Melbourne IT DBS Inc
+address:                       2560 Mission College Blvd, Suite 200
+address:                       95054 Santa Clara
+country:                       US
+phone:                         +1.8669073267
+fax-no:                        +1.6509633266
+e-mail:                        tech@melbourneitdbs.com
+registrar:                     CSC CORPORATE DOMAINS INC.
+changed:                       2015-04-24T18:25:55Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRAR
+eligdate:                      2015-04-24T00:00:00Z
+reachstatus:                   ok
+reachmedia:                    phone
+reachsource:                   REGISTRAR
+reachdate:                     2015-04-24T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       SG14877-FRNIC
+type:                          ORGANIZATION
+contact:                       SOCIETE GENERALE
+address:                       29, boulevard Haussmann
+address:                       75009 Paris
+country:                       FR
+phone:                         +33.142144396
+e-mail:                        Service.DNSG@socgen.com
+registrar:                     CSC CORPORATE DOMAINS INC.
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     serverUpdateProhibited
+eppstatus:                     associated
+eligstatus:                    ok
+eligsource:                    REGISTRY
+eligdate:                      2020-09-04T00:00:00Z
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRY
+reachdate:                     2020-09-04T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       SD17153-FRNIC
+type:                          PERSON
+contact:                       Service Dnsg
+address:                       Societe Generale
+address:                       29, boulevard Haussmann
+address:                       75009 Paris
+country:                       FR
+phone:                         +33.142144396
+e-mail:                        Service.DNSG@socgen.com
+registrar:                     CSC CORPORATE DOMAINS INC.
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-03-28T16:12:06.753064Z 

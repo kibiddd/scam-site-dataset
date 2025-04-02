@@ -1,0 +1,19 @@
+   Domain Name: TRULIA.COM
+   Registry Domain ID: 205375732_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.brandsight.com
+   Registrar URL: http://gcd.com
+   Updated Date: 2024-06-21T16:51:05Z
+   Creation Date: 2005-09-05T20:00:18Z
+   Registry Expiry Date: 2026-09-05T20:00:18Z
+   Registrar: GoDaddy Corporate Domains, LLC
+   Registrar IANA ID: 3786
+   Registrar Abuse Contact Email: abuse@gcd.com
+   Registrar Abuse Contact Phone: +1.5189669187
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1430.AWSDNS-50.ORG
+   Name Server: NS-1580.AWSDNS-05.CO.UK
+   Name Server: NS-239.AWSDNS-29.COM
+   Name Server: NS-974.AWSDNS-57.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:17:50Z 

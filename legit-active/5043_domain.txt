@@ -1,0 +1,71 @@
+Domain Name: mtroyal.ca
+Registry Domain ID: D518316-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: webnames.ca
+Updated Date: 2025-01-16T16:05:09Z
+Creation Date: 2000-10-23T17:04:37Z
+Registry Expiry Date: 2028-12-01T05:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email: abuse@webnames.ca
+Registrar Abuse Contact Phone: +1.8662217878
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R40784-CIRA
+Registrant Name: Mount Royal University (Alberta)
+Registrant Organization:
+Registrant Street: 4825 Mount Royal Gate SW
+Registrant City: Calgary
+Registrant State/Province: AB
+Registrant Postal Code: T3E6K6
+Registrant Country: CA
+Registrant Phone: +1.4034406730
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: domreg@mtroyal.ca
+Registry Admin ID: C922148-CIRA
+Admin Name: MRU ITS Domreg
+Admin Organization: Mount Royal University
+Admin Street: 4825 Mount Royal Gate SW
+Admin City: Calgary
+Admin State/Province: AB
+Admin Postal Code: T3E6K6
+Admin Country: CA
+Admin Phone: +1.4034406730
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: domreg@mtroyal.ca
+Registry Tech ID: C922149-CIRA
+Tech Name: MRU ITS Domreg
+Tech Organization: Mount Royal University
+Tech Street: 4825 Mount Royal Gate SW
+Tech City: Calgary
+Tech State/Province: AB
+Tech Postal Code: T3E6K6
+Tech Country: CA
+Tech Phone: +1.4034406730
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: domreg@mtroyal.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns1.mtroyal.ca
+Name Server: ns2.d-zone.ca
+Name Server: ns2.mtroyal.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T03:13:40Z 

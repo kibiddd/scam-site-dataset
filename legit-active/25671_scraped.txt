@@ -1,0 +1,1599 @@
+Theorem of the Day
+Theorem
+of the Day
+Home
+Resources Centre
+Gallery Shop
+Acknowledgements
+Other listings
+Main Theorem List
+Alphabetical Theorem List
+Subject Listings
+Theorems
+by Women Mathematicians
+Bibliography
+Theorem of the Day
+is maintained by Robin Whitty. Comments or suggestions are welcomed by me.
+"Theorem of the Day" is registered as a UK Trademark, no. 00003123351. All text and images and
+associated .pdf files © Robin Whitty, 2005–2025, except where otherwise
+acknowledged. See FAQ
+for more.
+Website terms and conditions
+Index
+of Mathematicians (and honorary mathematicians)
+This  index lists  the individuals whose mathematics
+is celebrated on this site. Theorem of the Day's theorem descriptions    generally include an attempt
+to attribute the theorem to specific people and it is these people who are currently included in this index. I would be
+very grateful to have inaccuracies brought to my attention (either by emailing me
+or writing in the Visitors' Book). If a personal hero of yours is missing from the
+list, please suggest a theorem of theirs which I can add to Theorem of the Day, thereby including them here.
+Clicking on a theorem will take you to the pdf description of it offered
+by this website. Highlighting the theorem will also bring up its entry in the main theorem list where full information about the theorem entry may be found.
+Clicking on the name of a mathematician will open a new
+window with their biography from, say, MacTutor, Numericana.com or Wikipedia, if one exists; failing
+that, you will get their own web page. Where I could find nothing helpful
+about them at all to link to you will get instead my list of mathematicians deserving a better web presence ...
+The page features pop-up menus, potentially an enemy to accessibility. It will probably work on Android phones but not iPhones. I borrowed the css from Andrey Ciclicci.
+Thank you also
+to John H. Halton whose
+idea this index was.
+A  B
+C
+D  E
+F
+G  H
+I
+J  K
+L
+M  N
+O
+P  Q
+R
+S  T
+U
+V  W
+X
+Y  Z
+A
+Tatyana Pavlovna van Aardenne-Ehrenfest
+see
+van Aardenne-Ehrenfest
+Harvey Abbott
+Singmaster's Binomial Multiplicity  Bound
+Theorem 204
+Niels Henrik Abel (1802–1829)
+The Abel–Hurwitz Binomial TheoremTheorem 89
+Wilhelm Ackermann (1896–1962)
+The Insolvability of the EntscheidungsproblemTheorem 186
+Louigi Addario-Berry
+The 1-2-3 ConjectureTheorem 70
+Alexander Adrian Albert (1905–1972)
+The Albert–Brauer–Hasse–Noether Main TheoremTheorem 158
+James W. Alexander (1888–1971)
+Reidemeister's TheoremTheorem 67
+Abu Ali al-Hasan ibn al-Haytham (965–1040)
+Wilson's TheoremTheorem 194
+Jamshid al-Kāshi (c. 1380–1429)
+al-Kāshi's Law of CosinesTheorem 188
+Emmanuel Amiot
+The Generalised Hexachord TheoremTheorem 93
+Ian Anderson
+A Theorem of Anderson, Cameron and Preece on Groups of UnitsTheorem 243
+Alfredo Andreini (1870–1943)
+The Classification of the Semiregular TilingsTheorem 205
+George E. Andrews
+The Andrews-Garvan-Dyson CrankTheorem 172
+Kenneth Appel (1932–2013)
+The Four-Colour TheoremTheorem 8
+Archimedes of Syracuse (287 BC–212 BC)
+Archimedes' Equiareal Map TheoremTheorem 181
+Jean Robert Argand (1768–1822)
+The Fundamental Theorem of AlgebraTheorem 5
+Kenneth J. Arrow (1921–2017)
+Arrow's TheoremTheorem 69
+Emil Artin (1898–1962)
+The Wedderburn–Artin TheoremTheorem 123
+Herman Theodor Rendtorff Aude (1880–1955)
+Lin McMullin's TheoremTheorem 165
+T.L. Austin
+Distribution of Local Maxima in Random SamplesTheorem 257
+B
+László Babai
+Netto's Conjecture (Dixon's Theorem)Theorem 49
+Charles Babbage (1791–1871)
+Wolstenholme's TheoremTheorem 226
+Milton Babbit (1916–2011)
+Babbit's TheoremTheorem 106
+The Generalised Hexachord TheoremTheorem 93
+Claude Gaspar Bachet de Méziriac (1581–1638)
+Lagrange's Four Squares TheoremTheorem 11
+Bézout's IdentityTheorem 249
+Jenny A. Baglivo
+A Rectangular Tensegrity TheoremTheorem 140
+R.A. Bailey
+Bailey's Theorem on Latin SquaresTheorem 53
+Stefan Banach (1892–1945)
+The Contraction Mapping TheoremTheorem 145
+The Well-Ordering TheoremTheorem 17
+Yehoshua Bar-Hillel (1915–1975)
+The Pumping LemmaTheorem 105
+Ruth Aaronson Bari (1917–2005)
+Tutte's Golden IdentityTheorem 223
+Isaac Barrow (1630–1677)
+The Fundamental Theorem of the CalculusTheorem 6
+Thomas Bayes (1702–1761)
+Bayes' TheoremTheorem 10
+The Total Probability TheoremTheorem 133
+Jillian Beardwood (1934–2019)
+The Beardwood–Halton–Hammersley TheoremTheorem 109
+Lowell Beineke
+Beineke's Theorem on Line GraphsTheorem 48
+A Theorem of Erdős and Wilson on Edge ColouringTheorem 117
+Frank A. Benford Jr. (1883–1948)
+Benford's LawTheorem 31
+Claude Berge (1926–2002)
+The Strong Perfect Graph TheoremTheorem 60
+Gerald Berman (1924–2012)
+Tutte's Golden IdentityTheorem 223
+Daniel Bernoulli  (1700–1782)
+Binet's FormulaTheorem 45
+Jacob Bernoulli  (1645–1705)
+Faulhaber's FormulaTheorem 222
+Johann Bernoulli (1667–1748)
+The Sophomore's DreamTheorem 147
+L'Hospital's RuleTheorem 191
+Felix Bernstein (1878–1956)
+The Cantor–Bernstein–Schröder TheoremTheorem 196
+Jospeh Bertrand  (1822–1900)
+Bertrand's Ballot TheoremTheorem 252
+Etienne Bézout (1730–1783)
+Bézout's IdentityTheorem 249
+Manjul Bhargava
+The Fifteen TheoremTheorem 79
+Bhaskara (1114–1185)
+The Quadratic FormulaTheorem 92
+Norman L. Biggs
+Cameron's Theorem on Distance-Transitive GraphsTheorem 46
+Jacques Binet (1786–1856)
+Binet's FormulaTheorem 45
+Bryan John Birch
+Neumann's Separation LemmaTheorem 64
+Garrett Birkhoff (1911–1996)
+The Birkhoff–von Neumann TheoremTheorem 57
+George David Birkhoff (1884–1944)
+The Four-Colour TheoremTheorem 8
+Tutte's Golden IdentityTheorem 223
+Hans Blichfeldt (1873–1945)
+Minkowski's Convex Body TheoremTheorem 200
+Piers Bohl (1865–1921)
+Brouwer's Fixed Point TheoremTheorem 18
+Paul du Bois-Reymond
+see
+du Bois-Reymond
+Ethan D. Bolker
+A Rectangular Tensegrity TheoremTheorem 140
+Béla Bollobás
+The LYM InequalityTheorem 244
+Bernard Bolzano (1781–1848
+The Intermediate Value TheoremTheorem 267
+Rafael Bombelli (1526–1572)
+Cardano's Cubic FormulaTheorem 90
+John Adrian Bondy
+A Tripartite Turán TheoremTheorem 155
+Ore's Theorem in Graph TheoryTheorem 230
+Bondy's Subset TheoremTheorem 265
+Alicia Boole Stott (1860–1940)
+The Classification of Archimedean 4-PolytopesTheorem 160
+Carl Wilhelm Borchardt (1817–1880)
+Cayley's Formula (Tree Enumeration)Theorem 94
+Sylvester's Law of InertiaTheorem 142
+Emile Borel (1871–1956)
+The Heine–Borel TheoremTheorem 177
+Karol Borsuk (1905–1982)
+The Borsuk–Ulam TheoremTheorem 122
+Raj Chandra Bose (1901–1987)
+The Bose Equivalence Theorem in Design TheoryTheorem 54
+Fisher's InequalityTheorem 228
+Mireille Bousquet-Mélou
+The Lecture Hall Partition TheoremTheorem 156
+Douglas Bowman
+Euler's Continued Fraction CorrespondenceTheorem 203
+Thomas Bradwardine (c. 1295–1349)
+The Merton College TheoremTheorem 20
+Brahmagupta (598–670)
+Brahmagupta's FormulaTheorem 76
+Richard Dagobert Brauer (1901–1977)
+The Albert–Brauer–Hasse–Noether Main TheoremTheorem 158
+David Br�e
+The Ollerenshaw–Br�e FormulaTheorem 129
+Lev Bregman
+Bregman's TheoremTheorem 112
+Carl Anton Bretschneider (1808–1878)
+Brahmagupta's FormulaTheorem 76
+Christophe Breuil
+Fermat's Last TheoremTheorem 9
+Garland Baird Briggs (1894?–1959?)
+Reidemeister's TheoremTheorem 67
+Achille Brocot (1817–1878)
+Countability of the RationalsTheorem 255
+Luitzen E. J. Brouwer (1881–1966)
+Brouwer's Fixed Point TheoremTheorem 18
+Johnny Earl Brown
+Sendov's Conjecture Theorem 178
+John Wesley Brown
+The Existence Theorem for Orthogonal Diagonal Latin SquaresTheorem 131
+Richard Hubert Bruck (1914–1991)
+The Bruck–Ryser–Chowla TheoremTheorem 3
+Nicolaas Govert de Bruijn
+see
+de Bruijn
+Viggo Brun (1885–1978)
+Brun's TheoremTheorem 21
+Rolf Bungers (1909–1942)
+The Bungers–Lehmer Theorem on Cyclotomic CoefficientsTheorem 175
+Robert G. Burns
+Neumann's Separation LemmaTheorem 64
+William Burnside (1852–1927)
+The Cauchy–Frobenius LemmaTheorem 15
+C
+Peter J. Cameron
+Cameron's Theorem on Distance-Transitive GraphsTheorem 46
+The Sims Conjecture Theorem 65
+An Erdős–Ko–Rado Theorem on Intersecting Permutations
+Theorem 66
+The Cameron–Fon-Der-Flaass IBIS Theorem
+Theorem 174
+A Theorem of Anderson, Cameron and Preece on Groups of UnitsTheorem 243
+Georg Cantor (1845–1918)
+Cantor's Uncountability TheoremTheorem 22
+Cantor's TheoremTheorem 23
+The Cantor–Bernstein–Schröder TheoremTheorem 196
+Countability of the RationalsTheorem 255
+Girolamo Cardano (1501–1576)
+Cardano's Cubic FormulaTheorem 90
+David Cariolaro (1969–2014)
+1-Factorisation of Regular GraphsTheorem 80
+Robert Daniel Carmichael (1879–1967)
+A Theorem on Modular Fibonacci PeriodicityTheorem 235
+Elie Joseph Cartan (1869–1951)
+The Change of Variables TheoremTheorem 134
+The Wedderburn–Artin TheoremTheorem 123
+John Lawrence (Larry) Carter
+The Bruck–Ryser–Chowla TheoremTheorem 3
+Mary Cartwright (1900–1998)
+Cartwright's TheoremTheorem 98
+John William Scott Cassels (1922–2015)
+Catalan's ConjectureTheorem 118
+Eugène Charles Catalan (1814–1894)
+Catalan's ConjectureTheorem 118
+Pietro Antonio Cataldi (1548–1626)
+The Euclid–Euler TheoremTheorem 128
+Augustin Louis Cauchy (1789–1857)
+The Fundamental Theorem of the CalculusTheorem 6
+The Cauchy–Kovalevskya TheoremTheorem 88
+The Cauchy–Frobenius LemmaTheorem 15
+Sylvester's Law of InertiaTheorem 142
+Lagrange's TheoremTheorem 41
+Taylor's TheoremTheorem 217
+Cauchy's Theorem in Group TheoryTheorem 227
+The Alternating Series TestTheorem 245
+The Polygonal Number TheoremTheorem 262
+Cauchy's Lemma in Number TheoryTheorem 262
+Bonaventura Francesco Cavalieri(1598–1647)
+Torricelli's TrumpetTheorem 208
+Arthur Cayley (1821–1895)
+Cayley's Theorem (Group Theory)Theorem 85
+Cayley's Formula (Tree Enumeration)Theorem 94
+Melody
+Chan
+A Theorem of Melody Chan on Group ActionsTheorem 51
+Alexey Yakovlevich Chervonenkis (1938–2014)
+Bondy's Subset TheoremTheorem 265
+Fred Cherry (1926–2003)
+The Existence Theorem for Orthogonal Diagonal Latin SquaresTheorem 131
+Amanda Chetwynd
+1-Factorisation of Regular GraphsTheorem 80
+Sarvadaman D. S. Chowla (1907–1995)
+The Bruck–Ryser–Chowla TheoremTheorem 3
+Nikolai Grigor'evich Chudakov (1904–1986)
+The Erdős Discrepancy ConjectureTheorem 209
+Maria Chudnovsky
+The Strong Perfect Graph TheoremTheorem 60
+Fan Chung
+The Panarboreal FormulaTheorem 146
+Alonzo Church (1903–1995)
+The Insolvability of the EntscheidungsproblemTheorem 186
+Václav (Vašek) Chvatál
+The Strong Perfect Graph TheoremTheorem 60
+The Art Gallery TheoremTheorem 198
+Henry Cohn
+Strassen's Matrix TheoremTheorem 139
+Michele Conforti
+The Strong Perfect Graph TheoremTheorem 60
+Brian Conrad
+Fermat's Last TheoremTheorem 9
+John H. Conway (1937–2020)
+The Fifteen TheoremTheorem 79
+The Classification of Archimedean 4-PolytopesTheorem 160
+Turing-completeness of Conway's Game of LifeTheorem 266
+Stephen Cook
+Cook's TheoremTheorem 14
+James Cooley (1926–2016)
+The Convolution TheoremTheorem 95
+Julian Lowell Coolidge (1873–1954)
+Brahmagupta's FormulaTheorem 76
+Don Coppersmith
+Strassen's Matrix TheoremTheorem 139
+Gérard Cornuéjols
+The Strong Perfect Graph TheoremTheorem 60
+Sylvie Corteel
+The Polynomial Coprimality TheoremTheorem 116
+Roger Cotes (1682–1716)
+Euler's  FormulaTheorem 206
+Irrationality of Circumference of Unit CircleTheorem 216
+Harold Scott MacDonald (Donald) Coxeter (1907–2003)
+The Classification of Archimedean 4-PolytopesTheorem 160
+Carl Harald Cramér (1893–1985)
+The Large Prime Gaps TheoremTheorem 241
+Gabriel Cramer (1704–1752)
+Cramer's RuleTheorem 268
+Henry Crapo (1932–2019)
+A Rectangular Tensegrity TheoremTheorem 140
+Béla Csaba
+1-Factorisation of Regular GraphsTheorem 80
+D
+Ketan Dalal
+The 1-2-3 ConjectureTheorem 70
+George B. Dantzig (1914–2005)
+The Max-Flow Min-Cut TheoremTheorem 168
+Martin Davis (1928–2023)
+The DPRM TheoremTheorem 30
+David Daykin (1956–1998)
+Zeckendorf's TheoremTheorem 42
+Nicolaas Govert de Bruijn (1918–2012)
+The BEST TheoremTheorem 171
+Richard Dedekind (1831–1916)
+The Cantor–Bernstein–Schröder TheoremTheorem 196
+Pierre de Fermat
+see
+Fermat
+Jérôme Dégot
+Sendov's Conjecture Theorem 178
+Charles J. G. N. B. de la Vallée Poussin (1866–1962)
+The Prime Number TheoremTheorem 33
+Scipione del Ferro (1465–1526)
+Cardano's Cubic FormulaTheorem 90
+Philippe Delsarte
+The Delsarte–Goethals–Seidel TheoremTheorem 83
+Claude Gaspar Bachet de Méziriac
+see
+Bachet
+Abraham De Moivre (1667–1754)
+Stirling's ApproximationTheorem 40
+De Moivre's TheoremTheorem 152
+The Central Limit TheoremTheorem 7
+The Inclusion-Exclusion PrincipleTheorem 221
+Pierre Rémond De Montmort (1678–1719)
+The Asymptotic Proportion of DerangementsTheorem 136
+Augustus De Morgan (1806–1871)
+De Morgan's LawsTheorem 111
+The Four-Colour TheoremTheorem 8
+René Descartes (1596–1650)
+The Remainder TheoremTheorem 154
+The Descartes Circle TheoremTheorem 179
+Michel Marie Deza (1939–2016)
+An Erdős–Ko–Rado Theorem on Intersecting Permutations
+Theorem 66
+Persi Diaconis
+The Diaconis–Holmes–Montgomery Coin Tossing TheoremTheorem 164
+Fred Diamond
+Fermat's Last TheoremTheorem 9
+Leonard Eugene Dickson (1874–1954)
+The Albert–Brauer–Hasse–Noether Main TheoremTheorem 158
+Wedderburn's  Little  TheoremTheorem 215
+Edsger Wybe Dijkstra (1930–2002)
+The Pythagorean TheoremTheorem 27
+Robert Dilworth (1914–1993)
+Dilworth's TheoremTheorem 19
+Diophantus of Alexandria (c.200–c.284)
+Lagrange's Four Squares TheoremTheorem 11
+Gabriel Andrew Dirac (1925–1984)
+Ore's Theorem in Graph TheoryTheorem 230
+Gustav Lejeune Dirichlet (1805–1859)
+The Friedlander–Iwaniec TheoremTheorem 202
+John D. Dixon
+Netto's Conjecture (Dixon's Theorem)Theorem 49
+Dragomir Ž. Djoković
+A Generalised Hlawka InequalityTheorem 234
+Paul David Gustav du Bois-Reymond (1831–1889)
+The Fundamental Theorem of the CalculusTheorem 6
+Andrzej Dudek
+The 1-2-3 ConjectureTheorem 70
+John Dumbleton (?–c. 1349)
+The Merton College TheoremTheorem 20
+Ioana Dumitriu
+The Asymptotic (Half) Liar FormulaTheorem 126
+James A. Dunn
+Dunn and Pretty's Triangle-Halving DeltoidTheorem 260
+Aryeh Dvoretzky  (1916–2008)
+Bertrand's Ballot TheoremTheorem 252
+Freeman John Dyson (1923–2020)
+The Andrews-Garvan-Dyson CrankTheorem 172
+E
+Jack R. Edmonds
+The Transversal Matroid TheoremTheorem 157
+Jenő Elek Egerváry (1891–1958)
+Kőnig's Bipartite Matching TheoremTheorem 185
+Georgy Egorychev
+van der Waerden's ConjectureTheorem 113
+Tatyana Pavlovna van Aardenne-Ehrenfest
+see
+van Aardenne-Ehrenfest
+EQP
+The Robbins ProblemTheorem 110
+Taher Elgamal
+Bézout's IdentityTheorem 249
+Peter Elias (1923–2001)
+The Max-Flow Min-Cut TheoremTheorem 168
+Eratosthenes of Cyrene
+The Eratosthenes–Legendre  SieveTheorem 207
+Paul Erdős (1913–1996)
+A Theorem of Erdős and Wilson on Edge ColouringTheorem 117
+The Lovász Local LemmaTheorem 120
+The Friendship TheoremTheorem 163
+The Erdős–Ko–Rado TheoremTheorem 195
+Singmaster's Binomial Multiplicity  Bound Theorem 204
+The Erdős Discrepancy ConjectureTheorem 209
+Kimmo Eriksson
+The Lecture Hall Partition TheoremTheorem 156
+Euclid of Alexandria (c. 325 BC–c. 265 BC)
+Euclid's Infinity of PrimesTheorem 1
+The Fundamental Theorem of ArithmeticTheorem 5
+Brahmagupta's FormulaTheorem 76
+The Euclid–Euler TheoremTheorem 128
+Euclid's Triangular PrismTheorem 149
+al-Kāshi's Law of CosinesTheorem 188
+Theaetetus' Theorem on the Platonic SolidsTheorem 132
+The Power of a Point TheoremTheorem 250
+Euclid's Pythagorean FormulaTheorem 261
+Eudoxus of Cnidus (408 BC –355 BC)
+Euclid's Triangular PrismTheorem 149
+Leonhard Euler (1707–1783)
+Euler's Polyhedral FormulaTheorem 26
+Euler's IdentityTheorem 36
+Gauss' Law of Quadratic ReciprocityTheorem 29
+The Euler–Hierholzer "Bridges of Königsberg" TheoremTheorem 50
+Fermat's Little TheoremTheorem 13
+The Euclid–Euler TheoremTheorem 128
+The Change of Variables TheoremTheorem 134
+The Asymptotic Proportion of DerangementsTheorem 136
+Euler's Partition IdentityTheorem 153
+The Existence Theorem for Bachelor Latin SquaresTheorem 176
+The Handshaking LemmaTheorem 189
+Fermat's Two-Squares TheoremTheorem 199
+Euler's Continued Fraction CorrespondenceTheorem 203
+Euler's FormulaTheorem 206
+The Basel  Problem Theorem 210
+Euler's Even Zeta FormulaTheorem 238
+Euler's Product Formula for ζ(s)Theorem 246
+Euler's Product Formula for  SineTheorem 247
+Anthony B. Evans
+The Existence Theorem for Bachelor Latin SquaresTheorem 176
+Cecil John Alvin (Jack) Evelyn (1904–1976)
+The 6-Circles TheoremTheorem 213
+F
+Robert E. Fagen
+Distribution of Local Maxima in Random SamplesTheorem 257
+Dmitry Falikman
+van der Waerden's ConjectureTheorem 113
+Johann Faulhaber (1580–1635)
+Faulhaber's FormulaTheorem 222
+Amiel Feinstein
+The Max-Flow Min-Cut TheoremTheorem 168
+Samuel P. Ferguson
+Kepler's ConjectureTheorem 101
+Pierre de Fermat (1607–1665)
+Fermat's Last TheoremTheorem 9
+Fermat's Little TheoremTheorem 13
+Fermat's Two-Squares TheoremTheorem 199
+The Euclid–Euler TheoremTheorem 128
+The Polygonal Number TheoremTheorem 262
+Scipione del Ferro
+see
+del Ferro
+Nathan Fine (1916–1994)
+The Goins–Maddox–Rusin Theorem on Heron TrianglesTheorem 104
+Michael Ellis Fisher
+Kasteleyn's TheoremTheorem 254
+Ronald Aylmer Fisher (1890–1962)
+Fisher's InequalityTheorem 228
+Steve Fisk  (1946–2010)
+The Art Gallery TheoremTheorem 198
+Dmitri G. Fon-Der-Flaass  (1962–2010)
+The Cameron–Fon-Der-Flaass IBIS Theorem
+Theorem 174
+Anthony D. Forbes
+The Design of the CenturyTheorem 100
+Kevin Ford
+The Large Prime Gaps TheoremTheorem 241
+Lester Randolph Ford, Jr.
+The Max-Flow Min-Cut TheoremTheorem 168
+Péter Frankl
+An Erdős–Ko–Rado Theorem on Intersecting Permutations
+Theorem 66
+Gerhard Frey
+Fermat's Last TheoremTheorem 9
+John Friedlander
+The Friedlander–Iwaniec TheoremTheorem 202
+Alan Frieze
+Frieze's Theorem on Expected Minimum Tree Length
+Theorem 193
+Orrin Frink (1901–1988)
+Kuratowski's TheoremTheorem 24
+Ferdinand Georg Frobenius (1849–1917)
+The Cauchy–Frobenius LemmaTheorem 15
+The Frobenius–König TheoremTheorem 62
+Delbert Raymond Fulkerson (1924–1976)
+The Transversal Matroid TheoremTheorem 157
+The Max-Flow Min-Cut TheoremTheorem 168
+G
+Stephen M. Gagola III
+The Lagrange Property for Moufang LoopsTheorem 114
+David Gale (1921–2008)
+The Stable Marriage TheoremTheorem 68
+Galileo Galilei (1564–1642)
+The Merton College TheoremTheorem 20
+Tibor Gallai (1912–1992)
+Dilworth's TheoremTheorem 19
+Evariste Galois (1811–1832)
+Galois' Theorem on Finite FieldsTheorem 58
+Cauchy's Theorem in Group TheoryTheorem 227
+Frank Garvan
+The Andrews-Garvan-Dyson CrankTheorem 172
+Louis Gaultier (1776–1848)
+The Power of a Point TheoremTheorem 250
+Carl Friedrich Gauss (1777–1855)
+The Fundamental Theorem of ArithmeticTheorem 4
+The Fundamental Theorem of AlgebraTheorem 5
+Gauss' Law of Quadratic ReciprocityTheorem 29
+Theorema EgregiumTheorem 183
+The Prime Number TheoremTheorem 33
+Wilson's TheoremTheorem 194
+Sendov's Conjecture Theorem 178
+Gauss's Eureka TheoremTheorem 262
+Leopold Bernhard Gegenbauer (1849–1903)
+The Delsarte–Goethals–Seidel TheoremTheorem 83
+Ervin Gergely
+The Existence Theorem for Orthogonal Diagonal Latin SquaresTheorem 131
+Sophie Germain (1776–1831)
+Germain's TheoremTheorem 59
+Sophie Germain's IdentityTheorem 231
+Ellen Gethner
+A Theorem about  Gaussian  MoatsTheorem 248
+Albert Girard (1595–1632)
+Girard's TheoremTheorem 37
+The Girard–Newton IdentitiesTheorem 182
+Fermat's Two-Squares TheoremTheorem 199
+Michael Giudici
+A Theorem on Maximal Sum-free Sets in GroupsTheorem 214
+Giuseppe Giuga
+Fermat's Little TheoremTheorem 13
+James Whitbread Lee Glaisher (1848–1928)
+Wolstenholme's TheoremTheorem 226
+Kurt Gödel (1906–1978)
+Gödel's First Incompleteness TheoremTheorem 74
+Gödel's Second Incompleteness TheoremTheorem 75
+Jean-Marie Goethals
+The Delsarte–Goethals–Seidel TheoremTheorem 83
+Edray Herber Goins
+The Goins–Maddox–Rusin Theorem on Heron TrianglesTheorem 104
+Daniel Goldston
+The Small Prime Gaps TheoremTheorem 151
+Shafi Goldwasser
+Quadratic Nonresidue is Zero-Knowledge ProvableTheorem 161
+Reuben Louis Goodstein (1912–1985)
+Goodstein's TheoremTheorem 73
+Basil Gordon (1931–2012)
+A Theorem about  Gaussian  MoatsTheorem 248
+Ralph William Gosper Jr.
+Turing-completeness of Conway's Game of LifeTheorem 266
+Thorold Gosset (1869–1962)
+The Classification of Archimedean 4-PolytopesTheorem 160
+The Descartes Circle TheoremTheorem 179
+Ronald Graham (1935–2020)
+A Theorem on Apollonian Circle PackingsTheorem 130
+The Panarboreal FormulaTheorem 146
+Jorgen Pedersen Gram (1850–1916)
+The Riemann  Exact  FormulaTheorem 232
+Mike Grannell
+The Design of the CenturyTheorem 100
+Jack E. Graver
+A Rectangular Tensegrity TheoremTheorem 140
+Ben J. Green
+The Green–Tao Theorem on Primes in Arithmetic ProgressionTheorem 32
+The Large Prime Gaps TheoremTheorem 241
+George Green (1793–1841)
+Green's TheoremTheorem 224
+David Gregory (1659–1708)
+The Delsarte–Goethals–Seidel TheoremTheorem 83
+James Gregory (1638–1675)
+The Fundamental Theorem of the CalculusTheorem 6
+Machin's FormulaTheorem 170
+Taylor's TheoremTheorem 217
+Sheila Greibach
+The Greibach Normal Form TheoremTheorem 180
+Terry S. Griggs
+The Design of the CenturyTheorem 100
+Alexander Grishkov
+The Lagrange Property for Moufang LoopsTheorem 114
+Thomas Hakon Grönwall (1877–1932)
+The Robin–Lagarias TheoremTheorem 197
+Karl W. Gruenberg (1928–2007)
+Gruenberg's Theorem on Nilpotent GroupsTheorem 82
+Paul Guldin (1577–1643)
+The Pappus–Guldin TheoremsTheorem 220
+Ram Prakash Gupta
+Vizing's TheoremTheorem 212
+Francis Guthrie (1831–1899)
+The Four-Colour TheoremTheorem 8
+Michael Guy
+The Classification of Archimedean 4-PolytopesTheorem 160
+Béla Gyires (1909–2001)
+van der Waerden's ConjectureTheorem 113
+H
+Jacques Hadamard (1865–1963)
+The Prime Number TheoremTheorem 33
+Brouwer's Fixed Point TheoremTheorem 18
+Roland Häggkvist
+1-Factorisation of Regular GraphsTheorem 80
+András Hajnal (1931–2016)
+Bondy's Subset TheoremTheorem 265
+Wolfgang Haken  (1928–2022)
+Haken's Unknot TheoremTheorem 166
+The Four-Colour TheoremTheorem 8
+Thomas C. Hales
+Kepler's ConjectureTheorem 101
+Dick Wick Hall
+Tutte's Golden IdentityTheorem 223
+Jonathan I. Hall
+The Lagrange Property for Moufang LoopsTheorem 114
+Philip Hall (1904–1982)
+The Marriage TheoremTheorem 62
+John H. Halton
+The Beardwood–Halton–Hammersley TheoremTheorem 109
+John M. Hammersley (1920–2004)
+The Beardwood–Halton–Hammersley TheoremTheorem 109
+Haim Hanani (1912–1991)
+The Hanani–Tutte TheoremTheorem 251
+Denis Hanson
+Singmaster's Binomial Multiplicity  Bound Theorem 204
+Godfrey Harold Hardy (1877–1947)
+The Hardy–Ramanujan Asymptotic Partition FormulaTheorem 115
+Thomas Harriot (1560–1621)
+Girard's TheoremTheorem 37
+Orville G. Harrold Jr
+Heath's Finitely Discontinuous Function TheoremTheorem 162
+Sarah Hart
+A Theorem on Maximal Sum-free Sets in GroupsTheorem 214
+Helmut Hasse (1898–1979)
+The Albert–Brauer–Hasse–Noether Main TheoremTheorem 158
+Abu Ali al-Hasan ibn al-Haytham
+see
+Abu Ali al-Hasan ibn al-Haytham
+Jo W. Heath
+Heath's Finitely Discontinuous Function TheoremTheorem 162
+Roger Heath-Brown
+The Friedlander–Iwaniec TheoremTheorem 202
+Heinrich Heesch (1906–1995)
+The Four-Colour TheoremTheorem 8
+Heinrich Eduard Heine (1821–1881)
+The Heine–Borel TheoremTheorem 177
+Katherine Heinrich
+The Existence Theorem for Orthogonal Diagonal Latin SquaresTheorem 131
+Charles Hermite (1822–1901)
+Irrationality of Circumference of Unit CircleTheorem 216
+Heron of Alexandria (c. 10–c. 75)
+Brahmagupta's FormulaTheorem 76
+William Heytesbury (1313–1372/73)
+The Merton College TheoremTheorem 20
+Carl Hierholzer (1840–1871)
+The Euler–Hierholzer "Bridges of Königsberg" TheoremTheorem 50
+David Hilbert (1862–1943)
+Lagrange's Four Squares TheoremTheorem 11
+The Insolvability of the EntscheidungsproblemTheorem 186
+Theodore Hill
+Benford's LawTheorem 31
+Anthony Hilton
+1-Factorisation of Regular GraphsTheorem 80
+The Existence Theorem for Orthogonal Diagonal Latin SquaresTheorem 131
+Edmund Hlawka (1916–2009)
+A Generalised Hlawka InequalityTheorem 234
+Otto Ludwig Hölder (1859–1937)
+Jensen's InequalityTheorem 201
+Susan Holmes
+The Diaconis–Holmes–Montgomery Coin Tossing TheoremTheorem 164
+William George Horner (1786–1837)
+The Remainder TheoremTheorem 154
+Hans Hornich (1906–1979)
+A Generalised Hlawka InequalityTheorem 234
+Guillaume de L'Hospital
+see under
+L for L'Hospital
+Yang Hui (c.1238–c.1298)
+Pascal's RuleTheorem 39
+Simon L'Huilier
+see under
+L for L'Huilier
+Edward Vermilye Huntington (1874–1952)
+The Robbins ProblemTheorem 110
+Adolf Hurwitz (1859–1919)
+The Abel–Hurwitz Binomial TheoremTheorem 89
+I
+Ljubomir Iliev (1913–2013)
+Sendov's Conjecture Theorem 178
+Dennis Ivanov
+The 6-Circles TheoremTheorem 213
+Henryk Iwaniec
+The Friedlander–Iwaniec TheoremTheorem 202
+J
+Edouard Jablonski (1848–1923)
+Moreau's Necklace FormulaTheorem 256
+Bill Jackson
+Jackson's Theorem on Compatible Euler ToursTheorem 190
+Carl Gustav Jacob Jacobi (1804–1851)
+Sylvester's Law of InertiaTheorem 142
+Nathan Jacobson (1910–1999)
+Schur's Commuting Matrices BoundTheorem 259
+Johan Ludwig Jensen (1859–1925)
+Jensen's InequalityTheorem 201
+Peter Jones
+The Analyst's Travelling Salesman TheoremTheorem 108
+Vaughan Frederick Randal Jones (1952–2020)
+The Jones  Knot  Polynomial TheoremTheorem 240
+Camille Jordan (1838–1932)
+Lagrange's TheoremTheorem 41
+K
+Maciej Kalkowski
+The 1-2-3 ConjectureTheorem 70
+Daniel M. Kane
+Singmaster's Binomial Multiplicity  Bound Theorem 204
+Michal Karoński
+The 1-2-3 ConjectureTheorem 70
+Richard M. Karp
+Karp's Theorem (Detail)Theorem 187
+Jamshid al-Kāshi
+see
+Jamshid al-Kāshi
+Pieter Willem Kasteleyn (1924–1996)
+Kasteleyn's TheoremTheorem 254
+Gyula O.H. Katona
+The Erdős–Ko–Rado TheoremTheorem 195
+Louis Hirsch Kauffman
+The Jones  Knot  Polynomial TheoremTheorem 240
+Lord Kelvin
+see
+William Thomson
+John George Kemeny (1926–1992)
+Kemeny's ConstantTheorem 236
+Alfred Bray Kempe (1849–1922)
+The Four-Colour TheoremTheorem 8
+Johannes Kepler (1571–1630)
+Kepler's
+ConjectureTheorem 101
+The Classification of the Semiregular TilingsTheorem 205
+Omar Khayyam (1048–1131)
+Pascal's RuleTheorem 39
+Aleksandr Khinchin (1894–1959)
+Khinchin's Theorem on Continued FractionsTheorem 91
+Gustav Kirchhoff (1824–1887)
+The Matrix Tree TheoremTheorem 12
+Victor Klee  (1925–2007)
+The Art Gallery TheoremTheorem 198
+Esther Klein (1910–2005)
+The Happy Ending ProblemTheorem 99
+Robert Kleinberg
+Strassen's Matrix TheoremTheorem 139
+Martin Kneser (1928–2004)
+Kneser's ConjectureTheorem 119
+Donald Ervin Knuth
+The Robinson–Schensted–Knuth CorrespondenceTheorem 143
+Chao Ko (1910–2002)
+Catalan's ConjectureTheorem 118
+The Erdős–Ko–Rado TheoremTheorem 195
+John A. Koch
+The Four-Colour TheoremTheorem 8
+Boris Konev
+The Erdős Discrepancy ConjectureTheorem 209
+Alan G. Konheim
+The Parking Function FormulaTheorem 103
+Dénes Kőnig (1884–1944)
+The Frobenius–Kőnig TheoremTheorem 62
+Kőnig's Bipartite Matching TheoremTheorem 185
+Sergei Konyagin
+The Large Prime Gaps TheoremTheorem 241
+Anton Kotzig (1919–1991)
+The Max-Flow Min-Cut TheoremTheorem 168
+Sofia Kovalevskaya (1850–1891)
+The Cauchy–Kovalevskya TheoremTheorem 88
+Cheng Yeaw Ku
+An Erdős–Ko–Rado Theorem on Intersecting Permutations
+Theorem 66
+Daniela Kühn
+1-Factorisation of Regular GraphsTheorem 80
+Kazimierz Kuratowski (1896–1980)
+Kuratowski's TheoremTheorem 24
+Kuratowski's 14-Set TheoremTheorem 239
+L
+Robert Lachlan (1861–1945)
+The Descartes Circle TheoremTheorem 179
+Jeffrey Lagarias
+A Theorem on Apollonian Circle PackingsTheorem 130
+The Robin–Lagarias TheoremTheorem 197
+Joseph-Louis Lagrange (1736–1813)
+Lagrange's TheoremTheorem 41
+Lagrange's Four Squares TheoremTheorem 11
+The Lagrange Interpolation FormulaTheorem 124
+Wilson's TheoremTheorem 194
+Taylor's TheoremTheorem 217
+A Theorem on Modular Fibonacci PeriodicityTheorem 235
+Lagrange's LemmaTheorem 199
+The Polygonal Number TheoremTheorem 262
+Clement Lam
+The Bruck–Ryser–Chowla TheoremTheorem 3
+Johann Heinrich Lambert (1738–1777)
+Lambert's FormulaTheorem 121
+Irrationality of Circumference of Unit CircleTheorem 216
+Gabriel Lam� (1795–1870)
+Lam�'s TheoremTheorem 87
+Cornelius Lanczos (1893–1974)
+The Convolution TheoremTheorem 95
+Leo Jerome Lange (1928–2018)
+Euler's Continued Fraction CorrespondenceTheorem 203
+Pierre-Simon Laplace (1749–1827)
+The Central Limit TheoremTheorem 7
+Benoit Larose
+An Erdős–Ko–Rado Theorem on Intersecting Permutations
+Theorem 66
+Victor Amedee Lebesgue (1791–1875)
+Catalan's ConjectureTheorem 118
+Adrien-Marie Legendre (1752–1833)
+Euler's Polyhedral FormulaTheorem 26
+Gauss' Law of Quadratic ReciprocityTheorem 29
+Germain's TheoremTheorem 59
+The Prime Number TheoremTheorem 33
+The Eratosthenes–Legendre  SieveTheorem 207
+Derrick H. Lehmer (1905–1991)
+The Lucas–Lehmer TestTheorem 127
+Emma Markovna Trotskaia Lehmer (1906–2007)
+The Bungers–Lehmer Theorem on Cyclotomic CoefficientsTheorem 175
+Thomas A.  Lehrer
+Distribution of Local Maxima in Random SamplesTheorem 257
+Gottfried Wilhelm von Leibniz (1646–1716)
+The Fundamental Theorem of the CalculusTheorem 6
+Fermat's Little TheoremTheorem 13
+Wilson's TheoremTheorem 194
+The Alternating Series TestTheorem 245
+Cornelis Gerrit Lekkerkerker (1922–1999)
+Zeckendorf's TheoremTheorem 42
+Leonid Levin
+Cook's TheoremTheorem 14
+David Lewin (1933–2003)
+The Generalised Hexachord TheoremTheorem 93
+Leonard Lewin (1919–2007)
+The Basel Problem Theorem 210
+Guillaume de L'Hospital  (1661–1704)
+L'Hospital's RuleTheorem 191
+Simon L'Huilier (1750–1840)
+Brahmagupta's FormulaTheorem 76
+Elliott H. Lieb
+Lieb's Square Ice TheoremTheorem 144
+Jarl Waldemar Lindeberg (1876–1932)
+The Central Limit TheoremTheorem 7
+Ferdinand von Lindemann (1852–1939)
+The Lindemann–Weierstrass TheoremTheorem 167
+Alexei Lisitsa
+The Erdős Discrepancy ConjectureTheorem 209
+Ramon Llull (1235–1316)
+Pascal's RuleTheorem 39
+Allan Siu Lun Lo
+1-Factorisation of Regular GraphsTheorem 80
+László Lovász
+Kneser's ConjectureTheorem 119
+The Lovász Local LemmaTheorem 120
+David Lubell
+The LYM InequalityTheorem 244
+Edouard Lucas (1842–1891)
+Lucas' TheoremTheorem 38
+The Lucas–Lehmer TestTheorem 127
+Vaughan Pratt's TheoremTheorem 138
+A Theorem on Modular Fibonacci PeriodicityTheorem 235
+Félix Lucas (fl. 1880)
+Sendov's Conjecture Theorem 178
+Thomasz Łuczak
+The 1-2-3 ConjectureTheorem 70
+Elisabeth
+Lutz (1914–2008)
+The Lutz–Nagell TheoremTheorem 81
+Aleksandr Lyapunov (1857–1918)
+The Central Limit TheoremTheorem 7
+M
+Shiela Oates MacDonald
+see
+Sheila Williams
+John Machin (1680–1751)
+Machin's FormulaTheorem 170
+Colin Maclaurin (1698–1746)
+Taylor's TheoremTheorem 217
+F. Jessie MacWilliams (1917–1990)
+MacWilliams' TheoremTheorem 72
+Davin Maddox
+The Goins–Maddox–Rusin Theorem on Heron TrianglesTheorem 104
+Madhava of Sangamagramma (1350–1425)
+Machin's FormulaTheorem 170
+Endre Makai (1915–1987)
+The Happy Ending ProblemTheorem 9
+Colin Mallows
+A Theorem on Apollonian Circle PackingsTheorem 130
+Ernest Malo (1856–1915)
+A Theorem of Schur on Real RootednessTheorem 148
+Claudia Malvenuto
+An Erdős–Ko–Rado Theorem on Intersecting Permutations
+Theorem 66
+Henry Berthold Mann (1905–2000)
+The Existence Theorem for Bachelor Latin SquaresTheorem 176
+Dorothy Manning
+see under
+S for Smiley
+Willem Mantel (fl. 1900)
+A Tripartite Turán TheoremTheorem 155
+Marvin Marcus (1927–2016)
+van der Waerden's ConjectureTheorem 113
+Adrian Mathias
+The Erdős Discrepancy ConjectureTheorem 209
+Yuri Matiyasevich
+The DPRM TheoremTheorem 30
+Jiří Matoušek
+Kneser's ConjectureTheorem 119
+James Maynard
+The Large Prime Gaps TheoremTheorem 241
+John McCay
+The Bruck–Ryser–Chowla TheoremTheorem 3
+William McCune
+The Robbins ProblemTheorem 110
+Colin McDiarmid
+The 1-2-3 ConjectureTheorem 70
+Annabelle McIver
+The McIver–Neumann Half-n BoundTheorem 159
+James H. McKay (1928–2012)
+Cauchy's Theorem in Group TheoryTheorem 227
+Lin McMullin
+Lin McMullin's TheoremTheorem 165
+Albrecht Ludwig Friedrich Meister (1724–1788)
+The Shoelace FormulaTheorem 263
+Karl Menger (1902–1985)
+Kuratowski's TheoremTheorem 24
+Pietro Mengoli (1626–1686)
+The Basel Problem Theorem 210
+Marin Mersenne (1588–1648)
+The Lucas–Lehmer TestTheorem 127
+Lev Dmitrievich Meshalkin (1934–2000)
+The LYM InequalityTheorem 244
+Claude Gaspar Bachet de Méziriac
+see
+Bachet
+Silvio Micali
+Quadratic Nonresidue is Zero-Knowledge ProvableTheorem 161
+Preda Mihăilescu
+Catalan's ConjectureTheorem 118
+R. James Milgram
+Dilworth's TheoremTheorem 19
+Henryk Minc (1919–2013)
+Bregman's TheoremTheorem 112
+Hermann Minkowski (1864–1909)
+Minkowski's Convex Body TheoremTheorem 200
+Fermat's Two-Squares TheoremTheorem 199
+Auguste Miquel (1816–1851)
+The Five Circle TheoremTheorem 84
+Miquel's Triangle TheoremTheorem 55
+Leon Mirsky (1918–1983)
+The Transversal Matroid TheoremTheorem 157
+Magnus Gösta Mittag-Leffler (1846–1927)
+Euler's Product Formula for  SineTheorem 247
+Abraham de Moivre
+see
+De Moivre
+Theodore Molien (1861–1941)
+The Wedderburn–Artin TheoremTheorem 123
+G.B. Money-Coutts (?1905–?1979)
+The 6-Circles TheoremTheorem 213
+Richard Montgomery
+The Diaconis–Holmes–Montgomery Coin Tossing TheoremTheorem 164
+Pierre Rémond de Montmort
+see
+De Montmort
+Eliakim Hastings Moore (1862–1932)
+Galois' Theorem on Finite FieldsTheorem 58
+The Bose Equivalence Theorem in Design TheoryTheorem 54
+G. Eric Moorhouse
+The Lagrange Property for Moufang LoopsTheorem 114
+Charles Moreau (1837–1916)
+Moreau's Necklace FormulaTheorem 256
+Augustus de Morgan
+see
+De Morgan
+Frank Morley (1860–1937)
+Morley's MiracleTheorem 56
+Lee Most
+The Existence Theorem for Orthogonal Diagonal Latin SquaresTheorem 131
+Mel Most (?–c.1992)
+The Existence Theorem for Orthogonal Diagonal Latin SquaresTheorem 131
+Theodore Samuel Motzkin (1908–1970)
+Bertrand's Ballot TheoremTheorem 252
+Ruth Moufang (1905–1977)
+Moufang's TheoremTheorem 61
+Oleg Musin
+The Delsarte–Goethals–Seidel TheoremTheorem 83
+N
+Trygve Nagell (1895–1988)
+The Lutz–Nagell TheoremTheorem 81
+Melvyn B. Nathanson
+The Polygonal Number TheoremTheorem 262
+Eugen Otto Erwin Netto (1848–1919)
+Netto's Conjecture (Dixon's Theorem)Theorem 49
+Peter M. Neumann (1940–2020)
+Neumann's Separation LemmaTheorem 64
+The McIver–Neumann Half-n BoundTheorem 159
+John von Neumann
+see
+von Neumann
+Rolf Nevanlinna (1895–1980)
+Nevanlinna's Five-Value TheoremTheorem 97
+Morris Newman (1924–2007)
+van der Waerden's ConjectureTheorem 113
+Isaac Newton (1643–1727)
+The Binomial TheoremTheorem 47
+The Fundamental Theorem of the CalculusTheorem 6
+The Lagrange Interpolation FormulaTheorem 124
+The Girard–Newton IdentitiesTheorem 182
+Thomas Niessen
+1-Factorisation of Regular GraphsTheorem 80
+Nilakantha Somayaji (1444–1544)
+Euler's Continued Fraction CorrespondenceTheorem 203
+Ivan Niven (1915–1999)
+Irrationality of Circumference of Unit CircleTheorem 216
+Amalie ('Emmy') Noether (1882–1935)
+Noether's Symmetry TheoremTheorem 86
+The First Isomorphism TheoremTheorem 34
+The Second Isomorphism TheoremsTheorem 35
+The Third Isomorphism TheoremTheorem 253
+The Skolem–Noether TheoremTheorem 125
+The Albert–Brauer–Hasse–Noether Main TheoremTheorem 158
+O
+Shiela Oates
+see
+Sheila Williams
+William of Ockham (c. 1288–1348)
+De Morgan's LawsTheorem 111
+Kathleen Adebola Okikiolu
+The Analyst's Travelling Salesman TheoremTheorem 108
+Kathleen Ollerenshaw (1912–2014)
+The Ollerenshaw–Br�e FormulaTheorem 129
+Ken Ono
+The Ramanujan Partition CongruencesTheorem 173
+Øystein Ore (1899–1968)
+Ore's Theorem in Graph TheoryTheorem 230
+Nicole Oresme (1323–1382)
+The Merton College TheoremTheorem 20
+The Fundamental Theorem of the CalculusTheorem 6
+Torricelli's TrumpetTheorem 208
+The Alternating Series TestTheorem 245
+Deryk Osthus
+1-Factorisation of Regular GraphsTheorem 80
+P
+Edgar Milan Palmer (1934–2015)
+Ore's Theorem in Graph TheoryTheorem 230
+Pappus of Alexandria (c. 290–c. 350)
+Pappus' TheoremTheorem 44
+The Pappus–Guldin TheoremsTheorem 220
+Parameśvara (c. 1370– c. 1460)
+Brahmagupta's FormulaTheorem 76
+Ernest Tilden Parker (1926–1991)
+The Existence Theorem for Orthogonal Diagonal Latin SquaresTheorem 131
+Blaise Pascal (1623–1662)
+Pascal's RuleTheorem 39
+Walter Francis Penney  (1913–2000)
+Distribution of Local Maxima in Random SamplesTheorem 257
+Hazel Perfect (?–2015)
+The Transversal Matroid TheoremTheorem 157
+Ljubomir Perkovic
+1-Factorisation of Regular GraphsTheorem 80
+Micha A. Perles
+The Pumping LemmaTheorem 105
+Lindsay Peters
+The Happy Ending ProblemTheorem 99
+Johann Friedrich Pfaff (1765–1825)
+Kasteleyn's TheoremTheorem 105
+Florian Pfender
+The 1-2-3 ConjectureTheorem 70
+George Alexander Pick (1859–1942)
+Pick's TheoremTheorem 77
+Michael
+J. Piff
+The Piff–Welsh TheoremTheorem 141
+Subbayya Sivasankaranarayana Pillai (1901–1950)
+Catalan's ConjectureTheorem 118
+Pingala (3rd c. BC)
+The Binomial TheoremTheorem 47
+János Pintz
+The Small Prime Gaps TheoremTheorem 151
+Siméon Denis Poisson (1781–1840)
+The Law of Large NumbersTheorem 43
+The Fundamental Theorem of the CalculusTheorem 6
+Henry Otto Pollak
+The Parking Function FormulaTheorem 103
+George Pólya (1887–1985)
+The Pólya–Redfield Enumeration TheoremTheorem 242
+Jean-Victor Poncelet (1788–1876)
+Poncelet's PorismTheorem 229
+Lev Semenovich Pontrjagin (1908–1988)
+Kuratowski's TheoremTheorem 24
+Emil Post (1897–1954)
+The Insolvability of the EntscheidungsproblemTheorem 186
+Lionel Pournin
+The Rotation Distance BoundTheorem 192
+Charles de la Vallée Poussin
+see
+de la Vallée Poussin
+M.T. Powell (fl. 1971)
+The 6-Circles TheoremTheorem 213
+Cheryl E. Praeger
+The Sims Conjecture Theorem 65
+Praeger's Theorem on Bounded MovementTheorem 135
+Vaughan Ronald Pratt
+Vaughan Pratt's TheoremTheorem 138
+Donald Arthur Preece (1939–2014)
+A Theorem of Anderson, Cameron and Preece on Groups of UnitsTheorem 243
+James E. Pretty
+Dunn and Pretty's Triangle-Halving DeltoidTheorem 260
+Claudius Ptolemy (c. 85–c. 165)
+Brahmagupta's FormulaTheorem 76
+Hilary Putnam (1926–2016)
+The DPRM TheoremTheorem 30
+Ronald Pyke (1931–2005)
+The Parking Function FormulaTheorem 103
+Pythagoras of Samos(c. 569 BC–c. 475 BC)
+The Pythagorean TheoremTheorem 27
+R
+Charles Rackoff
+Quadratic Nonresidue is Zero-Knowledge ProvableTheorem 161
+Richard Rado  (1906–1989)
+The Erdős–Ko–Rado TheoremTheorem 195
+Johann Radon (1887–1956)
+The Tverberg Partition TheoremTheorem 107
+Srinivasa Ramanujan (1887–1920)
+The Hardy–Ramanujan Asymptotic Partition FormulaTheorem 115
+The Ramanujan Partition CongruencesTheorem 173
+The Robin–Lagarias TheoremTheorem 197
+The Riemann  Exact  FormulaTheorem 232
+Frank Plumpton Ramsey (1903–1930)
+Ramsey's TheoremTheorem 28
+John Howard Redfield (1879–1944)
+The Pólya–Redfield Enumeration TheoremTheorem 242
+Bruce Reed
+The 1-2-3 ConjectureTheorem 70
+1-Factorisation of Regular GraphsTheorem 80
+Johann M�ller Regiomontanus (1436–1476)
+The Spherical Law of CosinesTheorem 225
+Kurt Reidemeister (1893–1971)
+Reidemeister's TheoremTheorem 67
+Alfr�d R�nyi (1921–1970)
+The Asymptotic Proportion of Connected ForestsTheorem 136
+The Friendship TheoremTheorem 163
+The Asymptotic (Half) Liar FormulaTheorem 126
+Kenneth Alan Ribet
+Fermat's Last TheoremTheorem 9
+Bernhard Riemann (1826–1866)
+The Prime Number TheoremTheorem 33
+The Robin–Lagarias TheoremTheorem 197
+The Riemann  Exact  FormulaTheorem 232
+The Riemann Rearrangement TheoremTheorem 218
+Euler's Product Formula for ζ(s)Theorem 246
+Herbert Ellis Robbins (1915–2001)
+The Robbins ProblemTheorem 110
+Neil Robertson
+The Robertson–Seymour Graph Minors TheoremTheorem 52
+The Strong Perfect Graph TheoremTheorem 60
+The Four-Colour TheoremTheorem 8
+Guy Robin
+The Robin–Lagarias TheoremTheorem 197
+Paul Robin (fl. 1890)
+The Classification of the Semiregular TilingsTheorem 205
+Gilbert de Beauregard Robinson (1906–1992)
+The Robinson–Schensted–Knuth CorrespondenceTheorem 143
+Julia Robinson (1919–1985)
+The DPRM TheoremTheorem 30
+Giannantonio Rocca (1607–1659)
+The Pappus–Guldin TheoremsTheorem 220
+John Berkley Rosser (1907–1989)
+The Ollerenshaw–Br�e FormulaTheorem 129
+Paolo Ruffini (1765–1822)
+The Remainder TheoremTheorem 154
+Dave Rusin
+The Goins–Maddox–Rusin Theorem on Heron TrianglesTheorem 104
+Herbert John Ryser (1923–1985)
+The Bruck–Ryser–Chowla TheoremTheorem 3
+S
+Antoine de Saint Exupéry (1900–1944)
+Euclid's Pythagorean FormulaTheorem 261
+Daniel P. Sanders
+The Four-Colour TheoremTheorem 8
+Pierre Fr�d�ric Sarrus (1798–1861)
+The Rule of Sarrus Theorem 96
+Norbert Sauer
+Bondy's Subset TheoremTheorem 265
+Nicholas Saunderson (1682–1739)
+Bayes' TheoremTheorem 10
+Carla D. Savage
+The Polynomial Coprimality TheoremTheorem 116
+Jan Saxl (1948–2020)
+The Sims Conjecture Theorem 65
+Craige Eugene Schensted
+The Robinson–Schensted–Knuth CorrespondenceTheorem 143
+William Schneeberger
+The Fifteen TheoremTheorem 79
+Ernst Schröder (1841–1902)
+The Cantor–Bernstein–Schröder TheoremTheorem 196
+Heinrich Schröter (1829–1892)
+Euler's Product Formula for SineTheorem 247
+Issai Schur (1875–1941)
+A Theorem of Schur on Real RootednessTheorem 148
+Schur's Commuting Matrices BoundTheorem 259
+Kurt Schütte (1909–1998)
+The Delsarte–Goethals–Seidel TheoremTheorem 83
+George Earl Schweigert
+Heath's Finitely Discontinuous Function TheoremTheorem 162
+Johan Jacob Seidel (1919–2001)
+The Delsarte–Goethals–Seidel TheoremTheorem 83
+Gary Seitz (1943–2023)
+The Sims Conjecture Theorem 65
+Takakazu Shinsuke Seki (1642–1708)
+Faulhaber's FormulaTheorem 222
+Blagovest Hristov Sendov
+Sendov's Conjecture Theorem 178
+Jean-Pierre Serre
+Fermat's Last TheoremTheorem 9
+Paul D. Seymour
+The Robertson–Seymour Graph Minors TheoremTheorem 52
+The Strong Perfect Graph TheoremTheorem 60
+The Four-Colour TheoremTheorem 8
+Lloyd S. Shapley (1923–2016)
+The Stable Marriage TheoremTheorem 68
+Oleksandr Mikolaiovich Sharkovsky
+Sharkovsky's TheoremTheorem 71
+Eli Shamir
+The Pumping LemmaTheorem 105
+Claude Elwood Shannon (1916–2001)
+The Max-Flow Min-Cut TheoremTheorem 168
+Saharon Shelah
+Bondy's Subset TheoremTheorem 265
+Jian Shen
+A Tripartite Turán TheoremTheorem 155
+Goro Shimura (1930–2019)
+Fermat's Last TheoremTheorem 9
+Gerard Sierksma
+The Tverberg Partition TheoremTheorem 107
+Charles C. Sims (1938–2017)
+Sims' Conjecture Theorem 65
+David Singerman
+A Theorem on Modular Fibonacci PeriodicityTheorem 235
+David Singmaster (1938–2023)
+Singmaster's Binomial Multiplicity  Bound Theorem 204
+Thoralf Albert Skolem (1887–1963)
+The Skolem–Noether TheoremTheorem 125
+Daniel D. Sleator
+The Rotation Distance BoundTheorem 192
+Dorothy Manning Smiley (1909–1988)
+A Generalised Hlawka InequalityTheorem 234
+Malcolm Finley Smiley (1915–1982)
+A Generalised Hlawka InequalityTheorem 234
+Cedric Austen Bardell Smith (1917–2002)
+The BEST TheoremTheorem 171
+Derek H. Smith
+Cameron's Theorem on Distance-Transitive GraphsTheorem 46
+Paul Althaus Smith (1900–1980)
+Kuratowski's TheoremTheorem 24
+James Laurie Snell (1925–2011)
+Kemeny's ConstantTheorem 236
+Frederick Soddy (1877–1956)
+The Descartes Circle TheoremTheorem 179
+Alan David Sokal
+Sokal's Theorem on Chromatic RootsTheorem 169
+Nilakantha Somayaji
+see
+Nilakantha Somayaji
+Duncan Sommerville (1879–1934)
+The Classification of the Semiregular TilingsTheorem 205
+Vera Sós
+The Three-Distance TheoremTheorem 78
+The Friendship TheoremTheorem 163
+Joel Spencer
+The Asymptotic (Half) Liar FormulaTheorem 126
+The Lovász Local LemmaTheorem 120
+Emanuel Sperner (1905–1980)
+Sperner's LemmaTheorem 16
+The LYM InequalityTheorem 244
+Karl von Staudt (1798–1867)
+Euler's Polyhedral FormulaTheorem 26
+Jakob Steiner (1796–1863)
+The Descartes Circle TheoremTheorem 179
+The Power of a Point TheoremTheorem 250
+Hugo Steinhaus (1887–1972)
+The Three-Distance TheoremTheorem 78
+Moritz Abraham Stern (1807–1894)
+Countability of the RationalsTheorem 255
+Wilfred Leslie Stevens (1911–1958)
+The Bose Equivalence Theorem in Design TheoryTheorem 54
+James Stirling (1692–1770)
+Stirling's ApproximationTheorem 40
+Alicia Boole Stott
+see under
+Boole
+Volker Strassen
+Strassen's Matrix TheoremTheorem 139
+Sun Zi
+see under
+Z for Zi
+János Surányi  (1918–2006)
+The Three-Distance TheoremTheorem 78
+Stanisław Świerczkowski (1932–2015)
+The Three-Distance TheoremTheorem 78
+Gödel's First Incompleteness TheoremTheorem 74
+Stanley Swiercz
+The Bruck–Ryser–Chowla TheoremTheorem 3
+Richard Swineshead (fl. c. 1340–1354)
+The Merton College TheoremTheorem 20
+Peter Ludwig Mejdell Sylow (1832–1918)
+Sylow's TheoremsTheorem 258
+Cauchy's Theorem in Group TheoryTheorem 227
+Ludwig Sylow (1832–1918)
+Sylow's TheoremsTheorem 258
+James Joseph Sylvester (1814–1897)
+Cayley's Formula (Tree Enumeration)Theorem 94
+Sylvester's Law of InertiaTheorem 142
+Sylvester's CatalecticantTheorem 237
+Balázs Szegedy
+Strassen's Matrix TheoremTheorem 139
+Esther Szekeres
+see under
+K for Klein
+George Szekeres (1911–2005)
+The Happy Ending ProblemTheorem 99
+Peter Szüsz (1924–2008)
+The Three-Distance TheoremTheorem 78
+T
+Serge Tabachnikov
+The 6-Circles TheoremTheorem 213
+Yutaka Taniyama (1927–1958)
+Fermat's Last TheoremTheorem 9
+Terence Tao
+The Green–Tao Theorem on Primes in Arithmetic ProgressionTheorem 32
+The Large Prime Gaps TheoremTheorem 241
+Robert E. Tarjan
+The Rotation Distance BoundTheorem 192
+Alfred Tarski (1902–1983)
+The Well-Ordering TheoremTheorem 17
+Nicolo Tartaglia (1500–1557)
+Cardano's Cubic FormulaTheorem 90
+Brook Taylor (1685–1731)
+Taylor's TheoremTheorem 217
+Integration by PartsTheorem 219
+Richard Lawrence Taylor
+Fermat's Last TheoremTheorem 9
+Nikolai Grigor'evich Tchudakoff
+see
+Chudakov>
+Harold Neville Vazeille Temperley (1915–2017)
+Kasteleyn's TheoremTheorem 254
+Thales of Miletus (c.624 BC–c. 547 BC)
+Thales' TheoremTheorem 63
+Theaetetus of Athens (c.417 BC–c. 369 BC)
+Theaetetus' Theorem on the Platonic SolidsTheorem 132
+Larry Thiel
+The Bruck–Ryser–Chowla TheoremTheorem 3
+Robin Thomas (1962–2020)
+The Strong Perfect Graph TheoremTheorem 60
+The Four-Colour TheoremTheorem 8
+Andrew Thomason
+The 1-2-3 ConjectureTheorem 70
+Stéphan Thomassé
+A Tripartite Turán TheoremTheorem 155
+Carsten Thomassen
+A Tripartite Turán TheoremTheorem 155
+The Lovász Local LemmaTheorem 120
+William Thomson (Lord Kelvin) (1824–1907)
+The Change of Variables TheoremTheorem 134
+Axel Thue (1863–1922)
+Kepler's ConjectureTheorem 101
+William P. Thurston (1946–2012)
+The Rotation Distance BoundTheorem 192
+Evangelista Torricelli(1608–1647)
+Torricelli's TrumpetTheorem 208
+L�szl� Fejes T�th (1915–2005)
+Kepler's
+ConjectureTheorem 101
+Andrew Treglown
+1-Factorisation of Regular GraphsTheorem 80
+John Tukey (1915–2000)
+The Convolution TheoremTheorem 95
+Jerrold Bates Tunnell (1950–2022)
+Tunnell's TheoremTheorem 264
+Paul Turán (1910–1976)
+The Happy Ending ProblemTheorem 99
+Alan Mathison Turing (1912–1954)
+The Insolvability of the EntscheidungsproblemTheorem 186
+The Central Limit TheoremTheorem 7
+William Thomas Tutte (1917–2002)
+The BEST TheoremTheorem 171
+Tutte's Golden IdentityTheorem 223
+The Hanani–Tutte TheoremTheorem 251
+Helge Tverberg
+The Tverberg Partition TheoremTheorem 107
+John Alfred Tyrrell (1932–1992)
+The 6-Circles TheoremTheorem 213
+Sun Tzu
+see
+Sun Zi
+U
+Stanisław Ulam (1909–1984)
+The Borsuk–Ulam TheoremTheorem 122
+Chris Umans
+Strassen's Matrix TheoremTheorem 139
+James Victor Uspensky (1883–1947)
+The Hardy–Ramanujan Asymptotic Partition FormulaTheorem 115
+V
+Charles de la Vallée Poussin
+see
+de la Vallée Poussin
+Tatyana Pavlovna van Aardenne-Ehrenfest  (1905–2002)
+The BEST TheoremTheorem 171
+Bartel Leendert van der Waerden (1903–1996)
+van der Waerden's ConjectureTheorem 113
+The Delsarte–Goethals–Seidel TheoremTheorem 83
+Vladimir Naumovich Vapnik
+Bondy's Subset TheoremTheorem 265
+François Viète (1540–1603)
+Viète's Formula Theorem 102
+Vadim Georgievich Vizing
+Vizing's TheoremTheorem 212
+Lutz Volkmann
+1-Factorisation of Regular GraphsTheorem 80
+Gotfried Wilhelm Von Leibniz
+see
+von Leibniz
+Ferdinand Von Lindemann
+see
+von Lindemann
+John von Neumann (1903–1957)
+The Birkhoff–von Neumann TheoremTheorem 57
+The von Neumann Minimax TheoremTheorem 184
+Karl von Staudt
+see
+von Staudt
+Kristina Vušković
+The Strong Perfect Graph TheoremTheorem 60
+W
+Bartel Leendert van der Waerden
+see
+van der Waerden
+Klaus Wagner (1910–2000)
+Wagner's Theorem Theorem 25
+Stanley Wagon
+A Theorem about  Gaussian  MoatsTheorem 248
+David Wajc
+The 1-2-3 ConjectureTheorem 70
+Robert J. Walker (1909–1992)
+The Ollerenshaw–Br�e FormulaTheorem 129
+Donald Dines Wall (1921–2000)
+A Theorem on Modular Fibonacci PeriodicityTheorem 235
+John Wallis (1616–1703)
+Wallis's ProductTheorem 137
+Walter D. Wallis
+The Existence Theorem for Orthogonal Diagonal Latin SquaresTheorem 131
+Tao Wang
+The 1-2-3 ConjectureTheorem 70
+Ian M. Wanless
+The Existence Theorem for Bachelor Latin SquaresTheorem 176
+Morgan Ward (1901–1963)
+A Theorem on Modular Fibonacci PeriodicityTheorem 235
+Edward Waring (1736–1798)
+Lagrange's Four Squares TheoremTheorem 11
+Bridget Webb
+The Existence Theorem for Bachelor Latin SquaresTheorem 176
+Joseph Wedderburn (1882–1948)
+The Wedderburn–Artin TheoremTheorem 123
+Wedderburn's  Little  TheoremTheorem 215
+Karl Theodor Wilhelm Weierstrass (1815–1897)
+The Lindemann–Weierstrass TheoremTheorem 167
+Euler's Product Formula for  Sine
+André Weil (1906–1998)
+Fermat's Last TheoremTheorem 9
+Benjamin Weiss
+The Parking Function FormulaTheorem 103
+Dominic Welsh (1938–2023)
+The Piff–Welsh TheoremTheorem 141
+Caspar Wessel (1745–1818)
+Euler's  FormulaTheorem 206
+William Allen Whitworth  (1840–1905)
+Bertrand's Ballot TheoremTheorem 252
+Brian Wick
+A Theorem about  Gaussian  MoatsTheorem 248
+Andrew Wiles
+Fermat's Last TheoremTheorem 9
+Herbert S. Wilf (1931–2012)
+The Polynomial Coprimality TheoremTheorem 116
+Allan R. Wilks
+A Theorem on Apollonian Circle PackingsTheorem 130
+Christopher Paul Willans (1942–1971)
+Willans' FormulaTheorem 211
+William of Ockham
+see
+Ockham
+Sheila Williams
+Neumann's Separation LemmaTheorem 64
+Virginia Vassilevska Williams
+Strassen's Matrix TheoremTheorem 139
+John Wilson (1741–1793)
+Wilson's TheoremTheorem 194
+Willans' FormulaTheorem 211
+Robin J. Wilson
+A Theorem of Erdős and Wilson on Edge ColouringTheorem 117
+Steven Winker
+The Robbins ProblemTheorem 110
+Shmuel Winograd
+Strassen's Matrix TheoremTheorem 139
+Joseph Wolstenholme (1829–1891)
+Wolstenholme's TheoremTheorem 226
+James Wood (1760–1839)
+The Fundamental Theorem of AlgebraTheorem 5
+Douglas Woodall
+Woodall's Hopping LemmaTheorem 150
+Max See Chin Woon
+Euler's Even Zeta FormulaTheorem 238
+Hugh Worthington (1752–1813)
+Taylor's TheoremTheorem 217
+Larry Wos
+The Robbins ProblemTheorem 110
+Willem Abraham Wythoff (1865–1939)
+The Classification of Archimedean 4-PolytopesTheorem 160
+X
+Jia Xian (c.1010–c.1070)
+Pascal's RuleTheorem 39
+Guangping Xiang
+Sendov's Conjecture Theorem 178
+Y
+Koichi Yamamoto
+The LYM InequalityTheorem 204
+Catherine Yan
+A Theorem on Apollonian Circle PackingsTheorem 204
+Cem Yalçıl Yıldırım
+The Small Prime Gaps TheoremTheorem 204
+Qinglin Roger Yu
+The 1-2-3 ConjectureTheorem 204
+Z
+Don Zagier
+Fermat's Two-Squares TheoremTheorem 204
+Andrei Zavarnitsine
+The Lagrange Property for Moufang LoopsTheorem 204
+Edouard Zeckendorf (1901–1983)
+Zeckendorf's TheoremTheorem 204
+Doron Zeilberger
+The Polynomial Coprimality TheoremTheorem 204
+Ernst Zermelo (1871–1953)
+The Well-Ordering TheoremTheorem 204
+Sun Zi (c.400–c.460)
+The Chinese Remainder TheoremTheorem 204
+Yitang Zhang
+The Small Prime Gaps TheoremTheorem 204
+Zhu
+Lie
+The Existence Theorem for Orthogonal Diagonal Latin SquaresTheorem 204

@@ -1,0 +1,17 @@
+   Domain Name: DRUCKERHEALTHSAFETY.COM
+   Registry Domain ID: 2779388924_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-05-12T07:13:05Z
+   Creation Date: 2023-05-09T15:15:48Z
+   Registry Expiry Date: 2025-05-09T15:15:48Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DARL.NS.CLOUDFLARE.COM
+   Name Server: ROSA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:26:56Z 

@@ -1,0 +1,58 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: MUW.EDU
+
+Registrant:
+	Mississippi University for Women
+	Information Technology Services
+	1100 College Street, MUW-1612
+	Columbus, MS 39701
+	USA
+
+Administrative Contact:
+	Rodney Godfrey
+	Mississippi University for Women
+	ITS Systems and Networks
+	1100 College Street, MUW-1621
+	Columbus, MS 39701
+	USA
+	+1.6623297282
+	admin@muw.edu
+
+Technical Contact:
+	Rodney Godfrey
+	Mississippi University for Women
+	ITS Systems and Networks
+	1100 College Street, MUW-1621
+	Columbus, MS 39701
+	USA
+	+1.6623297282
+	admin@muw.edu
+
+Name Servers:
+	NS1.MUW.EDU
+	NS.MUW.EDU
+
+Domain record activated:    07-Oct-1992
+Domain record last updated: 07-Aug-2024
+Domain expires:             31-Jul-2025

@@ -1,0 +1,40 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T21:26:31-03:00 - 2a09:bac5:c82e:de1::162:bd
+
+domain:      dnc-equipseg.com.br
+owner:       Antonio Carneiro Lira
+ownerid:     ***.175.052-**
+country:     BR
+owner-c:     ALPCO191
+tech-c:      ALPCO191
+nserver:     ns1.locaweb.com.br
+nsstat:      20250323 AA
+nslastaa:    20250323
+nserver:     ns2.locaweb.com.br
+nsstat:      20250323 AA
+nslastaa:    20250323
+nserver:     ns3.locaweb.com.br
+nsstat:      20250323 AA
+nslastaa:    20250323
+saci:        yes
+created:     20200822 #21605320
+changed:     20240827
+expires:     20250822
+status:      published
+provider:    LOCAWEB (2)
+
+nic-hdl-br:  ALPCO191
+person:      ALEF PARENTE COELHO
+e-mail:      alefcoelho21@gmail.com
+country:     BR
+created:     20170517
+changed:     20220309
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

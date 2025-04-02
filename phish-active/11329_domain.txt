@@ -1,0 +1,38 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T11:00:04-03:00 - 2a09:bac5:c82c:de1::162:ef
+
+domain:      hootter.com.br
+owner:       Lucas Oliveira
+ownerid:     ***.490.347-**
+country:     BR
+owner-c:     LUOLI2777
+tech-c:      LUOLI2777
+nserver:     ns1.dns-parking.com
+nsstat:      20250322 AA
+nslastaa:    20250322
+nserver:     ns2.dns-parking.com
+nsstat:      20250322 AA
+nslastaa:    20250322
+saci:        yes
+created:     20241214 #28878120
+changed:     20241214
+expires:     20261214
+status:      published
+provider:    HSTDOMAINS (127)
+
+nic-hdl-br:  LUOLI2777
+person:      Lucas Oliveira
+e-mail:      lucas_fran@hotmail.com
+country:     BR
+created:     20240110
+changed:     20240110
+provider:    HSTDOMAINS (127)
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

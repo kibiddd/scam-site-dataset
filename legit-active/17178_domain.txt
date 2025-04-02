@@ -1,0 +1,17 @@
+   Domain Name: FREEETV.COM
+   Registry Domain ID: 154408558_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.infomaniak.com
+   Registrar URL: http://www.infomaniak.com
+   Updated Date: 2024-04-26T18:03:55Z
+   Creation Date: 2005-05-04T10:01:54Z
+   Registry Expiry Date: 2025-05-04T10:01:54Z
+   Registrar: Infomaniak Network SA
+   Registrar IANA ID: 3240
+   Registrar Abuse Contact Email: abuse@infomaniak.com
+   Registrar Abuse Contact Phone: 0041228203541
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS11.INFOMANIAK.CH
+   Name Server: NS12.INFOMANIAK.CH
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:37:21Z 

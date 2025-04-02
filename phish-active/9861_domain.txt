@@ -1,0 +1,43 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T10:50:31-03:00 - 2a09:bac5:c82e:a0::10:2ec
+
+domain:      formularlimp.com.br
+owner:       FORMULAR COMERCIAL DE PRODUTOS QUIMICOS LTDA
+ownerid:     06.235.080/0001-40
+responsible: EDUARDO TANASE ZIPPERER
+country:     BR
+owner-c:     CAN5
+tech-c:      EDTZI
+nserver:     alla.ns.cloudflare.com
+nsstat:      20250326 AA
+nslastaa:    20250326
+nserver:     guss.ns.cloudflare.com
+nsstat:      20250326 AA
+nslastaa:    20250326
+created:     20070320 #3457943
+changed:     20210527
+expires:     20260320
+status:      published
+
+nic-hdl-br:  CAN5
+person:      Carlos Niemeyer
+e-mail:      info@hidea.com
+country:     BR
+created:     19980116
+changed:     20160311
+
+nic-hdl-br:  EDTZI
+person:      EDUARDO TANASE ZIPPERER
+e-mail:      formular@onda.com.br
+country:     BR
+created:     20070320
+changed:     20210519
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

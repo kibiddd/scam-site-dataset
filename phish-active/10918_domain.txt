@@ -1,0 +1,19 @@
+   Domain Name: MARUHATI.COM
+   Registry Domain ID: 18699038_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.discount-domain.com
+   Registrar URL: http://gmo.jp
+   Updated Date: 2025-01-14T15:16:02Z
+   Creation Date: 2000-01-30T08:52:28Z
+   Registry Expiry Date: 2026-01-30T08:52:28Z
+   Registrar: GMO Internet Group, Inc. d/b/a Onamae.com
+   Registrar IANA ID: 49
+   Registrar Abuse Contact Email: abuse@gmo.jp
+   Registrar Abuse Contact Phone: +81.337709199
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: 01.DNSV.JP
+   Name Server: 02.DNSV.JP
+   Name Server: 03.DNSV.JP
+   Name Server: 04.DNSV.JP
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:57:48Z 

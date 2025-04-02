@@ -1,0 +1,17 @@
+   Domain Name: GREENCITYCOLOMBIACONSTRUCTORA.COM
+   Registry Domain ID: 2784862322_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.PublicDomainRegistry.com
+   Registrar URL: http://www.publicdomainregistry.com
+   Updated Date: 2024-04-28T13:28:48Z
+   Creation Date: 2023-05-28T17:15:08Z
+   Registry Expiry Date: 2025-05-28T17:15:08Z
+   Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+   Registrar IANA ID: 303
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS20.HOSTGATOR.CO
+   Name Server: NS21.HOSTGATOR.CO
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:57:02Z 

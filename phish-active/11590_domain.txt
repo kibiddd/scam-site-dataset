@@ -1,0 +1,35 @@
+** Domain Name: idevice.com.tr
+Domain Status: Active
+Frozen Status: -
+Transfer Status: The domain is LOCKED to transfer. 
+
+** Registrant:
+   
+   Hidden upon user request
+   Hidden upon user request
+   Hidden upon user request
+   
+
+
+** Registrar:
+NIC Handle		: adh83
+Organization Name	: ATAK DOMAİN BİLGİ TEKNOLOJİLERİ ANONİM ŞİRKETİ
+Address			: Yenişehir Mah. Arda Sk. No:36 İzmit
+			  
+			  41000 Kocaeli Türkiye
+Phone			: 90-262-3259222-
+Fax			: 90-262-3249426- 
+
+
+** Domain Servers:
+ns1.devteamdns2.us
+ns2.devteamdns2.us
+
+
+** Additional Info:
+Created on..............: 2024-May-06.
+Expires on..............: 2025-May-05.
+
+
+** Whois Server:
+Last Update Time: 2025-03-27T17:35:24+03:00

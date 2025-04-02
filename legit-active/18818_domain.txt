@@ -1,0 +1,19 @@
+   Domain Name: MYCOMICSHOP.COM
+   Registry Domain ID: 7127050_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2025-03-19T22:00:36Z
+   Creation Date: 1999-06-09T16:00:32Z
+   Registry Expiry Date: 2034-06-09T16:01:11Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1271.AWSDNS-30.ORG
+   Name Server: NS-128.AWSDNS-16.COM
+   Name Server: NS-1589.AWSDNS-06.CO.UK
+   Name Server: NS-777.AWSDNS-33.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:34:09Z 

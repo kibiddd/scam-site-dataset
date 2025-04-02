@@ -1,0 +1,18 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        BUDETDEV.RU
+nserver:       dns1.yandex.net.
+nserver:       dns2.yandex.net.
+state:         REGISTERED, DELEGATED, VERIFIED
+person:        Private Person
+registrar:     R01-RU
+admin-contact: https://partner.r01.ru/contact_admin.khtml
+created:       2014-05-14T16:06:49Z
+paid-till:     2025-05-14T17:06:49Z
+free-date:     2025-06-14
+source:        TCI
+
+Last updated on 2025-03-27T13:48:01Z
+

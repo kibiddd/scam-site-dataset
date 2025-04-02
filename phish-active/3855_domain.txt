@@ -1,0 +1,17 @@
+   Domain Name: HONGHAOIT.COM
+   Registry Domain ID: 1668252772_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.35.com
+   Registrar URL: http://domain.35.com
+   Updated Date: 2024-10-09T06:51:22Z
+   Creation Date: 2011-07-22T13:18:58Z
+   Registry Expiry Date: 2025-07-22T13:18:58Z
+   Registrar: Xiamen 35.com Information Co., Ltd.
+   Registrar IANA ID: 4163
+   Registrar Abuse Contact Email: domainabuse@35.cn
+   Registrar Abuse Contact Phone: +86.4006003535
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DNS-DIY.COM
+   Name Server: NS2.DNS-DIY.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T20:24:24Z 

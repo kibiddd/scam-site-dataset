@@ -1,0 +1,19 @@
+   Domain Name: TV-EH.COM
+   Registry Domain ID: 533795007_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.ionos.com
+   Registrar URL: http://www.ionos.com
+   Updated Date: 2024-07-28T07:02:16Z
+   Creation Date: 2006-07-27T04:33:54Z
+   Registry Expiry Date: 2025-07-27T04:33:54Z
+   Registrar: IONOS SE
+   Registrar IANA ID: 83
+   Registrar Abuse Contact Email: abuse@ionos.com
+   Registrar Abuse Contact Phone: +1.6105601459
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1069.UI-DNS.BIZ
+   Name Server: NS1069.UI-DNS.COM
+   Name Server: NS1069.UI-DNS.DE
+   Name Server: NS1069.UI-DNS.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:35:39Z 

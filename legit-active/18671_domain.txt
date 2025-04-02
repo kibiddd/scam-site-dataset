@@ -1,0 +1,19 @@
+   Domain Name: VOICE123.COM
+   Registry Domain ID: 91898181_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2020-12-01T19:32:39Z
+   Creation Date: 2002-11-05T15:51:10Z
+   Registry Expiry Date: 2028-11-05T15:51:10Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1232.AWSDNS-26.ORG
+   Name Server: NS-2004.AWSDNS-58.CO.UK
+   Name Server: NS-485.AWSDNS-60.COM
+   Name Server: NS-840.AWSDNS-41.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:33:40Z 

@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        premiere.fr
+status:                        ACTIVE
+eppstatus:                     clientTransferProhibited
+hold:                          NO
+holder-c:                      CTC4320766-FRNIC
+admin-c:                       CTC4364256-FRNIC
+tech-c:                        PM19219-FRNIC
+registrar:                     GANDI
+Expiry Date:                   2025-06-15T13:59:35Z
+created:                       1995-11-20T23:00:00Z
+last-update:                   2024-11-26T14:46:27.955522Z
+source:                        FRNIC
+
+nserver:                       dane.ns.cloudflare.com
+nserver:                       nelly.ns.cloudflare.com
+source:                        FRNIC
+
+registrar:                     GANDI
+address:                       63-65 boulevard Massena
+address:                       75013 PARIS
+country:                       FR
+phone:                         +33.170377661
+fax-no:                        +33.143731851
+e-mail:                        support@support.gandi.net
+website:                       https://www.gandi.net/fr/tlds/fr/
+anonymous:                     No
+registered:                    2004-03-08T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       CTC4320766-FRNIC
+type:                          ORGANIZATION
+contact:                       HILDEGARDE
+address:                       HILDEGARDE
+address:                       6 place de la Madeleine
+address:                       75008 Paris
+country:                       FR
+phone:                         +33.616156587
+e-mail:                        2dca075ba4217e005abbaff6b83c9c1e-51430768@contact.gandi.net
+registrar:                     GANDI
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       PM19219-FRNIC
+type:                          ORGANIZATION
+contact:                       PREMIERE MEDIA
+address:                       PREMIERE MEDIA
+address:                       105 rue la Fayette
+address:                       75010 Paris
+country:                       FR
+phone:                         +33.622575136
+e-mail:                        03033a1f71e594eefae1254a14ce8df7-4803781@contact.gandi.net
+registrar:                     GANDI
+changed:                       2019-11-19T16:33:15Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       CTC4364256-FRNIC
+type:                          ORGANIZATION
+contact:                       HILDEGARDE
+address:                       HILDEGARDE
+address:                       6 place de la Madeleine
+address:                       75008 Paris
+country:                       FR
+phone:                         +33.616156587
+e-mail:                        71d12a28ee0bb24d77714027a17570b6-51504793@contact.gandi.net
+registrar:                     GANDI
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-03-26T22:59:11.765154Z 

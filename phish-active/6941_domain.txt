@@ -1,0 +1,30 @@
+Domain Name: bb.ke
+Registry Domain ID: 1261193-KENIC
+Registrar URL: https://kenyawebexperts.co.ke
+Updated Date: 2024-10-09T22:15:24Z
+Creation Date: 2021-11-09T10:05:57Z
+Registry Expiry Date: 2025-11-09T10:05:57Z
+Registrar Registration Expiration Date: 2025-11-09T10:05:57Z
+Domain Status: active https://icann.org/epp#active
+Registrar: KWE Holding Limited
+Registrar IANA ID: P052393567M
+Registrar Address: International House Limited, 4th Floor
+P.O. Box 41931 – 00100
+Nairobi
+Registrar Country: KE
+Registrar Abuse Contact Email: dan@worldhost.group
+Registrar Abuse Contact Phone: +254.722209414
+Registry Registrant ID: 1261201-KENIC
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: 
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: REDACTED FOR PRIVACY
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: CN
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Email: REDACTED FOR PRIVACY
+Name Server: zod.ns.cloudflare.com
+Name Server: rose.ns.cloudflare.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2025-03-27T00:25:56.796Z 

@@ -1,0 +1,22 @@
+Domain Name: carcaves.com.au
+Registry Domain ID: fa622d29bd3b499793a54540544b1371-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.crazydomains.com.au/contact/
+Last Modified: 2023-04-14T02:43:17Z
+Registrar Name: Web Address Registration Pty Ltd
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 2921bb3d3b754c8b9e5d9aeaafd9df79-AU
+Registrant Contact Name: Ryan Turner
+Tech Contact ID: 66178a6e51104d0e93caf587a2987e41-AU
+Tech Contact Name: Karen Turner
+Name Server: ns1.syrahost.com
+Name Server: ns2.syrahost.com
+DNSSEC: unsigned
+Registrant: TURNER, KAREN ANNE
+Registrant ID: ABN 80078326234
+Eligibility Type: Sole Trader
+>>> Last update of WHOIS database: 2025-03-26T23:02:51Z 

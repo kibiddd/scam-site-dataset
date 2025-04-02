@@ -1,0 +1,17 @@
+   Domain Name: EPIZY.COM
+   Registry Domain ID: 1822537158_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.advancedregistrar.com
+   Registrar URL: http://www.netearthone.com
+   Updated Date: 2024-04-23T08:30:31Z
+   Creation Date: 2013-08-19T21:01:06Z
+   Registry Expiry Date: 2025-08-19T21:01:06Z
+   Registrar: NetEarth One Inc. d/b/a NetEarth
+   Registrar IANA ID: 1005
+   Registrar Abuse Contact Email: a-b-u-s-e.whois.field@netearthone.com
+   Registrar Abuse Contact Phone: +44 02030 26 99 87
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.INFINITYFREE.COM
+   Name Server: NS2.INFINITYFREE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:17:08Z 

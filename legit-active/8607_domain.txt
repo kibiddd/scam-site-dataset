@@ -1,0 +1,17 @@
+   Domain Name: LEGISTORM.COM
+   Registry Domain ID: 136905330_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.cloudflare.com
+   Registrar URL: http://www.cloudflare.com
+   Updated Date: 2024-11-02T04:01:40Z
+   Creation Date: 2004-12-08T17:02:13Z
+   Registry Expiry Date: 2025-12-02T04:59:59Z
+   Registrar: Cloudflare, Inc.
+   Registrar IANA ID: 1910
+   Registrar Abuse Contact Email: registrar-abuse@cloudflare.com
+   Registrar Abuse Contact Phone: +1.6503198930
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DORA.NS.CLOUDFLARE.COM
+   Name Server: JEFF.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:09:39Z 

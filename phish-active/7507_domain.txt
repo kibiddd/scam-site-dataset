@@ -1,0 +1,18 @@
+   Domain Name: ECOLEMERIEUX.COM
+   Registry Domain ID: 1795738767_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.lws.net
+   Registrar URL: http://www.lws.fr/nom-de-domaine.php
+   Updated Date: 2025-03-20T22:51:10Z
+   Creation Date: 2013-04-22T10:10:21Z
+   Registry Expiry Date: 2025-04-22T10:10:21Z
+   Registrar: Ligne Web Services SARL dba LWS
+   Registrar IANA ID: 1630
+   Registrar Abuse Contact Email: abuse@lws.fr
+   Registrar Abuse Contact Phone: 0177627129
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.DNSHOSTSERVICES.COM
+   Name Server: NS2.DNSHOSTSERVICES.COM
+   Name Server: NS3.DNSHOSTSERVICES.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T11:12:20Z 

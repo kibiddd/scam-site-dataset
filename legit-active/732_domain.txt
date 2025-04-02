@@ -1,0 +1,17 @@
+   Domain Name: CLARKEUS.COM
+   Registry Domain ID: 95220748_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.abion.com
+   Registrar URL: http://www.abion.com
+   Updated Date: 2025-01-21T10:14:43Z
+   Creation Date: 2003-02-24T15:25:27Z
+   Registry Expiry Date: 2026-02-24T15:25:27Z
+   Registrar: Abion AB
+   Registrar IANA ID: 73
+   Registrar Abuse Contact Email: abuse@abion.com
+   Registrar Abuse Contact Phone: +46.707260015
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: A.PORTSDNS.SE
+   Name Server: B.PORTSDNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:23:24Z 

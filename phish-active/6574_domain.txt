@@ -1,0 +1,17 @@
+   Domain Name: DD365H.NET
+   Registry Domain ID: 2965591346_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.spaceship.com
+   Registrar URL: http://www.spaceship.com
+   Updated Date: 2025-03-09T06:03:13Z
+   Creation Date: 2025-03-09T06:00:14Z
+   Registry Expiry Date: 2026-03-09T06:00:14Z
+   Registrar: Spaceship, Inc.
+   Registrar IANA ID: 3862
+   Registrar Abuse Contact Email: abuse@spaceship.com
+   Registrar Abuse Contact Phone: +1.9854014545
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: JILL.NS.CLOUDFLARE.COM
+   Name Server: ROMAN.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:23:40Z 

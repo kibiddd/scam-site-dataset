@@ -1,0 +1,21 @@
+Domain Name: behaviour.com.au
+Registry Domain ID: f349d8449d044b3fad161bdc803d5de8-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.drop.com.au/
+Last Modified: 2025-02-26T03:31:15Z
+Registrar Name: DROP.com.au Pty Ltd
+Registrar Abuse Contact Email: support@drop.com.au
+Registrar Abuse Contact Phone: +61.395897946
+Reseller Name: 
+Status: ok https://identitydigital.au/get-au/whois-status-codes#ok
+Registrant Contact ID: 1332cb21cfd645c6b49ccf0949c055c7-AU
+Registrant Contact Name: callum sherwood
+Tech Contact ID: f55c367e54bd426cab5f72dfe3c3fe4e-AU
+Tech Contact Name: callum sherwood
+Name Server: ns1.abovedomains.com
+Name Server: ns2.abovedomains.com
+DNSSEC: unsigned
+Registrant: SHERWOOD, CALLUM
+Registrant ID: ABN 36723201866
+Eligibility Type: Sole Trader
+>>> Last update of WHOIS database: 2025-03-28T01:58:58Z 

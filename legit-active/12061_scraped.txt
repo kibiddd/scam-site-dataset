@@ -1,0 +1,106 @@
+ADS-GM1 GPS Receiver, Argent Data Systems
+CompanyContact usConditions of useShipping and returnsPrivacy informationAccountCreate accountLoginOrder historyYour cart is empty
+Products
+APRS and Packet Radio
+Cables Assemblies
+Connectors and Adapters
+Data and Voice Radios
+GPS Receivers and Cables
+Other Parts
+Radio Cables
+Refurbished Items
+Simplex Repeater
+Slow Scan TV
+Weather / Environment
+Downloads
+ArgentWiki
+Resellers
+Australia - Radioactive Networks
+East Asia - CRKITS
+Germany - Jäger-EDV & Dienstleistungen
+Middle East - OT5.org
+Norway - IT Partner AS
+Sweden - EMSI Tech
+Top
+»
+Catalog
+»
+GPS Receivers and Cables
+»
+»
+$45.00
+ADS-GM1 GPS Receiver
+Please note that the GPS model pictured has been discontinued.  The unit you receive will be functionally equivalent but may differ slightly in technical specifications from those shown below.
+The ADS-GM1 is a high-sensitivity GPS receiver based on the SiRFstar III chipset.  It has a 2-meter long cable terminated in a female DB9 connector that allows direct connection to an OpenTracker+, Tracker2, or any other device that provides regulated 5-volt power on pin 4.
+SiRFstar III high-sensitivity chipset
+Waterproof housing (IPX7 rating)
+Built-in low noise, high gain antenna
+Magnetic base
+LED clearly indicates positioning status
+No configuration required
+20 channel all-in-view tracking
+Sensitivity: -159 dBm typical
+Accuracy: < 10 meters 2D RMS, < 7 meters WAAS corrected, time to 1 microsecond
+Datum: WGS84
+Acquisition Rate: 1 sec hot start, 42 sec cold start
+Dynamic Limits: < 18,000 meters, < 1000 knots, < 4G acceleration
+Power Supply: 5 VDC +/- 5%, 80 mA max, 55 mA typical
+Interface: NMEA-0183 at 4800 baud, optional SiRF binary
+NMEA Messages: GGA, GSA, GSV, RMC, and optionally VTG, GLL, and ZDA
+Weight: 85 grams
+LED flashes red to indicate valid GPS fix.  Made in Taiwan.
+PinFunction
+2RS-232 data out (+/- 6v)
+3RS-232 data in
+4Power in
+5Ground
+-TTL data out (0-3v)
+-TTL data in
+Quantity1+5+ 10+ 20+ Price each$45.00$42.00$39.00$37.00
+Quantity:
+Add to Cart
+Reviews (12)
+Customers who bought this product also purchased
+Kenwood / BTECH Mobile to RJ45 Cable (CR-M2)EchoBridge RoIP Gateway ApplianceReplacement Anemometer AssemblyFingertip PTT HeadsetADS-GM2 GPS ReceiverRJ45 To Terminal Block
+Categories
+APRS and Packet Radio
+Data and Voice Radios
+Radio over IP
+Simplex Repeater
+Slow Scan TV
+Weather / Environment
+GPS Receivers and Cables
+Radio Cables
+Connectors and Adapters
+Cables Assemblies
+Other Parts
+Refurbished Items
+New products
+Specials
+Reviews
+Notifications Notify me of updates to ADS-GM1 GPS Receiver
+Reviews A very good GPS, small and locks on position very Quick!!
+I ..
+Information  Shipping & Returns Privacy Notice Contact Us
+We Accept
+Products
+Home
+New Products
+Specials
+Reviews
+Company
+Contact us
+Conditions of use
+Shipping and returns
+Privacy information
+Account
+Create account
+Login
+Order history
+Product notifications
+Argent Data Systems
+1121 Tama Ln Ste B, Santa Maria, CA
+USA
+800-274-4076
+Copyright © 2025 Argent Data Systems
+Powered by osCommerce | Designed on Mini Template System

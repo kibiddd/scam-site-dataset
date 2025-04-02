@@ -1,0 +1,19 @@
+   Domain Name: LODGING-QUEBEC.COM
+   Registry Domain ID: 100496780_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-06-15T04:09:44Z
+   Creation Date: 2003-07-14T14:18:20Z
+   Registry Expiry Date: 2025-07-14T14:18:20Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.SYSTEMDNS.COM
+   Name Server: NS2.SYSTEMDNS.COM
+   Name Server: NS3.SYSTEMDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:22:38Z 

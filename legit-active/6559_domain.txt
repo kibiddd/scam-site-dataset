@@ -1,0 +1,17 @@
+   Domain Name: MOJOKAWASAKI.COM
+   Registry Domain ID: 96402210_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2025-03-04T05:58:34Z
+   Creation Date: 2003-04-02T18:02:28Z
+   Registry Expiry Date: 2026-04-02T17:02:28Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.TURBIFY.COM
+   Name Server: NS2.TURBIFY.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:20:36Z 

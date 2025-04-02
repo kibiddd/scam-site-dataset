@@ -1,0 +1,17 @@
+   Domain Name: CRAFTINGWAYS.COM
+   Registry Domain ID: 2832276933_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.longming.com
+   Registrar URL: http://www.longming.net
+   Updated Date: 2024-11-10T13:42:13Z
+   Creation Date: 2023-11-24T12:19:13Z
+   Registry Expiry Date: 2025-11-24T12:19:13Z
+   Registrar: Longming Pte. Ltd.
+   Registrar IANA ID: 3888
+   Registrar Abuse Contact Email: abuse@longming.com
+   Registrar Abuse Contact Phone: 852.59855337
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: DM1.DNS.COM
+   Name Server: DM2.DNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:14:53Z 

@@ -1,0 +1,33 @@
+% La información a la que estás accediendo se provee exclusivamente para
+% fines relacionados con operaciones sobre nombres de dominios y DNS,
+% quedando absolutamente prohibido su uso para otros fines.
+%
+% La DIRECCIÓN NACIONAL DEL REGISTRO DE DOMINIOS DE INTERNET es depositaria
+% de la información que los usuarios declaran con la sola finalidad de
+% registrar nombres de dominio en ‘.ar’, para ser publicada en el sitio web
+% de NIC Argentina.
+%
+% La información personal que consta en la base de datos generada a partir
+% del sistema de registro de nombres de dominios se encuentra amparada por
+% la Ley N° 25326 “Protección de Datos Personales” y el Decreto
+% Reglamentario 1558/01.
+
+domain:		carlossauma.com.ar
+registrant:	20141865510
+registrar:	nicar
+registered:	2006-04-28 00:00:00
+changed:	2024-07-01 13:06:35.454666
+expire:		2025-05-28 00:00:00
+
+contact:	20141865510
+name:		SAUMA CARLOS ELIAS
+registrar:	nicar
+created:	2014-04-11 00:00:00
+changed:	2024-10-29 04:35:28.615267
+
+nserver:	dns2.servidoraweb.net ()
+nserver:	dns1.servidoraweb.net ()
+registrar:	nicar
+created:	2016-06-30 23:52:01.750970
+
+

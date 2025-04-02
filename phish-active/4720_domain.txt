@@ -1,0 +1,40 @@
+
+    Domain name:
+        buckhrsolutions.co.uk
+
+    Data validation:
+        Nominet was not able to match the registrant's name and/or address against a 3rd party source on 01-Nov-2024
+
+    Registrar:
+        Gandi [Tag = GANDI]
+        URL: https://www.gandi.net
+
+    Relevant dates:
+        Registered on: 24-Jan-2019
+        Expiry date:  24-Jan-2026
+        Last updated:  21-Dec-2024
+
+    Registration status:
+        Registered until expiry date.
+
+    Name servers:
+        ns-1457.awsdns-54.org
+        ns-1552.awsdns-02.co.uk   205.251.198.16
+        ns-559.awsdns-05.net
+        ns-91.awsdns-11.com
+
+    WHOIS lookup made at 23:00:25 26-Mar-2025
+
+-- 
+This WHOIS information is provided for free by Nominet UK the central registry
+for .uk domain names. This information and the .uk WHOIS are:
+
+    Copyright Nominet UK 1996 - 2025.
+
+You may not access the .uk WHOIS or use any data from it except as permitted
+by the terms of use available in full at https://www.nominet.uk/whoisterms,
+which includes restrictions on: (A) use of the data for advertising, or its
+repackaging, recompilation, redistribution or reuse (B) obscuring, removing
+or hiding any or all of this notice and (C) exceeding query rate or volume
+limits. The data is provided on an 'as-is' basis and may lag behind the
+register. Access may be withdrawn or restricted at any time. 

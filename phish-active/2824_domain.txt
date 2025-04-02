@@ -1,0 +1,12 @@
+Domain Name: aucklandorthopaedicpractice.co.nz
+Registrar URL: https://www.key-systems.net
+Updated Date: 2025-03-19T09:14:37Z
+Creation Date: 2008-12-22T17:32:44Z
+Original Created: 2008-12-22T17:32:44Z
+Registrar: Key-Systems GmbH
+Domain Status: ok https://icann.org/epp#ok
+Name Server: ns5.yourpracticeonline.net.au
+Name Server: ns6.yourpracticeonline.net.au
+DNSSEC: unsigned
+URL of the Domain Name Commission Limited Inaccuracy Complaint Form: https://dnc.org.nz/enquiry-form/
+>>> Last update of WHOIS database: 2025-03-26T20:20:20Z 

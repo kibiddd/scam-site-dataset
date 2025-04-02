@@ -1,0 +1,69 @@
+Domain Name: cnw.ca
+Registry Domain ID: D370216-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.cscglobal.com
+Updated Date: 2024-05-08T05:03:08Z
+Creation Date: 2000-09-27T16:30:26Z
+Registry Expiry Date: 2025-05-22T04:00:00Z
+Registrar: CSC Corporate Domains (Canada) Company
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: domainabuse@cscglobal.com
+Registrar Abuse Contact Phone: +1.3026365400
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 88837202-CIRA
+Registrant Name: Cision Canada
+Registrant Organization:
+Registrant Street: 88 Queens Quay West,  Suite 3000
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5J0B8
+Registrant Country: CA
+Registrant Phone: +1.8772697890
+Registrant Phone Ext:
+Registrant Fax: +1.8772695044
+Registrant Fax Ext:
+Registrant Email: domainmanager@cision.com
+Registry Admin ID: 88837199-CIRA
+Admin Name: Dave James
+Admin Organization: Cision US, Inc.
+Admin Street: 130 E. Randolph St
+Admin City: Chicago
+Admin State/Province: IL
+Admin Postal Code: 60601
+Admin Country: US
+Admin Phone: +1.8666395087
+Admin Phone Ext:
+Admin Fax: +1.8666395087
+Admin Fax Ext:
+Admin Email: domainmanager@cision.com
+Registry Tech ID: 88837200-CIRA
+Tech Name: Dave James
+Tech Organization: Cision US, Inc.
+Tech Street: 130 E. Randolph St
+Tech City: Chicago
+Tech State/Province: IL
+Tech Postal Code: 60601
+Tech Country: US
+Tech Phone: +1.8666395087
+Tech Phone Ext:
+Tech Fax: +1.8666395087
+Tech Fax Ext:
+Tech Email: domainmanager@cision.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: dom.ns.cloudflare.com
+Name Server: mia.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T18:31:41Z 

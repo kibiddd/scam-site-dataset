@@ -1,0 +1,21 @@
+Domain: smilemobile.pt
+Domain Status: Registered
+Creation Date: 30/03/2022 12:55:59
+Expiration Date: 30/03/2025 12:55:59
+Owner Name: 
+Owner Address: 
+Owner Locality: 
+Owner ZipCode: 
+Owner Locality ZipCode: 
+Owner Country Code: 
+Owner Email: 
+Admin Name: DMNS - DOMINIOS, S.A.
+Admin Address: Parque Multiusos, Areal Gordo, Lote 3A
+Admin Locality: Faro
+Admin ZipCode: 8005-409
+Admin Locality ZipCode: Faro
+Admin Country Code: PT
+Admin Email: dns@dominios.pt,mailmanager@dominios.pt
+Name Server: ns2.dnscpanel.com | IPv4:  and IPv6: 
+Name Server: ns1.dnscpanel.com | IPv4:  and IPv6: 
+Name Server: ns3.dnscpanel.com | IPv4:  and IPv6: 

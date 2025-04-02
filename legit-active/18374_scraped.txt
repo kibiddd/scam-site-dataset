@@ -1,0 +1,75 @@
+Laplace Transform
+Welcome
+to Vibration Data Laplace Transform Table
+Laplace
+transforms are used to solve differential equations.
+As an example, Laplace transforms are used to determine the response of
+a harmonic oscillator to an input signal.
+By Tom Irvine
+Email: tomirvine@aol.com
+Laplace
+Transform Table PDF
+Examples of the Laplace
+Transform as a Solution for Mechanical Shock and Vibration
+Problems:
+Free Vibration of a Single-Degree-of-Freedom System: free.pdf
+Response of a
+Single-degree-of-freedom System Subjected to a Unit Step Displacement: unit_step.pdf
+Response of a
+Single-degree-of-freedom System Subjected to a Classical Pulse Base
+Excitation: sbase.pdf
+Partial
+Fractions in Shock and Vibration Analysis: partial.pdf
+References
+1.
+Jan Tuma, Engineering Mathematics Handbook, McGraw-Hill, New York, 1979.
+2. F. Oberhettinger and L. Badii, Table of Laplace Transforms,
+Springer-Verlag, N.Y., 1972.
+3. M. Abramowitz and I. Stegun, editors, Handbook of Mathematical
+Functions With Formulas, Graphs, and Mathematical Tables, National
+Bureau of Standards, Washington, D.C., 1964.
+4. Peter
+O'Neil, Advanced Engineering Mathematics, Wadsworth, Belmont,
+California, 1983.
+APPENDIX A
+Gamma
+Function
+Bessel Function
+Please send comments
+and questions to Tom Irvine at: tomirvine@aol.com
+____________________________________________________________________________________________
+Laplace
+Transform Books
+Other
+Mathematics Books
+3000 Solved Problems in Calculus (Schaum's
+Solved Problems Series)
+Jan Tuma, Engineering Mathematics Handbook
+William
+Press, et al, Numerical Recipes The Art of Scientific Computing
+Frank
+Bowman, Introduction to Bessel Functions
+Other Math Pages
+math software
+Factorial
+Euler's Equation
+Bessel Function
+Gamma Function
+Partial Fractions
+Root of Complex Number
+miscellaneous
+Home
+Admissions Lottery
+Program
+.
+Ben
+Irvine Origami
+Malawi Internet Cafe
+xyz
+Hypnotherapy
+Mem
+Web
+www.vibrationdata.com
+Other Vibrationdata
+Pages:    Home
+| Tutorials

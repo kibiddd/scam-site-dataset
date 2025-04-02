@@ -1,0 +1,17 @@
+   Domain Name: FUNANDSAFEDRIVING.COM
+   Registry Domain ID: 535917136_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-07-23T18:12:19Z
+   Creation Date: 2006-07-29T22:21:16Z
+   Registry Expiry Date: 2025-07-29T22:21:16Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.HUBRAGES.COM
+   Name Server: NS2.HUBRAGES.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:05:28Z 

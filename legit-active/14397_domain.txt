@@ -1,0 +1,55 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: CNM.EDU
+
+Registrant:
+	Central New Mexico Community College
+	525 Buena Vista SE
+	Albuquerque, NM 87106
+	USA
+
+Administrative Contact:
+	ITS Director
+	Central New Mexico Community College
+	525 Buena Vista SE
+	Albuquerque, NM 87106
+	USA
+	+1.5052243030
+	ITS_DIRECTOR@cnm.edu
+
+Technical Contact:
+	ITS DCO
+	Central New Mexico Community College
+	525 Buena Vista SE
+	Albuquerque, NM 87106
+	USA
+	+1.5052244357
+	ITS_DCO@cnm.edu
+
+Name Servers:
+	ALGIN.NS.CLOUDFLARE.COM
+	CARIOCA.NS.CLOUDFLARE.COM
+
+Domain record activated:    09-May-2006
+Domain record last updated: 11-Jun-2024
+Domain expires:             31-Jul-2027

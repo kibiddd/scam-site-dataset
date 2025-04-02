@@ -1,0 +1,17 @@
+   Domain Name: PIPSPOOLSFX.COM
+   Registry Domain ID: 2932977340_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-11-10T06:01:18Z
+   Creation Date: 2024-11-09T20:39:34Z
+   Registry Expiry Date: 2025-11-09T20:39:34Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: JACOB.NS.CLOUDFLARE.COM
+   Name Server: KIA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:48:23Z 

@@ -1,0 +1,23 @@
+
+Whois Server Version 2.1.7
+
+Domain Name:                COFFEEROASTING.CO.TH
+Registrar:                  THNIC
+Name Server:                NS-A1.CLOUD.Z.COM
+Name Server:                NS-A3.CLOUD.Z.COM
+Name Server:                NS-A4.CLOUD.Z.COM
+DNSSEC:                     unsigned
+Status:                     ACTIVE
+Updated date:               14 Dec 2024
+Created date:               14 Dec 2021
+Exp date:                   14 Dec 2025
+Domain Holder Organization: Coffee Roasting Limited Partnership (ห้างหุ้นส่วนจำกัด โรงคั่วกาแฟ)
+Domain Holder Street:       Personal Information
+Domain Holder Country:      TH
+
+Tech Contact:               Personal Information
+Tech Organization:          Personal Information
+Tech Street:                Personal Information
+Tech Country:               Personal Information
+
+>>> Last updated on Thu, 27 Mar 2025 06:09:57 UTC+7 

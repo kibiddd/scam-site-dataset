@@ -1,0 +1,19 @@
+   Domain Name: CINABI.COM
+   Registry Domain ID: 2824452573_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.rrpproxy.net
+   Registrar URL: http://www.key-systems.net
+   Updated Date: 2025-02-15T20:40:37Z
+   Creation Date: 2023-10-25T14:03:45Z
+   Registry Expiry Date: 2025-10-25T14:03:45Z
+   Registrar: Key-Systems GmbH
+   Registrar IANA ID: 269
+   Registrar Abuse Contact Email: abuse@key-systems.net
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1045.UI-DNS.BIZ
+   Name Server: NS1045.UI-DNS.COM
+   Name Server: NS1045.UI-DNS.DE
+   Name Server: NS1045.UI-DNS.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:05:52Z 

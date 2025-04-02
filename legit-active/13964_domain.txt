@@ -1,0 +1,58 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: NORTHWESTERN.EDU
+
+Registrant:
+	Northwestern University
+	2001 Sheridan Rd Leverone Hall G162
+	Leverone Hall Rm G166
+	Evanston, IL 60201
+	USA
+
+Administrative Contact:
+	Domain Admin
+	Northwestern University
+	2001 Sheridan Rd Leverone Hall G162
+	Leverone Hall Rm G166
+	Evanston, IL 60201
+	USA
+	+1.8474676662
+	kohster@northwestern.edu
+
+Technical Contact:
+	Domain Admin
+	Northwestern University
+	2001 Sheridan Rd Leverone Hall G162
+	Leverone Hall Rm G166
+	Evanston, IL 60201
+	USA
+	+1.8474676662
+	kohster@northwestern.edu
+
+Name Servers:
+	ACCUVAX.NORTHWESTERN.EDU
+	CICADA.NORTHWESTERN.EDU
+
+Domain record activated:    18-Feb-1999
+Domain record last updated: 06-Nov-2024
+Domain expires:             31-Jul-2027

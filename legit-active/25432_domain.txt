@@ -1,0 +1,17 @@
+   Domain Name: MYSCHOOLREUNITED.COM
+   Registry Domain ID: 2637578774_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.rrpproxy.net
+   Registrar URL: http://www.key-systems.net
+   Updated Date: 2025-01-30T13:11:34Z
+   Creation Date: 2021-08-30T18:12:10Z
+   Registry Expiry Date: 2028-08-30T18:12:10Z
+   Registrar: Key-Systems GmbH
+   Registrar IANA ID: 269
+   Registrar Abuse Contact Email: abuse@key-systems.net
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.NDSPLITTER.COM
+   Name Server: NS2.NDSPLITTER.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T00:01:20Z 

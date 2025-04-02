@@ -1,0 +1,17 @@
+   Domain Name: PANDAW.COM
+   Registry Domain ID: 24406663_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.123-reg.co.uk
+   Registrar URL: http://www.meshdigital.com
+   Updated Date: 2024-04-08T11:27:24Z
+   Creation Date: 2000-04-07T15:39:11Z
+   Registry Expiry Date: 2025-04-07T15:39:10Z
+   Registrar: 123-Reg Limited
+   Registrar IANA ID: 1515
+   Registrar Abuse Contact Email: abuse@123-reg.co.uk
+   Registrar Abuse Contact Phone: +44.3454502310
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS01.DOMAINCONTROL.COM
+   Name Server: NS02.DOMAINCONTROL.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:12:04Z 

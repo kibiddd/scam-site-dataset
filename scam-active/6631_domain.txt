@@ -1,0 +1,17 @@
+   Domain Name: INSTABANKXY.COM
+   Registry Domain ID: 2866093524_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namebright.com
+   Registrar URL: http://www.NameBright.com
+   Updated Date: 2025-03-24T09:51:32Z
+   Creation Date: 2024-03-23T18:01:06Z
+   Registry Expiry Date: 2026-03-23T18:01:06Z
+   Registrar: DropCatch.com 1024 LLC
+   Registrar IANA ID: 2783
+   Registrar Abuse Contact Email: support@namebright.com
+   Registrar Abuse Contact Phone: 17204960020
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: EXPIRED1.NAMEBRIGHTDNS.COM
+   Name Server: EXPIRED2.NAMEBRIGHTDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:46:52Z 

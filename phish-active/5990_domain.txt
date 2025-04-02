@@ -1,0 +1,20 @@
+   Domain Name: XXUZ.COM
+   Registry Domain ID: 68497065_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.PublicDomainRegistry.com
+   Registrar URL: http://www.publicdomainregistry.com
+   Updated Date: 2025-01-24T08:01:17Z
+   Creation Date: 2001-03-30T21:29:04Z
+   Registry Expiry Date: 2026-03-30T20:29:04Z
+   Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+   Registrar IANA ID: 303
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.CHANGEIP.COM
+   Name Server: NS2.CHANGEIP.COM
+   Name Server: NS3.CHANGEIP.COM
+   Name Server: NS4.CHANGEIP.COM
+   Name Server: NS5.CHANGEIP.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:10:53Z 

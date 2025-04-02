@@ -1,0 +1,50 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T11:54:45-03:00 - 2a09:bac5:c82c:a0::10:4f1
+
+domain:      itapoanmed.com.br
+owner:       ITAPOANMED SERVICOS DE SAUDE LTDA - ME
+ownerid:     25.525.842/0001-98
+responsible: Orlando Batista
+country:     BR
+owner-c:     IGAMA
+tech-c:      DAFMA17
+nserver:     dns1.hoomhost.com
+nsstat:      20250324 AA
+nslastaa:    20250324
+nserver:     dns2.hoomhost.com
+nsstat:      20250324 AA
+nslastaa:    20250324
+nserver:     dns3.hoomhost.com
+nsstat:      20250324 AA
+nslastaa:    20250324
+nserver:     dns4.hoomhost.com
+nsstat:      20250324 AA
+nslastaa:    20250324
+saci:        yes
+created:     20180414 #18253855
+changed:     20220927
+expires:     20250414
+status:      published
+
+nic-hdl-br:  IGAMA
+person:      Igor Almeida Matos
+e-mail:      igor@pluginti.com.br
+country:     BR
+created:     20070125
+changed:     20230412
+
+nic-hdl-br:  DAFMA17
+person:      Daniel Francisco Maia
+e-mail:      daniel@hoom.com.br
+country:     BR
+created:     20080706
+changed:     20241021
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

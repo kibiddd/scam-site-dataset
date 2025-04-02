@@ -1,0 +1,17 @@
+   Domain Name: SSLMEXCHANGE.COM
+   Registry Domain ID: 2885962946_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gname.com
+   Registrar URL: http://www.gname.com
+   Updated Date: 2024-05-31T17:18:30Z
+   Creation Date: 2024-05-30T12:15:35Z
+   Registry Expiry Date: 2025-05-30T12:15:35Z
+   Registrar: Gname.com Pte. Ltd.
+   Registrar IANA ID: 1923
+   Registrar Abuse Contact Email: complaint@gname.com
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ELAINE.NS.CLOUDFLARE.COM
+   Name Server: LAKAS.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:49:08Z 

@@ -1,0 +1,420 @@
+U.S. & International Address Verification + Data Quality
+Enterprise
+Direct Marketing
+Developer
+Education
+Lookups
+Marketplace  Search
+My Account
+United States
+Our Solutions
+Data Quality Platforms
+Data Verification Tools
+Identity Verification
+E-Commerce / CRM
+Enrich
+Mailing
+Industries
+Data Quality Platforms Melissa's Full Spectrum DQ Approach. Learn More
+Unison
+Validate, Cleanse & Maintain Data Quality Without Programming.
+GovCloud Address Suite
+Verify global addresses & access change-of-address records for the U.S.
+ETL/MDM PlatformsMelissa offers a host of solutions for full spectrum data quality to ensure the success of your data.
+Data Verification Tools Melissaâs Smart, Sharp Tool Approach. Learn More
+Address Verification
+Clean your addresses to improve mail & fulfillment.
+Phone Verification
+Ensure mobile & landlines are accurate & callable.
+Email Verification
+Validate emails before hitting send.
+Name Verification
+Parse & standardize first & last names for personalization.
+Matching / Dedupe
+Combine multiple records into one golden record.
+Customer Data Management
+Discover best-in-class data quality in one platform.
+Profiling
+Analyze your data to improve its quality over time.
+Generalized Cleansing
+Cleanse any type of data fast & easy.
+Batch Address Cleansing
+Clean addresses in batch to improve delivery & customer satisfaction.
+Popular Products
+Data Quality Suite
+Global Address Verification
+Unison
+MatchUp
+Product Index
+Identity Verification   Increase compliance, reduce fraud and improve onboarding. Visit the Melissa Identity Suite
+Personator Identity
+Global eIDV tools for KYC/KYB Checks and AML compliance.
+Personator Consumer
+Fraud protection and contact verification for U.S. and Canada only.
+KYC + KYB Capabilities
+Biometric Verification
+ID Document Verification
+Identity Verification
+Age Verification
+PEP, Watchlist & Sanctions Screening
+Negative News Screening
+SSN Name Match
+Address Verification
+Business Verification
+E-commerce/CRM Apps and APIs for higher conversions, better data and more reliable shipping. See All Melissa Integrations
+Address Autocomplete
+Capture verified addresses on forms quickly with autocomplete technology.
+IP Location
+Validate IP & append geolocation data.
+Street Route
+Find distance & travel time by lat/long pairs.
+E-commerce AppsMelissa Address Validation for Shopify, Stripe & Shopware
+CRM AppsMelissa Address Validation for Dynamics 365 and Salesforce
+Enrich   Gain insight into who and where your customers are.
+Data Retriever
+Access the most flexible, on-demand third party data resource for real-time information across various categories.
+Geocoding / Reverse Geocoding
+Convert street addresses to lat/long pairs.
+U.S. Property Verify & Append
+Add 400 fields of property & mortgage data.
+Consumer Verify & Append
+Access data on 2.1 billion consumer records.
+Business Verify & Append
+Get firmographic data based on company name & address.
+Property Hazard Risk
+Identify Risk for Water, Air, Earth & Fire Hazard for U.S Properties.
+Contact Record Completion
+Add missing names, phone numbers, email addresses, postal addresses.
+Popular Products
+Personator Consumer
+Listware
+Property Web Service
+Clean Suite for CRM
+Product Index
+Mailing   Qualify for postal discounts with USPS CASS & PAVE Certified solutions.
+Postal Presorting
+Group mail by ZIP for postage discounts.
+NCOA Change of Address
+Update the addresses of U.S. & Canadian customers that have moved.
+Popular Products
+Mailers Online
+Mailers+4 Software
+SmartMover NCOA Web Service
+Product Index
+Industries  See how Melissa's solutions work across industries.
+Healthcare
+Better Data for Better Patient Care and Increased Revenue.
+CRM
+Improve CRM Data to Enhance the Customer Experience.
+Insurance
+Improve Customer, Property & Risk Intelligence.
+Ecommerce
+Create a Better Customer Experience and Reduce Cart Abandonment.
+Mailing & Shipping
+Improve Deliverability, Response, and Save on Costs.
+Real Estate
+Improve Property Intelligence to Close the Deal.
+Fintech & Financial Services
+Achieve KYC Compliance and Reduce the Risk of Fraud.
+Transportation & Logistics
+Increase Accuracy in Spatial Analysis, Mapping, and Location Intelligence.
+GOVT & Public Sector
+Maintain Communication with Constituents & Cut Waste.
+Online Gaming & Casinos
+Prevent Fraud, Maintain Compliance & Improve Profitability.
+Our Services
+Data Hygiene
+Data Enhancement
+SaaS
+Data Hygiene   Keep your mailing list up-to-date, qualify for postal discounts & reduce UAA mail.
+Address Verification / CASS ® & DPV ®
+Correct addresses to improve mail piece deliverability.
+DSF 2®
+Save on postage with premium address verification.
+NCOALink ®
+Find the addresses of U.S. customers that have moved.
+Canadian NCOA & Address Verification
+Update addresses for moving Canadian customers.
+MCOA & PCOA Change of Address
+Capture new moved to addresses not recorded by USPS.
+International Address Validation
+Clean & correct street addresses around the world.
+Email Verification
+Validate your email addresses to improve email marketing.
+Dedupe
+Eliminate duplicate records from your mailing list to reduce costs.
+Suppression
+Remove undesirable records who shouldn't receive your mail.
+Data Enhancement   Enrich your consumer or business records for greater insight & omni-channel marketing success.
+Consumer Demographics
+Learn more about who your customers are.
+Business Firmographics
+Improve lead scoring with detailed company info.
+Premium Phone Append
+Add consumer or business mobile/landline numbers.
+Reverse Phone Append
+Find mailing addresses with a phone number.
+Premium Email Append
+Add consumer or business email addresses to postal lists.
+Reverse Email Append
+Find mailing address with an email address.
+Geocoding
+Add precise location data to your list.
+Property Append
+Add property & mortgage data for better analysis.
+SIC / NAICS Coding
+Identify companies by business type.
+SaaS   Clean and update your data in the cloud, no software to maintain.
+New! Melissa Alert Service
+Cloud contact management service. Proactive monitoring & alerts.
+Listware
+Data cleansing in Excel or Online.
+Mailers Online
+Cloud postal processing for USPS/Canada Post mail.
+Data Marketplace
+Pricing
+Support
+More
+About Melissa
+Global leaders in contact data quality.
+Partners
+Melissa's technology & solutions partners.
+Customers
+View our over 10,000 satisfied customers.
+Resources
+Download Catalogs, Whitepapers & more.
+Events
+Register for our events and webinars.
+Blogs
+Melissa data quality & direct mail news.
+Videos
+Video library - watch on demand.
+E-Commerce Calculator
+How much is bad data costing you?
+Address Experts
+Articles, definitions & address solutions.
+Privacy Center
+Privacy policy, data collection & more.
+Request Demo   1-800-MELISSA
+Our Solutions
+Data Quality Platforms
+Unison
+GovCloud Address Suite
+Microsoft SQl Server
+Talend
+Semarchy
+Data Verification Tools
+Address Verification
+Phone Verification
+Email Verification
+Name Verification
+Matching / Dedupe
+Customer Data Management
+Profiling
+Generalized Cleansing
+Batch Address Cleansing
+Identity Verification
+Personator Identity
+Personator Consumer
+E-Commerce / CRM
+Address Autocomplete
+IP Location
+Street Route
+Shopify / Stripe
+Shopware
+Salesforce / Dynamics CRM
+Enrich
+Data Retriever
+Geocoding / Reverse Geocoding
+U.S. Property Verify & Append
+Consumer Verify & Append
+Business Verify & Append
+Property Hazard Risk
+Contact Record Completion
+Mailing
+Postal Presorting
+NCOA Change of Address
+Industries
+Healthcare
+CRM
+Insurance
+Ecommerce
+Mailing & Shipping
+Real Estate
+Fintech & Financial Services
+Transportation & Logistics
+GOVT & Public Sector
+Our Services
+Data Hygiene
+Address Verification/CASSÂ® & DPVÂ®
+DSF 2Â®
+NCOA Link®
+Canadian NCOA & Address Verification
+MCOA & PCOA Change of Address
+International Address Validation
+Email Verification
+Dedupe
+Suppression
+Data Enhancement
+Consumer Demographics
+Business Firmographics
+Premium Phone Append
+Reverse Phone Append
+Premium Email Append
+Reverse Email Append
+Geocoding
+Property Append
+SIC/NAICS Coding
+SaaS
+Melissa Alert Service
+Listware
+Mailers Online
+Our Data
+Our Data
+Data Marketplace
+Pricing
+Pricing
+Product & Service Pricing
+Purchase Credits
+Support
+More
+More
+About Melissa
+Partners
+Customers
+Resources
+Blogs
+Videos
+E-Commerce Calculator
+Purchase Credits
+Privacy Center
+Explore Melissa
+Explore Melissa
+Enterprise
+Direct Marketing
+Developer
+Lookups
+Marketplace
+Search
+Ding! Your Data Is Updated!
+Automatic Data Cleansing with Melissa Alert Service
+Upload your data & let us do the rest! Weâll monitor & cleanse your file for move, address & property updates, AND send alerts every time your data changes. How cool is that?
+Start Now
+The Perfect Treat for Everyone!
+Integrations InPopular Platforms
+We have many flavors of address verification and data quality! Just pick your favorite platform and get started - there's something for everyone.
+View Integrations
+Your Gateway to Global Customer Data Intelligence
+Introducing Melissa Marketplace
+Explore a revolutionary data ecosystem tailored for businesses, offering both free and premium tools and services for technology and business users alike.
+Explore Now
+A Personal Touch on a Global Scale
+New Global DataService Bureau
+With over 3 decades of expertise, our Bureau Services team will work with you directly on any data cleansing project - big or small.
+Try It Now
+Experience Makes the Difference
+The Best Address Verification. Period.
+We put 40 years of experience and domain expertise into every verified address â U.S. and International.
+Book My Demo
+Learn More
+Discover the Power of Melissa Address Verification
+Access Our Best-of-Breed Address Engine in 3 Ways
+Single Address Lookup
+Check a single or handful of U.S. or international addresses.
+Check An Address
+Batch Address Cleansing
+Process an entire address list for accuracy & completeness
+See Options
+Process File with Service Bureau
+Address Verification APIs
+Build address validation right into your own applications.
+Try Our API
+Melissa 2025 Catalog
+Download Melissaâs 2025 Catalog to explore our flexible, customizable data quality tools that will help you keep your data fresh, accurate, and up-to-date.
+Download Catalog Now
+What Would You Like to Achieve With Melissa?
+Find New Customers
+Visit Developer Portal
+Geocode an Address
+Use Lookups
+Presort Mailing List
+Find Your Solution
+Products We Offer
+01 Data Quality Platforms
+Melissa's Full Spectrum DQ Approach.
+02 Data Verification APIs
+Melissaâs Smart, Sharp Tool Approach.
+03 Identity Verification
+Increase compliance, reduce fraud and improve onboarding.
+04 E-Commerce Solutions
+Improve customer onboarding, marketing & fulfillment.
+05 Mailing Tools
+Qualify for postal discounts with USPS CASS & PAVE Certified solutions.
+06 View All Products
+Setting the Standard for Customer Engagement, Operational Efficiency & ROI.
+The Industry Leaders
+How We Can Help
+See how Melissa's solutions work across industries.
+Healthcare Providers
+Better Data for Better Patient Care and Increased Revenue.
+E-Commerce Companies
+Create a Better Customer Experience and Reduce Cart Abandonment.
+Financial Institutions
+Achieve KYC Compliance and Reduce the Risk of Fraud.
+Mailers & Shippers
+Improve Deliverability, Response, and Save on Costs.
+GOVT & Public Sector Services
+Maintain Communication with Constituents & Cut Waste.
+Transportation & Logistics
+Increase Accuracy in Spatial Analysis, Mapping, and Location Intelligence.
+Here at Melissa
+Resources For Your Success
+Catalog
+Direct Marketing Solutions
+Our new Direct Marketing Data & Services Catalog will introduce you to our simple, 3-step formula for direct marketing success.
+Read Catalog Now
+View All Catalogs
+Case Study
+Siemens
+Siemens Automatically Validates Global Address Data with Melissa.
+Read Case Study Now
+View All Case Studies
+Video
+Why Melissa?
+Melissa is trusted by 10,000 clients worldwide to provide smart, sharp solutions that clean, verify, update, match and enrich their People Data.
+Watch Video Now
+View All Videos
+Event
+Soar into Data: 7 Wonders of the World Datathon
+University of California, Irvine - UC Irvine Interdisciplinary Science and Engineering Building (ISEB) | 9am - 1pm | April 12, 2025
+Register Now
+View All Events
+Safe. Compliant. Secure.
+Data privacy and security are our highest priorities. Melissa solutions and services are GDPR and CCPA compliant and meet SOC 2, and HIPAA/HITrust standards for information security management.
+Learn More
+View All Customers
+Get in Touch
+Contact Us
+Customer Support
+Brands
+Melissa Global
+Melissa Direct
+Melissa Developer
+Melissa Lookups
+Melissa Education
+Privacy
+Privacy Center
+Privacy Policy
+Privacy Notice CA Residents
+State Law Privacy
+Cookie Policy
+EU-US Data Privacy Framework
+Certifications & Compliance
+Terms of Use
+Site Map
+Trademarks
+Terms
+Mail Preference
+Report a Vulnerability
+© Copyright 2025 by Melissa Data Corporation. All Rights Reserved.
+Do Not Sell or Share My Personal Information  Limit the Use of My Sensitive Personal Information

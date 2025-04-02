@@ -1,0 +1,18 @@
+   Domain Name: BUTCHERSHALL.COM
+   Registry Domain ID: 23133600_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.netistrar.com
+   Registrar URL: http://www.netistrar.com
+   Updated Date: 2025-03-17T17:22:36Z
+   Creation Date: 2000-03-23T08:46:52Z
+   Registry Expiry Date: 2027-03-23T07:46:52Z
+   Registrar: Netistrar Limited
+   Registrar IANA ID: 1755
+   Registrar Abuse Contact Email: abuse@netistrar.com
+   Registrar Abuse Contact Phone: +44.1283617808
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.THIS-DNS.NET
+   Name Server: NS2.THIS-DNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:31:47Z 

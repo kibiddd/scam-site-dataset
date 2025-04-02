@@ -1,0 +1,17 @@
+   Domain Name: COLORWORXONLINE.COM
+   Registry Domain ID: 89060114_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2022-03-16T18:29:31Z
+   Creation Date: 2002-08-05T19:23:25Z
+   Registry Expiry Date: 2025-08-05T19:23:25Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS63.WORLDNIC.COM
+   Name Server: NS64.WORLDNIC.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:09:51Z 

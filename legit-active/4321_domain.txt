@@ -1,0 +1,30 @@
+Domain name: grunnenrocks.nl
+Status:      active
+
+Reseller:
+   A.A. Warmerdam
+   Aarhusweg 4 12
+   9723JJ Groningen
+   Netherlands
+
+Registrar:
+   Registrar.eu
+   Hofplein 20
+   3032AC Rotterdam
+   Netherlands
+
+Abuse Contact:
+   +31.104482297
+   abuse@registrar.eu
+
+DNSSEC:      yes
+
+Domain nameservers:
+   ns20.mx10.eu
+   ns10.mx10.nl
+
+Creation Date: 1998-10-05
+
+Updated Date: 2022-07-16
+
+Record maintained by: SIDN BV

@@ -1,0 +1,17 @@
+   Domain Name: XHAMSTER.COM
+   Registry Domain ID: 906111371_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2022-02-28T10:48:40Z
+   Creation Date: 2007-04-02T12:48:32Z
+   Registry Expiry Date: 2027-04-02T12:48:32Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ANUJ.NS.CLOUDFLARE.COM
+   Name Server: SIMA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:37:04Z 

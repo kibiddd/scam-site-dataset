@@ -1,0 +1,74 @@
+Domain Name: niagararegion.ca
+Registry Domain ID: D687231-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.internic.ca
+Updated Date: 2025-03-24T05:05:46Z
+Creation Date: 2008-02-07T17:56:19Z
+Registry Expiry Date: 2026-02-07T05:00:00Z
+Registrar: Internic.ca Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@rebel.com
+Registrar Abuse Contact Phone: +1.6132252000
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 114654314-CIRA
+Registrant Name: Niagara Region
+Registrant Organization: Niagara Region
+Registrant Street: 2201 St. David's Road
+Registrant City: Thorold
+Registrant State/Province: ON
+Registrant Postal Code: L2V4T7
+Registrant Country: CA
+Registrant Phone: +1.9059806000
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: steve.biletchi@niagararegion.ca
+Registry Admin ID: 114654578-CIRA
+Admin Name: Steve Biletchi
+Admin Organization: Steve Biletchi
+Admin Street: 2201 St. David's Road
+Admin City: Thorold
+Admin State/Province: ON
+Admin Postal Code: L2V4T7
+Admin Country: CA
+Admin Phone: +1.9059806000
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: steve.biletchi@niagararegion.ca
+Registry Tech ID: 114654578-CIRA
+Tech Name: Steve Biletchi
+Tech Organization: Steve Biletchi
+Tech Street: 2201 St. David's Road
+Tech City: Thorold
+Tech State/Province: ON
+Tech Postal Code: L2V4T7
+Tech Country: CA
+Tech Phone: +1.9059806000
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: steve.biletchi@niagararegion.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns10.dnsmadeeasy.com
+Name Server: ns11.dnsmadeeasy.com
+Name Server: ns12.dnsmadeeasy.com
+Name Server: ns13.dnsmadeeasy.com
+Name Server: ns14.dnsmadeeasy.com
+Name Server: ns15.dnsmadeeasy.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T16:07:16Z 

@@ -1,0 +1,44 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T21:26:49-03:00 - 2a09:bac5:c82e:1678::23d:67
+
+domain:      donasdonegociosicredi.com.br
+owner:       WD PUBLICIDADE E DESENVOLVIMENTO DE SOFTWARE LTDA.
+ownerid:     12.318.624/0001-30
+responsible: DIEGO HENRIQUE FRANCO
+country:     BR
+owner-c:     DIHFR
+tech-c:      DIFAR87
+nserver:     ns1.dns-parking.com
+nsstat:      20250324 AA
+nslastaa:    20250324
+nserver:     ns2.dns-parking.com
+nsstat:      20250324 AA
+nslastaa:    20250324
+saci:        yes
+created:     20220502 #24412098
+changed:     20240515
+expires:     20250502
+status:      published
+
+nic-hdl-br:  DIHFR
+person:      DIEGO HENRIQUE FRANCO
+e-mail:      diegohfranco@gmail.com
+country:     BR
+created:     20061123
+changed:     20240123
+
+nic-hdl-br:  DIFAR87
+person:      diego ferreira de araujo
+e-mail:      diegonewlife@gmail.com
+country:     BR
+created:     20190604
+changed:     20220903
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

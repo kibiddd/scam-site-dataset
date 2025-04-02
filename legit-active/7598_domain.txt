@@ -1,0 +1,74 @@
+Domain Name: dominos.ca
+Registry Domain ID: D122518-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.internic.ca
+Updated Date: 2024-12-03T21:01:06Z
+Creation Date: 2000-09-28T15:59:19Z
+Registry Expiry Date: 2034-01-22T05:00:00Z
+Registrar: Internic.ca Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@rebel.com
+Registrar Abuse Contact Phone: +1.6132252000
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 93846224-CIRA
+Registrant Name: Domino's Pizza of Canada Ltd.
+Registrant Organization:
+Registrant Street: 377 Dalhousie St. Suite 201
+Registrant City: Ottawa
+Registrant State/Province: ON
+Registrant Postal Code: K1N9N8
+Registrant Country: CA
+Registrant Phone: +1.8666421232
+Registrant Phone Ext:
+Registrant Fax: +1.6137061248
+Registrant Fax Ext:
+Registrant Email: 3X6R8FYVWF3C1TLS@privacyhero.company
+Registry Admin ID: 110963515-CIRA
+Admin Name: Connor Malcolm
+Admin Organization: Privacy Hero Inc.
+Admin Street: 532 Montreal Rd,  Suite 261
+Admin City: Ottawa
+Admin State/Province: ON
+Admin Postal Code: K1K4R4
+Admin Country: CA
+Admin Phone: +1.8666421232
+Admin Phone Ext:
+Admin Fax: +1.6137061248
+Admin Fax Ext:
+Admin Email: 2TSUCJYTJSPLF8MK@privacyhero.company
+Registry Tech ID: 110963515-CIRA
+Tech Name: Connor Malcolm
+Tech Organization: Privacy Hero Inc.
+Tech Street: 532 Montreal Rd,  Suite 261
+Tech City: Ottawa
+Tech State/Province: ON
+Tech Postal Code: K1K4R4
+Tech Country: CA
+Tech Phone: +1.8666421232
+Tech Phone Ext:
+Tech Fax: +1.6137061248
+Tech Fax Ext:
+Tech Email: 2TSUCJYTJSPLF8MK@privacyhero.company
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: a1-66.akam.net
+Name Server: a10-65.akam.net
+Name Server: a11-66.akam.net
+Name Server: a13-67.akam.net
+Name Server: a2-64.akam.net
+Name Server: a8-65.akam.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T16:05:53Z 

@@ -1,0 +1,22 @@
+
+Whois Server Version 2.1.7
+
+Domain Name:                LAZADA.CO.TH
+Registrar:                  THNIC
+Name Server:                NS1.ALIBABADNS.COM
+Name Server:                NS2.ALIBABADNS.COM
+DNSSEC:                     unsigned
+Status:                     ACTIVE
+Updated date:               26 Feb 2025
+Created date:               17 Mar 2012
+Exp date:                   16 Mar 2027
+Domain Holder Organization: Lazada Limited (บริษัท ลาซาด้า จำกัด)
+Domain Holder Street:       Personal Information
+Domain Holder Country:      TH
+
+Tech Contact:               Personal Information
+Tech Organization:          Personal Information
+Tech Street:                Personal Information
+Tech Country:               Personal Information
+
+>>> Last updated on Fri, 28 Mar 2025 08:58:13 UTC+7 

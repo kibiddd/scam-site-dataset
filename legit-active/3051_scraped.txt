@@ -1,0 +1,40 @@
+How To Calculate Upper & Lower Control Limits
+ScienceAstronomyBiologyChemistryGeologyNaturePhysicsMathAlgebraGeometryTechnologyElectronicsFeatures
+Advertise
+About
+Editorial Policies
+Privacy Policy
+Terms of Use
+© 2025                                Static Media. All Rights Reserved
+How To Calculate Upper & Lower Control Limits
+Science
+Math
+Technology
+Features
+Advertise
+Math
+How To Calculate Upper & Lower Control Limits
+By
+Damon Verial
+Updated Mar 24, 2022
+sergeyryzhov/iStock/GettyImages
+Upper and lower control limits are an important part of statistical quality control, an indispensable mathematical tool used in manufacturing and other disciplines. The limits tell a manufacturer if random variations in the production process are indeed random or if they arise from problems such as tool wear, flawed materials or environmental changes. The calculation is a relatively simple one, relying on statistical mean and standard deviation.
+The Causation of Variation
+The Causation of Variation
+Every process contains variation. For example, two pieces of metal produced by the same manufacturer will not always have exact same thickness; the thickness will vary to a degree. Usually, that variation is natural and randomly distributed, which means that the differences are scattered around the average. Sometimes, however, that variation stems from special causes. If the variation comes from a non-natural source, this implies that the process is out of control. The determination of whether variation comes from a non-natural source relies on an important statistical concept: the standard deviation, which is a measure of the variation of the process.
+Statistics: Defining Processes’ Characteristics
+Statistics: Defining Processes' Characteristics
+Statistically, a process is in control if the majority of its variation falls within a certain range. Manufacturers will set that range by calculating the upper and lower control limits. They then use those limits to check whether a process is in or out of control. An in-control process produces results that fall within three standard deviations of the average. This is because a natural process only produces results that fall outside the three-standard-deviations range 1 percent of the time, according to the properties of the statistical normal distribution.
+Abstract Statistics into Tangible Limits
+Abstract Statistics into Tangible Limits
+You can easily calculate the upper and lower control limits through sampling the process and running a few calculations. Statistical computing packages can make this process simple, but you can still perform it by hand. Collect a sample composed of at least 20 measurements from the process in question. Find the average and standard deviation of the sample. Add three times the standard deviation to the average to get the upper control limit. Subtract three times the standard deviation from the average to get the lower control limit.
+Algebra Is Enough
+Algebra Is Enough
+Algebra is all that you need to calculate the control limits by hand. Calculate the mean by summing the measurements and dividing by the sample size. Calculate the standard deviation by subtracting each measurement from the mean and squaring the results individually. Next, sum the set of individual numbers. Divide the sum by the sample size minus one. Finally, square the result to compute the standard deviation.
+References
+Sam Houston State University: Statistical Process Control
+Cite This Article MLA
+Verial, Damon. "How To Calculate Upper & Lower Control Limits" sciencing.com, https://www.sciencing.com/calculate-upper-lower-control-limits-4963222/. 13 March 2018. APA
+Verial, Damon. (2018, March 13). How To Calculate Upper & Lower Control Limits. sciencing.com. Retrieved from https://www.sciencing.com/calculate-upper-lower-control-limits-4963222/ Chicago
+Verial, Damon. How To Calculate Upper & Lower Control Limits last modified March 24, 2022. https://www.sciencing.com/calculate-upper-lower-control-limits-4963222/
+Recommended

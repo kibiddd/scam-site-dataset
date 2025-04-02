@@ -1,0 +1,21 @@
+Domain Name: CEKILIS.PW
+Registry Domain ID: D500251254-CNIC
+Registrar WHOIS Server: whois.spaceship.com
+Registrar URL: https://www.spaceship.com/
+Updated Date: 2024-12-06T18:03:52.0Z
+Creation Date: 2024-11-07T13:11:18.0Z
+Registry Expiry Date: 2025-11-07T23:59:59.0Z
+Registrar: Spaceship, Inc.
+Registrar IANA ID: 3862
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Email: https://whois.nic.pw/contact/cekilis.pw/registrant
+Admin Email: https://whois.nic.pw/contact/cekilis.pw/admin
+Tech Email: https://whois.nic.pw/contact/cekilis.pw/tech
+Name Server: FRANK.NS.CLOUDFLARE.COM
+Name Server: HERA.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: https://whois.nic.pw/contact/cekilis.pw/billing
+Registrar Abuse Contact Email: abuse@spaceship.com
+Registrar Abuse Contact Phone: +1.6613102107
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T23:03:36.0Z 

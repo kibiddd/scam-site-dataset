@@ -1,0 +1,17 @@
+   Domain Name: TIMETEMPERATURE.COM
+   Registry Domain ID: 13352505_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2023-11-17T01:53:20Z
+   Creation Date: 1999-11-17T01:41:48Z
+   Registry Expiry Date: 2033-11-17T01:41:48Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS4.PAIR.COM
+   Name Server: NS9.NS0.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:15:05Z 

@@ -1,0 +1,17 @@
+   Domain Name: ELYRICSWORLD.COM
+   Registry Domain ID: 121659293_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.mainreg.com
+   Registrar URL: http://www.mainreg.com
+   Updated Date: 2024-06-07T07:14:02Z
+   Creation Date: 2004-06-03T11:34:02Z
+   Registry Expiry Date: 2025-06-03T11:34:02Z
+   Registrar: MainReg Inc.
+   Registrar IANA ID: 1917
+   Registrar Abuse Contact Email: complain@mainreg.com
+   Registrar Abuse Contact Phone: +359 888 832133
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: BILL.NS.CLOUDFLARE.COM
+   Name Server: CORTNEY.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:57:05Z 

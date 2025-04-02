@@ -1,0 +1,36 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T11:54:44-03:00 - 2a09:bac5:c82e:1032::19d:17a
+
+domain:      isoarautomacao.com.br
+owner:       Isoar Automa��o Industrial ltda
+ownerid:     73.483.661/0001-99
+responsible: Carlos Alberto Gysi
+country:     BR
+owner-c:     CAAGY1
+tech-c:      CAAGY1
+nserver:     ns1.onda.com.br
+nsstat:      20250327 AA
+nslastaa:    20250327
+nserver:     ns2.onda.com.br
+nsstat:      20250327 AA
+nslastaa:    20250327
+created:     20070813 #3825482
+changed:     20240814
+expires:     20290813
+status:      published
+
+nic-hdl-br:  CAAGY1
+person:      CARLOS ALBERTO GYSI
+e-mail:      engenharia@isoarautomacao.com.br
+country:     BR
+created:     20191007
+changed:     20231025
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

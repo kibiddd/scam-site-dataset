@@ -1,0 +1,21 @@
+   Domain Name: MUSICRADAR.COM
+   Registry Domain ID: 110513191_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.lexsynergy.com
+   Registrar URL: http://www.lexsynergy.com
+   Updated Date: 2024-12-25T23:41:05Z
+   Creation Date: 2004-01-24T19:09:08Z
+   Registry Expiry Date: 2026-01-24T19:09:08Z
+   Registrar: Lexsynergy Limited
+   Registrar IANA ID: 1466
+   Registrar Abuse Contact Email: abuse@lexsynergy.com
+   Registrar Abuse Contact Phone: +442031370459
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1260.AWSDNS-29.ORG
+   Name Server: NS-128.AWSDNS-16.COM
+   Name Server: NS-1717.AWSDNS-22.CO.UK
+   Name Server: NS-884.AWSDNS-46.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:12:24Z 

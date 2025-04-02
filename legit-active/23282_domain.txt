@@ -1,0 +1,19 @@
+   Domain Name: SANKEI.COM
+   Registry Domain ID: 3569323_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.discount-domain.com
+   Registrar URL: http://gmo.jp
+   Updated Date: 2024-04-04T15:26:27Z
+   Creation Date: 1997-04-19T04:00:00Z
+   Registry Expiry Date: 2025-04-20T04:00:00Z
+   Registrar: GMO Internet Group, Inc. d/b/a Onamae.com
+   Registrar IANA ID: 49
+   Registrar Abuse Contact Email: abuse@gmo.jp
+   Registrar Abuse Contact Phone: +81.337709199
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1351.AWSDNS-40.ORG
+   Name Server: NS-1881.AWSDNS-43.CO.UK
+   Name Server: NS-311.AWSDNS-38.COM
+   Name Server: NS-804.AWSDNS-36.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T22:46:39Z 

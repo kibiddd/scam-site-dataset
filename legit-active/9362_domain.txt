@@ -1,0 +1,20 @@
+   Domain Name: ALIBABA.COM
+   Registry Domain ID: 5435352_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: grs-whois.hichina.com
+   Registrar URL: http://www.net.cn
+   Updated Date: 2024-10-15T02:00:11Z
+   Creation Date: 1999-04-15T04:00:00Z
+   Registry Expiry Date: 2026-05-23T19:54:58Z
+   Registrar: Alibaba Cloud Computing (Beijing) Co., Ltd.
+   Registrar IANA ID: 420
+   Registrar Abuse Contact Email: DomainAbuse@service.aliyun.com
+   Registrar Abuse Contact Phone: +86.95187
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.ALIBABADNS.COM
+   Name Server: NS2.ALIBABADNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:12:09Z 

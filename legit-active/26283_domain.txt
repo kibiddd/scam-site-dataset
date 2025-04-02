@@ -1,0 +1,18 @@
+   Domain Name: BRAINYHISTORY.COM
+   Registry Domain ID: 102984967_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.cloudflare.com
+   Registrar URL: http://www.cloudflare.com
+   Updated Date: 2024-03-10T16:12:02Z
+   Creation Date: 2003-09-02T20:02:23Z
+   Registry Expiry Date: 2025-09-02T20:02:23Z
+   Registrar: Cloudflare, Inc.
+   Registrar IANA ID: 1910
+   Registrar Abuse Contact Email: registrar-abuse@cloudflare.com
+   Registrar Abuse Contact Phone: +1.6503198930
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DINA.NS.CLOUDFLARE.COM
+   Name Server: PAUL.NS.CLOUDFLARE.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 2371 13 2 076817D0D48B0DEAC7F3D73132A980BF14AEE9F279FD34A42A3B54C32C8B4A87
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T00:04:36Z 

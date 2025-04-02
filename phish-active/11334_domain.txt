@@ -1,0 +1,35 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+Domain Information: [ドメイン情報]
+[Domain Name]                   HOSHIKUSO.JP
+
+[登録者名]                      長和町
+[Registrant]                    NAGAWA Town
+
+[Name Server]                   ns1.tsukaeru.ne.jp
+[Name Server]                   ns2.tsukaeru.ne.jp
+[Signing Key]                   
+
+[登録年月日]                    2008/08/25
+[有効期限]                      2025/08/31
+[状態]                          Active
+[ロック状態]                    DomainTransferLocked
+[ロック状態]                    AgentChangeLocked
+[最終更新]                      2024/09/01 01:05:04 (JST)
+
+Contact Information: [公開連絡窓口]
+[名前]                          長和町
+[Name]                          NAGAWA Town
+[Email]                         joho@town.nagawa.nagano.jp
+[Web Page]                       
+[郵便番号]                      386-0603
+[住所]                          長野県小県郡長和町
+                                古町4247-1
+                                長和町役場
+[Postal Address]                4247-1 Furumachi
+                                Chiisagatagun Nagawamachi, Nagano 386-0603, JAPAN
+[電話番号]                      0268752043
+[FAX番号]                       
+

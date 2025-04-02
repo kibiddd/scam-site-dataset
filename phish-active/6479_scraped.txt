@@ -1,0 +1,1 @@
+🟠Chain IdAccount🤖BalanceMetaMaskA crypto wallet & gateway to blockchain appsConnect with MetaMaskWallet ConnectOpen protocol for connecting Wallets to DappsConnect with WalletConnectHello Dapp StarterEdit pages/index.tsx and save to test HMR updates.ProductsWayBuilt with love from jellydnDocumentNextjs DocsHardhatdaisyUIWeb3 React1-click Deployment

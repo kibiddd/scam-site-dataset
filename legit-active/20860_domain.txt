@@ -1,0 +1,17 @@
+   Domain Name: WONDERPUPPY.NET
+   Registry Domain ID: 7657974_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2023-04-13T21:49:41Z
+   Creation Date: 1999-07-01T21:49:08Z
+   Registry Expiry Date: 2025-07-01T21:49:08Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.LUNARMANIA.COM
+   Name Server: NS2.LUNARMANIA.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:57:07Z 

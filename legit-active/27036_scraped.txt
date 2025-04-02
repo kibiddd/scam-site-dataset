@@ -1,0 +1,112 @@
+MathPages: Number Theory
+Number Theory
+Symmetric Pseudoprimes
+Is e Normal?
+The Half-Totient Tree
+Limit Cycles of xy (mod x+y)
+A Knot of Congruences
+Fermat's Last Theorem for Cubes
+Digit Reversal Sums Leading to Palindromes
+Self-Similar Reverse-Sum Sequences
+The Sum of the Prime Factors of N
+Sequence Partitionable Into Powers of 2 or 3
+Iterated Sum-of-Digits Function
+If ab+1, ac+1, bc+1 are squares,...
+Zeisel Numbers
+Quadratic Reciprocity
+Highly Wilsonian Primes
+Quadratic Congruences
+Squares in Arithmetic Progression (mod p)
+Numeri Idonei
+Sequences With No Arithmetic Progressions
+A Primality Criterion
+Can n Divide !n ?
+Periods of Fibonacci Sequences mod m
+Diophantine Walk-a-thon
+Barlow's Observation
+Divisors of an n-term Geometric Series
+More Results on the Form xy (mod x+y)
+Sums of Three Cubes
+Congruences Involving the Totient Function
+Infinitely Many Rhondas
+Why z Is Not a Prime Power in z^p = x^p + y^p
+Evidence for Goldbach
+Perrin's Sequence
+Miscellaneous Diophantine Equations
+No Four Squares In Arithmetic Progression
+Gauss' Lemma Without Divisibility Arguments
+Product Divisible By Sum of Squares
+Lucas and Perrin Pseudoprimes
+Pseudoprimes For x^2 - 4x - 9
+Primitive Roots and Exponential Iterations
+Pythagorean Graphs
+On Case 1 of Fermat's Last Theorem
+Coprime Partitions
+The 450 Pound Problem (x^3 + y^3 = 6z^3)
+Rational Triangles in Spacetime
+Reverse Greed for Unit Fractions
+The Amanda Arrangement
+Sum of Divisors Equals a Power of 2
+Sublime Numbers
+On  x^2 + y^3 = z^6
+A Method Of Factoring Based On 1/N
+The Distribution of Perfection
+Square Triangular Numbers
+Fermat's Last Theorem for Quadratic Integers
+Tetrahedra with Edges in Arithmetic Progression
+Diophantine n-tuples and their Duals
+Differences Between Powers
+Recurrences and Pell Equations
+In Defense of Base-Related Problems
+On x^3 - x + y^3 - y = z^3 - z
+On the Density of Some Exceptional Primes
+Double Equations from Triangles in Squares
+Differently Perfect
+A Special Property of 151
+Simple Complex Quadratic Fields
+The Euclidean Algorithm
+Casting Out Nines
+Detecting Squares
+Numbers Expressible As (a^2 - 1)(b^2 - 1)
+Concordant Forms
+Summations and Recurrences
+Solving Magic Squares
+Unit Fractions and Fibonacci
+The 2 Ohm Problem
+Reflective and Cyclic Sets of Primes
+Unit Fraction Partitions
+Squares Close to Cubes
+N = (x^2 + y^2)/(1+xy) Is A Square
+Proof of Generalized Little Theorem of Fermat
+Minimizing the Denominators in Unit Fraction Expansions
+On General Palindromic Numbers
+Series Within Parallel Resistor Circuits
+Sums of Consecutive Nth Powers Equal to an Nth Power
+Integer Sequences Related to PI
+Smallest Quadrilateral With Distinct Integer Sides
+Mock-Rational Numbers
+Coherent Arrays of Squares
+Magic Square of Squares
+Orthomagic Square of Squares
+Automedian Triangles and Magic Squares
+Continued Fractions and Characteristic Recurrences
+One In The Chamber
+The Greedy Algorithm for Unit Fractions
+Average of Sigma(n)/n
+Lucas's Primality Test With Factored N-1
+Highly Heronian Ellipses
+How Leibniz Might Have Anticipated Euler
+Odd Greedy Unit Fraction Expansions
+Factoring Zeta
+Triangles and Diophantine n-Tuples
+Accidental Melodies
+Some Properties of the Lucas Sequence
+Four Squares From Three Numbers
+Meandering Convergence of a Dirichlet Series
+Geodesic Diophantine Boxes
+Least Significant Non-Zero Digit of n!
+Discordance Impedes Square Magic
+No Progression of Four Rectangles On A Conic?
+Whole Permutation Fractions
+A Unique Intersection Pattern for Plane Curves
+Math Pages Main Menu

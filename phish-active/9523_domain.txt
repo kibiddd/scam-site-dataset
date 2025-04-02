@@ -1,0 +1,42 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T09:53:06-03:00 - 2a09:bac5:c82c:188c::272:56
+
+domain:      festainfantilbh.com.br
+owner:       LEANDRO BULH�ES PIRES
+ownerid:     ***.822.746-**
+country:     BR
+owner-c:     LEBPI56
+tech-c:      LEBPI56
+nserver:     ns1.task.com.br
+nsstat:      20250327 AA
+nslastaa:    20250327
+nserver:     ns2.task.com.br
+nsstat:      20250327 AA
+nslastaa:    20250327
+nserver:     ns3.task.com.br
+nsstat:      20250327 AA
+nslastaa:    20250327
+nserver:     ns4.task.com.br
+nsstat:      20250327 AA
+nslastaa:    20250327
+saci:        yes
+created:     20231108 #27032914
+changed:     20241115
+expires:     20251108
+status:      published
+
+nic-hdl-br:  LEBPI56
+person:      LEANDRO BULH�ES PIRES
+e-mail:      leandrobpires@gmail.com
+country:     BR
+created:     20230317
+changed:     20250114
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

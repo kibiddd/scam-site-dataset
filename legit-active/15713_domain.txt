@@ -1,0 +1,102 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        lemonde.fr
+status:                        ACTIVE
+eppstatus:                     serverUpdateProhibited
+eppstatus:                     serverTransferProhibited
+eppstatus:                     serverDeleteProhibited
+eppstatus:                     serverRecoverProhibited
+hold:                          NO
+holder-c:                      SEDM254-FRNIC
+admin-c:                       SEDM255-FRNIC
+tech-c:                        N17024-FRNIC
+registrar:                     NAMESHIELD
+Expiry Date:                   2025-06-09T22:08:09Z
+created:                       2005-08-02T14:16:36Z
+last-update:                   2024-06-12T22:09:39.881923Z
+source:                        FRNIC
+
+nserver:                       ns-cloud-b1.googledomains.com
+nserver:                       ns-cloud-b2.googledomains.com
+nserver:                       ns-cloud-b3.googledomains.com
+nserver:                       ns-cloud-b4.googledomains.com
+source:                        FRNIC
+
+registrar:                     NAMESHIELD
+address:                       39 boulevard des Capucines
+address:                       75002 PARIS
+country:                       FR
+phone:                         +33.241182828
+fax-no:                        +33.241182829
+e-mail:                        registrar@nameshield.net
+website:                       https://www.nameshield.com/contact-nameshield/
+anonymous:                     No
+registered:                    1997-12-29T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       SEDM254-FRNIC
+type:                          ORGANIZATION
+contact:                       SOCIETE EDITRICE du monde
+address:                       SOCIETE EDITRICE DU MONDE
+address:                       67-69 avenue Pierre Mendes-France
+address:                       75013 PARIS
+country:                       FR
+phone:                         +33.157282224
+e-mail:                        domain_names@lemonde.fr
+registrar:                     NAMESHIELD
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     serverUpdateProhibited
+eppstatus:                     associated
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       N17024-FRNIC
+type:                          ORGANIZATION
+contact:                       NAMESHIELD
+address:                       TECHNICAL department
+address:                       79 rue Desjardins
+address:                       49100 ANGERS
+country:                       FR
+phone:                         +33.241182828
+fax-no:                        +33.241182829
+e-mail:                        technical@nameshield.net
+registrar:                     NAMESHIELD
+changed:                       2025-03-27T17:20:23.914432Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       SEDM255-FRNIC
+type:                          ORGANIZATION
+contact:                       SOCIETE EDITRICE du monde
+address:                       SOCIETE EDITRICE DU MONDE
+address:                       67-69 avenue Pierre Mendes-France
+address:                       75013 PARIS
+country:                       FR
+phone:                         +33.157282224
+e-mail:                        domain_names@lemonde.fr
+registrar:                     NAMESHIELD
+changed:                       2022-11-01T07:38:07.668742Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-03-27T18:31:09.037399Z 

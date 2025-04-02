@@ -1,0 +1,23 @@
+Domain Name: australianoftheyear.org.au
+Registry Domain ID: 4bf88594a9a24ffea480acac01f44b82-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://elb.www.netregistry.com.au/contact-us/
+Last Modified: 2024-12-03T04:02:30Z
+Registrar Name: Melbourne IT
+Registrar Abuse Contact Email: abuse@webcentral.com.au
+Registrar Abuse Contact Phone: +61.279080901
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: cf4ce8a1b9384f42b8961765cd07969a-AU
+Registrant Contact Name: Mark Fraser
+Tech Contact ID: 6228b69fb46a4f8b805d52f0037725af-AU
+Tech Contact Name: Domain Administration
+Name Server: ns1.netregistry.net
+Name Server: ns2.netregistry.net
+Name Server: ns3.netregistry.net
+DNSSEC: unsigned
+Registrant: NATIONAL AUSTRALIA DAY COUNCIL
+Registrant ID: ABN 76050300626
+Eligibility Type: Company
+>>> Last update of WHOIS database: 2025-03-27T22:43:48Z 

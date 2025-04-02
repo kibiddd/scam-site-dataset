@@ -1,0 +1,71 @@
+Domain Name: cupe.ca
+Registry Domain ID: D11938-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: webnames.ca
+Updated Date: 2025-01-17T16:01:42Z
+Creation Date: 2000-10-25T21:38:51Z
+Registry Expiry Date: 2026-03-13T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email: abuse@webnames.ca
+Registrar Abuse Contact Phone: +1.8662217878
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R16775-CIRA
+Registrant Name: Canadian Union of Public Employees / Syndicat Canadien de la Fonction Publique
+Registrant Organization:
+Registrant Street: 1375 St. Laurent Blvd
+Registrant City: Ottawa
+Registrant State/Province: ON
+Registrant Postal Code: K1G0Z7
+Registrant Country: CA
+Registrant Phone: +1.6132371590
+Registrant Phone Ext: 300
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: snava@cupe.ca
+Registry Admin ID: C874976-CIRA
+Admin Name: Stephen Nava
+Admin Organization: Canadian Union of Public Employees / Syndicat Canadien de la Fon
+Admin Street: 1375 St. Laurent Blvd
+Admin City: Ottawa
+Admin State/Province: ON
+Admin Postal Code: K1G0Z7
+Admin Country: CA
+Admin Phone: +1.6132371590
+Admin Phone Ext: 300
+Admin Fax:
+Admin Fax Ext:
+Admin Email: snava@cupe.ca
+Registry Tech ID: C874976-CIRA
+Tech Name: Stephen Nava
+Tech Organization: Canadian Union of Public Employees / Syndicat Canadien de la Fon
+Tech Street: 1375 St. Laurent Blvd
+Tech City: Ottawa
+Tech State/Province: ON
+Tech Postal Code: K1G0Z7
+Tech Country: CA
+Tech Phone: +1.6132371590
+Tech Phone Ext: 300
+Tech Fax:
+Tech Fax Ext:
+Tech Email: snava@cupe.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1-09.azure-dns.com
+Name Server: ns2-09.azure-dns.net
+Name Server: ns3-09.azure-dns.org
+Name Server: ns4-09.azure-dns.info
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T21:51:22Z 

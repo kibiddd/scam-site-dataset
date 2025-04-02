@@ -1,0 +1,24 @@
+Domain Name: FSCYTE.FUN
+Registry Domain ID: D524913726-CNIC
+Registrar WHOIS Server: whois.aliyun.com
+Registrar URL: http://www.alibabacloud.com
+Updated Date: 2025-02-11T20:06:36.0Z
+Creation Date: 2025-02-06T19:57:33.0Z
+Registry Expiry Date: 2026-02-06T23:59:59.0Z
+Registrar: Dominet (HK) Limited
+Registrar IANA ID: 3775
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registrant Organization: usd
+Registrant State/Province: tauuan city
+Registrant Country: AF
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: DENVER.NS.CLOUDFLARE.COM
+Name Server: MAEVE.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: DomainAbuse@service.aliyun.com
+Registrar Abuse Contact Phone: +86.95187
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:46:08.0Z 

@@ -1,0 +1,18 @@
+   Domain Name: GLOBALTRADEMAX.COM
+   Registry Domain ID: 2915790280_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.webnic.cc
+   Registrar URL: http://www.webnic.cc
+   Updated Date: 2024-09-11T00:46:25Z
+   Creation Date: 2024-09-11T00:46:25Z
+   Registry Expiry Date: 2025-09-11T00:46:25Z
+   Registrar: Web Commerce Communications Limited dba WebNic.cc
+   Registrar IANA ID: 460
+   Registrar Abuse Contact Email: compliance_abuse@webnic.cc
+   Registrar Abuse Contact Phone: +60.189836788
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.CLOUDOON.COM
+   Name Server: NS2.CLOUDOON.NET
+   Name Server: NS3.CLOUDOON.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:52:17Z 

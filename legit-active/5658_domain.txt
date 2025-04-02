@@ -1,0 +1,18 @@
+   Domain Name: ERICBOWERSPHOTO.COM
+   Registry Domain ID: 1527687643_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.dreamhost.com
+   Registrar URL: http://www.DreamHost.com
+   Updated Date: 2024-10-08T07:59:22Z
+   Creation Date: 2008-11-08T21:23:36Z
+   Registry Expiry Date: 2025-11-08T21:23:36Z
+   Registrar: DreamHost, LLC
+   Registrar IANA ID: 431
+   Registrar Abuse Contact Email: domain-abuse@dreamhost.com
+   Registrar Abuse Contact Phone: +1.7148729370
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DREAMHOST.COM
+   Name Server: NS2.DREAMHOST.COM
+   Name Server: NS3.DREAMHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:16:20Z 

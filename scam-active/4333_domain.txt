@@ -1,0 +1,17 @@
+   Domain Name: TRADEYUK.COM
+   Registry Domain ID: 2923257838_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.yoursrs.com
+   Registrar URL: http://www.realtimeregister.com
+   Updated Date: 2024-12-06T11:19:46Z
+   Creation Date: 2024-10-07T11:09:33Z
+   Registry Expiry Date: 2025-10-07T11:09:33Z
+   Registrar: Realtime Register B.V.
+   Registrar IANA ID: 839
+   Registrar Abuse Contact Email: rtr-security-threats@realtimeregister.com
+   Registrar Abuse Contact Phone: +31.384530759
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: A.SHARE-DNS.COM
+   Name Server: B.SHARE-DNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:46:06Z 

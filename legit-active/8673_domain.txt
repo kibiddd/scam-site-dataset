@@ -1,0 +1,69 @@
+Domain Name: thethunderbird.ca
+Registry Domain ID: D413853-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.easydns.ca
+Updated Date: 2024-08-26T20:16:44Z
+Creation Date: 2006-09-13T22:07:34Z
+Registry Expiry Date: 2025-09-13T04:00:00Z
+Registrar: easyDNS Technologies Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@easydns.com
+Registrar Abuse Contact Phone: +1.4165358672
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 6939209-CIRA
+Registrant Name: University of British Columbia 'Graduate School of Journalism'
+Registrant Organization:
+Registrant Street: 6388 Crescent Road
+Registrant City: Vancouver
+Registrant State/Province: BC
+Registrant Postal Code: V6T1Z2
+Registrant Country: CA
+Registrant Phone: +1.6048226688
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: jrnl.journal@ubc.ca
+Registry Admin ID: 5749942-CIRA
+Admin Name: UBC Journalism
+Admin Organization:
+Admin Street: 6388 Crescent Road
+Admin City: Vancouver
+Admin State/Province: BC
+Admin Postal Code: V6T1Z2
+Admin Country: CA
+Admin Phone: +1.6048226688
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: jrnl.journal@ubc.ca
+Registry Tech ID: 5749942-CIRA
+Tech Name: UBC Journalism
+Tech Organization:
+Tech Street: 6388 Crescent Road
+Tech City: Vancouver
+Tech State/Province: BC
+Tech Postal Code: V6T1Z2
+Tech Country: CA
+Tech Phone: +1.6048226688
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: jrnl.journal@ubc.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ben.ns.cloudflare.com
+Name Server: jean.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T16:10:01Z 

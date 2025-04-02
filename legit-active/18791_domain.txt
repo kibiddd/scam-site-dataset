@@ -1,0 +1,18 @@
+   Domain Name: AIRCALCULATOR.COM
+   Registry Domain ID: 1552015418_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2025-03-13T05:47:11Z
+   Creation Date: 2009-04-12T07:00:28Z
+   Registry Expiry Date: 2026-04-12T07:00:28Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS1.REGISTRAR-SERVERS.COM
+   Name Server: DNS2.REGISTRAR-SERVERS.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 39795 13 1 3B675FF5F0CF4E01C8BFDA440015A979D971F783
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:34:09Z 

@@ -1,0 +1,17 @@
+   Domain Name: INDO-LITEFINANCE.COM
+   Registry Domain ID: 2552244717_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.101domain.com
+   Registrar URL: http://101domain.com
+   Updated Date: 2024-06-13T00:05:55Z
+   Creation Date: 2020-08-11T09:23:27Z
+   Registry Expiry Date: 2025-08-11T09:23:27Z
+   Registrar: 101domain GRS Limited
+   Registrar IANA ID: 1011
+   Registrar Abuse Contact Email: abuse@101domain.com
+   Registrar Abuse Contact Phone: +17604448674
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: KANYE.NS.CLOUDFLARE.COM
+   Name Server: SONIA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:47:21Z 

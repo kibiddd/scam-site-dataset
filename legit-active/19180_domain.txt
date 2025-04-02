@@ -1,0 +1,21 @@
+Domain Name: poorclares.ie
+Registry Domain ID: 773883-IEDR
+Registrar WHOIS Server: whois.weare.ie
+Registrar URL: 101domain.com/ie
+Updated Date: 2025-03-06T00:05:30Z
+Creation Date: 2003-03-20T00:00:00Z
+Registry Expiry Date: 2026-03-20T15:23:29Z
+Registrar: 101 Domain
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@101domain.com
+Registrar Abuse Contact Phone: +1.7604448674
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 538064-IEDR
+Registrant Name: Poor Clares Sisters
+Registry Admin ID: 535919-IEDR
+Registry Tech ID: 535919-IEDR
+Registry Billing ID: REDACTED FOR PRIVACY
+Name Server: ns1.kualo.net
+Name Server: ns2.kualo.net
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2025-03-27T21:36:09Z 

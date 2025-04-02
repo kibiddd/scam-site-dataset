@@ -1,0 +1,2 @@
+Domain: bdz-baden.de
+Status: connect

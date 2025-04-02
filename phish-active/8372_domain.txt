@@ -1,0 +1,21 @@
+%%
+%% This is the NIC Chile Whois server (whois.nic.cl).
+%%
+%% Rights restricted by copyright.
+%% See https://www.nic.cl/normativa/politica-publicacion-de-datos-cl.pdf
+%%
+
+Domain name: lefn.cl
+Registrant name: COMERCIALIZADORA EXCLUSIVE LIMITADA
+Registrant organisation: 
+Registrar name: NIC Chile
+Registrar URL: https://www.nic.cl
+Creation date: 2008-08-05 18:01:34 CLST
+Expiration date: 2026-08-31 14:01:34 CLST
+Name server: ns1.ciberinc.cl
+Name server: ns2.ciberinc.cl
+
+%%
+%% For communication with domain contacts please use website.
+%% See https://www.nic.cl/registry/Whois.do?d=lefn.cl
+%%

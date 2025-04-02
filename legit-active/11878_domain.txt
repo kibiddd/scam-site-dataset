@@ -1,0 +1,22 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        MOSCOWFILMFESTIVAL.RU
+nserver:       ns3-l2.nic.ru.
+nserver:       ns4-cloud.nic.ru.
+nserver:       ns4-l2.nic.ru.
+nserver:       ns8-cloud.nic.ru.
+nserver:       ns8-l2.nic.ru.
+state:         REGISTERED, DELEGATED, UNVERIFIED
+org:           ANO international festivals and management directorate
+taxpayer-id:   7710475756
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2007-04-03T20:00:00Z
+paid-till:     2025-04-03T21:00:00Z
+free-date:     2025-05-05
+source:        TCI
+
+Last updated on 2025-03-27T15:58:01Z
+

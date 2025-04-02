@@ -1,0 +1,22 @@
+Domain Name: demandmanager.com.au
+Registry Domain ID: 8c46b9ecfd424d13b28538a252a608c9-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://elb.www.netregistry.com.au/contact-us/
+Last Modified: 2024-04-30T00:06:26Z
+Registrar Name: Melbourne IT
+Registrar Abuse Contact Email: abuse@webcentral.com.au
+Registrar Abuse Contact Phone: +61.279080901
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 81027b71db5d4513babf002a71bce92c-AU
+Registrant Contact Name: Jeffery Bye
+Tech Contact ID: a10d21438d5d49cfa6b52bda5b1b7739-AU
+Tech Contact Name: Jeffery Bye
+Name Server: ns1.server-cpanel.com
+Name Server: ns2.server-cpanel.com
+DNSSEC: unsigned
+Registrant: DEMANDMANAGER PTY. LTD.
+Registrant ID: ACN 115850729
+Eligibility Type: Company
+>>> Last update of WHOIS database: 2025-03-27T22:46:22Z 

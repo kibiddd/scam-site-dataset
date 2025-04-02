@@ -1,0 +1,19 @@
+   Domain Name: KCDXCLUB.COM
+   Registry Domain ID: 466322653_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.ionos.com
+   Registrar URL: http://www.ionos.com
+   Updated Date: 2024-05-30T07:48:04Z
+   Creation Date: 2006-05-30T03:31:33Z
+   Registry Expiry Date: 2025-05-30T03:31:33Z
+   Registrar: IONOS SE
+   Registrar IANA ID: 83
+   Registrar Abuse Contact Email: abuse@ionos.com
+   Registrar Abuse Contact Phone: +1.6105601459
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1019.UI-DNS.BIZ
+   Name Server: NS1098.UI-DNS.DE
+   Name Server: NS1100.UI-DNS.COM
+   Name Server: NS1110.UI-DNS.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T15:01:06Z 

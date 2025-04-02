@@ -1,0 +1,18 @@
+   Domain Name: JOEYCOSIOMERCADO.COM
+   Registry Domain ID: 2603617804_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.name.com
+   Registrar URL: http://www.name.com
+   Updated Date: 2024-03-16T16:44:10Z
+   Creation Date: 2021-04-07T22:51:47Z
+   Registry Expiry Date: 2025-04-07T22:51:47Z
+   Registrar: Name.com, Inc.
+   Registrar IANA ID: 625
+   Registrar Abuse Contact Email: abuse@name.com
+   Registrar Abuse Contact Phone: 7202492374
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DIGITALOCEAN.COM
+   Name Server: NS2.DIGITALOCEAN.COM
+   Name Server: NS3.DIGITALOCEAN.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:55:50Z 

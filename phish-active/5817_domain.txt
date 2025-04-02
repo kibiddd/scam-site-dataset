@@ -1,0 +1,15 @@
+Domain Name: cogebanque.co.rw
+Registry Domain ID: 2366-CoCCA
+Updated Date: 2024-11-09T10:00:14Z
+Creation Date: 2012-12-31T22:00:00Z
+Registry Expiry Date: 2025-12-23T14:30:00Z
+Registrar Registration Expiration Date: 2025-12-23T14:30:00Z
+Registrar: AOS
+Registrar Country: RW
+Registrar Phone: 4141/0788187404/5/8
+Domain Status: active https://icann.org/epp#active
+Name Server: ns4.aos.rw
+Name Server: ns5.aos.rw
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T23:10:13.111Z 

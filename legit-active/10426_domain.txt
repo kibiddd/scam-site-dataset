@@ -1,0 +1,60 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: SHIP.EDU
+
+Registrant:
+	Shippensburg University
+	1871 Old Main Drive
+	Shippensburg University
+	Shippensburg, PA 17257
+	USA
+
+Administrative Contact:
+	Domain Admin
+	Shippensburg University
+	1871 Old Main Drive
+	Shippensburg University
+	Shippensburg, PA 17257
+	USA
+	+1.7174771421
+	web@ship.edu
+
+Technical Contact:
+	William Pooler
+	Shippensburg University
+	Computing Technologies Center
+	Shippensburg University
+	1871 Old Main Dr
+	Shippensburg, PA 17257
+	USA
+	+1.7174771421
+	noc@ship.edu
+
+Name Servers:
+	ARK.SHIP.EDU
+	NS1.SHIP.EDU
+	ACORN.GROVE.IUP.EDU
+
+Domain record activated:    17-Feb-1992
+Domain record last updated: 03-Jun-2022
+Domain expires:             31-Jul-2025

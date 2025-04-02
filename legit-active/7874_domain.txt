@@ -1,0 +1,19 @@
+   Domain Name: CROSSWORDHEAVEN.COM
+   Registry Domain ID: 1569193759_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.dreamhost.com
+   Registrar URL: http://www.DreamHost.com
+   Updated Date: 2024-07-17T15:18:54Z
+   Creation Date: 2009-09-16T02:53:53Z
+   Registry Expiry Date: 2026-09-16T02:53:53Z
+   Registrar: DreamHost, LLC
+   Registrar IANA ID: 431
+   Registrar Abuse Contact Email: domain-abuse@dreamhost.com
+   Registrar Abuse Contact Phone: +1.7148729370
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.LINODE.COM
+   Name Server: NS2.LINODE.COM
+   Name Server: NS3.LINODE.COM
+   Name Server: NS4.LINODE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:06:38Z 

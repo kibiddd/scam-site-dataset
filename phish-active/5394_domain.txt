@@ -1,0 +1,17 @@
+   Domain Name: CHINAFMI.COM
+   Registry Domain ID: 1752047161_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.dnspod.cn
+   Registrar URL: http://www.dnspod.cn
+   Updated Date: 2024-10-07T17:18:29Z
+   Creation Date: 2012-10-14T10:56:57Z
+   Registry Expiry Date: 2025-10-14T10:56:57Z
+   Registrar: DNSPod, Inc.
+   Registrar IANA ID: 1697
+   Registrar Abuse Contact Email: abuse@dnspod.com
+   Registrar Abuse Contact Phone: +86.4009100100
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: F1G1NS1.DNSPOD.NET
+   Name Server: F1G1NS2.DNSPOD.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:05:22Z 

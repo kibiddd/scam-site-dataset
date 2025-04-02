@@ -1,0 +1,24 @@
+Domain Name: indianweddingdecorators.com.au
+Registry Domain ID: eb6416ee7e75493d8fb5bfac340c46d9-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.godaddy.com/en-au/contact-us
+Last Modified: 2024-06-03T02:42:47Z
+Registrar Name: GoDaddy.com LLC trading as GoDaddy.com
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4426008800
+Reseller Name: 
+Status: clientDeleteProhibited https://identitydigital.au/get-au/whois-status-codes#clientDeleteProhibited
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Status: clientUpdateProhibited https://identitydigital.au/get-au/whois-status-codes#clientUpdateProhibited
+Registrant Contact ID: 5b64dcfa41f7477e8f0ff1c5f768f4e0-AU
+Registrant Contact Name: Priti Mehta
+Tech Contact ID: ce2038c741874f6792d261023284d591-AU
+Tech Contact Name: Priti Mehta
+Name Server: ns07.domaincontrol.com
+Name Server: ns08.domaincontrol.com
+DNSSEC: unsigned
+Registrant: PRITI KANUBHAI MEHTA
+Registrant ID: ABN 20518019328
+Eligibility Type: Sole Trader
+>>> Last update of WHOIS database: 2025-03-27T14:53:18Z 

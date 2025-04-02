@@ -1,0 +1,17 @@
+   Domain Name: F-FULLNET.COM
+   Registry Domain ID: 1599860871_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.discount-domain.com
+   Registrar URL: http://gmo.jp
+   Updated Date: 2024-05-15T16:41:45Z
+   Creation Date: 2010-05-31T01:20:08Z
+   Registry Expiry Date: 2025-05-31T01:20:08Z
+   Registrar: GMO Internet Group, Inc. d/b/a Onamae.com
+   Registrar IANA ID: 49
+   Registrar Abuse Contact Email: abuse@gmo.jp
+   Registrar Abuse Contact Phone: +81.337709199
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.DNS.NE.JP
+   Name Server: NS2.DNS.NE.JP
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T12:53:00Z 

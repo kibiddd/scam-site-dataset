@@ -1,0 +1,44 @@
+Domain:                       dhl4you.sk
+Created:                      2021-04-23
+Valid Until:                  2025-04-23
+Updated:                      2024-09-11
+Domain Status:                clientTransferProhibited
+Nameserver:                   ns2.dhl.com
+Nameserver:                   ns4.dhl.com
+Nameserver:                   ns6.dhl.com
+DNSSEC:                       Yes
+
+Domain registrant:            DEU491725157
+Name:                         Organization
+Organization:                 Deutsche Post AG
+Organization ID:              HRB6792
+Phone:                        +49.22818296701
+Email:                        domains@deutschepost.de
+Street:                       Charles-de-Gaulle-Strasse 20
+City:                         Bonn
+Postal Code:                  53113
+Country Code:                 DE
+Authorised Registrar:         KEYS-1001
+Created:                      2024-03-07
+Updated:                      2024-03-07
+
+Registrar:                    KEYS-1001
+Name:                         Markus Germann
+Organization:                 Key-Systems GmbH
+Organization ID:              HRB 18835
+Phone:                        +49.68949396850
+Email:                        registry@key-systems.net
+Street:                       Kaiserstraße 172-174
+City:                         St. Ingbert
+Postal Code:                  66386
+Country Code:                 DE
+Created:                      2017-09-13
+Updated:                      2025-03-26
+
+Administrative Contact:       CFD3444217567
+Created:                      2024-03-07
+Updated:                      2024-03-07
+
+Technical Contact:            DGA10681892321
+Created:                      2024-03-07
+Updated:                      2024-03-07

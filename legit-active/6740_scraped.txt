@@ -1,0 +1,32 @@
+Components and Cross References - Electronic Circuits, TV Schematics, Audio
+☰
+×
+HomeSchematicsCross ReferenceAudio ICModel-to-ChassisSMD (230.000 ref)SMD DatabookFaults & FixesLCD REPAIR
+Home
+Equipment Schematics Database
+Service Manual and Service Mode.
+In this website you can find equipment schematics and technical information for : TV, DVD, VCR, Car Audio. You can also find circuits to do at home, equivalence of electronic components and integrated circuits.
+Repair Tips and TV faults
+Repair tips and faults for several models, tvs, audio, LCD, LED, Plasma.
+Repair Tips
+Search TVs by IC, Model and Brand
+Many of schematics in database have now ICs, search by repair diagram with IC reference or Part Number...
+Schematics
+SMD databook and cross reference
+SMD components have a large number of references and, many times can be replaced by convencional components...
+SMD Cross References
+Model to Chassis
+Check chassis for diferent models...
+Model to Chassis
+LCD IC Protection
+Ohm's Law
+Wind Energy
+Batt. Calculator
+Audio Circuits
+Circuits to do...
+Circuits DIY
+Audio Amplifiers
+Inverters
+Power Supplies
+Privacy - Cookies (PT)Legal (PT)
+Contacts2025 Electronica PT

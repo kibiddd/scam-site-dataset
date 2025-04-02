@@ -1,0 +1,21 @@
+   Domain Name: TOYSRUS.COM
+   Registry Domain ID: 2172792_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-10-06T09:25:11Z
+   Creation Date: 1995-11-08T05:00:00Z
+   Registry Expiry Date: 2025-11-07T05:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1385.AWSDNS-45.ORG
+   Name Server: NS-1725.AWSDNS-23.CO.UK
+   Name Server: NS-426.AWSDNS-53.COM
+   Name Server: NS-977.AWSDNS-58.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T22:44:57Z 

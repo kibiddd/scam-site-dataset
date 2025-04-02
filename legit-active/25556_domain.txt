@@ -1,0 +1,17 @@
+   Domain Name: LAPTOPLUNCHES.COM
+   Registry Domain ID: 2964064087_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: www.gname.com/whois
+   Registrar URL: http://www.gname.com
+   Updated Date: 2025-03-06T13:06:18Z
+   Creation Date: 2025-03-03T19:02:27Z
+   Registry Expiry Date: 2026-03-03T19:02:27Z
+   Registrar: Gname 181 Inc
+   Registrar IANA ID: 4194
+   Registrar Abuse Contact Email: ZYS@GNAME.COM
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: A10.SHARE-DNS.COM
+   Name Server: B10.SHARE-DNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T00:01:51Z 

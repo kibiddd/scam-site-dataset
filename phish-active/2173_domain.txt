@@ -1,0 +1,102 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        amsinternational.fr
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      AMSI10-FRNIC
+admin-c:                       AI7636-FRNIC
+tech-c:                        UIS153-FRNIC
+registrar:                     IONOS SE
+Expiry Date:                   2025-10-25T08:03:20Z
+created:                       2011-06-09T15:32:06Z
+last-update:                   2025-02-21T16:29:42.058363Z
+source:                        FRNIC
+
+nserver:                       ns1074.ui-dns.com
+nserver:                       ns1079.ui-dns.org
+nserver:                       ns1081.ui-dns.biz
+nserver:                       ns1108.ui-dns.de
+source:                        FRNIC
+
+registrar:                     IONOS SE
+address:                       Ernst-Frey Strasse 9
+address:                       76135 KARLSRUHE
+country:                       DE
+phone:                         +49.7219137450
+fax-no:                        +49.72191374215
+e-mail:                        hostmaster@1und1.de
+website:                       https://ionos.com
+anonymous:                     No
+registered:                    2001-01-15T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       AI7636-FRNIC
+type:                          ORGANIZATION
+contact:                       ams international
+address:                       ams international
+address:                       chemin du charbonnier 60
+address:                       69200 VéNissieux
+country:                       FR
+phone:                         +33.624971919
+e-mail:                        fatimamerzouki@yahoo.fr
+registrar:                     IONOS SE
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       AMSI10-FRNIC
+type:                          ORGANIZATION
+contact:                       A M S INTERNATIONAL
+address:                       60, chemin du Charbonnier
+address:                       69200 Venissieux
+country:                       FR
+phone:                         +33.624971919
+e-mail:                        fatimamerzouki@yahoo.fr
+registrar:                     IONOS SE
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRY
+eligdate:                      2018-02-06T00:00:00Z
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRY
+reachdate:                     2018-02-06T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       UIS153-FRNIC
+type:                          ORGANIZATION
+contact:                       1&1 Internet SARL
+address:                       1&1 Internet SARL
+address:                       7, place de la Gare
+address:                       57200 Sarreguemines
+country:                       FR
+phone:                         +33.970808911
+fax-no:                        +33.387959974
+e-mail:                        hostmaster@1and1.fr
+registrar:                     IONOS SE
+changed:                       2025-03-26T15:53:09.920302Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-03-26T17:45:43.529468Z 

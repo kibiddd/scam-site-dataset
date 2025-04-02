@@ -1,0 +1,17 @@
+   Domain Name: BUGSBENNETT.COM
+   Registry Domain ID: 242731532_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enomdomains.com
+   Updated Date: 2024-10-29T01:55:02Z
+   Creation Date: 2005-10-31T20:24:43Z
+   Registry Expiry Date: 2025-10-31T19:24:43Z
+   Registrar: eNom, LLC
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS3.2NDCITYHOST.COM
+   Name Server: NS4.2NDCITYHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:17:22Z 

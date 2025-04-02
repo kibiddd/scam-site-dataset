@@ -1,0 +1,25 @@
+Domain Name: THEWORLD2.SHOP
+Registry Domain ID: DO13104536-GMO
+Registrar WHOIS Server:
+Registrar URL: http://www.godaddy.com
+Updated Date: 2025-03-13T09:10:53.0Z
+Creation Date: 2025-02-13T10:31:00.0Z
+Registry Expiry Date: 2026-02-13T23:59:59.0Z
+Registrar: GoDaddy.com LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrant State/Province: Arizona
+Registrant Country: US
+Registrant Email:
+Admin Email:
+Tech Email:
+Name Server: ALBERTO.NS.CLOUDFLARE.COM
+Name Server: ELOISE.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:49:27.0Z 

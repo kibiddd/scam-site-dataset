@@ -1,0 +1,24 @@
+Domain Name: gsrservices.com.au
+Registry Domain ID: 1df10d197dd24d338204031680b65c86-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.crazydomains.com.au/contact/
+Last Modified: 2024-06-09T00:30:13Z
+Registrar Name: Web Address Registration Pty Ltd
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: e670d83052fd495bb9ef15a70998a4e8-AU
+Registrant Contact Name: Scott Gatis
+Tech Contact ID: 25595468706b4ccbadae14c83ec64b32-AU
+Tech Contact Name: Private Tech
+Name Server: ns1.webcity.com.au
+Name Server IP: 203.17.36.33
+Name Server: ns2.webcity.com.au
+Name Server IP: 203.17.36.4
+DNSSEC: unsigned
+Registrant: THOMAS, SCOTT
+Registrant ID: ABN 90459005381
+Eligibility Type: Sole Trader
+>>> Last update of WHOIS database: 2025-03-27T13:57:34Z 

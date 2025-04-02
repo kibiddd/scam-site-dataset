@@ -1,0 +1,19 @@
+   Domain Name: MILITARY-ART.COM
+   Registry Domain ID: 22225100_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.PublicDomainRegistry.com
+   Registrar URL: http://www.publicdomainregistry.com
+   Updated Date: 2025-02-06T11:31:50Z
+   Creation Date: 2000-03-12T19:18:30Z
+   Registry Expiry Date: 2026-03-12T18:18:30Z
+   Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+   Registrar IANA ID: 303
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.STACKDNS.COM
+   Name Server: NS2.STACKDNS.COM
+   Name Server: NS3.STACKDNS.COM
+   Name Server: NS4.STACKDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:34:18Z 

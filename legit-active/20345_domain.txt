@@ -1,0 +1,21 @@
+   Domain Name: NTXE-NEWS.COM
+   Registry Domain ID: 87428871_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.directnic.com
+   Registrar URL: http://www.directnic.com
+   Updated Date: 2024-04-27T07:14:14Z
+   Creation Date: 2002-06-11T11:15:53Z
+   Registry Expiry Date: 2025-06-11T11:15:53Z
+   Registrar: DNC Holdings, Inc.
+   Registrar IANA ID: 291
+   Registrar Abuse Contact Email: abuse@directnic.com
+   Registrar Abuse Contact Phone: +1.5043550081
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS0.DIRECTNIC.COM
+   Name Server: NS1.DIRECTNIC.COM
+   Name Server: NS2.DIRECTNIC.COM
+   Name Server: NS3.DIRECTNIC.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:54:52Z 

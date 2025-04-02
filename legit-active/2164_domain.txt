@@ -1,0 +1,38 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+Domain Information: [ドメイン情報]
+[Domain Name]                   GAMEWITH.JP
+
+[登録者名]                      （登録者からの申請により非表示）
+                                詳細は→https://jprs.jp/about/dom-rule/whois-concealment/
+[Registrant]                    (Not displayed by registrant's request)
+                                For details -> https://jprs.jp/about/dom-rule/whois-concealment/ (only in Japanese)
+
+[Name Server]                   ns-1706.awsdns-21.co.uk
+[Name Server]                   ns-593.awsdns-10.net
+[Name Server]                   ns-1433.awsdns-51.org
+[Name Server]                   ns-275.awsdns-34.com
+[Signing Key]                   
+
+[登録年月日]                    2013/06/11
+[有効期限]                      2025/06/30
+[状態]                          Active
+[最終更新]                      2024/07/01 01:05:03 (JST)
+
+Contact Information: [公開連絡窓口]
+[名前]                          Whois情報公開代行サービス by お名前.com
+[Name]                          Whois Privacy Protection Service by onamae.com
+[Email]                         proxy@whoisprotectservice.com
+[Web Page]                       
+[郵便番号]                      150-8512
+[住所]                          東京都渋谷区
+                                桜丘町 26-1
+                                セルリアンタワー 11階
+[Postal Address]                Shibuya-ku
+                                26-1 Sakuragaoka-cho
+                                Cerulean Tower 11F
+[電話番号]                      +81.354562560
+[FAX番号]                       
+

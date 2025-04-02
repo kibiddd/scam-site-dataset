@@ -1,0 +1,21 @@
+   Domain Name: DRMIKECHIROPRACTOR.COM
+   Registry Domain ID: 2899982903_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.squarespace.domains
+   Registrar URL: http://squarespace.domains
+   Updated Date: 2024-09-05T15:35:02Z
+   Creation Date: 2024-07-17T15:49:31Z
+   Registry Expiry Date: 2025-07-17T15:49:31Z
+   Registrar: Squarespace Domains LLC
+   Registrar IANA ID: 3827
+   Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+   Registrar Abuse Contact Phone: 1-646-693-5324
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-CLOUD-A1.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-A2.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-A3.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-A4.GOOGLEDOMAINS.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 12902 8 2 C4C41E25CE4EA71CCCD3C534541DA16C8BBD830E58F0BE1854407F84DA27DAF9
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:26:56Z 

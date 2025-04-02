@@ -1,0 +1,17 @@
+   Domain Name: TURASKYMEATS.COM
+   Registry Domain ID: 115064099_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2021-03-04T12:46:05Z
+   Creation Date: 2004-03-24T22:00:33Z
+   Registry Expiry Date: 2026-03-24T21:00:33Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.IPOWER.COM
+   Name Server: NS2.IPOWER.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:39:51Z 

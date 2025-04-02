@@ -1,0 +1,70 @@
+Domain Name: halifaxentertainment.ca
+Registry Domain ID: 83663224-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.namesilo.com
+Updated Date: 2024-09-26T02:36:31Z
+Creation Date: 2020-08-12T02:29:08Z
+Registry Expiry Date: 2025-08-12T02:29:08Z
+Registrar: NameSilo Technologies Corp.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: cira-abuse@namesilo.com
+Registrar Abuse Contact Phone: +1.6024928198
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 74400073-CIRA
+Registrant Name: Tanit Marketing Solutions Inc.
+Registrant Organization:
+Registrant Street: 36168 - 5665 Spring Garden Road
+Registrant City: Halifax
+Registrant State/Province: NS
+Registrant Postal Code: B3J3S9
+Registrant Country: CA
+Registrant Phone: +1.9024494060
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: amine@saidane.com
+Registry Admin ID: 74400074-CIRA
+Admin Name: Amine Saidane
+Admin Organization: Tanit Marketing Solutions Inc.
+Admin Street: 36168 - 5665 Spring Garden Road
+Admin City: Halifax
+Admin State/Province: NS
+Admin Postal Code: B3J3S9
+Admin Country: CA
+Admin Phone: +1.9024494060
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: amine@saidane.com
+Registry Tech ID: 74400074-CIRA
+Tech Name: Amine Saidane
+Tech Organization: Tanit Marketing Solutions Inc.
+Tech Street: 36168 - 5665 Spring Garden Road
+Tech City: Halifax
+Tech State/Province: NS
+Tech Postal Code: B3J3S9
+Tech Country: CA
+Tech Phone: +1.9024494060
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: amine@saidane.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.dnsowl.com
+Name Server: ns2.dnsowl.com
+Name Server: ns3.dnsowl.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T13:58:06Z 

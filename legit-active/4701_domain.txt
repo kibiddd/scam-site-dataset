@@ -1,0 +1,19 @@
+   Domain Name: ROLCLUB.COM
+   Registry Domain ID: 173681076_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.names4ever.com
+   Registrar URL: http://www.aplus.net
+   Updated Date: 2024-11-23T13:00:16Z
+   Creation Date: 2005-06-21T23:26:37Z
+   Registry Expiry Date: 2025-06-21T23:26:37Z
+   Registrar: Hostopia Canada Corp
+   Registrar IANA ID: 52
+   Registrar Abuse Contact Email: tld-abuse@hostopia.com
+   Registrar Abuse Contact Phone: +1.8003229438
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.MYSECURECLOUDHOST.COM
+   Name Server: NS2.MYSECURECLOUDHOST.COM
+   Name Server: NS3.MYSECURECLOUDHOST.COM
+   Name Server: NS4.MYSECURECLOUDHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:11:46Z 

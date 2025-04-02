@@ -1,0 +1,22 @@
+Domain Name: dynodisplays.com.au
+Registry Domain ID: 20f95b74e0264f7c881e17bb1a67c4c2-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.crazydomains.com.au/contact/
+Last Modified: 2024-08-30T06:14:21Z
+Registrar Name: Web Address Registration Pty Ltd
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: eb5e9b20d1d742df8538173af113bd13-AU
+Registrant Contact Name: David Price
+Tech Contact ID: 377529ef3d6f4a9290cc3e1081a2b06e-AU
+Tech Contact Name: David Price
+Name Server: ns1.vodien.com
+Name Server: ns2.vodien.com
+DNSSEC: unsigned
+Registrant: The Trustee for DAVID PRICE FAMILY TRUST
+Registrant ID: ABN 77319684917
+Eligibility Type: Other
+>>> Last update of WHOIS database: 2025-03-27T11:11:35Z 

@@ -1,0 +1,17 @@
+   Domain Name: BXTRUMANHIGHSCHOOL.COM
+   Registry Domain ID: 1183918746_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.fastdomain.com
+   Registrar URL: http://www.fastdomain.com
+   Updated Date: 2024-07-26T23:10:04Z
+   Creation Date: 2007-08-27T21:59:58Z
+   Registry Expiry Date: 2027-08-27T21:59:58Z
+   Registrar: FastDomain Inc.
+   Registrar IANA ID: 1154
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:13:50Z 

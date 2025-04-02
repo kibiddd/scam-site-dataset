@@ -1,0 +1,20 @@
+   Domain Name: ALFAROHOFMANN.COM
+   Registry Domain ID: 91487925_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.cdmon.com
+   Registrar URL: https://www.cdmon.com
+   Updated Date: 2024-10-10T09:39:49Z
+   Creation Date: 2002-10-23T09:59:40Z
+   Registry Expiry Date: 2025-10-23T09:59:40Z
+   Registrar: 10dencehispahard, S.L.
+   Registrar IANA ID: 1403
+   Registrar Abuse Contact Email: abuse@cdmon.com
+   Registrar Abuse Contact Phone: +34.935677577
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.CDMON.NET
+   Name Server: NS2.CDMON.NET
+   Name Server: NS3.CDMON.NET
+   Name Server: NS4.CDMONDNS-01.ORG
+   Name Server: NS5.CDMONDNS-01.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:52:54Z 

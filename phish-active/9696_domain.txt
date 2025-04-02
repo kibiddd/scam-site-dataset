@@ -1,0 +1,41 @@
+Whois Server for the KZ top level domain name.
+This server is maintained by KazNIC Organization, a ccTLD manager for Kazakhstan Republic.
+
+Domain Name............: firstworkingpage.kz
+
+Organization Using Domain Name
+Name...................: Private Person
+Organization Name......: Private Company
+Street Address.........: Private
+City...................: Private
+State..................: Private
+Postal Code............: Private
+Country................: KZ
+
+Administrative Contact/Agent
+NIC Handle.............: HOSTERKZ-PRIVATE
+Name...................: Private Person
+Phone Number...........: +70000000000 
+Fax Number.............: +70000000000 
+Email Address..........: private@private.kz
+
+Nameserver in listed order
+
+Primary server.........: ns2.hoster.kz
+Primary ip address.....: 185.121.81.104
+
+Secondary server.......: ns3.hoster.kz
+Secondary ip address...: 89.35.125.31
+
+Secondary server.......: ns1.hoster.kz
+Secondary ip address...: 185.116.195.38
+
+
+Domain created: 2024-04-13 20:55:03 (GMT+0:00)
+Last modified : 2024-04-13 20:57:02 (GMT+0:00)
+Domain status : clientDeleteProhibited - status prevent domain deletion from the Register (статус предотвращает удаление домена из реестра)
+                clientTransferProhibited - status prohibits domain transfer without documents (статус запрещает трансфер домена без предоставления документов)
+                clientRenewProhibited - status prevent domain auto renewal without payment (статус предотвращает авто продление без оплаты)
+                
+Registar created: HOSTER.KZ
+Current Registar: HOSTER.KZ

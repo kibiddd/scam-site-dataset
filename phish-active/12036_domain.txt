@@ -1,0 +1,18 @@
+Domain Name: invite-discord.pro
+Registry Domain ID: b32afc60b221436e93c2da453da2095e-DONUTS
+Registrar WHOIS Server: whois.reg.com
+Registrar URL: 
+Updated Date: 2025-03-12T22:27:01Z
+Creation Date: 2024-03-12T09:02:47Z
+Registry Expiry Date: 2026-03-12T09:02:47Z
+Registrar: Registrar of Domain Names REG.RU LLC
+Registrar IANA ID: 1606
+Registrar Abuse Contact Email: abuse@reg.ru
+Registrar Abuse Contact Phone: +7.4955801111
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: autoRenewPeriod https://icann.org/epp#autoRenewPeriod
+Name Server: ns1.expired.reg.ru
+Name Server: ns2.expired.reg.ru
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T14:54:13Z 

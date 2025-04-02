@@ -1,0 +1,43 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T21:26:23-03:00 - 2a09:bac5:c82c:1791::259:a6
+
+domain:      doc4pay.com.br
+owner:       DW3 Tecnologia LTDA
+ownerid:     22.713.264/0001-25
+responsible: Caio Henrique Carneiro de Camargo
+country:     BR
+owner-c:     CHC222
+tech-c:      CHC222
+nserver:     ns-1172.awsdns-18.org
+nsstat:      20250324 AA
+nslastaa:    20250324
+nserver:     ns-1632.awsdns-12.co.uk
+nsstat:      20250324 AA
+nslastaa:    20250324
+nserver:     ns-401.awsdns-50.com
+nsstat:      20250324 AA
+nslastaa:    20250324
+nserver:     ns-614.awsdns-12.net
+nsstat:      20250324 AA
+nslastaa:    20250324
+saci:        yes
+created:     20190423 #19579602
+changed:     20210424
+expires:     20260423
+status:      published
+
+nic-hdl-br:  CHC222
+person:      Caio Henrique Carneiro de Camargo
+e-mail:      caio.camargo@gmail.com
+country:     BR
+created:     20040929
+changed:     20240612
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

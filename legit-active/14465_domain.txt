@@ -1,0 +1,17 @@
+   Domain Name: KAPURACU.COM
+   Registry Domain ID: 93051861_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.PublicDomainRegistry.com
+   Registrar URL: http://www.publicdomainregistry.com
+   Updated Date: 2024-12-06T10:49:48Z
+   Creation Date: 2002-12-12T07:14:59Z
+   Registry Expiry Date: 2027-12-12T07:14:59Z
+   Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+   Registrar IANA ID: 303
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: MEILANI.NS.CLOUDFLARE.COM
+   Name Server: NICK.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:59:03Z 

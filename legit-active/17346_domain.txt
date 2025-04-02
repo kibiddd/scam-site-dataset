@@ -1,0 +1,18 @@
+   Domain Name: CASINOCITYTIMES.COM
+   Registry Domain ID: 83245458_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.netim.com
+   Registrar URL: http://www.netim.com/domain-name/
+   Updated Date: 2025-01-24T23:39:24Z
+   Creation Date: 2002-02-01T15:52:23Z
+   Registry Expiry Date: 2026-02-01T15:52:23Z
+   Registrar: NETIM SAS
+   Registrar IANA ID: 1519
+   Registrar Abuse Contact Email: abuse@netim.net
+   Registrar Abuse Contact Phone: +33.972307476
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DILBERT.NS.CLOUDFLARE.COM
+   Name Server: TEGAN.NS.CLOUDFLARE.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 2371 13 2 91252FD2EAB6A1E9B35D6B669BDAE5D54E5AA2A7AADF7EF9665F284089DEC773
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:38:07Z 

@@ -1,0 +1,17 @@
+   Domain Name: REFERENCEFORBUSINESS.COM
+   Registry Domain ID: 228023602_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2018-12-29T08:07:04Z
+   Creation Date: 2005-10-12T11:24:07Z
+   Registry Expiry Date: 2028-10-12T11:24:07Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS11.DNSMADEEASY.COM
+   Name Server: NS12.DNSMADEEASY.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T01:57:02Z 

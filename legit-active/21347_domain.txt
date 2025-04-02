@@ -1,0 +1,55 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: UCMO.EDU
+
+Registrant:
+	University of Central Missouri
+	Ward Edwards 0101
+	Warrensburg, MO 64093
+	USA
+
+Administrative Contact:
+	Jim Graham
+	University of Central Missouri
+	Ward Edwards 0101
+	Warrensburg, MO 64093
+	USA
+	+1.6605434279
+	graham@ucmo.edu
+
+Technical Contact:
+	Alan Cline
+	University of Central Missouri
+	Ward Edwards 0400
+	Warrensburg, MO 64093
+	USA
+	+1.6605438539
+	hostmaster@ucmo.edu
+
+Name Servers:
+	NS1.UCMO.EDU
+	NS2.UCMO.EDU
+
+Domain record activated:    08-Dec-2006
+Domain record last updated: 21-Mar-2025
+Domain expires:             31-Jul-2026

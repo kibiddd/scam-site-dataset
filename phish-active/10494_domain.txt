@@ -1,0 +1,21 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        GOOGLERUS.RU
+nserver:       ns1.beget.com.
+nserver:       ns1.beget.pro.
+nserver:       ns2.beget.com.
+nserver:       ns2.beget.pro.
+state:         REGISTERED, DELEGATED, UNVERIFIED
+org:           OOO "ARSFIN"
+taxpayer-id:   7722445717
+registrar:     BEGET-RU
+admin-contact: whois.beget.com
+created:       2023-07-13T11:17:19Z
+paid-till:     2025-07-13T11:17:19Z
+free-date:     2025-08-13
+source:        TCI
+
+Last updated on 2025-03-27T13:53:01Z
+

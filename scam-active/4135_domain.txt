@@ -1,0 +1,18 @@
+   Domain Name: FITEXDMCC.COM
+   Registry Domain ID: 2742677968_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.nicenic.net
+   Registrar URL: https://nicenic.net/
+   Updated Date: 2024-12-13T12:41:38Z
+   Creation Date: 2022-12-05T12:26:08Z
+   Registry Expiry Date: 2025-12-05T12:26:08Z
+   Registrar: NICENIC INTERNATIONAL GROUP CO., LIMITED
+   Registrar IANA ID: 3765
+   Registrar Abuse Contact Email: abuse@nicenic.net
+   Registrar Abuse Contact Phone: +852.68584411
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: JULE.NS.CLOUDFLARE.COM
+   Name Server: VERN.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:45:50Z 

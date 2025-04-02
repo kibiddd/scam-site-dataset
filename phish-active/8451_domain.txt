@@ -1,0 +1,18 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        FAMDENT.RU
+nserver:       ns1.reg.ru.
+nserver:       ns2.reg.ru.
+state:         REGISTERED, DELEGATED, UNVERIFIED
+person:        Private Person
+registrar:     REGRU-RU
+admin-contact: http://www.reg.ru/whois/admin_contact
+created:       2019-12-18T14:05:05Z
+paid-till:     2025-12-18T14:05:05Z
+free-date:     2026-01-18
+source:        TCI
+
+Last updated on 2025-03-27T11:13:01Z
+

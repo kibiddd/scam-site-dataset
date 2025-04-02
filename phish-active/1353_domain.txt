@@ -1,0 +1,2 @@
+Domain: allemal.de
+Status: connect

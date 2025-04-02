@@ -1,0 +1,19 @@
+   Domain Name: IQBROKER.COM
+   Registry Domain ID: 909332601_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.101domain.com
+   Registrar URL: http://101domain.com
+   Updated Date: 2024-11-18T00:05:56Z
+   Creation Date: 2007-04-04T17:03:32Z
+   Registry Expiry Date: 2026-01-16T04:59:59Z
+   Registrar: 101domain GRS Limited
+   Registrar IANA ID: 1011
+   Registrar Abuse Contact Email: abuse@101domain.com
+   Registrar Abuse Contact Phone: +17604448674
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1084.AWSDNS-07.ORG
+   Name Server: NS-179.AWSDNS-22.COM
+   Name Server: NS-1874.AWSDNS-42.CO.UK
+   Name Server: NS-688.AWSDNS-22.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:46:52Z 

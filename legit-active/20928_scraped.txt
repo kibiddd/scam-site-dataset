@@ -1,0 +1,68 @@
+Search for generals
+Generals.dk
+The Generals of WWII
+Menu
+Home
+The Generals
+Search
+Acknowledgements
+Bibliography
+Links
+Search
+Last name
+Similar
+Partial
+Exact
+,
+First name
+Similar
+Partial
+Exact
+Assignment
+Partial
+Phrase
+Nation
+Australia
+Belgium
+Brazil
+Bulgaria
+Canada
+China
+Croatia
+Czechoslovakia
+Denmark
+Estonia
+Finland
+France
+Germany
+Great Britain
+Greece
+Hungary
+Italy
+Japan
+Latvia
+Lithuania
+Manchukuo
+New Zealand
+Norway
+Poland
+Romania
+South Africa
+Soviet Union
+Thailand
+The Netherlands
+USA
+Yugoslavia
+Born in the period
+–
+Birth must be known
+Died in the period
+–
+Death must be known
+Explanation
+When searching in this database you have three different ways of making the search.
+Exact ~ e.g. in last name write "montgomery of alamein". Do not just write "montgomery". Although you will find some generals named montgomery but not Monty.
+Partial ~ e.g. in last name write "montgo". This will find Monty, but also Montogomery-Massingberd.
+Similar ~ Unsure of the spelling. Is it Zhukov or Shukov then try to use similar.
+Remember that you can combine the different fields, e.g. it is always a good idea to choose, which nation you are interested in.
+Copyright © Steen Ammentorp since 2000.

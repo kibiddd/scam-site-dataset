@@ -1,0 +1,17 @@
+   Domain Name: GOLDENMILANO.COM
+   Registry Domain ID: 2959929760_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.wdomain.com
+   Registrar URL: https://www.wdomain.com
+   Updated Date: 2025-02-16T23:03:55Z
+   Creation Date: 2025-02-16T19:49:16Z
+   Registry Expiry Date: 2026-02-16T19:49:16Z
+   Registrar: WDomain.Com1 Limited
+   Registrar IANA ID: 3962
+   Registrar Abuse Contact Email: abuse@wdomain.com
+   Registrar Abuse Contact Phone: 852-59855337
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.DOMAINNAMEDNS.COM
+   Name Server: NS2.DOMAINNAMEDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:56:16Z 

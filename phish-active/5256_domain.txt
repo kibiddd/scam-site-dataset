@@ -1,0 +1,49 @@
+Domain Name: mex.tl
+Registry Domain ID: 199815-CoCCA
+Updated Date: 2023-08-08T15:58:53Z
+Creation Date: 2008-12-04T06:24:33Z
+Registry Expiry Date: 2027-12-04T06:24:33Z
+Registrar Registration Expiration Date: 2027-12-04T06:24:33Z
+Registrar: Instra Corporation
+Registrar Street Address: INSTRA CORPORATION PTY LTD
+ACN 110 054 610
+GPO Box 988
+
+Australia
+Registrar City: Melbourne
+Registrar State: VIC
+Registrar Postal Code: 3001
+Registrar Email: registry_admin@instra.com
+Domain Status: active https://icann.org/epp#active
+Registry Registrant ID: 1060071-CoCCA
+Registrant Name: Leo Limin
+Registrant Street: 446 SE 10th Ave.
+Registrant City: Canby
+Registrant State/Province: OR
+Registrant Postal Code: 97013
+Registrant Country: 
+Registrant Email: sales@webmerica.com
+Registrant Phone: +1.5035807561
+Registry Admin ID: 1060072-CoCCA
+Admin Name: Leo Limin
+Admin Street: 446 SE 10th Ave.
+Admin City: Canby
+Admin State/Province: OR
+Admin Postal Code: 97013
+Admin Country: 
+Admin Email: sales@webmerica.com
+Admin Phone: +1.5035807561
+Registry Tech ID: 1060073-CoCCA
+Tech Name: Leo Limin
+Tech Street: 446 SE 10th Ave.
+Tech City: Canby
+Tech State/Province: OR
+Tech Postal Code: 97013
+Tech Country: 
+Tech Email: sales@webmerica.com
+Tech Phone: +1.5035807561
+Name Server: ns2.pagina.mx
+Name Server: ns1.pagina.mx
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T23:04:30.057Z 

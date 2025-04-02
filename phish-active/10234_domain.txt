@@ -1,0 +1,17 @@
+   Domain Name: GFLYAD.COM
+   Registry Domain ID: 2914548015_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: https://www.zname.com/whois
+   Registrar URL: https://www.zname.com/
+   Updated Date: 2024-09-06T23:02:04Z
+   Creation Date: 2024-09-06T18:24:23Z
+   Registry Expiry Date: 2025-09-06T18:24:23Z
+   Registrar: Zname Ltd
+   Registrar IANA ID: 4042
+   Registrar Abuse Contact Email: abuse@zname.com
+   Registrar Abuse Contact Phone: 18838916808
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.DOMAINNAMEDNS.COM
+   Name Server: NS2.DOMAINNAMEDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T13:51:47Z 

@@ -1,0 +1,21 @@
+   Domain Name: DROPBOX-DEBUG.COM
+   Registry Domain ID: 2227122245_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-01-13T09:25:07Z
+   Creation Date: 2018-02-14T14:52:49Z
+   Registry Expiry Date: 2026-02-14T14:52:49Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1529.AWSDNS-63.ORG
+   Name Server: NS-1766.AWSDNS-28.CO.UK
+   Name Server: NS-287.AWSDNS-35.COM
+   Name Server: NS-537.AWSDNS-03.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:26:56Z 

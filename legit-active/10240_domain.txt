@@ -1,0 +1,19 @@
+   Domain Name: THENEXTWEB.COM
+   Registry Domain ID: 1511783316_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-07-30T17:35:37Z
+   Creation Date: 2008-08-02T19:06:27Z
+   Registry Expiry Date: 2025-08-02T19:06:27Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1447.AWSDNS-52.ORG
+   Name Server: NS-1984.AWSDNS-56.CO.UK
+   Name Server: NS-52.AWSDNS-06.COM
+   Name Server: NS-530.AWSDNS-02.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T15:00:08Z 

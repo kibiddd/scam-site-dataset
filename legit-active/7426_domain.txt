@@ -1,0 +1,59 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: MILLS.EDU
+
+Registrant:
+	Mills College
+	5000 MacArthur Boulevard
+	Oakland, CA 94613-1301
+	USA
+
+Administrative Contact:
+	Domain Name Administrator Admin
+	Mills College
+	5000 MacArthur Blvd.
+	Oakland, CA 94613-1301
+	USA
+	+1.5104302224
+	hostmaster@mills.edu
+
+Technical Contact:
+	Domain Name Administrator 
+	Mills College
+	5000 MacArthur Blvd.
+	Oakland, CA 94613-1301
+	USA
+	+1.5104302224
+	hostmaster@mills.edu
+
+Name Servers:
+	A10-66.AKAM.NET
+	A1-157.AKAM.NET
+	A12-65.AKAM.NET
+	A5-65.AKAM.NET
+	A3-64.AKAM.NET
+	A24-67.AKAM.NET
+
+Domain record activated:    09-Jan-1991
+Domain record last updated: 02-Sep-2024
+Domain expires:             31-Jul-2027

@@ -1,0 +1,43 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T21:24:02-03:00 - 2a09:bac5:c82c:1678::23d:b1
+
+domain:      deckertingimentos.com.br
+owner:       Tecelagem Nair Decker
+ownerid:     81.850.141/0001-03
+responsible: LARA ESTELA GOTTARDI
+country:     BR
+owner-c:     TENDE
+tech-c:      LAK39
+nserver:     srv.h2k.com.br
+nsstat:      20250325 AA
+nslastaa:    20250325
+nserver:     srv1.h2k.com.br
+nsstat:      20250325 AA
+nslastaa:    20250325
+created:     20100804 #7176689
+changed:     20230812
+expires:     20330804
+status:      published
+
+nic-hdl-br:  TENDE
+person:      Tecelagem Nair Decker
+e-mail:      deckerting_fapesp@terra.com.br
+country:     BR
+created:     20100804
+changed:     20100804
+
+nic-hdl-br:  LAK39
+person:      Leandro Adalberto Kohler
+e-mail:      dominios@h2k.com.br
+country:     BR
+created:     20030909
+changed:     20240520
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

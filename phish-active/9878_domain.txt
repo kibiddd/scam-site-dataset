@@ -1,0 +1,37 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T10:50:35-03:00 - 2a09:bac5:c82e:1791::259:24
+
+domain:      forzatelecom.com.br
+owner:       Bortoli Telecomunica��es - ME
+ownerid:     34.839.338/0001-53
+responsible: Raieli Do Nascimento Bortoli
+country:     BR
+owner-c:     RANBO18
+tech-c:      RANBO18
+nserver:     ns10.meganuvem.com
+nsstat:      20250326 AA
+nslastaa:    20250326
+nserver:     ns11.meganuvem.com
+nsstat:      20250326 AA
+nslastaa:    20250326
+saci:        yes
+created:     20191219 #20481538
+changed:     20250103
+expires:     20291219
+status:      published
+
+nic-hdl-br:  RANBO18
+person:      Raieli do nascimento Bortoli
+e-mail:      bortolitelecom@gmail.com
+country:     BR
+created:     20191219
+changed:     20191219
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

@@ -1,0 +1,36 @@
+** Domain Name: evd.com.tr
+Domain Status: Active
+Frozen Status: -
+Transfer Status: The domain is LOCKED to transfer. 
+
+** Registrant:
+   EVD Enerji Yönetimi ve Danışmanlık Hizmetleri San. ve Tic. A.Ş.
+   Hidden upon user request
+   Hidden upon user request
+   Hidden upon user request
+   Hidden upon user request
+
+
+** Registrar:
+NIC Handle		: dbt52
+Organization Name	: Doruk Bilişim Teknolojileri Ltd. Şti.
+Address			: Dikilitaş Mahallesi Eren Sokak No: 28 Kat:1-2
+			  Beşiktaş
+			  34349 İstanbul Türkiye
+Phone			: 90-212-3269200-
+Fax			: 90-212-2272811 
+
+
+** Domain Servers:
+dorukdns1.doruk.net.tr
+dorukdns2.doruk.net.tr
+dorukdns3.doruk.net.tr
+
+
+** Additional Info:
+Created on..............: 2006-Jan-04.
+Expires on..............: 2028-Jan-03.
+
+
+** Whois Server:
+Last Update Time: 2025-03-27T21:34:35+03:00

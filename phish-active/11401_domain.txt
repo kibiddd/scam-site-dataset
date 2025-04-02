@@ -1,0 +1,64 @@
+Domain Name: app.link
+Registry Domain ID: DO_d8d3a05f074d2dce379ad00e590c0b0e-UR
+Registrar WHOIS Server: whois.gandi.net
+Registrar URL: www.gandi.net
+Updated Date: 2024-10-22T01:08:43.843Z
+Creation Date: 2015-03-18T06:28:29.956Z
+Registry Expiry Date: 2027-03-18T06:28:29.956Z
+Registrar: Gandi SAS
+Registrar IANA ID: 81
+Registrar Abuse Contact Email: abuse@support.gandi.net
+Registrar Abuse Contact Phone: +33.170377661
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Branch
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: CA
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Billing ID: REDACTED FOR PRIVACY
+Billing Name: REDACTED FOR PRIVACY
+Billing Organization: REDACTED FOR PRIVACY
+Billing Street: REDACTED FOR PRIVACY
+Billing City: REDACTED FOR PRIVACY
+Billing State/Province: REDACTED FOR PRIVACY
+Billing Postal Code: REDACTED FOR PRIVACY
+Billing Country: REDACTED FOR PRIVACY
+Billing Phone: REDACTED FOR PRIVACY
+Billing Fax: REDACTED FOR PRIVACY
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns-1521.awsdns-62.org
+Name Server: ns-249.awsdns-31.com
+Name Server: ns-1800.awsdns-33.co.uk
+Name Server: ns-615.awsdns-12.net
+DNSSEC: unsigned
+URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf
+
+>>> Last update of WHOIS database: 2025-03-27T14:00:21.292Z 

@@ -1,0 +1,44 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-28T00:17:12-03:00 - 2a09:bac5:c82c:dcd::160:3f
+
+domain:      unb.br
+owner:       Funda��o Universidade de Bras�lia
+ownerid:     00.038.174/0001-43
+responsible: Rozana Reigota Naves (Reitora)
+country:     BR
+owner-c:     DPCUN
+tech-c:      DPCUN
+nserver:     dns1.unb.br 164.41.101.3 2801:80:b90:11:164:41:101:3
+nsstat:      20250327 AA
+nslastaa:    20250327
+nserver:     dns2.unb.br 164.41.101.6 2801:80:b90:11:164:41:101:6
+nsstat:      20250327 AA
+nslastaa:    20250327
+nserver:     dns3.unb.br 164.41.101.8 2801:80:b90:11:164:41:101:8
+nsstat:      20250327 AA
+nslastaa:    20250327
+dsrecord:    8833 ECDSA-SHA-256 00C6B2B469A623587CE5288C27DD7F066B11850BE524CBBA93DBD919FA102A13
+dsstatus:    20250327 DSOK
+dslastok:    20250327
+dsrecord:    8833 ECDSA-SHA-256 79423903FCAFB0E75B4AACCF7C361A5E2E2014DF
+dsstatus:    20250327 DSOK
+dslastok:    20250327
+created:     before 19950101
+changed:     20230524
+status:      published
+
+nic-hdl-br:  DPCUN
+person:      Domingos Pereira Costa UnB
+e-mail:      domingos@unb.br
+country:     BR
+created:     20080630
+changed:     20230524
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

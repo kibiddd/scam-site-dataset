@@ -1,0 +1,18 @@
+query : dropbox.sckcorp.co.kr
+
+
+# KOREAN(UTF8)
+
+상기 호스트이름은 등록되어 있지 않습니다.
+도메인(sckcorp.co.kr)등록 여부를 확인하신 후, 네임서버 담당자에게 문의하십시오.
+
+
+
+# ENGLISH
+
+The requested Host was not found in the Registry or Registrar’s WHOIS Server.
+
+
+
+- KISA/KRNIC WHOIS Service -
+

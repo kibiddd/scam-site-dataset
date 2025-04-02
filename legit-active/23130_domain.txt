@@ -1,0 +1,28 @@
+Domain Name: yelp.ie
+Registry Domain ID: 591376-IEDR
+Registrar WHOIS Server: whois.weare.ie
+Registrar URL: http://www.eMarkmonitor.com
+Updated Date: 2024-06-12T13:18:45Z
+Creation Date: 2005-04-27T23:00:00Z
+Registry Expiry Date: 2025-04-28T13:11:16Z
+Registrar: Markmonitor Inc
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851865
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 253128-IEDR
+Registrant Name: Yelp Inc.
+Registry Admin ID: 6714-IEDR
+Registry Tech ID: 534389-IEDR
+Registry Billing ID: REDACTED FOR PRIVACY
+Name Server: dns1.p03.nsone.net
+Name Server: dns2.p03.nsone.net
+Name Server: dns3.p03.nsone.net
+Name Server: dns4.p03.nsone.net
+Name Server: ns02.midtowndoornailns.com
+Name Server: ns03.midtowndoornailns.com
+Name Server: ns04.midtowndoornailns.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2025-03-27T22:46:09Z 

@@ -1,0 +1,32 @@
+Domain Name: theage.com.au
+Registry Domain ID: 098a94bf024b4d80bc94bb0f2f41fa34-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.cscdigitalbrand.services
+Last Modified: 2024-08-19T05:06:53Z
+Registrar Name: Corporation Service Company (Aust) Pty Ltd
+Registrar Abuse Contact Email: domainabuse@cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Reseller Name: 
+Status: serverDeleteProhibited https://identitydigital.au/get-au/whois-status-codes#serverDeleteProhibited
+Status Reason: Registry Lock
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Status: serverTransferProhibited https://identitydigital.au/get-au/whois-status-codes#serverTransferProhibited
+Status Reason: Registry Lock
+Status: serverUpdateProhibited https://identitydigital.au/get-au/whois-status-codes#serverUpdateProhibited
+Status Reason: Registry Lock
+Registrant Contact ID: 5cee003668f0481297a7251103602823-AU
+Registrant Contact Name: Admin Contact Fairfax Metro
+Tech Contact ID: 5cee003668f0481297a7251103602823-AU
+Tech Contact Name: Admin Contact Fairfax Metro
+Name Server: ns-106.awsdns-13.com
+Name Server: ns-1391.awsdns-45.org
+Name Server: ns-1683.awsdns-18.co.uk
+Name Server: ns-938.awsdns-53.net
+DNSSEC: unsigned
+Registrant: Fairfax Metro Pty Limited
+Registrant ID: ABN 55615406801
+Eligibility Type: Company
+Eligibility Name: Fairfax Metro Pty Limited
+Eligibility ID: ABN 55615406801
+>>> Last update of WHOIS database: 2025-03-27T21:58:17Z 

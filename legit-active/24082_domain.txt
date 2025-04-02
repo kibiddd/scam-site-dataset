@@ -1,0 +1,71 @@
+Domain Name: mobilehomedealers.us
+Registry Domain ID: D14123569-US
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: whois.godaddy.com
+Updated Date: 2024-09-15T16:30:10Z
+Creation Date: 2007-09-10T20:00:03Z
+Registry Expiry Date: 2025-09-09T23:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: C23653521-US
+Registrant Name: Local Shark
+Registrant Organization: Localshark.com
+Registrant Street: 120 W. Lexington
+Registrant Street: Suite 308
+Registrant Street:
+Registrant City: Elkhart
+Registrant State/Province: Indiana
+Registrant Postal Code: 46515
+Registrant Country: US
+Registrant Phone: +1.5555551234
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: greatwhite@localshark.com
+Registrant Application Purpose: P3
+Registrant Nexus Category: C21
+Registry Admin ID: C23653523-US
+Admin Name: Local Shark
+Admin Organization: Localshark.com
+Admin Street: 120 W. Lexington
+Admin Street: Suite 308
+Admin Street:
+Admin City: Elkhart
+Admin State/Province: Indiana
+Admin Postal Code: 46515
+Admin Country: US
+Admin Phone: +1.5555551234
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: greatwhite@localshark.com
+Admin Application Purpose: P3
+Admin Nexus Category: C21
+Registry Tech ID: C23653522-US
+Tech Name: Local Shark
+Tech Organization: Localshark.com
+Tech Street: 120 W. Lexington
+Tech Street: Suite 308
+Tech Street:
+Tech City: Elkhart
+Tech State/Province: Indiana
+Tech Postal Code: 46515
+Tech Country: US
+Tech Phone: +1.5555551234
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: greatwhite@localshark.com
+Tech Application Purpose: P3
+Tech Nexus Category: C21
+Name Server: tim.ns.cloudflare.com
+Name Server: uma.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T22:49:32Z 

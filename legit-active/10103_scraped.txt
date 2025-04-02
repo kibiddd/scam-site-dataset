@@ -1,0 +1,121 @@
+AirNav: M50 - Boardman Airport
+Airports
+Navaids
+Airspace Fixes
+Aviation Fuel
+Hotels
+AIRBOSS
+iPhone App
+My AirNav
+1585 users online
+M50
+Boardman AirportBoardman, Oregon, USA
+GOING TO BOARDMAN?
+Reserve a Hotel Room
+FAA INFORMATION EFFECTIVE 20 MARCH 2025
+Location
+FAA Identifier: M50
+Lat/Long: 45-48-53.3700N 119-49-13.8020W45-48.889500N 119-49.230033W45.8148250,-119.8205006(estimated)
+Elevation: 395.5 ft. / 120.5 m (surveyed)
+Variation: 19E (1985)
+From city: 4 miles SW of BOARDMAN, OR
+Time zone: UTC -7 (UTC -8 during Standard Time)
+Zip code: 97818
+Airport Operations
+Airport use: Open to the public
+Activation date: 12/1943
+Control tower: no
+ARTCC: SEATTLE CENTER
+FSS: MC MINNVILLE FLIGHT SERVICE STATION
+NOTAMs facility: MMV (NOTAM-D service available)
+Attendance: UNATNDD
+Wind indicator: lighted
+Segmented circle: yesMARKED WITH WHITE TIRES.
+Lights: ACTVT MIRL RY 04/22 - 122.900.
+Beacon: white-green (lighted land airport)Operates sunset to sunrise.
+Airport Communications
+CTAF: 122.9
+Nearby radio navigation aids
+VOR radial/distance  VOR name  Freq  Var
+PDTr267/37.6PENDLETON VORTAC114.7014E
+Airport Services
+Parking: tiedowns
+Airframe service: NONE
+Powerplant service: NONE
+Runway Information
+Runway 4/22
+Dimensions: 4200 x 100 ft. / 1280 x 30 m
+Surface: asphalt, in good condition
+Weight bearing capacity: Single wheel: 30.0
+Runway edge lights: medium intensity
+Runway edge markings: RWY CNTRLN IN POOR COND DUE TO FADING.
+RUNWAY 4  RUNWAY 22
+Latitude: 45-48.728717N45-49.050250N
+Longitude: 119-49.667383W119-48.792633W
+Elevation: 395.5 ft.366.3 ft.
+Traffic pattern: leftright
+Runway heading: 043 magnetic, 062 true223 magnetic, 242 true
+Markings: basic, in good conditionbasic, in good condition
+Touchdown point: yes, no lightsyes, no lights
+Airport Ownership and Management from official FAA records
+Ownership: Publicly-owned
+Owner: PORT OF MORROWP.O. BOX 200BOARDMAN, OR 97818Phone 541-481-7678
+Manager: LISA MITTELSDORFPORT OF MORROW BOX 200BOARDMAN, OR 97818Phone 541-481-7678
+Additional Remarks
+- TELEPHONE AVBL.
+- TRIPLE PLINE RUNS EAST-WEST 3000 FT N OF ARPT.
+- TAXIWAY EDGE MARKED WITH BLUE REFLECTORS.
+- FOR CD CTC SEATTLE ARTCC AT 253-351-3694.
+Instrument Procedures
+There are no published instrument procedures at M50.
+Some nearby airports with instrument procedures:
+9S9 - Lexington Airport (22 nm S)
+KHRI - Hermiston Municipal Airport (23 nm E)
+KRLD - Richland Airport (36 nm NE)
+KPSC - Tri-Cities Airport (40 nm NE)
+KPDT - Eastern Oregon Regional Airport at Pendleton (42 nm E)
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+$4.23
+$5.31
+Road maps at:
+MapQuest
+Bing
+Google
+Aerial photo
+WARNING: Photo may not be current or correct
+Do you have a better or more recent aerial photo of Boardman Airport that you would like to share?  If so, please send us your photo.
+Sectional chart
+Airport distance calculator
+Flying to Boardman Airport?
+Find the distance to fly.
+From
+to M50
+Sunrise and sunset
+Times for 25-Mar-2025
+Local(UTC-7) Zulu(UTC)
+Morning civil twilight06:2413:24
+Sunrise06:5413:54
+Sunset19:1702:17
+Evening civil twilight19:4702:47
+Current date and time
+Zulu (UTC)  26-Mar-2025 00:07:53
+Local (UTC-7)  25-Mar-2025 17:07:53
+METAR
+KHRI 23nm E 252353Z AUTO 03005KT 10SM CLR 26/13 A2995 RMK AO2 SLP138 T02560128 10261 20167 56029
+K1S5 31nm N 252355Z AUTO 00000KT 10SM CLR 26/09 A2996 RMK AO2 T02570092 10257 20163
+KRLD 36nm NE 252355Z AUTO 00000KT 10SM CLR 26/12 A2996 RMK AO2 T02610124 10261 20184
+KPSC 40nm NE 252353Z 00000KT 10SM CLR 26/11 A2996 RMK AO2 SLP142 T02560111 10261 20172 56032
+KPDT 42nm E 252353Z VRB03KT 10SM CLR 27/12 A2997 RMK AO2 SLP137 T02670117 10267 20194 56025
+TAF
+KPSC 40nm NE 251730Z 2518/2618 VRB03KT P6SM FEW250 FM261200 33003KT P6SM SKC
+KPDT 42nm E 251730Z 2518/2618 VRB04KT P6SM SCT250 FM260300 09005KT P6SM FEW250 FM261200 12005KT P6SM SKC
+NOTAMs
+Click for the latest NOTAMs
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Boardman Airport, you should consider listing it here.  To start the listing process, click on the button below
+Other Pages about Boardman Airport
+Copyright © AirNav, LLC. All rights reserved.
+Privacy Policy
+Contact

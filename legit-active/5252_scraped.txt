@@ -1,0 +1,142 @@
+Home | Senator Chuck Schumer of New York
+Skip to content
+About
+Biography
+Voting Record
+Sponsored Legislation
+Chuck Around New York
+Newsroom
+Services
+Help With a Federal Agency
+Tour Requests
+Flag Requests
+Grants Requests
+Congressionally Directed Spending
+Special Recognitions
+Students
+Contact
+Leave a Comment
+Request a Meeting
+Office Locations
+Senator Schumer Facebook
+Senator Schumer Twitter
+Senator Schumer Instagram
+Senator Schumer Youtube
+Submit Site Search Query
+Open Website Search
+Close Website Search
+Home Logo Link
+U.S. Senator Chuck Schumer of New York
+999
+Chuck Around NY
+See where Chuck has been and what he's been doing.
+View Events
+{{ date }}
+{% if summary %}
+{{ summary }}
+{% elif city %}
+{{ city }}, {{ state or 'NY' }}
+{% endif %}
+{{ description | safe | striptags(true) | truncate(150) }}
+View Event Details
+Help for New Yorkers
+Leave a Comment
+ImmigrationRESOURCES
+MedicareASSISTANCE
+VeteransASSISTANCE
+Social SecurityAND DISABILITY
+Featured News
+SCHUMER, GILLIBRAND, MANNION DEMAND ANSWERS ON TRUMP ADMINISTRATION’S POTENTIAL PLANS TO CLOSE SYRACUSE USDA OFFICES, LAYOFFS OF USDA STAFF WHO SERVE NEW YORKERS
+Continue Reading Featured Press Item
+3.21.2025
+SCHUMER, FOLLOWING HISTORIC PENSION FIX LAW HE PASSED, ANNOUNCES HUDSON VALLEY IBEW UNION TO RECEIVE...
+3.20.2025
+SCHUMER REVEALS: TRUMP’S NEWEST ORDER COULD BLOW $5 BILLION DOLLAR HOLE IN NY’S “MAIN STREET”...
+3.18.2025
+SCHUMER, GILLIBRAND, MORELLE ANNOUNCE UNIVERSITY OF ROCHESTER RECEIVES PRESTIGIOUS FEDERAL CANCER...
+Office Locations
+Albany
+Leo O'Brien Building, Room 827Albany, NY 12207
+Phone:
+(518) 431-4070
+Fax:
+(518) 431-4076
+Binghamton
+15 Henry Street, Room. 100 A-FBinghamton, NY 13901
+Phone:
+(607) 772-6792
+Fax:
+(607) 772-8124
+Buffalo
+130 South Elmwood Avenue, #660Buffalo, NY 14202
+Phone:
+(716) 846-4111
+Fax:
+(716) 846-4113
+Melville
+145 Pinelawn Road, #300NMelville, NY 11747
+Phone:
+(631) 753-0978
+Fax:
+(631) 391-9068
+New York City
+780 Third Avenue, Suite 2301New York, NY 10017
+Phone:
+(212) 486-4430
+Fax:
+(202) 228-2838
+TDD:
+(212) 486-7803
+Peekskill
+One Park Place, Suite 100Peekskill, NY 10566
+Phone:
+(914) 734-1532
+Fax:
+(914) 734-1673
+Rochester
+100 State Street, Room 3040Rochester, NY 14614
+Phone:
+(585) 263-5866
+Fax:
+(585) 263-3173
+Syracuse
+100 South Clinton Street, Room 841Syracuse, NY 13261
+Phone:
+(315) 423-5471
+Fax:
+(315) 423-5185
+Washington D.C.
+322 Hart Senate Office BuildingWashington, D.C. 20510
+Phone:
+(202) 224-6542
+Fax:
+(202) 228-3027
+About
+Newsroom
+Services
+Contact
+Privacy Policy
+Senator Schumer Facebook
+Senator Schumer Twitter
+Senator Schumer Instagram
+Senator Schumer Youtube
+About
+Biography
+Voting Record
+Sponsored Legislation
+Chuck Around New York
+Newsroom
+Services
+Help With a Federal Agency
+Tour Requests
+Flag Requests
+Grants Requests
+Congressionally Directed Spending
+Special Recognitions
+Students
+Contact
+Leave a Comment
+Request a Meeting
+Office Locations
+website-search
+Site Search

@@ -1,0 +1,18 @@
+   Domain Name: BELLGAB.COM
+   Registry Domain ID: 1777215180_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2025-02-02T17:25:01Z
+   Creation Date: 2013-01-30T05:55:42Z
+   Registry Expiry Date: 2026-01-30T05:55:42Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.DATAKL.COM
+   Name Server: NS2.DATAKL.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T20:24:53Z 

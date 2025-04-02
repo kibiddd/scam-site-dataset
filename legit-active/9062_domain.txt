@@ -1,0 +1,21 @@
+   Domain Name: 7DVT.COM
+   Registry Domain ID: 193172652_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.squarespace.domains
+   Registrar URL: http://domains2.squarespace.com
+   Updated Date: 2024-07-21T00:40:21Z
+   Creation Date: 2005-08-04T20:31:11Z
+   Registry Expiry Date: 2025-08-04T20:31:11Z
+   Registrar: Squarespace Domains II LLC
+   Registrar IANA ID: 895
+   Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+   Registrar Abuse Contact Phone: +1.6466935324
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-CLOUD-B1.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-B2.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-B3.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-B4.GOOGLEDOMAINS.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 19081 8 2 EF87EB75518B5D3A16908326ED0B53A87FE14C61BD9263A813BA55A3EF247913
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:11:09Z 

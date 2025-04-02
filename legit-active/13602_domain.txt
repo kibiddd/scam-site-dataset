@@ -1,0 +1,17 @@
+   Domain Name: JADEDVIDEO.COM
+   Registry Domain ID: 1882119_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.ionos.com
+   Registrar URL: http://www.ionos.com
+   Updated Date: 2025-01-27T08:01:42Z
+   Creation Date: 1998-01-27T05:00:00Z
+   Registry Expiry Date: 2026-01-26T05:00:00Z
+   Registrar: IONOS SE
+   Registrar IANA ID: 83
+   Registrar Abuse Contact Email: abuse@ionos.com
+   Registrar Abuse Contact Phone: +1.6105601459
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: KELLY.NS.CLOUDFLARE.COM
+   Name Server: LEIF.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:56:07Z 

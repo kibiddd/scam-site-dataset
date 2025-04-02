@@ -1,0 +1,17 @@
+   Domain Name: JMED.COM
+   Registry Domain ID: 696513484_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: grs-whois.hichina.com
+   Registrar URL: http://www.net.cn
+   Updated Date: 2024-11-20T06:20:05Z
+   Creation Date: 2006-12-04T19:28:33Z
+   Registry Expiry Date: 2027-12-04T19:28:33Z
+   Registrar: Alibaba Cloud Computing (Beijing) Co., Ltd.
+   Registrar IANA ID: 420
+   Registrar Abuse Contact Email: DomainAbuse@service.aliyun.com
+   Registrar Abuse Contact Phone: +86.95187
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: DNS11.HICHINA.COM
+   Name Server: DNS12.HICHINA.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:15:08Z 

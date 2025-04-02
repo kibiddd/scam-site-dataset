@@ -1,0 +1,24 @@
+   Domain Name: ELASTICBEANSTALK.COM
+   Registry Domain ID: 1633430775_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-10-31T19:10:12Z
+   Creation Date: 2011-01-04T23:11:58Z
+   Registry Expiry Date: 2026-01-04T23:11:58Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS-1235.AWSDNS-26.ORG
+   Name Server: NS-1537.AWSDNS-00.CO.UK
+   Name Server: NS-416.AWSDNS-52.COM
+   Name Server: NS-846.AWSDNS-41.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:24:11Z 

@@ -1,0 +1,17 @@
+   Domain Name: VAMCOIN.COM
+   Registry Domain ID: 2866253968_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namebright.com
+   Registrar URL: http://www.DropCatch1362.com
+   Updated Date: 2025-03-24T09:55:09Z
+   Creation Date: 2024-03-23T18:35:47Z
+   Registry Expiry Date: 2026-03-23T18:35:47Z
+   Registrar: DropCatch.com 1362 LLC
+   Registrar IANA ID: 3571
+   Registrar Abuse Contact Email: support@namebright.com
+   Registrar Abuse Contact Phone: 17204960020
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: EXPIRED1.NAMEBRIGHTDNS.COM
+   Name Server: EXPIRED2.NAMEBRIGHTDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:49:52Z 

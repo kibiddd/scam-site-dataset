@@ -1,0 +1,21 @@
+Domain Name: RF.GD
+Registry Domain ID: D81927889-CNIC
+Registrar WHOIS Server: whois.rrpproxy.net
+Registrar URL: http://www.key-systems.net/
+Updated Date: 2024-11-25T12:00:20.0Z
+Creation Date: 2013-08-25T21:43:51.0Z
+Registry Expiry Date: 2025-08-25T23:59:59.0Z
+Registrar: Key Systems GmbH
+Registrar IANA ID: 269
+Domain Status: ok https://icann.org/epp#ok
+Registrant Email: https://whois.nic.gd/contact/rf.gd/registrant
+Admin Email: https://whois.nic.gd/contact/rf.gd/admin
+Tech Email: https://whois.nic.gd/contact/rf.gd/tech
+Name Server: NS1.INFINITYFREE.COM
+Name Server: NS2.INFINITYFREE.COM
+DNSSEC: unsigned
+Billing Email: https://whois.nic.gd/contact/rf.gd/billing
+Registrar Abuse Contact Email: urgent@key-systems.net
+Registrar Abuse Contact Phone: +49.68949396850
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T14:51:41.0Z 

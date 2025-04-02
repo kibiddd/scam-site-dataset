@@ -1,0 +1,17 @@
+   Domain Name: CARHEBTY.COM
+   Registry Domain ID: 2866029161_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.spaceship.com
+   Registrar URL: http://www.spaceship.com
+   Updated Date: 2025-03-23T07:59:48Z
+   Creation Date: 2024-03-23T01:30:38Z
+   Registry Expiry Date: 2026-03-23T01:30:38Z
+   Registrar: Spaceship, Inc.
+   Registrar IANA ID: 3862
+   Registrar Abuse Contact Email: abuse@spaceship.com
+   Registrar Abuse Contact Phone: +1.9854014545
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS5.ASURAHOSTING.COM
+   Name Server: NS6.ASURAHOSTING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:02:36Z 

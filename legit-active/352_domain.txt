@@ -1,0 +1,70 @@
+Domain Name: waramps.ca
+Registry Domain ID: D5518-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.rebel.ca
+Updated Date: 2024-09-30T14:44:16Z
+Creation Date: 2000-10-05T18:54:07Z
+Registry Expiry Date: 2025-12-20T05:00:00Z
+Registrar: Rebel.ca Corp.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@rebel.com
+Registrar Abuse Contact Phone: +1.6132252000
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 97630477-CIRA
+Registrant Name: The War Amps
+Registrant Organization:
+Registrant Street: 1 Maybrook Drive
+Registrant City: Scarborough
+Registrant State/Province: ON
+Registrant Postal Code: M1V5K9
+Registrant Country: CA
+Registrant Phone: +1.4162972660
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: wayne@waramps.ca
+Registry Admin ID: 97630476-CIRA
+Admin Name: Wayne Mortillaro
+Admin Organization: The War Amps of Canada
+Admin Street: 1 Maybrook Drive 
+Admin City: Scarborough
+Admin State/Province: ON
+Admin Postal Code: M1V 5K9
+Admin Country: CA
+Admin Phone: +1 416 297 2660
+Admin Phone Ext:
+Admin Fax: +1 416 297 2650
+Admin Fax Ext:
+Admin Email: wayne@waramps.ca
+Registry Tech ID: 97630476-CIRA
+Tech Name: Wayne Mortillaro
+Tech Organization: The War Amps of Canada
+Tech Street: 1 Maybrook Drive 
+Tech City: Scarborough
+Tech State/Province: ON
+Tech Postal Code: M1V 5K9
+Tech Country: CA
+Tech Phone: +1 416 297 2660
+Tech Phone Ext:
+Tech Fax: +1 416 297 2650
+Tech Fax Ext:
+Tech Email: wayne@waramps.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.nbc.netcom.ca
+Name Server: ns2.nbc.netcom.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T01:57:24Z 

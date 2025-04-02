@@ -1,0 +1,17 @@
+   Domain Name: IMTOKENIL.NET
+   Registry Domain ID: 2873199617_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: www.gname.com/whois
+   Registrar URL: http://www.gname.com
+   Updated Date: 2024-04-18T05:08:57Z
+   Creation Date: 2024-04-17T18:14:23Z
+   Registry Expiry Date: 2025-04-17T18:14:23Z
+   Registrar: Gname 070 Inc
+   Registrar IANA ID: 4062
+   Registrar Abuse Contact Email: ZYS@GNAME.COM
+   Registrar Abuse Contact Phone: +6531581391
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: JM1.DNS.COM
+   Name Server: JM2.DNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:52:49Z 

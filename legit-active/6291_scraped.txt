@@ -1,0 +1,56 @@
+Afdb.org has three name servers, two mail servers and two IP number...
+Login
+afdb.org
+Robtex
+DNS
+org
+afdb
+Loading
+ANALYSIS  QUICK INFO  REVERSE (NEW!)  RECORDS  SEO  WOT  ALEXA  THREATMINER  SHARED  GRAPH  HISTORY  WHOIS  DNSBL  GRAPH(old)
+ANALYSIS
+This section shows a quick analyis of the given host name or ip number. Afdb.org has three name servers, two mail servers and two IP numbers.
+Is name servers
+The name servers are demeter.is.co.za, jupiter.is.co.za and titan.is.co.za.
+Mimecast mail servers
+The mail servers are za-smtp-inbound-1.mimecast.co.za and za-smtp-inbound-2.mimecast.co.za.
+IP numbers
+The IP numbers are 92.52.118.208 and 94.236.15.74. The PTR of the IP numbers is afdb.org. The IP numbers are in United Kingdom. They are hosted by Rackspace.
+Results found
+Afdb.cn, afdb.co, afdb.com, afdb.de, afdb.eu, afdb.fr, afdb.info, afdb.net, afdb.nl, afdb.ru, afdb.tk and afdb.tv.
+QUICK INFO
+Quick summary of the host nameafdb.org quick infoGeneralFQDNafdb.orgHost NameDomain Nameafdb.orgRegistryorgTLDorgDNSIP numbers92.52.118.20894.236.15.74Name serversdemeter.is.co.zajupiter.is.co.zatitan.is.co.zaMail serversza-smtp-inbound-1.mimecast.co.zaza-smtp-inbound-2.mimecast.co.zaREVERSE (NEW!)
+Reverse DNS reports of the queried and related entitiesqRECORDS
+Hierarchical analysis of the entityafdb.orga92.52.118.208whoisTo determine the registration information for a more specific range, please try a more specific query. If you see this object as a result of a single IP query, it means the IP address is currently in the free pool of address space managed by the RIPE NCC.route92.52.64.0/18bgpAS15395asnameRACKSPACE-LON Rackspace UKdescrRackspacelocationUnited Kingdom94.236.15.74whoisAfrican Development Bank IP Spaceroute94.236.0.0/17bgpAS15395asnameRACKSPACE-LON Rackspace UKdescrRackspacelocationUnited Kingdomptrafdb.orgnsdemeter.is.co.zaa196.26.5.8jupiter.is.co.zaa2c0f:fc00:53:4160::53:a:1196.4.160.3titan.is.co.zaa196.33.171.36mxza-smtp-inbound-1.mimecast.co.zaa41.74.193.20141.74.193.21041.74.193.21441.74.197.20141.74.197.21041.74.197.214za-smtp-inbound-2.mimecast.co.zaa41.74.193.20141.74.193.21041.74.193.21441.74.197.20141.74.197.21041.74.197.214uporgnsdemeter.is.co.zaa196.26.5.8whoisDimension Dataroute196.26.0.0/16bgpAS3741descrInternet Solutions (Pty) Ltd (South Africa)locationJohannesburg, South Africaptrdemeter.is.co.zajupiter.is.co.zaa2c0f:fc00:53:4160::53:a:1route2c0f:fc00::/27bgpAS3741descrSeacom-BackbonelocationSouth Africaptrjupiter.is.co.za196.4.160.3whoisDimension Dataroute196.4.160.0/24bgpAS3741descrInternet Solutions (Pty) Ltd (South Africa)locationSouth Africaptrjupiter.is.co.zatitan.is.co.zaa196.33.171.36whoisDimension Dataroute196.33.0.0/16bgpAS3741descrLinklocationJohannesburg, South Africaptrtitan.is.co.zamxza-smtp-inbound-1.mimecast.co.zaa41.74.193.201whoisMimecast South Africa RNDroute41.74.192.0/22bgpAS37235descrMimecast SA IPR1locationSouth Africaptrza-smtp-inbound-1.mimecast.co.zaza-smtp-inbound-2.mimecast.co.zaa41.74.193.20141.74.193.21041.74.193.21441.74.197.20141.74.197.21041.74.197.21441.74.193.210whoisMimecast South Africa RNDroute41.74.192.0/22bgpAS37235descrMimecast SA IPR1locationSouth Africaptrza-smtp-inbound-1.mimecast.co.zaza-smtp-inbound-2.mimecast.co.zaa41.74.193.20141.74.193.21041.74.193.21441.74.197.20141.74.197.21041.74.197.21441.74.193.214whoisMimecast South Africa RNDroute41.74.192.0/22bgpAS37235descrMimecast SA IPR1locationSouth Africaptrza-smtp-inbound-1.mimecast.co.zaza-smtp-inbound-2.mimecast.co.zaa41.74.193.20141.74.193.21041.74.193.21441.74.197.20141.74.197.21041.74.197.21441.74.197.201whoisMimecast South Africa PKLroute41.74.196.0/22bgpAS37235descrMimecast SA IPR1locationSouth Africaptrza-smtp-inbound-1.mimecast.co.zaza-smtp-inbound-2.mimecast.co.zaa41.74.193.20141.74.193.21041.74.193.21441.74.197.20141.74.197.21041.74.197.21441.74.197.210whoisMimecast South Africa PKLroute41.74.196.0/22bgpAS37235descrMimecast SA IPR1locationSouth Africaptrza-smtp-inbound-1.mimecast.co.zaza-smtp-inbound-2.mimecast.co.zaa41.74.193.20141.74.193.21041.74.193.21441.74.197.20141.74.197.21041.74.197.21441.74.197.214whoisMimecast South Africa PKLroute41.74.196.0/22bgpAS37235descrMimecast SA IPR1locationSouth Africaptrza-smtp-inbound-1.mimecast.co.zaza-smtp-inbound-2.mimecast.co.zaa41.74.193.20141.74.193.21041.74.193.21441.74.197.20141.74.197.21041.74.197.214za-smtp-inbound-2.mimecast.co.zaa41.74.193.201whoisMimecast South Africa RNDroute41.74.192.0/22bgpAS37235descrMimecast SA IPR1locationSouth Africaptrza-smtp-inbound-1.mimecast.co.zaa41.74.193.20141.74.193.21041.74.193.21441.74.197.20141.74.197.21041.74.197.214za-smtp-inbound-2.mimecast.co.za41.74.193.210whoisMimecast South Africa RNDroute41.74.192.0/22bgpAS37235descrMimecast SA IPR1locationSouth Africaptrza-smtp-inbound-1.mimecast.co.zaa41.74.193.20141.74.193.21041.74.193.21441.74.197.20141.74.197.21041.74.197.214za-smtp-inbound-2.mimecast.co.za41.74.193.214whoisMimecast South Africa RNDroute41.74.192.0/22bgpAS37235descrMimecast SA IPR1locationSouth Africaptrza-smtp-inbound-1.mimecast.co.zaa41.74.193.20141.74.193.21041.74.193.21441.74.197.20141.74.197.21041.74.197.214za-smtp-inbound-2.mimecast.co.za41.74.197.201whoisMimecast South Africa PKLroute41.74.196.0/22bgpAS37235descrMimecast SA IPR1locationSouth Africaptrza-smtp-inbound-1.mimecast.co.zaa41.74.193.20141.74.193.21041.74.193.21441.74.197.20141.74.197.21041.74.197.214za-smtp-inbound-2.mimecast.co.za41.74.197.210whoisMimecast South Africa PKLroute41.74.196.0/22bgpAS37235descrMimecast SA IPR1locationSouth Africaptrza-smtp-inbound-1.mimecast.co.zaa41.74.193.20141.74.193.21041.74.193.21441.74.197.20141.74.197.21041.74.197.214za-smtp-inbound-2.mimecast.co.za41.74.197.214whoisMimecast South Africa PKLroute41.74.196.0/22bgpAS37235descrMimecast SA IPR1locationSouth Africaptrza-smtp-inbound-1.mimecast.co.zaa41.74.193.20141.74.193.21041.74.193.21441.74.197.20141.74.197.21041.74.197.214za-smtp-inbound-2.mimecast.co.zauporgSEO
+WOT
+Loading...ALEXA
+Loading...THREATMINER
+Loading...SHARED
+This section shows related hostnames and ipnumbersUsing as PTR94.236.15.741 results shown.IP numbers92.52.118.20894.236.15.742 results shown.Sharing IP numberswww.afdb.org1 results shown.Partially sharing IP numberswww5.afdb.org-1 results shown.Name serversdemeter.is.co.zajupiter.is.co.zatitan.is.co.za3 results shown.IP numbers of the name servers2c0f:fc00:53:4160::53:a:1196.4.160.3196.26.5.8196.33.171.364 results shown.Mail serversza-smtp-inbound-1.mimecast.co.zaza-smtp-inbound-2.mimecast.co.za2 results shown.IP numbers of the mail servers41.74.193.20141.74.193.21041.74.193.21441.74.197.20141.74.197.21041.74.197.2146 results shown.Subdomains/HostnamesDomains or hostnames one step under this domain or hostname.cisip.afdb.orgcpia.afdb.orgdacon.afdb.orgdarms.afdb.orgftp.afdb.orgmail.afdb.orgmedia.afdb.orgoutlook.afdb.orgwww.afdb.orgwww5.afdb.org10 results shown.SiblingsSiblings are domains or hostnames on the same level, under the same parent level. Not necessarily related in any other wayadbf.orgbadf.orgbdfa.orgdabf.org4 results shown.On other TLD:s and domainsThis sub section shows this name on other top level domains.afdb.coafdb.deafdb.frafdb.netafdb.ruafdb.tvafdb.einnews.comafdb.com.uaafdb.zoom.usafdb.bdd.onebase.fr10 results shown.Similar startThis sub section shows this names that begin almost the same.bfad.cnabdf.comdfba.comdbaf.debdfa.frdfab.infodbaf.netbadf.orgdabf.siteabfd.us10 results shown.GRAPH
+Interactive visualization of the entityHISTORY
+Historical changes to the DNS dataWHOIS
+Whois lookup of the domainDNSBL
+GRAPH(old)
+Loading...
+Latest updates:
+Follow
+Robtex
+Twitter
+Facebook
+Google+
+LinkedIn
+About
+Home
+Privacy Policy
+API
+Statistics
+Sections
+DNS
+IP
+AS Numbers
+AS Macros
+Network Routes
+Premium Reports
+© 2020 Robtex
+This site is protected by reCAPTCHA and the Google
+Privacy Policy and
+Terms of Service apply.

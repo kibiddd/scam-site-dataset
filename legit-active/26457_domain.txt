@@ -1,0 +1,71 @@
+Domain Name: bcy.ca
+Registry Domain ID: D83016-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: https://grape.ca
+Updated Date: 2024-07-15T19:38:19Z
+Creation Date: 2001-07-25T23:39:12Z
+Registry Expiry Date: 2025-07-25T04:00:00Z
+Registrar: Grape Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@grape.ca
+Registrar Abuse Contact Phone: +1.6476602460
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 113273347-CIRA
+Registrant Name: Trevor W McKeown
+Registrant Organization: Grand Lodge A.F.A.M. of B.C. & Yukon
+Registrant Street: 301-1464 7th Ave W
+Registrant City: Vancouver
+Registrant State/Province: BC
+Registrant Postal Code: V6H1C1
+Registrant Country: CA
+Registrant Phone: +1.6047368941
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: domains@freemasonry.bcy.ca
+Registry Admin ID: 113273349-CIRA
+Admin Name: Trevor W McKeown
+Admin Organization: Grand Lodge A.F.A.M. of B.C. & Yukon
+Admin Street: 301-1464 7th Ave W
+Admin City: Vancouver
+Admin State/Province: BC
+Admin Postal Code: V6H1C1
+Admin Country: CA
+Admin Phone: +1.6047368941
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: domains@freemasonry.bcy.ca
+Registry Tech ID: 113273348-CIRA
+Tech Name: Trevor W McKeown
+Tech Organization: Grand Lodge A.F.A.M. of B.C. & Yukon
+Tech Street: 301-1464 7th Ave W
+Tech City: Vancouver
+Tech State/Province: BC
+Tech Postal Code: V6H1C1
+Tech Country: CA
+Tech Phone: +1.6047368941
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: domains@freemasonry.bcy.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.digitalocean.com
+Name Server: ns2.digitalocean.com
+Name Server: ns3.digitalocean.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-28T00:05:29Z 

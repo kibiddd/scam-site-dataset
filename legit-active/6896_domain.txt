@@ -1,0 +1,41 @@
+
+    Domain name:
+        top10films.co.uk
+
+    Data validation:
+        Nominet was able to match the registrant's name and address against a 3rd party data source on 29-Aug-2014
+
+    Registrar:
+        One.com A/S [Tag = TJNF-DK]
+        URL: http://www.one.com
+
+    Relevant dates:
+        Registered on: 03-Mar-2008
+        Expiry date:  03-Mar-2026
+        Last updated:  26-Feb-2025
+
+    Registration status:
+        Registered until expiry date.
+
+    Name servers:
+        ns01.one.com
+        ns02.one.com
+
+    DNSSEC:
+        Signed
+
+    WHOIS lookup made at 03:21:59 28-Mar-2025
+
+-- 
+This WHOIS information is provided for free by Nominet UK the central registry
+for .uk domain names. This information and the .uk WHOIS are:
+
+    Copyright Nominet UK 1996 - 2025.
+
+You may not access the .uk WHOIS or use any data from it except as permitted
+by the terms of use available in full at https://www.nominet.uk/whoisterms,
+which includes restrictions on: (A) use of the data for advertising, or its
+repackaging, recompilation, redistribution or reuse (B) obscuring, removing
+or hiding any or all of this notice and (C) exceeding query rate or volume
+limits. The data is provided on an 'as-is' basis and may lag behind the
+register. Access may be withdrawn or restricted at any time. 

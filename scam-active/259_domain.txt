@@ -1,0 +1,18 @@
+   Domain Name: CRYPTOFXTRADINGPLATFORM.COM
+   Registry Domain ID: 2905521333_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-08-05T14:43:34Z
+   Creation Date: 2024-08-05T14:43:34Z
+   Registry Expiry Date: 2025-08-05T14:43:34Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.SITE4NOW.NET
+   Name Server: NS2.SITE4NOW.NET
+   Name Server: NS3.SITE4NOW.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:44:51Z 

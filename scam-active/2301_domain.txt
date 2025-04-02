@@ -1,0 +1,17 @@
+   Domain Name: CME-TM.COM
+   Registry Domain ID: 2907992835_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: grs-whois.kouming.com
+   Registrar URL: http://www.kouming.com
+   Updated Date: 2024-08-15T07:21:35Z
+   Creation Date: 2024-08-14T18:02:37Z
+   Registry Expiry Date: 2025-08-14T18:02:37Z
+   Registrar: Hongkong Kouming International Limited
+   Registrar IANA ID: 3972
+   Registrar Abuse Contact Email: abuse@kouming.com
+   Registrar Abuse Contact Phone: 852 55737874
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.TAOA.COM
+   Name Server: NS2.TAOA.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:45:37Z 

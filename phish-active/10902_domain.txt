@@ -1,0 +1,24 @@
+Domain Name: DOMENY.HOST
+Registry Domain ID: D100783114-CNIC
+Registrar WHOIS Server: whois.PublicDomainRegistry.com
+Registrar URL: https://publicdomainregistry.com
+Updated Date: 2025-03-10T09:55:39.0Z
+Creation Date: 2019-04-18T11:31:41.0Z
+Registry Expiry Date: 2026-04-18T23:59:59.0Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: GDPR Masked
+Registrant State/Province: malopolskie
+Registrant Country: PL
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS1.DOMENY.HOST
+Name Server: NS2.DOMENY.HOST
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T13:57:52.0Z 

@@ -1,0 +1,28 @@
+
+ID ccTLD whois server
+Please see 'whois -h whois.id help' for usage.
+
+Domain ID: PANDI-DO550476
+Domain Name: gayarambut.co.id
+Created On: 2017-01-02 01:35:30
+Last Updated On: 2025-01-03 09:37:53 
+Expiration Date: 2026-01-02 23:59:59 
+Status: serverTransferProhibited
+Status: clientTransferProhibited
+
+====================================================
+Sponsoring Registrar Organization: PT Digital Registra Indonesia
+Sponsoring Registrar URL: www.digitalregistra.co.id
+Sponsoring Registrar Street: Jl. lempongsari no. 39C  Jongkang RT/RW 12/35 Sariharjo  
+Sponsoring Registrar City: Sleman
+Sponsoring Registrar State/Province: Yogyakarta
+Sponsoring Registrar Postal Code: 55281
+Sponsoring Registrar Country: ID
+Sponsoring Registrar Phone: 0274882257
+Sponsoring Registrar Email: info@digitalregistra.co.id
+Name Server: ns8545.hostgator.com
+Name Server: ns8546.hostgator.com
+DNSSEC: Unsigned
+
+Abuse Domain Report https://pandi.id/domain-abuse-form/?lang=en
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en

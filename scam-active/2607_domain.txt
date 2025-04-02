@@ -1,0 +1,19 @@
+   Domain Name: DAYTRADEWORLDLTD.COM
+   Registry Domain ID: 2745087911_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namesilo.com
+   Registrar URL: http://www.namesilo.com
+   Updated Date: 2024-12-19T20:11:46Z
+   Creation Date: 2022-12-16T07:14:58Z
+   Registry Expiry Date: 2025-12-16T07:14:58Z
+   Registrar: NameSilo, LLC
+   Registrar IANA ID: 1479
+   Registrar Abuse Contact Email: abuse@namesilo.com
+   Registrar Abuse Contact Phone: +1.4805240066
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS21.ASURAHOSTING.COM
+   Name Server: NS21.MY-CONTROL-PANEL.COM
+   Name Server: NS22.ASURAHOSTING.COM
+   Name Server: NS22.MY-CONTROL-PANEL.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:45:37Z 

@@ -1,0 +1,12 @@
+Domain Name: prestonsmasterbutchers.co.nz
+Registrar URL: https://www.freeparking.co.nz
+Updated Date: 2025-01-17T03:52:52Z
+Creation Date: 2011-01-01T03:44:06Z
+Original Created: 2011-01-01T03:44:06Z
+Registrar: Freeparking Limited
+Domain Status: ok https://icann.org/epp#ok
+Name Server: kip.ns.cloudflare.com
+Name Server: tricia.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the Domain Name Commission Limited Inaccuracy Complaint Form: https://dnc.org.nz/enquiry-form/
+>>> Last update of WHOIS database: 2025-03-28T03:10:11Z 

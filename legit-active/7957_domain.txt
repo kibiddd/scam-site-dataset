@@ -1,0 +1,17 @@
+   Domain Name: NFLTOUCHDOWN.COM
+   Registry Domain ID: 2917342609_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namebright.com
+   Registrar URL: http://www.NameBright.com
+   Updated Date: 2024-09-20T09:46:53Z
+   Creation Date: 2024-09-16T18:04:18Z
+   Registry Expiry Date: 2025-09-16T18:04:18Z
+   Registrar: DropCatch.com 963 LLC
+   Registrar IANA ID: 2722
+   Registrar Abuse Contact Email: support@namebright.com
+   Registrar Abuse Contact Phone: 17204960020
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.DNS-PARKING.COM
+   Name Server: NS2.DNS-PARKING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T16:07:09Z 

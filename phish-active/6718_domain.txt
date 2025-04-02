@@ -1,0 +1,73 @@
+Domain Name: desjardinsetf.ca
+Registry Domain ID: 33691679-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2024-09-15T10:47:07Z
+Creation Date: 2016-10-17T14:41:29Z
+Registry Expiry Date: 2026-10-17T14:41:29Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 108430410-CIRA
+Registrant Name: Mouvement des caisses Desjardins
+Registrant Organization: Mouvement des caisses Desjardins
+Registrant Street: 1 complexe Desjardins
+Registrant City: Montreal
+Registrant State/Province: QC
+Registrant Postal Code: H5B1B2
+Registrant Country: CA
+Registrant Phone: +1.5142537300
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: domaines@desjardins.com
+Registry Admin ID: 108430413-CIRA
+Admin Name: Jean-Francois Houle
+Admin Organization: Mouvement des caisses Desjardins
+Admin Street: 1 complexe Desjardins
+Admin City: Montreal
+Admin State/Province: QC
+Admin Postal Code: H5B1B2
+Admin Country: CA
+Admin Phone: +1.5142537300
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: domaines@desjardins.com
+Registry Tech ID: 108430413-CIRA
+Tech Name: Jean-Francois Houle
+Tech Organization: Mouvement des caisses Desjardins
+Tech Street: 1 complexe Desjardins
+Tech City: Montreal
+Tech State/Province: QC
+Tech Postal Code: H5B1B2
+Tech Country: CA
+Tech Phone: +1.5142537300
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: domaines@desjardins.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ha1.markmonitor.zone
+Name Server: ha2.markmonitor.zone
+Name Server: ha3.markmonitor.zone
+Name Server: ha4.markmonitor.zone
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T00:24:22Z 

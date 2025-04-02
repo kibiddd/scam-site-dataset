@@ -1,0 +1,18 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        UINSTALL.RU
+nserver:       ns1.domainparking.ru.
+nserver:       ns2.domainparking.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+person:        Private Person
+registrar:     REGRU-RU
+admin-contact: http://www.reg.ru/whois/admin_contact
+created:       2024-04-26T15:01:56Z
+paid-till:     2025-04-26T15:01:56Z
+free-date:     2025-05-27
+source:        TCI
+
+Last updated on 2025-03-27T00:23:01Z
+

@@ -1,0 +1,22 @@
+Domain Name: faustas.com.au
+Registry Domain ID: 48d55c874f754b798ffb6a7d9a5d8e1b-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://tucowsdomains.com/compliance-form/
+Last Modified: 2025-03-20T09:51:56Z
+Registrar Name: Tucows (Australia) Pty Ltd trading as OpenSRS
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: eec6611ace3140919c833c1aeca526fe-AU
+Registrant Contact Name: Faustas Sadauskas
+Tech Contact ID: 0ce39c4bf8404ffeaa4f201d01919afd-AU
+Tech Contact Name: Ramuna Sadauskas
+Name Server: ns6279.hostgator.com
+Name Server: ns6280.hostgator.com
+DNSSEC: unsigned
+Registrant: SADAUSKAS, FAUSTAS
+Registrant ID: ABN 37695031330
+Eligibility Type: Sole Trader
+>>> Last update of WHOIS database: 2025-03-27T11:18:00Z 

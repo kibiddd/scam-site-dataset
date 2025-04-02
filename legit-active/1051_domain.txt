@@ -1,0 +1,12 @@
+Domain Name: sciblogs.co.nz
+Registrar URL: https://www.kiwiinternet.co.nz
+Updated Date: 2023-11-06T03:07:07Z
+Creation Date: 2009-08-05T04:53:07Z
+Original Created: 2009-08-05T04:53:07Z
+Registrar: The Digital Lab 2007 Limited t/a Kiwi Internet & IT
+Domain Status: ok https://icann.org/epp#ok
+Name Server: major.ns.cloudflare.com
+Name Server: zelda.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the Domain Name Commission Limited Inaccuracy Complaint Form: https://dnc.org.nz/enquiry-form/
+>>> Last update of WHOIS database: 2025-03-27T15:00:56Z 

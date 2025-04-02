@@ -1,0 +1,25 @@
+Domain Name: fb-rubber.com.tw
+   Domain Status: ok
+   Registrant:
+      
+      A-PROGIPARTS CO.,LTD
+      fb.rubber@msa.hinet.net
+      TW
+      (Redacted for privacy)
+
+   Administrative Contact:
+      (Redacted for privacy)
+
+   Technical Contact:
+      (Redacted for privacy)
+
+   Record expires on 2025-06-16 00:00:00 (UTC+8)
+   Record created on 2004-06-11 18:08:27 (UTC+8)
+
+   Domain servers in listed order:
+      n.coowo.com     
+      m.coowo.com     
+
+Registration Service Provider: HINET
+Registration Service URL: http://domain.hinet.net
+Registrar Abuse Contact Email: service@domain.hinet.net

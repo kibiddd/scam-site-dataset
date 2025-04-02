@@ -1,0 +1,17 @@
+   Domain Name: ATLASBASINCLI.COM
+   Registry Domain ID: 1581821843_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.ihs.com.tr
+   Registrar URL: http://www.ihs.com.tr
+   Updated Date: 2025-01-03T13:00:29Z
+   Creation Date: 2010-01-14T11:31:55Z
+   Registry Expiry Date: 2026-01-14T11:31:55Z
+   Registrar: IHS Telekom, Inc.
+   Registrar IANA ID: 1091
+   Registrar Abuse Contact Email: abuse@ihs.com.tr
+   Registrar Abuse Contact Phone: +902165460056
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS3.OZGULNET.COM
+   Name Server: NS4.OZGULNET.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T20:19:49Z 

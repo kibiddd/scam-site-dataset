@@ -1,0 +1,17 @@
+   Domain Name: RAINBOWPAPERS.COM
+   Registry Domain ID: 2936793645_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namebright.com
+   Registrar URL: http://www.DropCatch1282.com
+   Updated Date: 2024-12-12T06:16:14Z
+   Creation Date: 2024-11-24T19:18:48Z
+   Registry Expiry Date: 2025-11-24T19:18:48Z
+   Registrar: DropCatch.com 1282 LLC
+   Registrar IANA ID: 3491
+   Registrar Abuse Contact Email: support@namebright.com
+   Registrar Abuse Contact Phone: 17204960020
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: CHIN.NS.CLOUDFLARE.COM
+   Name Server: ZEUS.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T00:02:20Z 

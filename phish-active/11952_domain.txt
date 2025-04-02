@@ -1,0 +1,48 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T11:54:04-03:00 - 2a09:bac5:c82e:188c::272:29
+
+domain:      institutoibe.com.br
+owner:       Claudia Aparecida Lage Vieira
+ownerid:     ***.933.436-**
+country:     BR
+owner-c:     CLLVI5
+tech-c:      FRWWE
+nserver:     ns-1784.awsdns-31.co.uk
+nsstat:      20250327 AA
+nslastaa:    20250327
+nserver:     ns-834.awsdns-40.net
+nsstat:      20250327 AA
+nslastaa:    20250327
+nserver:     ns-1506.awsdns-60.org
+nsstat:      20250327 AA
+nslastaa:    20250327
+nserver:     ns-507.awsdns-63.com
+nsstat:      20250327 AA
+nslastaa:    20250327
+created:     20100309 #6632502
+changed:     20241004
+expires:     20320309
+status:      published
+
+nic-hdl-br:  CLLVI5
+person:      Cl�udia Lage Vieira
+e-mail:      jacksonabreumg@gmail.com
+country:     BR
+created:     20100303
+changed:     20241003
+
+nic-hdl-br:  FRWWE
+person:      FRANCYS WILHAN WERNER
+e-mail:      francys.werner@gmail.com
+country:     BR
+created:     20210208
+changed:     20210608
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

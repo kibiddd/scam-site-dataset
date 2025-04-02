@@ -1,0 +1,19 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        MAIL.RU
+nserver:       ns1.mail.ru. 217.69.139.112
+nserver:       ns2.mail.ru. 94.100.180.138
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           OBShchESTVO S OGRANIChENNOY OTVETSTVENNOSTU VK
+taxpayer-id:   7743001840
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       1997-09-27T14:33:26Z
+paid-till:     2025-09-30T21:00:00Z
+free-date:     2025-11-01
+source:        TCI
+
+Last updated on 2025-03-27T13:58:01Z
+

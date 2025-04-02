@@ -1,0 +1,12 @@
+Domain Name: insideoutside.co.nz
+Registrar URL: www.1stdomains.nz
+Updated Date: 2024-08-01T22:42:23Z
+Creation Date: 2021-08-25T23:48:04Z
+Original Created: 1998-10-13T11:00:00Z
+Registrar: Voyager Internet Ltd T/A 1st Domains
+Domain Status: ok https://icann.org/epp#ok
+Name Server: nsoh1.secureparkme.com
+Name Server: nsoh2.secureparkme.com
+DNSSEC: unsigned
+URL of the Domain Name Commission Limited Inaccuracy Complaint Form: https://dnc.org.nz/enquiry-form/
+>>> Last update of WHOIS database: 2025-03-27T14:53:43Z 

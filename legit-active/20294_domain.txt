@@ -1,0 +1,19 @@
+   Domain Name: BEHANCE.NET
+   Registry Domain ID: 248525188_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.comlaude.com
+   Registrar URL: http://www.comlaude.com
+   Updated Date: 2024-10-07T23:01:09Z
+   Creation Date: 2005-11-06T19:45:34Z
+   Registry Expiry Date: 2025-11-06T19:45:34Z
+   Registrar: Nom-iq Ltd. dba COM LAUDE
+   Registrar IANA ID: 470
+   Registrar Abuse Contact Email: abuse@comlaude.com
+   Registrar Abuse Contact Phone: +442074218250
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1387.AWSDNS-45.ORG
+   Name Server: NS-1714.AWSDNS-22.CO.UK
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:54:35Z 

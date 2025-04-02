@@ -1,0 +1,17 @@
+   Domain Name: DAFILMS.COM
+   Registry Domain ID: 146200971_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.regtons.com
+   Registrar URL: http://regtons.com
+   Updated Date: 2025-03-03T09:29:09Z
+   Creation Date: 2005-03-13T19:19:44Z
+   Registry Expiry Date: 2026-03-13T18:19:44Z
+   Registrar: Gransy, s.r.o.
+   Registrar IANA ID: 1505
+   Registrar Abuse Contact Email: abuse@regtons.com
+   Registrar Abuse Contact Phone: +420.734 463 373
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.IGNUM.COM
+   Name Server: NS2.IGNUM.CZ
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T22:41:37Z 

@@ -1,0 +1,36 @@
+** Domain Name: 62728738.com.tr
+Domain Status: Active
+Frozen Status: -
+Transfer Status: The domain is LOCKED to transfer. 
+
+** Registrant:
+   
+   Hidden upon user request
+   Hidden upon user request
+   Hidden upon user request
+   
+
+
+** Registrar:
+NIC Handle		: fp39
+Organization Name	: İsimtescil Bilişim Anonim Şirketi
+Address			: Tantavi Mah. Menteşoğlu Cad.
+			  No: 25 Kat: 2 Terra Plaza Ümraniye
+			  - İstanbul Türkiye
+Phone			: 90-850-2000444
+Fax			: 90-216-6062989 
+
+
+** Domain Servers:
+tr.dnsenable.com
+eu.dnsenable.com
+us.dnsenable.com
+
+
+** Additional Info:
+Created on..............: 2024-Jul-14.
+Expires on..............: 2025-Jul-13.
+
+
+** Whois Server:
+Last Update Time: 2025-03-26T20:34:21+03:00

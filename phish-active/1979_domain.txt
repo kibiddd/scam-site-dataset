@@ -1,0 +1,18 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        ALLIANCE-PROM.RU
+nserver:       ns1.sigmaparking.ru.
+nserver:       ns2.sigmaparking.ru.
+state:         REGISTERED, DELEGATED, UNVERIFIED
+person:        Private Person
+registrar:     REGRU-RU
+admin-contact: http://www.reg.ru/whois/admin_contact
+created:       2025-03-04T14:01:10Z
+paid-till:     2026-03-04T14:01:10Z
+free-date:     2026-04-04
+source:        TCI
+
+Last updated on 2025-03-26T17:43:01Z
+

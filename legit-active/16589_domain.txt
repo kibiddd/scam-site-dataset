@@ -1,0 +1,19 @@
+   Domain Name: PATRICKMCMULLAN.COM
+   Registry Domain ID: 11286910_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2024-08-14T06:34:02Z
+   Creation Date: 1999-10-13T20:14:56Z
+   Registry Expiry Date: 2027-10-13T20:14:56Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1110.AWSDNS-10.ORG
+   Name Server: NS-1967.AWSDNS-53.CO.UK
+   Name Server: NS-82.AWSDNS-10.COM
+   Name Server: NS-820.AWSDNS-38.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:34:48Z 

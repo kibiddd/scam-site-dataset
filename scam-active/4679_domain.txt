@@ -1,0 +1,25 @@
+Domain Name: fx110.com.tw
+   Domain Status: clientRenewProhibited,clientUpdateProhibited,clientDeleteProhibited,clientTransferProhibited
+   Registrant:
+      
+      Shen Zhen Shi Wan shi wang luo Zi Xun You Xian Gong Si
+      nbhljzs@126.com
+      CN
+      (Redacted for privacy)
+
+   Administrative Contact:
+      (Redacted for privacy)
+
+   Technical Contact:
+      (Redacted for privacy)
+
+   Record expires on 2027-08-26 10:35:40 (UTC+8)
+   Record created on 2018-08-26 10:35:40 (UTC+8)
+
+   Domain servers in listed order:
+      ns1.alidns.com     
+      ns2.alidns.com     
+
+Registration Service Provider: GoDaddy
+Registration Service URL: http://www.GoDaddy.com/
+Provided by Registry Services, LLC. Registry Gateway Services

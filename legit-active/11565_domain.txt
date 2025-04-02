@@ -1,0 +1,70 @@
+Domain Name: picra.ca
+Registry Domain ID: 1847597-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.hexonet.net
+Updated Date: 2023-07-19T22:02:40Z
+Creation Date: 2011-06-10T13:28:16Z
+Registry Expiry Date: 2025-06-10T13:28:16Z
+Registrar: CENTRALNIC CANADA INC
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@key-systems.net
+Registrar Abuse Contact Phone: +49.68949396x850
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 109264319-CIRA
+Registrant Name: Private by Design, LLC
+Registrant Organization: Private by Design, LLC
+Registrant Street: 500 Westover Dr #9816
+Registrant City: Sanford
+Registrant State/Province: NC
+Registrant Postal Code: 27330
+Registrant Country: US
+Registrant Phone: +1.9712666028
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: whoisprivacy@porkbun.com
+Registry Admin ID: 109264503-CIRA
+Admin Name: Whois Privacy
+Admin Organization: Private by Design, LLC
+Admin Street: 500 Westover Dr #9816
+Admin City: Sanford
+Admin State/Province: NC
+Admin Postal Code: 27330
+Admin Country: US
+Admin Phone: +1.9712666028
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: whoisprivacy@porkbun.com
+Registry Tech ID: 109264320-CIRA
+Tech Name: Whois Privacy
+Tech Organization: Private by Design, LLC
+Tech Street: 500 Westover Dr #9816
+Tech City: Sanford
+Tech State/Province: NC
+Tech Postal Code: 27330
+Tech Country: US
+Tech Phone: +1.9712666028
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: whoisprivacy@porkbun.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.canadacreate.ca
+Name Server: ns2.canadacreate.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T15:58:41Z 

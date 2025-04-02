@@ -1,0 +1,28 @@
+Domain Name: 76881J.XYZ
+Registry Domain ID: D516565908-CNIC
+Registrar WHOIS Server: whois.hkdns.hk
+Registrar URL: http://www.hkdns.hk
+Updated Date: 2025-02-19T10:48:16.0Z
+Creation Date: 2025-01-04T11:52:07.0Z
+Registry Expiry Date: 2026-01-04T23:59:59.0Z
+Registrar: West263 International Limited
+Registrar IANA ID: 1915
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: Shang Hai Jin Fa Fa Dian She Bei Cheng Tao You Xian Gong Si
+Registrant State/Province: Shang Hai Shi
+Registrant Country: CN
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS3.MYHOSTADMIN.NET
+Name Server: NS4.MYHOSTADMIN.NET
+Name Server: NS1.MYHOSTADMIN.NET
+Name Server: NS2.MYHOSTADMIN.NET
+Name Server: NS5.MYHOSTADMIN.NET
+Name Server: NS6.MYHOSTADMIN.NET
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@hkdns.hk
+Registrar Abuse Contact Phone: +852.30697963
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T15:45:56.0Z 

@@ -1,0 +1,20 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        BQHOUSE.RU
+nserver:       ns1.beget.com.
+nserver:       ns1.beget.pro.
+nserver:       ns2.beget.com.
+nserver:       ns2.beget.pro.
+state:         REGISTERED, DELEGATED, VERIFIED
+person:        Private Person
+registrar:     BEGET-RU
+admin-contact: whois.beget.com
+created:       2011-02-05T21:03:01Z
+paid-till:     2026-02-05T21:03:01Z
+free-date:     2026-03-09
+source:        TCI
+
+Last updated on 2025-03-26T22:58:01Z
+

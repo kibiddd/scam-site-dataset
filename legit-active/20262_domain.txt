@@ -1,0 +1,17 @@
+   Domain Name: MOSTHOLYFAMILYMONASTERY.COM
+   Registry Domain ID: 22478995_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2019-11-23T16:41:42Z
+   Creation Date: 2000-03-15T18:17:57Z
+   Registry Expiry Date: 2027-03-15T17:17:57Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.CATHOLICREMNANT.COM
+   Name Server: NS2.CATHOLICREMNANT.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T21:54:35Z 

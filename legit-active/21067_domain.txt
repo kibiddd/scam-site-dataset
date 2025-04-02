@@ -1,0 +1,60 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: SCRIPPS.EDU
+
+Registrant:
+	The Scripps Research Institute
+	10550 North Torrey Pines Road
+	Mail Drop SP-262
+	La Jolla, CA 92037
+	USA
+
+Administrative Contact:
+	Domain Admin
+	The Scripps Research Institute
+	10550 North Torrey Pines Road
+	Mail Drop SP-262
+	La Jolla, CA 92037
+	USA
+	+1.8587849937
+	network@scripps.edu
+
+Technical Contact:
+	Domain Admin
+	The Scripps Research Institute
+	10550 North Torrey Pines Road
+	Mail Drop SP-262
+	La Jolla, CA 92037
+	USA
+	+1.8587849937
+	network@scripps.edu
+
+Name Servers:
+	NS1.SCRIPPS.EDU
+	NS0.SCRIPPS.EDU
+	SILVER.SDSMT.EDU
+	NS1.SDSC.EDU
+
+Domain record activated:    07-Oct-1988
+Domain record last updated: 11-Jul-2023
+Domain expires:             31-Jul-2026

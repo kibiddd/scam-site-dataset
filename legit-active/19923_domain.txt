@@ -1,0 +1,69 @@
+Domain Name: filepie.us
+Registry Domain ID: DE63C3BD22D784B6CB41587673B716660-GDREG
+Registrar WHOIS Server: whois.registrar.eu
+Registrar URL: www.openprovider.com
+Updated Date: 2024-12-22T10:56:20Z
+Creation Date: 2024-12-17T10:56:19Z
+Registry Expiry Date: 2025-12-17T10:56:19Z
+Registrar: Hosting Concepts B.V. d/b/a Registrar.eu
+Registrar IANA ID: 1647
+Registrar Abuse Contact Email: abuse@registrar.eu
+Registrar Abuse Contact Phone: +31.104482297
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: CA3EF43DA88824287AA71DFF766A9F704-GDREG
+Registrant Name: Peter Admin
+Registrant Organization: Logistic Office London LLC
+Registrant Street: 2515 Warren Avenue
+Registrant Street:
+Registrant Street:
+Registrant City: Cheyenne
+Registrant State/Province: Wyoming
+Registrant Postal Code: 82001
+Registrant Country: US
+Registrant Phone: +1.3072630846
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: LogisticOfficeLondon@gmail.com
+Registrant Application Purpose: P4
+Registrant Nexus Category: C21
+Registry Admin ID: CA3EF43DA88824287AA71DFF766A9F704-GDREG
+Admin Name: Peter Admin
+Admin Organization: Logistic Office London LLC
+Admin Street: 2515 Warren Avenue
+Admin Street:
+Admin Street:
+Admin City: Cheyenne
+Admin State/Province: Wyoming
+Admin Postal Code: 82001
+Admin Country: US
+Admin Phone: +1.3072630846
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: LogisticOfficeLondon@gmail.com
+Admin Application Purpose: P4
+Admin Nexus Category: C21
+Registry Tech ID: CA3EF43DA88824287AA71DFF766A9F704-GDREG
+Tech Name: Peter Admin
+Tech Organization: Logistic Office London LLC
+Tech Street: 2515 Warren Avenue
+Tech Street:
+Tech Street:
+Tech City: Cheyenne
+Tech State/Province: Wyoming
+Tech Postal Code: 82001
+Tech Country: US
+Tech Phone: +1.3072630846
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: LogisticOfficeLondon@gmail.com
+Tech Application Purpose: P4
+Tech Nexus Category: C21
+Name Server: ns1.regery.net
+Name Server: ns2.regery.net
+Name Server: ns3.regery.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T21:52:59Z 

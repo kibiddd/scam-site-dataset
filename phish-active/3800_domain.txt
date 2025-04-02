@@ -1,0 +1,104 @@
+% Request from 2a09:bac5:c82c:2446::39d:28
+% This is the Ukrainian Whois query server #W.
+% The Whois is subject to Terms of use
+% See https://hostmaster.ua/services/
+%
+% IN THE PROCESS OF DELEGATION OF A DOMAIN NAME,
+% THE REGISTRANT IS AN ENTITY WHO USES AND MANAGES A CERTAIN DOMAIN NAME,
+% AND THE REGISTRAR IS A BUSINESS ENTITY THAT PROVIDES THE REGISTRANT
+% WITH THE SERVICES NECESSARY FOR THE TECHNICAL MAINTENANCE OF THE REGISTRATION AND OPERATION OF THE DOMAIN NAME.
+% FOR INFORMATION ABOUT THE REGISTRANT OF THE DOMAIN NAME, YOU SHOULD CONTACT THE REGISTRAR.
+
+domain:           basis.org.ua
+dom-public:       NO
+mnt-by:           ua.ukraine
+nserver:          ns1.mirohost.net
+nserver:          ns2.mirohost.net
+nserver:          ns3.mirohost.net
+status:           ok
+created:          2019-03-28 11:31:04+02
+modified:         2024-02-29 16:21:02+02
+expires:          2025-03-28 11:31:04+02
+source:           UAEPP
+
+% Registrar:
+%
+% The following disclaimer was provided by the domain name registrar
+% ==========
+% Надана інформація є неповною і може містити помилки, 
+% пов'язані з особливостями кешування інформації, 
+% несинхронного оновлення реєстрів тощо, тому не є достовірною та
+% надається виключно для ознайомлення. У зв'язку з чим інформація не може бути
+% використана з метою вирішення спорів, конфліктів, визначення майнових та немайнових
+% прав тощо.
+% Єдиним джерелом первинних даних про доменне ім'я є реєстратор (registrar)
+% доменного імені, який може надати необхідну інформацію на запит, у встан��вленому
+% законом порядку.
+% 
+% The provided information is incomplete and may contain errors related to the specificity
+% of information caching mechanisms, asynchronous updating of registries, etc.,
+% herefore it is not reliable and is provided for informational purposes only.
+% In connection with the above, this information can not be used to resolve disputes,
+% conflicts, determine property and non-property rights, etc.
+% The only source of primary data about the domain name is the registrar of the domain name,
+% which can provide the required information upon request, in accordance with the procedure
+% established by law.
+% ==========
+registrar:        ua.ukraine
+organization:     Hosting Ukraine LLC
+organization-loc: ТОВ "ХОСТІНГ УКРАЇНА"
+url:              https://www.ukraine.com.ua
+city:             Kyiv
+country:          UA
+abuse-url:        https://privacyprotected.net/
+abuse-email:      domain@abuse.team
+abuse-phone:      +380.443927433
+abuse-postal:     Ukraine 04112 Kyiv PO box 65
+abuse-postal-loc: Україна 04112 м. Київ, а/с 65
+source:           UAEPP
+
+% Registrant:
+% ===========
+person:           not published
+organization:     not published
+e-mail:           acf53a34e704656966@privacyprotected.net
+address:          not published
+phone:            not published
+mnt-by:           ua.ukraine
+status:           ok
+status:           linked
+created:          2019-03-28 11:31:03+02
+source:           UAEPP
+
+
+% Administrative Contacts:
+% =======================
+person:           not published
+organization:     not published
+e-mail:           acf53a34e704656966@privacyprotected.net
+address:          not published
+phone:            not published
+mnt-by:           ua.ukraine
+status:           ok
+status:           linked
+created:          2019-03-28 11:31:03+02
+source:           UAEPP
+
+
+% Technical Contacts:
+% ===================
+person:           not published
+organization:     not published
+e-mail:           acf53a34e704656966@privacyprotected.net
+address:          not published
+phone:            not published
+mnt-by:           ua.ukraine
+status:           ok
+status:           linked
+created:          2019-03-28 11:31:03+02
+source:           UAEPP
+
+
+
+% Query time:     4 msec
+

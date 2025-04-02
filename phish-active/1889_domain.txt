@@ -1,0 +1,17 @@
+   Domain Name: ALEX-RUS.COM
+   Registry Domain ID: 2930892267_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.nic.ru
+   Registrar URL: http://nic.ru
+   Updated Date: 2024-12-10T15:18:39Z
+   Creation Date: 2024-11-02T17:04:31Z
+   Registry Expiry Date: 2025-11-02T17:04:31Z
+   Registrar: Regional Network Information Center, JSC dba RU-CENTER
+   Registrar IANA ID: 463
+   Registrar Abuse Contact Email: tld-abuse@nic.ru
+   Registrar Abuse Contact Phone: +74950091333
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS.MTW.RU
+   Name Server: NS1.MTW.RU
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:44:06Z 

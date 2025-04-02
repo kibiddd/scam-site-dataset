@@ -1,0 +1,21 @@
+   Domain Name: BUY.COM
+   Registry Domain ID: 2407717_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-08-06T10:17:40Z
+   Creation Date: 1998-11-12T05:00:00Z
+   Registry Expiry Date: 2028-11-11T05:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1379.AWSDNS-44.ORG
+   Name Server: NS-1582.AWSDNS-05.CO.UK
+   Name Server: NS-27.AWSDNS-03.COM
+   Name Server: NS-731.AWSDNS-27.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:18:36Z 

@@ -1,0 +1,17 @@
+   Domain Name: INDIA-FORUMS.COM
+   Registry Domain ID: 124840281_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.dynadot.com
+   Registrar URL: http://www.dynadot.com
+   Updated Date: 2025-03-05T12:16:24Z
+   Creation Date: 2004-07-15T08:13:40Z
+   Registry Expiry Date: 2027-07-15T08:13:40Z
+   Registrar: Dynadot Inc
+   Registrar IANA ID: 472
+   Registrar Abuse Contact Email: abuse@dynadot.com
+   Registrar Abuse Contact Phone: +16502620100
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ASA.NS.CLOUDFLARE.COM
+   Name Server: GABE.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T22:42:08Z 

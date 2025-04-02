@@ -1,0 +1,18 @@
+   Domain Name: STONEMOUNTAINCOFFEE.COM
+   Registry Domain ID: 18093647_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domain.com
+   Registrar URL: http://www.domain.com
+   Updated Date: 2024-12-31T08:39:43Z
+   Creation Date: 2000-01-20T02:39:13Z
+   Registry Expiry Date: 2026-01-20T02:39:13Z
+   Registrar: Domain.com, LLC
+   Registrar IANA ID: 886
+   Registrar Abuse Contact Email: compliance@domain-inc.net
+   Registrar Abuse Contact Phone: 602-226-2389
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.YOUR-SITE.COM
+   Name Server: NS2.YOUR-SITE.COM
+   Name Server: NS3.YOUR-SITE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:14:50Z 

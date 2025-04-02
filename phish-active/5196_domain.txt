@@ -1,0 +1,17 @@
+   Domain Name: CELIKKALIPPLASTIK.COM
+   Registry Domain ID: 1841495739_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.isimtescil.net
+   Registrar URL: http://www.isimtescil.net
+   Updated Date: 2024-12-14T21:05:01Z
+   Creation Date: 2014-01-05T18:30:46Z
+   Registry Expiry Date: 2026-01-05T18:30:46Z
+   Registrar: Isimtescil Bilisim A.S.
+   Registrar IANA ID: 3826
+   Registrar Abuse Contact Email: abuse@isimtescil.net
+   Registrar Abuse Contact Phone: +90.8502000444
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.ISIMTESCIL.NET
+   Name Server: NS2.ISIMTESCIL.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:03:21Z 

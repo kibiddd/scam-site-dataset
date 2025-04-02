@@ -1,0 +1,25 @@
+Domain Name: image0928.com.tw
+   Domain Status: ok
+   Registrant:
+      
+      Aibaoda Industrial Co., Ltd
+      yiuying@msn.com
+      tw
+      (Redacted for privacy)
+
+   Administrative Contact:
+      (Redacted for privacy)
+
+   Technical Contact:
+      (Redacted for privacy)
+
+   Record expires on 2026-06-18 10:28:32 (UTC+8)
+   Record created on 2020-06-18 10:28:32 (UTC+8)
+
+   Domain servers in listed order:
+      ns1.justhost.com     
+      ns2.justhost.com     
+
+Registration Service Provider: HINET
+Registration Service URL: http://domain.hinet.net
+Registrar Abuse Contact Email: service@domain.hinet.net

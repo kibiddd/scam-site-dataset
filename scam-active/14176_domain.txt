@@ -1,0 +1,17 @@
+   Domain Name: PXEZUPFA.COM
+   Registry Domain ID: 2943260051_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namesrs.com
+   Registrar URL: http://www.namesrs.com
+   Updated Date: 2025-02-16T09:05:41Z
+   Creation Date: 2024-12-18T08:55:24Z
+   Registry Expiry Date: 2025-12-18T08:55:24Z
+   Registrar: Name SRS AB
+   Registrar IANA ID: 638
+   Registrar Abuse Contact Email: abuse@namesrs.com
+   Registrar Abuse Contact Phone: +46.313011220
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS7.ALIDNS.COM
+   Name Server: NS8.ALIDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T15:48:52Z 

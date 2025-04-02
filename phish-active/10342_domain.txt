@@ -1,0 +1,13 @@
+# WHOIS .PK Domains (PKNIC)
+
+    Domain: globexint.com.pk
+    Status: Domain is Registered
+    
+
+    Creation Date: 2023-05-24
+    Expiry Date: 2025-05-24
+    Name Server: ns1.darasgah.com
+    Name Server: ns2.darasgah.com
+    Name Server: 
+    Name Server: 
+

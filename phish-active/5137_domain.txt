@@ -1,0 +1,58 @@
+Domain Name: ccj.org.do
+Registrar URL: 
+Updated Date: 2021-09-21T15:23:14.999Z
+Creation Date: 2011-09-27T04:00:00.0Z
+Registry Expiry Date: 2028-09-27T04:00:00.0Z
+Registrar Registration Expiration Date: 2028-09-27T04:00:00.0Z
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: Redacted | Registry Policy
+Registrant Name: Centro Casa Comunitaria de Justicia
+Registrant Organization: Centro Casa Comunitaria de Justicia
+Registrant Street: Redacted | Registry Policy
+Registrant City: Redacted | Registry Policy
+Registrant State/Province: Redacted | Registry Policy
+Registrant Postal Code: Redacted | Registry Policy
+Registrant Country: Redacted | Registry Policy
+Registrant Phone: Redacted | Registry Policy
+Registrant Email: Redacted | Registry Policy
+Registry Admin ID: Redacted | Registry Policy
+Admin Name: Centro Casa Comunitaria de Justicia
+Admin Organization: Centro Casa Comunitaria de Justicia
+Admin Street: Redacted | Registry Policy
+Admin City: Redacted | Registry Policy
+Admin State/Province: Redacted | Registry Policy
+Admin Postal Code: Redacted | Registry Policy
+Admin Country: Redacted | Registry Policy
+Admin Phone: Redacted | Registry Policy
+Admin Email: Redacted | Registry Policy
+Registry Tech ID: Redacted | Registry Policy
+Tech Name: Centro Casa Comunitaria de Justicia
+Tech Organization: Centro Casa Comunitaria de Justicia
+Tech Street: Redacted | Registry Policy
+Tech City: Redacted | Registry Policy
+Tech State/Province: Redacted | Registry Policy
+Tech Postal Code: Redacted | Registry Policy
+Tech Country: Redacted | Registry Policy
+Tech Phone: Redacted | Registry Policy
+Tech Email: Redacted | Registry Policy
+Registry Billing ID: So2Vw-7ijke
+Billing Name: Centro Casa Comunitaria de Justicia
+Billing Organization: Centro Casa Comunitaria de Justicia
+Billing Street: Redacted | Registry Policy
+Billing City: Redacted | Registry Policy
+Billing State/Province: Redacted | Registry Policy
+Billing Postal Code: Redacted | Registry Policy
+Billing Country: Redacted | Registry Policy
+Billing Phone: Redacted | Registry Policy
+Billing Email: Redacted | Registry Policy
+Registrar: Registrar NIC .DO (midominio.do)
+Registrar Country: DO
+Registrar Phone: 8095350111
+Registrar Fax: 8092860012
+Registrar Customer Service Contact: info@nic.do
+Registrar Customer Service Email: info@nic.do
+Name Server: h1920.dnns.net
+Name Server: ns35.dnns.net
+Name Server: ns34.dnns.net
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2025-03-26T22:57:38.978Z 

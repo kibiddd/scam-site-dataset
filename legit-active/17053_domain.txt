@@ -1,0 +1,17 @@
+   Domain Name: TVSERIESFINALE.COM
+   Registry Domain ID: 198164818_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.dreamhost.com
+   Registrar URL: http://www.DreamHost.com
+   Updated Date: 2024-07-18T07:45:37Z
+   Creation Date: 2005-08-19T00:08:30Z
+   Registry Expiry Date: 2025-08-19T00:08:30Z
+   Registrar: DreamHost, LLC
+   Registrar IANA ID: 431
+   Registrar Abuse Contact Email: domain-abuse@dreamhost.com
+   Registrar Abuse Contact Phone: +1.7148729370
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: AJAY.NS.CLOUDFLARE.COM
+   Name Server: NORA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:36:50Z 

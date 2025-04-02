@@ -1,0 +1,19 @@
+   Domain Name: SERVICE4DB.COM
+   Registry Domain ID: 2507576759_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.registrar.internetx.com
+   Registrar URL: http://www.internetx.com
+   Updated Date: 2024-03-27T07:08:08Z
+   Creation Date: 2020-03-26T09:01:50Z
+   Registry Expiry Date: 2025-03-26T09:01:50Z
+   Registrar: InterNetX GmbH
+   Registrar IANA ID: 151
+   Registrar Abuse Contact Email: domain-abuse@internetx.com
+   Registrar Abuse Contact Phone: +49.94159559480
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NSA2.SCHLUNDTECH.DE
+   Name Server: NSB2.SCHLUNDTECH.DE
+   Name Server: NSC2.SCHLUNDTECH.DE
+   Name Server: NSD2.SCHLUNDTECH.DE
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T22:55:34Z 

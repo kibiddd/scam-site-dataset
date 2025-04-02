@@ -1,0 +1,18 @@
+   Domain Name: DIETARYSUPPLEMENTSVITAMINS.COM
+   Registry Domain ID: 1793603194_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.internet.bs
+   Registrar URL: http://www.internet.bs
+   Updated Date: 2024-03-29T04:54:51Z
+   Creation Date: 2013-04-13T23:21:59Z
+   Registry Expiry Date: 2025-04-13T23:21:59Z
+   Registrar: Internet Domain Service BS Corp
+   Registrar IANA ID: 2487
+   Registrar Abuse Contact Email: abuse@internet.bs
+   Registrar Abuse Contact Phone: +1.5163015301
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-CANADA.TOPDNS.COM
+   Name Server: NS-UK.TOPDNS.COM
+   Name Server: NS-USA.TOPDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:25:24Z 

@@ -1,0 +1,21 @@
+Domain Name: fai.ie
+Registry Domain ID: 607361-IEDR
+Registrar WHOIS Server: whois.weare.ie
+Registrar URL: https://www.letshost.ie
+Updated Date: 2024-05-16T08:12:21Z
+Creation Date: 2001-04-02T23:00:00Z
+Registry Expiry Date: 2025-04-03T15:14:30Z
+Registrar: Letshost
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@letshost.ie
+Registrar Abuse Contact Phone: +353.16535032
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 350938-IEDR
+Registrant Name: REDACTED FOR PRIVACY
+Registry Admin ID: 45743-IEDR
+Registry Tech ID: 45745-IEDR
+Registry Billing ID: REDACTED FOR PRIVACY
+Name Server: alexandra.ns.cloudflare.com
+Name Server: hunts.ns.cloudflare.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2025-03-28T03:10:39Z 

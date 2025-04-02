@@ -1,0 +1,21 @@
+   Domain Name: WEBADMIN-EMAIL.NET
+   Registry Domain ID: 2056351711_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-11-04T17:45:20Z
+   Creation Date: 2016-08-31T16:44:31Z
+   Registry Expiry Date: 2025-08-31T16:44:31Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-114.AWSDNS-14.COM
+   Name Server: NS-1371.AWSDNS-43.ORG
+   Name Server: NS-1864.AWSDNS-41.CO.UK
+   Name Server: NS-932.AWSDNS-52.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T23:14:53Z 

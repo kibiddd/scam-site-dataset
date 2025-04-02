@@ -1,0 +1,75 @@
+Domain Name: tsn.ca
+Registry Domain ID: D97127-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2023-12-06T20:16:59Z
+Creation Date: 2000-10-15T14:14:52Z
+Registry Expiry Date: 2026-03-17T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 73713289-CIRA
+Registrant Name: The Sports Network Inc.
+Registrant Organization: The Sports Network Inc.
+Registrant Street: 1 Carrefour Alexander-Graham-Bell, A 7
+Registrant City: Verdun
+Registrant State/Province: QC
+Registrant Postal Code: H3E3B3
+Registrant Country: CA
+Registrant Phone: +1.5143917589
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: trademarks@bell.ca
+Registry Admin ID: 73713566-CIRA
+Admin Name: Richard Sabbagh
+Admin Organization: The Sports Network Inc.
+Admin Street: 1 Carrefour Alexander-Graham-Bell, A 7
+Admin City: Verdun
+Admin State/Province: QC
+Admin Postal Code: H3E3B3
+Admin Country: CA
+Admin Phone: +1.5143917589
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: trademarks@bell.ca
+Registry Tech ID: 73713566-CIRA
+Tech Name: Richard Sabbagh
+Tech Organization: The Sports Network Inc.
+Tech Street: 1 Carrefour Alexander-Graham-Bell, A 7
+Tech City: Verdun
+Tech State/Province: QC
+Tech Postal Code: H3E3B3
+Tech Country: CA
+Tech Phone: +1.5143917589
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: trademarks@bell.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: pdns1.ultradns.net
+Name Server: pdns2.ultradns.net
+Name Server: pdns3.ultradns.org
+Name Server: pdns4.ultradns.org
+Name Server: pdns5.ultradns.info
+Name Server: pdns6.ultradns.co.uk
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-27T21:53:06Z 

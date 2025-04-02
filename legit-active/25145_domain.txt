@@ -1,0 +1,23 @@
+Domain Name: icecream.com.au
+Registry Domain ID: 2bdc8cef51f646089e3f5efe35acf53b-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://elb.www.netregistry.com.au/contact-us/
+Last Modified: 2024-04-21T13:43:13Z
+Registrar Name: Melbourne IT
+Registrar Abuse Contact Email: abuse@webcentral.com.au
+Registrar Abuse Contact Phone: +61.279080901
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 510c8b8dbec94af7baddbe7aed3ab8c6-AU
+Registrant Contact Name: Mick Armstrong
+Tech Contact ID: 8d925d82dc874a0fa054106b004af74b-AU
+Tech Contact Name: Mick Armstrong
+Name Server: ns1.netregistry.net
+Name Server: ns2.netregistry.net
+Name Server: ns3.netregistry.net
+DNSSEC: unsigned
+Registrant: REGAL CREAM PRODUCTS PTY. LTD.
+Registrant ID: ACN 005144481
+Eligibility Type: Company
+>>> Last update of WHOIS database: 2025-03-28T00:00:25Z 

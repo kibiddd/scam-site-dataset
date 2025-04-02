@@ -1,0 +1,21 @@
+   Domain Name: BAYAREATRANSIT.NET
+   Registry Domain ID: 104224293_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.squarespace.domains
+   Registrar URL: http://domains2.squarespace.com
+   Updated Date: 2024-08-22T14:09:33Z
+   Creation Date: 2003-09-27T20:15:16Z
+   Registry Expiry Date: 2025-09-06T11:59:59Z
+   Registrar: Squarespace Domains II LLC
+   Registrar IANA ID: 895
+   Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+   Registrar Abuse Contact Phone: +1.6466935324
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-CLOUD-D1.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-D2.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-D3.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-D4.GOOGLEDOMAINS.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 11956 8 2 9BF25859B061F7078D0582E94C613689756B33F00CC40B98ADA68B0150B4081E
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:29:30Z 

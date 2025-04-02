@@ -1,0 +1,17 @@
+   Domain Name: BET36502.CC
+   Registry Domain ID: 203147925_DOMAIN_CC-VRSN
+   Registrar WHOIS Server: whois.spaceship.com
+   Registrar URL: http://www.spaceship.com
+   Updated Date: 2024-12-02T02:10:06Z
+   Creation Date: 2024-11-05T08:33:09Z
+   Registry Expiry Date: 2025-11-05T08:33:09Z
+   Registrar: Spaceship, Inc.
+   Registrar IANA ID: 3862
+   Registrar Abuse Contact Email: abuse@spaceship.com
+   Registrar Abuse Contact Phone: +1.9854014545
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: HARLEY.NS.CLOUDFLARE.COM
+   Name Server: JAMIE.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T20:25:04Z 

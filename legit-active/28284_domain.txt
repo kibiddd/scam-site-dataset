@@ -1,0 +1,17 @@
+   Domain Name: THIRSTYRABBIT.NET
+   Registry Domain ID: 1629049375_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.register4less.com
+   Registrar URL: http://Register4Less.com
+   Updated Date: 2025-01-18T18:13:56Z
+   Creation Date: 2010-12-06T20:44:16Z
+   Registry Expiry Date: 2025-12-06T20:44:16Z
+   Registrar: REGISTER4LESS, INC.
+   Registrar IANA ID: 1082
+   Registrar Abuse Contact Email: abuse@Register4Less.com
+   Registrar Abuse Contact Phone: +1 5149056500 x 402
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.KRYSTAL.UK
+   Name Server: NS2.KRYSTAL.UK
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T01:10:13Z 

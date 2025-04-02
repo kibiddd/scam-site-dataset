@@ -1,0 +1,325 @@
+BNP Paribas Productos Cotizados
+PRODUCTOS COTIZADOS
+Darse de alta o Conectarse
+Registrarse
+Registrarse
+Identificarse
+x
+La contraseña es incorrecta.
+x
+Email
+Contraseña
+Conectarse
+¿Ha olvidado su contraseña?
+Turbos
+Warrants
+Multis
+Bonus Cap
+Servicios
+Mercado
+Búsqueda rápida
+Producto
+Bonus Cap
+Call
+Put
+Turbo Call
+Turbo Put
+Subyacente
+ACCIONA ENERGIAS RENOVABLES
+ACERINOX
+ACS
+ADVANCED MICRO DEVICES
+AENA
+AIR FRANCE KLM
+ALMIRALL
+ALPHABET C
+AMADEUS IT HOLDING
+AMAZON
+APPLE
+ARCELORMITTAL
+BANCO SANTANDER
+BANKINTER
+BAYER
+BBVA
+BLOCK
+BNP PARIBAS
+BRENT DIC 16
+CAIXABANK
+CELLNEX TELECOM
+DAX®
+DOW JONES IND.
+ENAGAS
+ENDESA
+EUR/USD
+EURO STOXX 50
+FERROVIAL
+FOMENTO DE CONSTRUCCIONES Y CONTRATAS
+GAS NATURAL
+GRUPO ACCIONA
+IAG INTERNATIONAL CONSOLIDATED AIRLINES GROUP
+IBERDROLA
+IBEX 35
+INDITEX
+INDRA SISTEMAS
+INMOBILIARIA COLONIAL
+LUFTHANSA
+MAPFRE
+Merlin Properties Socimi
+MICROSOFT
+NASDAQ 100
+NETFLIX
+NIKE
+NVIDIA
+ORO
+PAYPAL
+PHARMA MAR
+PLATA
+REPSOL
+S&P 500
+SACYR VALLEHERMOSO
+TELEFONICA
+TESLA MOTORS
+USD/JPY
+VISA
+VISCOFAN
+Buscar
+¡Descubra nuestra gama de productos dedicada al bróker Degiro!
+Con Degiro, puede negociar los productos de las 8h de la mañana a las 22h.
+El detalla de la gama aqui :
+https://warrants.bnpparibas.com/esp
+MAPA DE TURBOS Y WARRANTS
+Mapa de Turbos
+Mapa de Warrants
+Subyacente
+ACCIONA ENERGIAS RENOVABLES
+ACERINOX
+ACS
+ADVANCED MICRO DEVICES
+AENA
+AIR FRANCE KLM
+ALMIRALL
+ALPHABET C
+AMADEUS IT HOLDING
+AMAZON
+APPLE
+ARCELORMITTAL
+BANCO SANTANDER
+BANKINTER
+BAYER
+BBVA
+BLOCK
+BNP PARIBAS
+BRENT DIC 16
+CAIXABANK
+CELLNEX TELECOM
+DAX®
+DOW JONES IND.
+ENAGAS
+ENDESA
+EUR/USD
+EURO STOXX 50
+FERROVIAL
+FOMENTO DE CONSTRUCCIONES Y CONTRATAS
+GAS NATURAL
+GRUPO ACCIONA
+IAG INTERNATIONAL CONSOLIDATED AIRLINES GROUP
+IBERDROLA
+IBEX 35
+INDITEX
+INDRA SISTEMAS
+INMOBILIARIA COLONIAL
+LUFTHANSA
+MAPFRE
+Merlin Properties Socimi
+MICROSOFT
+NASDAQ 100
+NETFLIX
+NIKE
+NVIDIA
+ORO
+PAYPAL
+PHARMA MAR
+PLATA
+REPSOL
+S&P 500
+SACYR VALLEHERMOSO
+TELEFONICA
+TESLA MOTORS
+USD/JPY
+VISA
+VISCOFAN
+Elast.
+Ver todos los productos
+[#ProductTypeName#]
+[#InstrumentWKN#]
+Código :[#InstrumentWKN#]
+Tipo :[#ProductTypeName#]
+Barrera :[#DistanceToKnockOutPercent#]
+Elasticidad :[#Leverage#]
+Vencimiento :[#MatureDate#]
+Compra/Venta :[#Bid#] / [#Ask#]
+[#ProductTypeName#]
+[#InstrumentWKN#]
+Código :[#InstrumentWKN#]
+Tipo :[#ProductTypeName#]
+Strike :[#StrikeAbsolute#]
+Compra :[#Bid#]
+Venta :[#Ask#]
+Delta (%) :[#Delta#]
+Elasticidad :[#Leverage#]
+Vencimiento :[#MatureDate#]
+PRECIOS (PRECIOS INDICATIVOS)
+Índices
+Acciones
+Mat. Primas
+Divisas
+Subyacente
+Precio
+Var. %
+IBEX 35
+13.468,50
++1,09%
+145,20
+DAX®
+23.121,20
++1,18%
+268,54
+EURO STOXX 50
+5.477,00
++1,13%
+61,21
+S&P 500
+5.768,12
++0,01%
+0,55
+NIKKEI 225
+38.028,20
++0,10%
+38,40
+NASDAQ 100
+20.251,90
++0,35%
+71,45
+Subyacente
+Precio
+Var. %
+BANCO SANTANDER
+6,605
++1,58%
+0,10
+BBVA
+13,47
++2,55%
+0,34
+TELEFONICA
+4,2265
+-0,67%
+-0,03
+INDITEX
+46,48
+-1,11%
+-0,52
+ARCELORMITTAL
+29,285
+-0,73%
+-0,22
+Subyacente
+Precio
+Var. %
+BRENT
+73,05
++0,10%
+0,07
+WTI
+69,07
+-0,07%
+-0,05
+ORO
+3.019,68
++0,26%
+7,77
+PALADIO
+959,61
++0,59%
+5,64
+PLATIN
+982,41
++0,38%
+3,76
+Subyacente
+Precio
+Var. %
+EUR/USD
+1,0796
+-0,05%
+0,00
+EUR/GBP
+0,8339
+-0,22%
+0,00
+EUR/JPY
+161,808
+-0,60%
+-0,97
+EUR/CHF
+0,9526
+-0,12%
+0,00
+GBP/USD
+1,2945
++0,17%
+0,00
+Intradia
+1 MES
+6 MESES
+1 AÑO
+INFORMACIÓN DE MERCADO
+Sentimiento de Mercado
+VÍDEO DEL DÍA
+RECOMENDACIONES
+AGENDA ECO/EMPRESARIAL
+Sentimiento sobre : IBEX 35
+Alcista14%
+Bajista86%
+Ultima actualización a las 17:50
+El sentimiento de mercado de los inversores
+Este ratio es indicativo y describe el sentimiento de los inversores europeos en Productos Cotizados de BNP Paribas sobre el índice IBEX. Para más información.
+Ver todos los ratios
+Estos ratios son puramente indicativos y no predicen la evolución futura ni el rendimiento de ningún instrumento financiero.
+DailyMarketInformation: VideoDailyTitle
+x
+Contacto
+x
+Escríbanos
+Para cualquier reclamación, por favor rellene el siguiente formulario
+Apellidos*
+Nombre*
+Email*
+Objeto*
+Su mensaje*
+Enviar
+© 2001 - 2025 BNP Paribas
+Powered by adesso
+Información Legal
+El Banco BNP Paribas
+Contacte con BNP Paribas
+Como Reclamar
+Uso de Cookies
+Conflictos de interés - Recomendaciones de Inversión
+Aviso de Protección de Datos
+Cookies Policy
+Data Protection Notice
+Cookie Settings
+¿Qué nota le daría a esta página?
+1
+2
+3
+4
+5
+La notación de la página
+x
+Gracias por su comentario.
+Email
+Tu comentario
+Enviar
+One Trust Cookie Settings

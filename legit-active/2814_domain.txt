@@ -1,0 +1,18 @@
+   Domain Name: LACNDB.COM
+   Registry Domain ID: 982125996_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.one.com
+   Registrar URL: http://www.one.com
+   Updated Date: 2024-05-19T07:29:37Z
+   Creation Date: 2007-05-18T18:05:34Z
+   Registry Expiry Date: 2025-05-18T18:05:34Z
+   Registrar: One.com A/S
+   Registrar IANA ID: 1462
+   Registrar Abuse Contact Email: abuse@one.com
+   Registrar Abuse Contact Phone: +45 44451220
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS01.ONE.COM
+   Name Server: NS02.ONE.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 29615 13 2 B2851E0BE708CA3CE7BBDC7C0809B50A0E36639F789DAB561F23F7B90358DA59
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T01:09:43Z 

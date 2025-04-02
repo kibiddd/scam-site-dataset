@@ -1,0 +1,13 @@
+Domain Name: blogspot.pe
+Sponsoring Registrar: MarkMonitor Inc.
+Domain Status: clientTransferProhibited
+Domain Status: clientUpdateProhibited
+Domain Status: clientDeleteProhibited
+Registrant Name: Google LLC
+Admin Name: Google LLC
+Admin Email: dns-admin@google.com
+Name Server: ns2.google.com
+Name Server: ns4.google.com
+Name Server: ns1.google.com
+Name Server: ns3.google.com
+>>> Last update of WHOIS database: 2025-03-27T14:40:34.714Z 

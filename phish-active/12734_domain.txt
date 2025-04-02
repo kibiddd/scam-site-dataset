@@ -1,0 +1,2 @@
+Domain: juwelenmarkt.de
+Status: connect

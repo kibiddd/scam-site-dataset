@@ -1,0 +1,17 @@
+   Domain Name: JONHAWKESFORD.COM
+   Registry Domain ID: 2887971218_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.rrpproxy.net
+   Registrar URL: http://www.key-systems.net
+   Updated Date: 2025-01-28T19:40:29Z
+   Creation Date: 2024-06-05T19:50:01Z
+   Registry Expiry Date: 2025-06-05T19:50:01Z
+   Registrar: Key-Systems GmbH
+   Registrar IANA ID: 269
+   Registrar Abuse Contact Email: abuse@key-systems.net
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS3.EMAILVERIFICATION.INFO
+   Name Server: NS4.EMAILVERIFICATION.INFO
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T14:56:05Z 

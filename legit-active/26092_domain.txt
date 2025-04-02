@@ -1,0 +1,17 @@
+   Domain Name: ROASTEDCOFFEEBEAN.COM
+   Registry Domain ID: 8076915_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2024-07-17T07:36:34Z
+   Creation Date: 1999-07-16T21:53:48Z
+   Registry Expiry Date: 2025-07-16T21:53:48Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.RENTONDC.COM
+   Name Server: NS2.RENTONDC.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T00:03:50Z 

@@ -1,0 +1,17 @@
+   Domain Name: CUBIXPRO.COM
+   Registry Domain ID: 1204813956_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2020-07-10T06:03:45Z
+   Creation Date: 2007-09-08T13:30:13Z
+   Registry Expiry Date: 2025-09-08T13:30:13Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS75.WORLDNIC.COM
+   Name Server: NS76.WORLDNIC.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:22:25Z 

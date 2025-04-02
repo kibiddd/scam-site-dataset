@@ -1,0 +1,17 @@
+   Domain Name: GOLFCLUBATLAS.COM
+   Registry Domain ID: 6868488_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enomdomains.com
+   Updated Date: 2024-04-13T18:09:15Z
+   Creation Date: 1999-05-28T11:16:45Z
+   Registry Expiry Date: 2029-05-28T11:17:21Z
+   Registrar: eNom, LLC
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.CONNECTNC.COM
+   Name Server: NS2.CONNECTNC.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-28T03:19:21Z 

@@ -1,0 +1,11 @@
+Domain Name: bzjs666.cn
+ROID: 20220906s10001s49073940-cn
+Domain Status: ok
+Registrant: 杨华丽
+Registrant Contact Email: jszf010203@gmail.com
+Sponsoring Registrar: 成都西维数码科技有限公司
+Name Server: ns1.judns.com
+Name Server: ns2.judns.com
+Registration Time: 2022-09-06 15:39:30
+Expiration Time: 2025-09-06 15:39:30
+DNSSEC: unsigned

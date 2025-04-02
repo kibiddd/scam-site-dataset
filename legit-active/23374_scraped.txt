@@ -1,0 +1,43 @@
+Genamics SoftwareSeek - Molecular Biology and Biochemistry Software and Online Tools Database
+Home |
+JournalSeek |
+SoftwareSeek |
+GenomeSeek |
+Expression |
+Developer |
+TakeOnIt
+Genamics SoftwareSeek
+Genamics SoftwareSeek is a respository and database of freely-distributable and commercial tools for use in molecular biology and biochemistry. Windows, MS-DOS, Mac, Unix and Linux
+platforms are supported, as well as online tools that run
+through your internet browser. The database presently contains more than 1300 entries, and is growing rapidly.
+Biochemistry (106)
+Chemistry (105)
+DNA Sequence Analysis (245)
+Educational (113)
+Format Conversion Utilities (52)
+Genetics (210)
+Genome Analysis (99)
+Graphing and Statistical Analysis (64)
+Image Analysis (49)
+Laboratory Utilities (88)
+Medical (54)
+Miscellaneous (141)
+Molecular Modeling (179)
+Non-science (16)
+PCR (71)
+Phylogenetic Analysis (91)
+Protein Identification (52)
+Protein Sequence Analysis (185)
+Protein Structure Analysis (99)
+Protein Structure Prediction (73)
+RNA Structure Prediction (22)
+Reference (33)
+Sequence Alignment (165)
+Sequence Presentation (64)
+Recent Additions
+Check out the latest additions to SoftwareSeek.
+Advanced Search
+Search the library by a combination of platform, program name, and classification or by a keyword.
+Check the database often - new programs and tools are added regularly.
+Add or Modify the Database
+We want to keep this software archive as comprehensive, accurate and up-to-date as possible. If there are any programs (free or commercial) or online tools not listed here, please contribute to the database.

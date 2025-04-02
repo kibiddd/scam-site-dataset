@@ -1,0 +1,36 @@
+
+ID ccTLD whois server
+Please see 'whois -h whois.id help' for usage.
+
+Domain ID: PANDI-DO166626
+Domain Name: google.co.id
+Created On: 2004-12-18 13:33:21
+Last Updated On: 2025-01-30 02:38:45 
+Expiration Date: 2025-09-01 23:59:59 
+Status: serverTransferProhibited
+Status: clientTransferProhibited
+Status: clientRenewProhibited
+Status: clientDeleteProhibited
+Status: clientUpdateProhibited
+Status: serverRenewProhibited
+Status: serverDeleteProhibited
+Status: serverUpdateProhibited
+
+====================================================
+Sponsoring Registrar Organization: PT Digital Registra Indonesia
+Sponsoring Registrar URL: www.digitalregistra.co.id
+Sponsoring Registrar Street: Jl. lempongsari no. 39C  Jongkang RT/RW 12/35 Sariharjo  
+Sponsoring Registrar City: Sleman
+Sponsoring Registrar State/Province: Yogyakarta
+Sponsoring Registrar Postal Code: 55281
+Sponsoring Registrar Country: ID
+Sponsoring Registrar Phone: 0274882257
+Sponsoring Registrar Email: info@digitalregistra.co.id
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+DNSSEC: Unsigned
+
+Abuse Domain Report https://pandi.id/domain-abuse-form/?lang=en
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en

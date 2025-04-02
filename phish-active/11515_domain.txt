@@ -1,0 +1,39 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-27T11:52:15-03:00 - 2a09:bac5:c82c:de1::162:d8
+
+domain:      i43moda.com.br
+owner:       Clayton Salermo de Sena
+ownerid:     ***.750.637-**
+country:     BR
+owner-c:     CLSSE20
+tech-c:      CLSSE20
+nserver:     a.sec.dns.br
+nsstat:      20250325 AA
+nslastaa:    20250325
+nserver:     b.sec.dns.br
+nsstat:      20250325 AA
+nslastaa:    20250325
+dsrecord:    37371 ECDSA-SHA-256 5C8D3A9BEB5A4CBC8442D2B00968C73C6303C86EE0BDC5C57295E18773017EA8
+dsstatus:    20250325 DSOK
+dslastok:    20250325
+saci:        yes
+created:     20240603 #27970286
+changed:     20240603
+expires:     20250603
+status:      published
+
+nic-hdl-br:  CLSSE20
+person:      Clayton Salermo de Sena
+e-mail:      clayton.salermo@gmail.com
+country:     BR
+created:     20190819
+changed:     20240603
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

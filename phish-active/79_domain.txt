@@ -1,0 +1,11 @@
+Domain Name: bcttc.com.cn
+ROID: 20240407s10011s97811965-cn
+Domain Status: ok
+Registrant: 张三亮
+Registrant Contact Email: sfdsdzf@163.com
+Sponsoring Registrar: 北京网尊科技有限公司
+Name Server: dm2.dns.com
+Name Server: dm1.dns.com
+Registration Time: 2024-04-07 04:09:45
+Expiration Time: 2025-04-07 04:09:45
+DNSSEC: unsigned

@@ -1,0 +1,17 @@
+   Domain Name: FUNDOODATA.COM
+   Registry Domain ID: 145711299_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.PublicDomainRegistry.com
+   Registrar URL: http://www.publicdomainregistry.com
+   Updated Date: 2025-01-31T07:55:36Z
+   Creation Date: 2005-03-10T06:43:43Z
+   Registry Expiry Date: 2026-03-10T05:43:43Z
+   Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+   Registrar IANA ID: 303
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DELL.NS.CLOUDFLARE.COM
+   Name Server: HANK.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T18:36:35Z 

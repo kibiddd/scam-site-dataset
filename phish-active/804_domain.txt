@@ -1,0 +1,17 @@
+   Domain Name: 365K22.CC
+   Registry Domain ID: 201323037_DOMAIN_CC-VRSN
+   Registrar WHOIS Server: whois.gname.com
+   Registrar URL: http://www.gname.com
+   Updated Date: 2024-06-29T15:42:47Z
+   Creation Date: 2024-06-25T10:30:28Z
+   Registry Expiry Date: 2025-06-25T10:30:28Z
+   Registrar: Gname.com Pte. Ltd.
+   Registrar IANA ID: 1923
+   Registrar Abuse Contact Email: complaint@gname.com
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: EVELYN.NS.CLOUDFLARE.COM
+   Name Server: LEIF.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-26T17:40:19Z 

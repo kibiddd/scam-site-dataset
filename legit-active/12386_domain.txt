@@ -1,0 +1,59 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: UMASS.EDU
+
+Registrant:
+	University of Massachusetts
+	A147 Lederle Gradudate Research Center
+	A147 Lederle Graduate Research Center
+	Amherst, MA 01003
+	USA
+
+Administrative Contact:
+	Domain Admin
+	University of Massachusetts
+	A147 Lederle Gradudate Research Center
+	A147 Lederle Graduate Research Center
+	Amherst, MA 01003
+	USA
+	+1.4135459625
+	jmileski@oit.umass.edu
+
+Technical Contact:
+	John Doyle
+	University of Massachusetts, Amherst
+	400 Venture Way,
+	400 Venture Way,
+	Hadley, MA 01035
+	USA
+	+1.4135454809
+	hostmaster@nic.umass.edu
+
+Name Servers:
+	NS1.UMASS.EDU
+	NS3.UMASS.EDU
+	NS2.UMASS.EDU
+
+Domain record activated:    25-Mar-1986
+Domain record last updated: 03-Jul-2024
+Domain expires:             31-Jul-2027

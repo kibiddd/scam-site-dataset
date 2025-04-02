@@ -1,0 +1,30 @@
+% SaudiNIC Whois server.
+% Rights restricted by copyright.
+% http://nic.sa/en/view/whois-cmd-copyright
+
+Domain Name: procube.sa
+
+Registrant:
+مؤسسة المكعب الاحترافي للاتصالات وتقنية المعلومات
+Address: ***********
+***** ****
+Unknown
+
+Administrative Contact:
+abdelrahman *****
+Address: ***** *****
+***** *****
+*****
+
+Technical Contact:
+abdelrahman *****
+Address: ***** *****
+***** *****
+*****
+
+Name Servers:
+ns1.jetpe.net
+ns2.jetpe.net
+
+DNSSEC: No
+

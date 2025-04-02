@@ -1,0 +1,17 @@
+   Domain Name: DAVID-HELD.COM
+   Registry Domain ID: 980414623_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: rdap.routing.net
+   Registrar URL: http://www.http.net
+   Updated Date: 2024-05-18T07:44:14Z
+   Creation Date: 2007-05-17T21:06:11Z
+   Registry Expiry Date: 2025-05-17T21:06:11Z
+   Registrar: HTTP.NET INTERNET GMBH
+   Registrar IANA ID: 976
+   Registrar Abuse Contact Email: abuse@http.net
+   Registrar Abuse Contact Phone: +49.24146314115
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: JIMMY.NS.CLOUDFLARE.COM
+   Name Server: STELLA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T00:23:26Z 

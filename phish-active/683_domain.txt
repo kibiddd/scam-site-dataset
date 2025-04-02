@@ -1,0 +1,23 @@
+   Domain Name: KALTURA.COM
+   Registry Domain ID: 474088158_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.registrar.amazon.com
+   Registrar URL: http://registrar.amazon.com
+   Updated Date: 2023-01-10T02:23:53Z
+   Creation Date: 2006-06-06T02:51:51Z
+   Registry Expiry Date: 2027-06-06T02:51:51Z
+   Registrar: Amazon Registrar, Inc.
+   Registrar IANA ID: 468
+   Registrar Abuse Contact Email: trustandsafety@support.aws.com
+   Registrar Abuse Contact Phone: +1.2024422253
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: A1-65.AKAM.NET
+   Name Server: A10-65.AKAM.NET
+   Name Server: A28-65.AKAM.NET
+   Name Server: A3-65.AKAM.NET
+   Name Server: A7-65.AKAM.NET
+   Name Server: A8-65.AKAM.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-26T17:40:06Z 

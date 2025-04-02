@@ -1,0 +1,55 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: UKY.EDU
+
+Registrant:
+	University of Kentucky
+	118 Hardmon Building
+	Lexington, KY 40506
+	USA
+
+Administrative Contact:
+	Stephen Burr
+	University of Kentucky Analytics and Technologies
+	630 S. Broadway
+	Lexington, KY 40508
+	USA
+	+1.8592184357
+	cybersecurity@uky.edu
+
+Technical Contact:
+	Robert Lee
+	University of Kentucky
+	102 James F Hardymon Building
+	Lexington, KY 40506
+	USA
+	+1.8592572201
+	dnsmaster@uky.edu
+
+Name Servers:
+	SNDC2.NET.UKY.EDU
+	SNDC1.NET.UKY.EDU
+
+Domain record activated:    27-May-1987
+Domain record last updated: 01-Jul-2024
+Domain expires:             31-Jul-2025

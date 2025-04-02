@@ -1,0 +1,18 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        ALIREVIEW.RU
+nserver:       ns3.hostland.ru.
+nserver:       ns.hostland.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+person:        Private Person
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2013-04-24T23:36:05Z
+paid-till:     2025-04-25T00:36:05Z
+free-date:     2025-05-26
+source:        TCI
+
+Last updated on 2025-03-26T17:43:01Z
+

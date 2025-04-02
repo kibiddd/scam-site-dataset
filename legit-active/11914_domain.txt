@@ -1,0 +1,17 @@
+   Domain Name: AVANTMUSICNEWS.COM
+   Registry Domain ID: 1515812717_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2022-06-24T09:04:27Z
+   Creation Date: 2008-08-23T14:35:11Z
+   Registry Expiry Date: 2025-08-23T14:35:11Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.WORDPRESS.COM
+   Name Server: NS2.WORDPRESS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T15:59:41Z 

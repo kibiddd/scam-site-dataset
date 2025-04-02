@@ -1,0 +1,18 @@
+   Domain Name: CLIPSANDFASTENERS.COM
+   Registry Domain ID: 1206748733_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domain.com
+   Registrar URL: http://www.domain.com
+   Updated Date: 2024-08-20T09:07:17Z
+   Creation Date: 2007-09-09T23:28:03Z
+   Registry Expiry Date: 2025-09-09T23:28:03Z
+   Registrar: Domain.com, LLC
+   Registrar IANA ID: 886
+   Registrar Abuse Contact Email: compliance@domain-inc.net
+   Registrar Abuse Contact Phone: 602-226-2389
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS3.VOLUSION.COM
+   Name Server: NS4.VOLUSION.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T15:58:56Z 

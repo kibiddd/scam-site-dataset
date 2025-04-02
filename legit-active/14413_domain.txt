@@ -1,0 +1,20 @@
+   Domain Name: LHARMATTAN.COM
+   Registry Domain ID: 9182611_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.register.ca
+   Registrar URL: http://www.register.ca
+   Updated Date: 2024-11-20T20:04:56Z
+   Creation Date: 1999-08-17T12:10:41Z
+   Registry Expiry Date: 2026-08-17T12:10:27Z
+   Registrar: Register.ca Inc.
+   Registrar IANA ID: 1375
+   Registrar Abuse Contact Email: abuse@register.ca
+   Registrar Abuse Contact Phone: +1.4166429415
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: PNS41.CLOUDNS.NET
+   Name Server: PNS42.CLOUDNS.NET
+   Name Server: PNS43.CLOUDNS.NET
+   Name Server: PNS44.CLOUDNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-27T16:58:51Z 

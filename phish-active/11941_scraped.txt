@@ -1,0 +1,24 @@
+PayU
+View on Github
+Payments Demo
+Test Mode
+Complete OrGenerateyour test payment details below
+Name
+Delivery Address
+Contact
+Order Summary
+T-shirt
+medium-size
+2 x ₹ 1.00 ₹ 2.00
+Keyboard
+Standard-size
+2 x ₹ 1.00 ₹ 2.00
+Coffee Mug
+Standard-size
+2 x ₹ 3.00 ₹ 6.00
+SUBTOTAL
+₹ 10.00
+SHIPPING
+Free
+Total Amount To Pay
+₹ 10.00

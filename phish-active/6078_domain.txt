@@ -1,0 +1,37 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T20:12:11-03:00 - 2a09:bac5:c82e:2446::39d:5f
+
+domain:      cosf.com.br
+owner:       COSF SYSTEM
+ownerid:     29.963.753/0001-84
+responsible: ANDRE GUSTTAVO DA SILVA VASCONCELOS
+country:     BR
+owner-c:     GIDSA5
+tech-c:      GIDSA5
+nserver:     ns1.gnethost.com.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+nserver:     ns2.gnethost.com.br
+nsstat:      20250326 AA
+nslastaa:    20250326
+saci:        yes
+created:     20190704 #19851274
+changed:     20230712
+expires:     20250704
+status:      published
+
+nic-hdl-br:  GIDSA5
+person:      GILVANDO DIAS SANTOS
+e-mail:      gilvando1@hotmail.com
+country:     BR
+created:     20070319
+changed:     20250317
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

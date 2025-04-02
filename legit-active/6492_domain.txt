@@ -1,0 +1,23 @@
+Domain Name: kemeys.com.au
+Registry Domain ID: d63f8181c10242b781d6e69d2b9437f9-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.instra.com/en/about-us/contact-us
+Last Modified: 2024-12-20T14:29:21Z
+Registrar Name: Domain Directors Pty Ltd trading as Instra
+Registrar Abuse Contact Email: abuse@key-systems.net
+Registrar Abuse Contact Phone: +49.68949396850
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: baadd56124524ca19e672a6a05b675ec-AU
+Registrant Contact Name: Aakriti Juneja
+Tech Contact ID: fc1623102b7246a496fef0568103bb57-AU
+Tech Contact Name: Aakriti Juneja
+Name Server: ns1.vultr.com
+Name Server: ns2.vultr.com
+DNSSEC: unsigned
+Registrant: SEARCH MARKETING GROUP PTY LTD
+Registrant ID: ACN 154104257
+Eligibility Type: Company
+Eligibility ID: ACN 154104257
+>>> Last update of WHOIS database: 2025-03-28T03:20:28Z 

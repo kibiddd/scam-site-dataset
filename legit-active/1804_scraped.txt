@@ -1,0 +1,73 @@
+[ANN] Freerunner GTA02A7 on regular sales
+Skip to site navigation (Press enter)
+[ANN] Freerunner GTA02A7 on regular sales
+Dr. H. Nikolaus Schaller
+Wed, 12 Aug 2009 02:13:17 -0700
+Hi all,
+we are happy to announce that we and our partner TRISOFT now have the
+GTA02A7 models on regular sale and can ship from stock.
+What are the differences to the A6 models?
+* PCB revision A7
+* buzz-rework not required (to remove interference from GSM
+transmitter into microphone signal)
+* no capacitor on SD slot required (to remove interference from SD
+card clock to GPS receiver)
+* better recovers from completely empty or no battery
+You can easily distinguish the A7 from GTA02A5/A6 devices by the DATE
+CODE printed on the label inside the battery compartment or on the
+black box.
+Code 2008xxxx  -> A5 or A6
+Code 2009xxxx -> A7
+Although it does not solve all problems that have been reported (which
+mobile phone is 100% free of flaws?), the A7 is the best Freerunner we
+ever had!
+For those new to this list: the good thing is that it is
+* completely open mobile handheld platform
+* well documented
+* has all necessary certifications (FCC, R&TTE, CE, WEEE, ...)
+* is available from stock
+* software is becoming more and more stable (FSO, SHR etc.)
+* a platform with a future (GTA02-core)
+Nikolaus
+Product link: http://www.handheld-linux.com/wiki.php?page=Neo%20Freerunner
+--------------------------------------------------------------------
+Mobile Office Solutions
+by Golden Delicious Computers GmbH&Co. KG
+Buchenstr. 3
+D-82041 Oberhaching
++49-89-54290367
+http://www.handheld-linux.com
+AG München, HRA 89571
+VAT DE253626266
+Komplementär:
+Golden Delicious Computers Verwaltungs GmbH
+Oberhaching, AG München, HRB 16602
+Geschäftsführer: Dr. Nikolaus Schaller
+Digital Tools for Independent People
+--------------------------------------------------------------------
+_______________________________________________
+Openmoko community mailing list
+community@lists.openmoko.org
+http://lists.openmoko.org/mailman/listinfo/community
+Previous message
+View by thread
+View by date
+Next message
+[ANN] Freerunner GTA02A7 on regular sales Dr. H. Nikolaus Schaller
+Re: [ANN] Freerunner GTA02A7 on regular ... rakshat hooja
+Re: [ANN] Freerunner GTA02A7 on regu... David Reyes Samblas Martinez
+Re: [ANN] Freerunner GTA02A7 on regular ... Timo Jyrinki
+Reply via email to
+Search the site
+The Mail Archive home
+community - all messages
+community - about the list
+Expand
+Previous message
+Next message
+The Mail Archive home
+Add your mailing list
+FAQ
+Support
+Privacy
+B62BAA91-621D-46BF-A8E8-9C86FA2BCBF4@computer.org

@@ -1,0 +1,20 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        DISCORD-INSTALL.RU
+nserver:       ns1.timeweb.ru.
+nserver:       ns2.timeweb.ru.
+nserver:       ns3.timeweb.org.
+nserver:       ns4.timeweb.org.
+state:         REGISTERED, DELEGATED, UNVERIFIED
+person:        Private Person
+registrar:     DOMAINSHOP-RU
+admin-contact: https://whois.domainshop.ru/?c=discord-install.ru
+created:       2023-01-13T14:04:47Z
+paid-till:     2026-01-13T14:04:47Z
+free-date:     2026-02-13
+source:        TCI
+
+Last updated on 2025-03-27T00:23:01Z
+

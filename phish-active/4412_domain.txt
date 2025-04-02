@@ -1,0 +1,42 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-26T19:57:11-03:00 - 2a09:bac5:c82c:1678::23d:b8
+
+domain:      imoveisagape.com.br
+owner:       Priscila Graciola de Faria
+ownerid:     ***.308.578-**
+country:     BR
+owner-c:     PRGFA12
+tech-c:      TIOLI242
+nserver:     ns1.imoveisagape.com.br 162.214.186.255
+nsstat:      20250326 AA
+nslastaa:    20250326
+nserver:     ns2.imoveisagape.com.br 162.214.187.122
+nsstat:      20250326 AA
+nslastaa:    20250326
+created:     20080512 #4442847
+changed:     20230526
+expires:     20260512
+status:      published
+
+nic-hdl-br:  PRGFA12
+person:      Priscila Graciola de Faria
+e-mail:      financeiro@imoveisagape.com.br
+country:     BR
+created:     20220613
+changed:     20230223
+
+nic-hdl-br:  TIOLI242
+person:      Tiago Oliveira
+e-mail:      agenciafastponto@gmail.com
+country:     BR
+created:     20200203
+changed:     20200203
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.
